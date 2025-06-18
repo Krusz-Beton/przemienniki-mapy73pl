@@ -1,0 +1,45 @@
+x:
+  70cm:
+    - rx:
+        f: 431.625
+        t:
+          - c: "71.9"
+          - f: "1"
+      tx:
+        f: 439.225
+        t:
+          - c: "71.9"
+      h: "49125032559"
+      t: eab
+      s: "6"
+      p: 0
+      u:
+        - https://www.qrz.com/db/db0arb
+      d: ""
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - c: "71.9"
+      tx:
+        f: 145.675
+      h: "49125032559"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.qrz.com/db/db0arb
+      d: ""
+h:
+  "49125032559":
+    x:
+      - 70cm: 0
+      - 2m: 0
+    p: Großer Arber
+    e: 1456
+    g: 0
+    a: 49.11219
+    o: 13.13559
+o:
+  - DJ1RKS
+page: https://mapy73.pl/repeater/DB0ARB

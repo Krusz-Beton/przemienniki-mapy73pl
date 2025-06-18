@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+      tx:
+        f: 145.7
+      h: "60936062400"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60936062400":
+    x:
+      - 2m: 0
+    p: Kuusankoski
+    e: 145
+    g: 29
+    a: 60.91
+    o: 26.624
+o:
+  - OH5IY
+page: https://mapy73.pl/repeater/OH5RAC

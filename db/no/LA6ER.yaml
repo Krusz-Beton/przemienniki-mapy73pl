@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "58610049167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "58610049167":
+    x:
+      - 2m: 0
+    p: Egersund / Gaupelemfjell
+    e: 850
+    g: 0
+    a: 58.6042
+    o: 6.29167
+o: []
+page: https://mapy73.pl/repeater/LA6ER

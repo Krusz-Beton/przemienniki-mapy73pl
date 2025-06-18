@@ -1,0 +1,24 @@
+x:
+  6m:
+    - rx:
+        f: 51.23
+      tx:
+        f: 51.83
+      h: "62333055220"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "62333055220":
+    x:
+      - 6m: 0
+    p: Sundsvall / Grundsjön
+    e: 460
+    g: 12
+    a: 62.3177
+    o: 15.8522
+o:
+  - Gunnar
+page: https://mapy73.pl/repeater/SK3BG.R

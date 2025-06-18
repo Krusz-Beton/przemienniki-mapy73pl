@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 430.55
+        t:
+          - a: ""
+      tx:
+        f: 438.15
+      h: "51443007681"
+      t: g
+      s: "5"
+      p: 15
+      u:
+        - http://hf.radom.pl
+      d: Antena Diamond X-50, 2x Motorola GM340 + RPi + MMDVM
+h:
+  "51443007681":
+    x:
+      - 70cm: 0
+    p: Radom
+    e: 162
+    g: 40
+    a: 51.421913
+    o: 21.163807
+o:
+  - SQ5SUI
+page: https://mapy73.pl/repeater/SR5FUS

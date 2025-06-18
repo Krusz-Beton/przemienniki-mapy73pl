@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+      tx:
+        f: 145.625
+      h: "59406017500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59406017500":
+    x:
+      - 2m: 0
+    p: Horten / Skottås
+    e: 165
+    g: 0
+    a: 59.3958
+    o: 10.375
+o: []
+page: https://mapy73.pl/repeater/LA5HR

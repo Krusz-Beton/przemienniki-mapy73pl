@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.05
+        t:
+          - c: "79.7"
+      tx:
+        f: 438.65
+        t:
+          - c: "79.7"
+      h: "52209002165"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.wrkom.pl/chotycze.html
+      d: Antena RADMOR 3284.
+h:
+  "52209002165":
+    x:
+      - 70cm: 0
+    p: Chotycze / Łosice
+    e: 184
+    g: 275
+    a: 52.18624
+    o: 22.78165
+o:
+  - SP8KB
+page: https://mapy73.pl/repeater/SR8BP

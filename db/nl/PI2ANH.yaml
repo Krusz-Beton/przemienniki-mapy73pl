@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.65
+        t:
+          - c: "77.0"
+      tx:
+        f: 430.05
+      h: "51985004167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "51985004167":
+    x:
+      - 70cm: 0
+    p: Oosterbeek
+    e: 0
+    g: 0
+    a: 51.97917
+    o: 5.875
+o: []
+page: https://mapy73.pl/repeater/PI2ANH

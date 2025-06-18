@@ -1,0 +1,27 @@
+x:
+  23cm:
+    - rx:
+        f: 1270.1
+        t:
+          - a: ""
+      tx:
+        f: 1298.1
+      h: "52179053788"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: Antena Comet GP-21 zysk 14.9dBi. Urządzenie - fabryczny przemiennik firmy
+        Standard RP70KF.
+h:
+  "52179053788":
+    x:
+      - 23cm: 0
+    p: Pruszków
+    e: 141
+    g: 30
+    a: 52.15872
+    o: 20.81788
+o:
+  - SQ5MRB
+page: https://mapy73.pl/repeater/SR5LW

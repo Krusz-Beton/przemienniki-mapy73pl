@@ -1,0 +1,50 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+          - e: "1"
+      tx:
+        f: 145.65
+      h: "59346056397"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk4bx.se/
+      d: ""
+  70cm:
+    - rx:
+        f: 433.65
+        t:
+          - b: ""
+      tx:
+        f: 434.65
+      h: "59371041389"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk4bx.se/
+      d: ""
+h:
+  "59346056397":
+    x:
+      - 2m: 0
+    p: Garphyttan / Storstenshöjden
+    e: 0
+    g: 0
+    a: 59.331633
+    o: 14.93097
+  "59371041389":
+    x:
+      - 70cm: 0
+    p: Garphyttan / Ånnaboda
+    e: 0
+    g: 0
+    a: 59.356451
+    o: 14.962889
+o:
+  - repeater
+page: https://mapy73.pl/repeater/SK4BX.R

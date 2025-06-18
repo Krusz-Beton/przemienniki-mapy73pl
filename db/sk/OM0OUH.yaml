@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.675
+        t:
+          - c: "88.5"
+      tx:
+        f: 439.275
+        t:
+          - c: "88.5"
+      h: "48748029167"
+      t: a
+      s: "5"
+      p: 5
+      u: []
+      d: ""
+h:
+  "48748029167":
+    x:
+      - 70cm: 0
+    p: Banska Bystrica
+    e: 0
+    g: 0
+    a: 48.72917
+    o: 19.125
+o: []
+page: https://mapy73.pl/repeater/OM0OUH

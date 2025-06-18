@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 433.9
+        t:
+          - b: ""
+      tx:
+        f: 434.9
+      h: "56417054635"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "56417054635":
+    x:
+      - 70cm: 0
+    p: Lönsboda
+    e: 0
+    g: 0
+    a: 56.40326
+    o: 14.28635
+o:
+  - SM7KRJ
+page: https://mapy73.pl/repeater/SK7RRV

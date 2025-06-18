@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.025
+      tx:
+        f: 438.625
+      h: "54195009313"
+      t: g
+      s: "6"
+      p: 15
+      u:
+        - https://www.facebook.com/sr1woy
+      d: |-
+        Przemiennik YAESU DR1X
+        Antena Diamond X300N
+        HRI 200
+        Serwer DELL R200 
+
+        Przemiennik pracuje wyłącznie w trybie cyfrowym
+h:
+  "54195009313":
+    x:
+      - 70cm: 0
+    p: Dworcowa 10, Kołobrzeg, Polska
+    e: 5
+    g: 30
+    a: 54.179524
+    o: 15.56913
+o:
+  - SP1UJW
+page: https://mapy73.pl/repeater/SR1WOY

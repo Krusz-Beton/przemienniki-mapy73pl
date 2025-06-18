@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.2625
+        t:
+          - a: ""
+      tx:
+        f: 438.8625
+      h: "52028008548"
+      t: b
+      s: "2"
+      p: 15
+      u: []
+      d: ""
+h:
+  "52028008548":
+    x:
+      - 70cm: 0
+    p: Skierniewice
+    e: 121
+    g: 40
+    a: 52.007496
+    o: 20.589476
+o:
+  - SP5QIR
+page: https://mapy73.pl/repeater/SR5ZQ

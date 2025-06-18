@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 430.7125
+        t:
+          - a: ""
+      tx:
+        f: 438.3125
+      h: "53317079096"
+      t: e
+      s: "2"
+      p: 0
+      u: []
+      d: Przemiennik w trakcie budowy i zgłoszenia w UKE,
+h:
+  "53317079096":
+    x:
+      - 70cm: 0
+    p: Kalisz Pomorski
+    e: 91
+    g: 0
+    a: 53.301882
+    o: 15.908961
+o:
+  - SQ1GZG
+page: https://mapy73.pl/repeater/SR1ZDR

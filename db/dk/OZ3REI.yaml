@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "55151059742"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://knivsbjerg.dk/
+      d: ""
+h:
+  "55151059742":
+    x:
+      - 2m: 0
+    p: Knivsbjerg
+    e: 85
+    g: 60
+    a: 55.14216
+    o: 9.43742
+o: []
+page: https://mapy73.pl/repeater/OZ3REI

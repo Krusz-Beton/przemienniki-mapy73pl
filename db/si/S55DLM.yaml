@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 430.9
+        t:
+          - c: "123.0"
+          - f: "2"
+      tx:
+        f: 438.5
+      h: "46069062577"
+      t: ea
+      s: "4"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+      e1:
+        - 293
+        - 293112
+      e2:
+        - 2931
+h:
+  "46069062577":
+    x:
+      - 70cm: 0
+    p: Ljubljana center
+    e: 300
+    g: 0
+    a: 46.055115
+    o: 14.510768
+o:
+  - S56CT
+page: https://mapy73.pl/repeater/S55DLM

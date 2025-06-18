@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 431.575
+        t:
+          - c: "123.0"
+          - f: "1"
+      tx:
+        f: 439.175
+      h: "46185027577"
+      t: ea
+      s: "4"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+      e1:
+        - 293
+        - 293112
+      e2:
+        - 29313
+h:
+  "46185027577":
+    x:
+      - 70cm: 0
+    p: Sv. Planina (Trbovlje)
+    e: 1011
+    g: 0
+    a: 46.170265
+    o: 15.010768
+o:
+  - S50ZRS
+page: https://mapy73.pl/repeater/S55DTR

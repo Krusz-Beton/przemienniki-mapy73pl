@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.675
+        t:
+          - b: ""
+      tx:
+        f: 439.275
+      h: "48185096777"
+      t: da
+      s: "5"
+      p: 0
+      u:
+        - http://www.alximedia.de/df2nu/inhalt8.htm
+      d: ""
+h:
+  "48185096777":
+    x:
+      - 70cm: 0
+    p: ""
+    e: 513
+    g: 289
+    a: 48.174414
+    o: 11.553766
+o: []
+page: https://mapy73.pl/repeater/DB0EL

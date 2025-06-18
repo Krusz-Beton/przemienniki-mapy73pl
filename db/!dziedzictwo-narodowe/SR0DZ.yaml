@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.9375
+        t:
+          - a: ""
+      tx:
+        f: 439.5375
+        t:
+          - c: "77.0"
+      h: "52521024542"
+      t: a
+      s: "5"
+      p: 3
+      u: []
+      d: FM-POLAND
+h:
+  "52521024542":
+    x:
+      - 70cm: 0
+    p: Serock
+    e: 108
+    g: 12
+    a: 52.500185
+    o: 21.060421
+o:
+  - SP0DZ
+page: https://mapy73.pl/repeater/SR0DZ

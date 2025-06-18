@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "65106006790"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.qsl.net/sk2vy/
+      d: ""
+h:
+  "65106006790":
+    x:
+      - 2m: 0
+    p: Storuman
+    e: 0
+    g: 0
+    a: 65.08891
+    o: 17.1579
+o:
+  - SM2UWM/STARK
+page: https://mapy73.pl/repeater/SK2RMR

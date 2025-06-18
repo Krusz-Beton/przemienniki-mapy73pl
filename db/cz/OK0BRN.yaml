@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.775
+        t:
+          - c: "103.5"
+      tx:
+        f: 439.375
+        t:
+          - c: "103.5"
+      h: "49216025506"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: ""
+h:
+  "49216025506":
+    x:
+      - 70cm: 0
+    p: Brno - Kohoutovice
+    e: 400
+    g: 0
+    a: 49.199722
+    o: 16.533056
+o:
+  - OK2IGG
+page: https://mapy73.pl/repeater/OK0BRN

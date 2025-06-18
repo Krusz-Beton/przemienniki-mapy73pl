@@ -1,0 +1,40 @@
+x:
+  2m:
+    - rx:
+        f: 145.1875
+        t:
+          - c: "118.8"
+      tx:
+        f: 145.7875
+        t:
+          - c: "118.8"
+      h: "51430007279"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - http://hf.radom.pl
+        - http://fm-poland.pl/sr5rad
+        - https://www.qrz.com/db/SR5RAD
+      d: |-
+        Antena Comet GP6N, 80m nad gruntem, maszt Emitel RON Radom
+        Przemiennik pracuje w sieci FM Poland (http://fm-poland.pl/dashboard)
+      j0:
+        - 26050
+      j1:
+        - 260
+        - 2605
+        - 26050
+        - 260507
+h:
+  "51430007279":
+    x:
+      - 2m: 0
+    p: RADOM - maszt Emitel
+    e: 168
+    g: 80
+    a: 51.408958
+    o: 21.114788
+o:
+  - SQ5SUI
+page: https://mapy73.pl/repeater/SR5RAD

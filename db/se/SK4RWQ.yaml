@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.775
+        t:
+          - b: ""
+      tx:
+        f: 434.775
+      h: "59785091366"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - https://www.facebook.com/permalink.php?story_fbid=258964904442492&id=239048533100796
+      d: ""
+h:
+  "59785091366":
+    x:
+      - 70cm: 0
+    p: Arvika / Valfjället
+    e: 310
+    g: 19
+    a: 59.77368
+    o: 12.23366
+o:
+  - bo.sm4pcg
+page: https://mapy73.pl/repeater/SK4RWQ

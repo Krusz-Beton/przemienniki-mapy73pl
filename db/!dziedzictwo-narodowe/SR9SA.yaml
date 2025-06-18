@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.85
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.45
+        t:
+          - c: "67.0"
+      h: "49779043332"
+      t: da
+      s: "1"
+      p: 15
+      u: []
+      d: Planowane uruchomienie przemiennika lipiec-sierpień 2019. Wg założeń
+        przemiennik dostepny z CTCSS 67Hz. Dwukierunkowa retransmisja z i na
+        145.250MHz będzie załączana na żądanie przy użyciu 1750Hz bądź innego
+        wywołania selektywnego.
+h:
+  "49779043332":
+    x:
+      - 70cm: 0
+    p: Góra Szyndzielnia, Bielsko-Biała
+    e: 956
+    g: 15
+    a: 49.760432
+    o: 19.001325
+o:
+  - SP9BXU
+page: https://mapy73.pl/repeater/SR9SA

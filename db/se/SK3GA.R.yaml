@@ -1,0 +1,49 @@
+x:
+  70cm:
+    - rx:
+        f: 432.775
+        t:
+          - b: ""
+      tx:
+        f: 434.775
+      h: "61740080050"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk3ga.se/
+      d: ""
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "61715074790"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk3ga.se/
+      d: ""
+h:
+  "61740080050":
+    x:
+      - 70cm: 0
+    p: Hudiksvall
+    e: 60
+    g: 32
+    a: 61.7237
+    o: 17.1005
+  "61715074790":
+    x:
+      - 2m: 0
+    p: Hudiksvall
+    e: 360
+    g: 20
+    a: 61.6989
+    o: 16.8479
+o:
+  - Henrik
+page: https://mapy73.pl/repeater/SK3GA.R

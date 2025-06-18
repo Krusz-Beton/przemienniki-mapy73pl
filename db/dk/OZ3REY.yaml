@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.725
+        t:
+          - b: ""
+      tx:
+        f: 434.725
+      h: "55151063740"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "55151063740":
+    x:
+      - 70cm: 0
+    p: Knivsbjerg
+    e: 85
+    g: 60
+    a: 55.1422
+    o: 9.4374
+o: []
+page: https://mapy73.pl/repeater/OZ3REY

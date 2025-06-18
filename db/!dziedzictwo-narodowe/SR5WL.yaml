@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - c: "127.3"
+      tx:
+        f: 145.625
+      h: "52291079167"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: ""
+h:
+  "52291079167":
+    x:
+      - 2m: 0
+    p: Warszawa, ul. Braci Załuskich 1
+    e: 0
+    g: 0
+    a: 52.27083
+    o: 20.95833
+o:
+  - SP5ZIP
+page: https://mapy73.pl/repeater/SR5WL

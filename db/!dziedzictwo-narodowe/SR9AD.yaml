@@ -1,0 +1,46 @@
+x:
+  70cm:
+    - rx:
+        f: 431.4
+      tx:
+        f: 439
+      h: "50047025051"
+      t: g
+      s: "5"
+      p: 0
+      u:
+        - http://wiresx.pl
+      d: Na razie node sieci WIRES-X, możliwość linkowania do np. DMR TG260 lub salonu
+        POLAND
+    - rx:
+        f: 431.025
+        t:
+          - a: ""
+      tx:
+        f: 438.625
+      h: "49999012500"
+      t: ab
+      s: "1"
+      p: 15
+      u: []
+      d: FM+DV+C4FM
+h:
+  "50047025051":
+    x:
+      - 70cm: 0
+    p: Kraków
+    e: 209
+    g: 0
+    a: 50.027327
+    o: 19.923507
+  "49999012500":
+    x:
+      - 70cm: 1
+    p: Kraków?
+    e: 256
+    g: 10
+    a: 49.97917
+    o: 19.95833
+o:
+  - SP9ACQ
+page: https://mapy73.pl/repeater/SR9AD

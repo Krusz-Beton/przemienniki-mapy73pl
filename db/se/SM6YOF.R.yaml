@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.95
+        t:
+          - a: ""
+      tx:
+        f: 434.95
+      h: "57782081339"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "57782081339":
+    x:
+      - 70cm: 0
+    p: Göteborg / Torslanda
+    e: 32
+    g: 12
+    a: 57.77102
+    o: 11.79339
+o:
+  - SM6YOF
+page: https://mapy73.pl/repeater/SM6YOF.R

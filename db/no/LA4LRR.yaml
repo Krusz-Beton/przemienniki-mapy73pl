@@ -1,0 +1,23 @@
+x:
+  70cm:
+    - rx:
+        f: 432.85
+      tx:
+        f: 434.85
+      h: "58506050000"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "58506050000":
+    x:
+      - 70cm: 0
+    p: Skogbergfjellet
+    e: 460
+    g: 0
+    a: 58.5
+    o: 6.5
+o: []
+page: https://mapy73.pl/repeater/LA4LRR

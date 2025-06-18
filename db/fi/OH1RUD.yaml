@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 433.7
+        t:
+          - b: ""
+      tx:
+        f: 434.7
+      h: "60425000210"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60425000210":
+    x:
+      - 70cm: 0
+    p: Salo
+    e: 93
+    g: 30
+    a: 60.4019
+    o: 23.1021
+o:
+  - OH1ZJ
+page: https://mapy73.pl/repeater/OH1RUD

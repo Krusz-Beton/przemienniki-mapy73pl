@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - b: ""
+      tx:
+        f: 145.675
+      h: "54218075751"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: X-510, dwie lokalizacje, link 70cm
+h:
+  "54218075751":
+    x:
+      - 2m: 0
+    p: Koszalin
+    e: 37
+    g: 0
+    a: 54.20258
+    o: 16.177512
+o:
+  - SP1MHY
+page: https://mapy73.pl/repeater/SR1N

@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+          - e: "8"
+      tx:
+        f: 145.7
+      h: "63364065830"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://la2t.nrrl.no/wp/
+      d: ""
+h:
+  "63364065830":
+    x:
+      - 2m: 0
+    p: Trondheim / Liaåsen
+    e: 445
+    g: 0
+    a: 63.3542
+    o: 10.4583
+o: []
+page: https://mapy73.pl/repeater/LA7RR

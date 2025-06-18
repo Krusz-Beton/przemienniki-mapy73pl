@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 438.05
+      tx:
+        f: 438.05
+      h: "49322036972"
+      t: a
+      s: "6"
+      p: 0
+      u:
+        - http://www.ok4ps.cz
+      d: ""
+h:
+  "49322036972":
+    x:
+      - 70cm: 0
+    p: Kroměříž
+    e: 0
+    g: 0
+    a: 49.305
+    o: 17.369722
+o:
+  - OK4PS
+page: https://mapy73.pl/repeater/OK4PS

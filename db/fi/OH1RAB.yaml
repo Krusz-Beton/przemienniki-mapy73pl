@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "61239008300"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "61239008300":
+    x:
+      - 2m: 0
+    p: Kiukainen
+    e: 124
+    g: 80
+    a: 61.217
+    o: 22.083
+o:
+  - OH1FU
+page: https://mapy73.pl/repeater/OH1RAB

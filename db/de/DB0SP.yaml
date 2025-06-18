@@ -1,0 +1,45 @@
+x:
+  2m:
+    - rx:
+        f: 145
+        t:
+          - b: ""
+      tx:
+        f: 145.6
+        t:
+          - c: "141.3"
+      h: "52450062500"
+      t: da
+      s: "5"
+      p: 2
+      u:
+        - http://www.mydarc.de/db0sp/technik.html
+      d: ""
+  70cm:
+    - rx:
+        f: 431.825
+        t:
+          - b: ""
+      tx:
+        f: 439.425
+        t:
+          - c: "141.3"
+      h: "52450062500"
+      t: a
+      s: "5"
+      p: 3.5
+      u:
+        - http://www.mydarc.de/db0sp/technik.html
+      d: ""
+h:
+  "52450062500":
+    x:
+      - 2m: 0
+      - 70cm: 0
+    p: Berlin-Wannsee, Fernmeldeturm Schäferberg
+    e: 103
+    g: 130
+    a: 52.4375
+    o: 13.125
+o: []
+page: https://mapy73.pl/repeater/DB0SP

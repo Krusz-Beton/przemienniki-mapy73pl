@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.725
+        t:
+          - b: ""
+      tx:
+        f: 434.725
+      h: "57287017500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "57287017500":
+    x:
+      - 70cm: 0
+    p: Oskarshamn
+    e: 0
+    g: 0
+    a: 57.2708
+    o: 16.375
+o: []
+page: https://mapy73.pl/repeater/SK7RIH.R

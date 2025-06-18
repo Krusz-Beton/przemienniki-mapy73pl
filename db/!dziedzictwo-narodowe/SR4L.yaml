@@ -1,0 +1,49 @@
+x:
+  70cm:
+    - rx:
+        f: 430.5
+        t:
+          - a: ""
+          - f: "1"
+      tx:
+        f: 438.1
+      h: "53205005719"
+      t: geb
+      s: "4"
+      p: 15
+      u:
+        - https://sp4.jestok.com/17305
+      d: |-
+        Przemiennik w systemie DMRplus, DMRBM, D-STAR, Fusion YSF
+
+        DMRplus: ColorCode 1
+        TG statyczna TS1: TG260-->TG1260 
+        TG statyczna TS2: TG2600, TG8004, TG8042 
+        TG9 TS2 do łączności lokalnych 
+
+        DMRBrandmeister: ColorCode 1 
+        TG statyczna TS1: TG260, TG2604
+        TG statyczna TS2: TG26041, TG26042
+        TG9 TS2 do łączności lokalnych
+
+        D-Star- REF032-A 
+
+        YSF Fusion- ROOM-POLAND #29114 lub ROOM-POLSKA #15495
+      e1:
+        - 260
+        - 2604
+      e2:
+        - 26041
+        - 26042
+h:
+  "53205005719":
+    x:
+      - 70cm: 0
+    p: Łomża
+    e: 0
+    g: 0
+    a: 53.183005
+    o: 22.052192
+o:
+  - SQ4NJQ
+page: https://mapy73.pl/repeater/SR4L

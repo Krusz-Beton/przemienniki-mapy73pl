@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.65
+      tx:
+        f: 434.65
+      h: "60503008300"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60503008300":
+    x:
+      - 70cm: 0
+    p: Järvenpää
+    e: 98
+    g: 30
+    a: 60.478
+    o: 25.083
+o:
+  - OH2TIMO
+page: https://mapy73.pl/repeater/OH2RUP

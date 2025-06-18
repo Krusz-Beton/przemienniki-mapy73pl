@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 430.6375
+        t:
+          - f: "2"
+      tx:
+        f: 438.2375
+      h: "52812011069"
+      t: ge
+      s: "4"
+      p: 15
+      u: []
+      d: Przemiennik Inowrocławskiego Klubu Krótkofalowców SP2KCW
+      e1:
+        - 260
+        - 2602
+      e2:
+        - 26077
+        - 260207
+h:
+  "52812011069":
+    x:
+      - 70cm: 0
+    p: Inowrocław
+    e: 0
+    g: 0
+    a: 52.79385
+    o: 18.26069
+o:
+  - SQ2FRG
+page: https://mapy73.pl/repeater/SR2IN

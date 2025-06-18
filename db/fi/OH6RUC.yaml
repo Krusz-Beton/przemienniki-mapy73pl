@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.9
+      tx:
+        f: 434.9
+      h: "63556070000"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.anvianet.fi/oh6ai/
+      d: ""
+h:
+  "63556070000":
+    x:
+      - 70cm: 0
+    p: Kaustinen
+    e: 150
+    g: 60
+    a: 63.533
+    o: 23.7
+o:
+  - OH6LSL
+page: https://mapy73.pl/repeater/OH6RUC

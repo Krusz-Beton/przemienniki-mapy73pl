@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 430.5375
+        t:
+          - a: ""
+      tx:
+        f: 430.5375
+      h: "52166088929"
+      t: gdb
+      s: "6"
+      p: 10
+      u: []
+      d: |-
+        EchoLink - stały link do przemiennika SR5PR.
+        C4FM/Fusion na QRG 144.8375
+h:
+  "52166088929":
+    x:
+      - 70cm: 0
+    p: Komorów
+    e: 108
+    g: 20
+    a: 52.146074
+    o: 20.815292
+o:
+  - SP5IUZ
+page: https://mapy73.pl/repeater/SR5YAM

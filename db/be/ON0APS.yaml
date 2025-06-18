@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 430.7625
+        t:
+          - c: "79.7"
+      tx:
+        f: 438.3625
+        t:
+          - c: "79.7"
+      h: "51024087500"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://svxportal.on4akh.be/list_reciver.php
+      d: ""
+h:
+  "51024087500":
+    x:
+      - 70cm: 0
+    p: Dendermonde
+    e: 0
+    g: 0
+    a: 51.02083
+    o: 4.04167
+o: []
+page: https://mapy73.pl/repeater/ON0APS

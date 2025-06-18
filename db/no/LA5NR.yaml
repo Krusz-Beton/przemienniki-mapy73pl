@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "68496040830"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "68496040830":
+    x:
+      - 2m: 0
+    p: Narvik / Ofoten-Veggen
+    e: 184
+    g: 0
+    a: 68.4792
+    o: 17.2083
+o: []
+page: https://mapy73.pl/repeater/LA5NR

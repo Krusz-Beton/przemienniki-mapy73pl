@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.45
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.05
+        t:
+          - c: "67.0"
+      h: "51248029419"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://krotkofalowcy-lublin.pl/sr8lu/
+      d: "Antena: Radmor 3284/3, 8dBd (10,15dBi)"
+h:
+  "51248029419":
+    x:
+      - 70cm: 0
+    p: Lublin
+    e: 207
+    g: 43
+    a: 51.225671
+    o: 22.623193
+o:
+  - SQ8MFR
+page: https://mapy73.pl/repeater/SR8LU

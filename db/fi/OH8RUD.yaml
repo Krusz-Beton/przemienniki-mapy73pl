@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.975
+      tx:
+        f: 434.975
+      h: "65085067300"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://r.net.rats.fi/wp/
+      d: ""
+h:
+  "65085067300":
+    x:
+      - 70cm: 0
+    p: Oulu
+    e: 250
+    g: 40
+    a: 65.0602
+    o: 25.473
+o:
+  - OH8HQL
+page: https://mapy73.pl/repeater/OH8RUD

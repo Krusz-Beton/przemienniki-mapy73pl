@@ -1,0 +1,24 @@
+x:
+  23cm:
+    - rx:
+        f: 1270.5
+      tx:
+        f: 1298.5
+      h: "49993013385"
+      t: a
+      s: "5"
+      p: 13
+      u:
+        - http://hamradio.salwator.net/sr9lk/index.html
+      d: 10m fidder LNA +8dB, X-5000 11,7dBi, AFC +- 7kHz
+h:
+  "49993013385":
+    x:
+      - 23cm: 0
+    p: Siercza k/Wieliczki
+    e: 350
+    g: 0
+    a: 49.9731
+    o: 20.033849
+o: []
+page: https://mapy73.pl/repeater/SR9LK

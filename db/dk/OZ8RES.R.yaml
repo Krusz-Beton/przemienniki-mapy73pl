@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.6375
+      tx:
+        f: 434.6375
+      h: "55776044226"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://echolink.org/logins.jsp
+      d: ""
+h:
+  "55776044226":
+    x:
+      - 70cm: 0
+    p: Vejle
+    e: 0
+    g: 0
+    a: 55.76701
+    o: 9.43226
+o: []
+page: https://mapy73.pl/repeater/OZ8RES.R

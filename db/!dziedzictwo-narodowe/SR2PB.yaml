@@ -1,0 +1,40 @@
+x:
+  2m:
+    - rx:
+        f: 145.1375
+        t:
+          - c: "254.1"
+      tx:
+        f: 145.7375
+      h: "53262038620"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - http://sr2pb.noip.pl/
+        - http://fm-poland.pl
+      d: |-
+        TX Motorola GM950 - X300
+        RX Yeasu FTL-2011 - X300
+      j0:
+        - 26020
+      j1:
+        - 112
+        - 260
+        - 2600
+        - 2602
+        - 26020
+        - 260202
+        - 260205
+h:
+  "53262038620":
+    x:
+      - 2m: 0
+    p: Brodnica
+    e: 84
+    g: 8
+    a: 53.242992
+    o: 19.394201
+o:
+  - SP2WA
+page: https://mapy73.pl/repeater/SR2PB

@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.9875
+        t:
+          - a: ""
+      tx:
+        f: 434.9875
+      h: "55575053255"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=OZ0REX&mod=B
+      d: ""
+h:
+  "55575053255":
+    x:
+      - 70cm: 0
+    p: Hvalsø
+    e: 84
+    g: 40
+    a: 55.56371
+    o: 11.82255
+o: []
+page: https://mapy73.pl/repeater/OZ0REX

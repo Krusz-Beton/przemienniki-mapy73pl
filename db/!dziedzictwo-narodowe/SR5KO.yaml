@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6
+        t:
+          - c: "118.8"
+      tx:
+        f: 439.2
+        t:
+          - c: "118.8"
+      h: "51582077198"
+      t: da
+      s: "6"
+      p: 10
+      u: []
+      d: "Echolink #78889"
+h:
+  "51582077198":
+    x:
+      - 70cm: 0
+    p: Kozienice
+    e: 142
+    g: 25
+    a: 51.561205
+    o: 21.56698
+o:
+  - SQ7EQK
+page: https://mapy73.pl/repeater/SR5KO

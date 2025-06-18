@@ -1,0 +1,25 @@
+x:
+  23cm:
+    - rx:
+        f: 1270.4
+        t:
+          - c: "71.9"
+      tx:
+        f: 1298.4
+      h: "51442087500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "51442087500":
+    x:
+      - 23cm: 0
+    p: Eindhoven
+    e: 0
+    g: 0
+    a: 51.4375
+    o: 5.375
+o: []
+page: https://mapy73.pl/repeater/PI6EHN

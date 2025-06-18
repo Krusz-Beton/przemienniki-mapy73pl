@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.15
+        t:
+          - c: "107.2"
+      tx:
+        f: 438.75
+      h: "50024078828"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: ""
+h:
+  "50024078828":
+    x:
+      - 70cm: 0
+    p: Wieża widokowa Dąbrowa
+    e: 242
+    g: 35
+    a: 50.004545
+    o: 20.243282
+o:
+  - SP9HSQ
+page: https://mapy73.pl/repeater/SR9OA

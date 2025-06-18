@@ -1,0 +1,31 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - c: "71.9"
+      tx:
+        f: 145.675
+      h: "50070083043"
+      t: a
+      s: "6"
+      p: 10
+      u:
+        - http://www.pzk.rzeszow.pl/?page_id=470
+      d: >-
+        Przemiennik jest w trakcie modernizacji i pracuje testowo z innej
+        lokalizacji.
+
+        UWAGA: Od 29.07.2022 odbiornik ma załączony ton CTCSS 71.9Hz
+h:
+  "50070083043":
+    x:
+      - 2m: 0
+    p: Rzeszów
+    e: 227
+    g: 0
+    a: 50.048852
+    o: 21.978431
+o:
+  - SP8IKL
+page: https://mapy73.pl/repeater/SR8R

@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 431.075
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.675
+        t:
+          - c: "67.0"
+      h: "50763036035"
+      t: a
+      s: "5"
+      p: 5
+      u:
+        - https://sp6pcp.pl/tag/sr6jg/
+      d: |-
+        RX/TX:  MOTOROLA MTR2000
+        Duplexer: PROCOM DPF70/6-150
+        Fider:  12m, 1/2 LDF-4 ANDREW
+        Antena:  PROCOM CXL 70-1 LW/h, 2dBi
+h:
+  "50763036035":
+    x:
+      - 70cm: 0
+    p: Góra Kopa/Karpacz
+    e: 1340
+    g: 9
+    a: 50.747633
+    o: 15.72735
+o:
+  - SP6R
+page: https://mapy73.pl/repeater/SR6JG

@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7125
+        t:
+          - b: ""
+      tx:
+        f: 439.3125
+      h: "50471052278"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "50471052278":
+    x:
+      - 70cm: 0
+    p: Heidelstein
+    e: 0
+    g: 0
+    a: 50.461514
+    o: 10.008781
+o: []
+page: https://mapy73.pl/repeater/DB0BRH

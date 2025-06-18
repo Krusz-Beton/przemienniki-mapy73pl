@@ -1,0 +1,27 @@
+x:
+  23cm:
+    - rx:
+        f: 1270.5
+        t:
+          - a: ""
+      tx:
+        f: 1298.5
+      h: "51942046804"
+      t: a
+      s: "5"
+      p: 7
+      u:
+        - http://sp7pki.iq24.pl/default.asp?grupa=96478&temat=616532&nr_str=1#dol_str
+      d: "Antena: GP-21 omni"
+h:
+  "51942046804":
+    x:
+      - 23cm: 0
+    p: Zielona Góra
+    e: 225
+    g: 0
+    a: 51.92698
+    o: 15.488042
+o:
+  - SQ3JPL
+page: https://mapy73.pl/repeater/SR3ZF

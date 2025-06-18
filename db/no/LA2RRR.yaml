@@ -1,0 +1,25 @@
+x:
+  6m:
+    - rx:
+        f: 51.23
+      tx:
+        f: 51.83
+      h: "60184065807"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.la7v.org/
+      d: ""
+h:
+  "60184065807":
+    x:
+      - 6m: 0
+    p: Kongsvinger / Holtberget
+    e: 320
+    g: 20
+    a: 60.17267
+    o: 11.98807
+o:
+  - Roar
+page: https://mapy73.pl/repeater/LA2RRR

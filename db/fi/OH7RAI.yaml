@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "63594018300"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "63594018300":
+    x:
+      - 2m: 0
+    p: Iisalmi
+    e: 229
+    g: 24
+    a: 63.567
+    o: 27.183
+o:
+  - OH7AZL
+page: https://mapy73.pl/repeater/OH7RAI

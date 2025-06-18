@@ -1,0 +1,48 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "57282014640"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk7rn.se/index.html?repeat.html
+      d: ""
+  6m:
+    - rx:
+        f: 51.31
+        t:
+          - b: ""
+      tx:
+        f: 51.91
+      h: "57266045000"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk7rn.se/index.html?repeat.html
+      d: ""
+h:
+  "57282014640":
+    x:
+      - 2m: 0
+    p: Oskarshamn
+    e: 0
+    g: 0
+    a: 57.265699
+    o: 16.447398
+  "57266045000":
+    x:
+      - 6m: 0
+    p: Oskarshamn
+    e: 0
+    g: 0
+    a: 57.25
+    o: 16.45
+o: []
+page: https://mapy73.pl/repeater/SK7RIH

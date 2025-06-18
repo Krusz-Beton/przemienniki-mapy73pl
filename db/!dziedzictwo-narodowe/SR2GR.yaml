@@ -1,0 +1,41 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6
+        t:
+          - c: "94.8"
+      tx:
+        f: 439.2
+      h: "53500031563"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - https://fm-poland.pl/
+      d: |-
+        Nadaje również aktualną pogodę dla Grudziądza.
+        Antena BigStar , 49 m n.p. gruntu
+      j0:
+        - 260205
+      j1:
+        - 112
+        - 242
+        - 260
+        - 2600
+        - 23501
+        - 26020
+        - 260204
+        - 260205
+        - 260293
+h:
+  "53500031563":
+    x:
+      - 70cm: 0
+    p: Grudziądz
+    e: 23
+    g: 0
+    a: 53.48156
+    o: 18.75563
+o:
+  - SP2HYO
+page: https://mapy73.pl/repeater/SR2GR

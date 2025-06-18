@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.175
+        t:
+          - b: ""
+          - c: "103.5"
+      tx:
+        f: 438.775
+        t:
+          - c: "103.5"
+      h: "49905026747"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: |-
+        Antena kolinearna 8x1/2
+        Otwieranie CTCSS 103,5Hz, alternatywnie tonem 1750Hz
+h:
+  "49905026747":
+    x:
+      - 70cm: 0
+    p: Góra Wał - Tarnów
+    e: 520
+    g: 40
+    a: 49.884356
+    o: 20.911473
+o:
+  - SQ9CAV
+page: https://mapy73.pl/repeater/SR9TB

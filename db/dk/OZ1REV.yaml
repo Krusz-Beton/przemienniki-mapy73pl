@@ -1,0 +1,23 @@
+x:
+  6m:
+    - rx:
+        f: 51.21
+      tx:
+        f: 51.81
+      h: "56779037500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "56779037500":
+    x:
+      - 6m: 0
+    p: Hurup Thy
+    e: 42
+    g: 15
+    a: 56.771
+    o: 8.375
+o: []
+page: https://mapy73.pl/repeater/OZ1REV

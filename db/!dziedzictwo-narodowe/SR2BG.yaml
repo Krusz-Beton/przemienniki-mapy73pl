@@ -1,0 +1,28 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - c: "67.0"
+      tx:
+        f: 145.725
+        t:
+          - c: "67.0"
+      h: "53131012402"
+      t: a
+      s: "5"
+      p: 6
+      u: []
+      d: Przemiennik nie pracuje w sieci echolink
+h:
+  "53131012402":
+    x:
+      - 2m: 0
+    p: Bydgoszcz
+    e: 110
+    g: 40
+    a: 53.113086
+    o: 18.038022
+o:
+  - SP2QVH
+page: https://mapy73.pl/repeater/SR2BG

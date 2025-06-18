@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.875
+      tx:
+        f: 432.875
+      h: "53924066543"
+      t: d
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "53924066543":
+    x:
+      - 70cm: 0
+    p: Stockelsdorf
+    e: 19
+    g: 0
+    a: 53.914063
+    o: 10.602431
+o:
+  - DK2DJ
+page: https://mapy73.pl/repeater/DK2DJ-L

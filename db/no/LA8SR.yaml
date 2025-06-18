@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "59109090833"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59109090833":
+    x:
+      - 2m: 0
+    p: Stavanger / Byhaugen
+    e: 200
+    g: 0
+    a: 59.1042
+    o: 5.70833
+o: []
+page: https://mapy73.pl/repeater/LA8SR

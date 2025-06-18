@@ -1,0 +1,48 @@
+x:
+  70cm:
+    - rx:
+        f: 432.525
+        t:
+          - a: ""
+      tx:
+        f: 434.525
+      h: "56905059167"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://oz8jyl.dk/cms005/
+      d: ""
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "56897081900"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://oz8jyl.dk/wp/
+      d: ""
+h:
+  "56905059167":
+    x:
+      - 70cm: 0
+    p: Aalborg / Støvring
+    e: 49
+    g: 15
+    a: 56.8958
+    o: 9.79167
+  "56897081900":
+    x:
+      - 2m: 0
+    p: Aalborg / Støvring
+    e: 49
+    g: 15
+    a: 56.888
+    o: 9.819
+o: []
+page: https://mapy73.pl/repeater/OZ4REN

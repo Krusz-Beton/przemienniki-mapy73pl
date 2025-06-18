@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.15
+        t:
+          - a: ""
+          - c: "127.3"
+      tx:
+        f: 438.75
+        t:
+          - c: "127.3"
+      h: "52201008918"
+      t: ga
+      s: "5"
+      p: 5
+      u: []
+      d: W trakcie testów. Prosimy o zgłaszanie wszelkich uwag!
+h:
+  "52201008918":
+    x:
+      - 70cm: 0
+    p: Siedlce
+    e: 174
+    g: 30
+    a: 52.178818
+    o: 22.271183
+o:
+  - SQ5MOG
+page: https://mapy73.pl/repeater/SR5SE

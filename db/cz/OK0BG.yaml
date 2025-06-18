@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.25
+        t:
+          - c: "88.5"
+      tx:
+        f: 438.85
+        t:
+          - c: "88.5"
+      h: "48993070833"
+      t: a
+      s: "5"
+      p: 5
+      u:
+        - http://ok1ocb.cz/prevadece/prevadec-ok0bg/
+      d: ""
+h:
+  "48993070833":
+    x:
+      - 70cm: 0
+    p: České Budějovice - komín teplárny 160 m
+    e: 550
+    g: 0
+    a: 48.97917
+    o: 14.54167
+o:
+  - OK1ZJV
+page: https://mapy73.pl/repeater/OK0BG

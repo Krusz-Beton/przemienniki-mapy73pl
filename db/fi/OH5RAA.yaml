@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "60511086600"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sral.fi/kerhot/kerho.php?call=OH5AA
+      d: ""
+h:
+  "60511086600":
+    x:
+      - 2m: 0
+    p: Kotka
+    e: 70
+    g: 30
+    a: 60.485
+    o: 26.866
+o:
+  - OH5FFT
+page: https://mapy73.pl/repeater/OH5RAA

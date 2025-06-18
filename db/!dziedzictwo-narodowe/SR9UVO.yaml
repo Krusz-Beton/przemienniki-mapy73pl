@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.725
+        t:
+          - f: "9"
+      tx:
+        f: 439.325
+      h: "50134093334"
+      t: e
+      s: "6"
+      p: 15
+      u:
+        - http://www.kpgk.pl
+      d: MMDVM; DMR Id 260913 ; CC9
+h:
+  "50134093334":
+    x:
+      - 70cm: 0
+    p: Kochanów
+    e: 246
+    g: 0
+    a: 50.115185
+    o: 19.748343
+o:
+  - SP9SVH
+page: https://mapy73.pl/repeater/SR9UVO

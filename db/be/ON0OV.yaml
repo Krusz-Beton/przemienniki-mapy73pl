@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - a: ""
+      tx:
+        f: 145.7
+      h: "51066020833"
+      t: a
+      s: "5"
+      p: 35
+      u:
+        - http://svxportal.on4akh.be/list_reciver.php
+      d: ""
+h:
+  "51066020833":
+    x:
+      - 2m: 0
+    p: Gent
+    e: 0
+    g: 0
+    a: 51.0625
+    o: 3.70833
+o: []
+page: https://mapy73.pl/repeater/ON0OV

@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.925
+        t:
+          - b: ""
+      tx:
+        f: 434.925
+      h: "55824004170"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://oz9rei.dk/
+      d: ""
+h:
+  "55824004170":
+    x:
+      - 70cm: 0
+    p: Grevinge / Dutterhøj
+    e: 73
+    g: 17
+    a: 55.8125
+    o: 11.5417
+o: []
+page: https://mapy73.pl/repeater/OZ9REI

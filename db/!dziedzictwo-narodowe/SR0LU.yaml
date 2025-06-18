@@ -1,0 +1,39 @@
+x:
+  70cm:
+    - rx:
+        f: 430.75
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.35
+        t:
+          - c: "67.0"
+      h: "53540062500"
+      t: a
+      s: "6"
+      p: 15
+      u:
+        - https://minilink.pl/
+      d: >-
+        Przemiennik SR0LU FM-Echolink w Lubawie
+         Rx: 438,350 Tx: 430,750 CTCSS: 67Hz
+        Trx: Motorola GM-350
+
+        Antena: Diamond X300
+
+        Pwr: 15W
+
+
+        Połączone na stałe do sieci Mini Link SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR4DM
+h:
+  "53540062500":
+    x:
+      - 70cm: 0
+    p: Lubawa
+    e: 0
+    g: 0
+    a: 53.52083
+    o: 19.79167
+o:
+  - SP4OX
+page: https://mapy73.pl/repeater/SR0LU

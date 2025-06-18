@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - h: "45540078047"
+      u: []
+      d: ""
+      p: 3
+      t: e
+      s: "4"
+      tx:
+        f: 438.8
+      rx:
+        f: 431.2
+        t:
+          - f: "1"
+      e1:
+        - 293112
+      e2:
+        - 2936
+h:
+  "45540078047":
+    x:
+      - 70cm: 0
+    p: Beli Kriz - Portoroz
+    e: 150
+    g: 0
+    a: 45.527208
+    o: 13.572472
+o:
+  - S59HIJ
+page: https://mapy73.pl/repeater/S55UPI

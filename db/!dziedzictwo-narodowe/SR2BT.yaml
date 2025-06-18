@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.5
+        t:
+          - c: "77.0"
+      tx:
+        f: 439.1
+        t:
+          - c: "77.0"
+      h: "53561040683"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: ""
+h:
+  "53561040683":
+    x:
+      - 70cm: 0
+    p: Bory Tucholskie
+    e: 109
+    g: 30
+    a: 53.543337
+    o: 18.06983
+o:
+  - SQ2FRQ
+page: https://mapy73.pl/repeater/SR2BT

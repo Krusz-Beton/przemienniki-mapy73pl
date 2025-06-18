@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.975
+      tx:
+        f: 434.975
+      h: "59372064016"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59372064016":
+    x:
+      - 70cm: 0
+    p: Eskilstuna
+    e: 40
+    g: 30
+    a: 59.35614
+    o: 16.50016
+o:
+  - SM5BMK
+page: https://mapy73.pl/repeater/SK5VM.R

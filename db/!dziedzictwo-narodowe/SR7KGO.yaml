@@ -1,0 +1,48 @@
+r:
+  - - 70cm: 0
+    - 2m: 0
+x:
+  70cm:
+    - rx:
+        f: 433.25
+        t:
+          - a: ""
+          - c: "88.5"
+      h: "50496074119"
+      t: aj
+      s: "4"
+      p: 0
+      u:
+        - https://www.facebook.com/SP7KGO/?modal=admin_todo_tour
+        - https://fm-poland.pl
+      d: |-
+        antena X300
+        Przemiennik podłączony do sieć FM POLAND
+        grupa: 26073- PONIDZIE
+      j0:
+        - 26073
+      j1:
+        - 26073
+        - 260732
+  2m:
+    - tx:
+        f: 145.275
+        t:
+          - c: "88.5"
+      h: "50496074119"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: ""
+h:
+  "50496074119":
+    x: []
+    p: Busko-Zdrój
+    e: 294
+    g: 14
+    a: 50.475985
+    o: 20.75619
+o:
+  - SP7KGO
+page: https://mapy73.pl/repeater/SR7KGO

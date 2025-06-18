@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.2
+        t:
+          - f: "1"
+      tx:
+        f: 438.8
+      h: "50151078657"
+      t: e
+      s: "4"
+      p: 15
+      u: []
+      d: ""
+      e1:
+        - 26098
+      e2:
+        - 2609
+        - 26063
+h:
+  "50151078657":
+    x:
+      - 70cm: 0
+    p: Strzybnik
+    e: 0
+    g: 0
+    a: 50.13362
+    o: 18.16657
+o:
+  - SP9PRR
+  - SQ9PPU
+page: https://mapy73.pl/repeater/SR9OKO

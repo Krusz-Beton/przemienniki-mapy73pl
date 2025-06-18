@@ -1,0 +1,41 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6875
+        t:
+          - c: "94.8"
+      tx:
+        f: 439.2875
+        t:
+          - c: "94.8"
+      h: "50696080667"
+      t: i
+      s: "5"
+      p: 15
+      u:
+        - https://fm-link.pl/2018/02/05/zmiana-czestotliwosci-sr6uwl/
+      d: >-
+        Połączony na stałe z przemiennikami sieci FM-LINK.
+
+        Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.
+
+        Otwarcie po 1 sekundzie nośnej z CTCSS.
+
+        TRX - Motorola 2 radia GM 340
+
+        Antena: 4x5/8
+
+
+        Obiekt: Wieża widokowa wzniesiona w latach 1905–1906 z bloków betonowych na Wielkiej Sowie – najwyższym szczycie Gór Sowich o wysokości 1015 m n.p.m. Właścicielem obiektu i zarządcą jest gmina Pieszyce. Historia obiektu Kamień węgielny został położony 1 czerwca 1905. Wykonanie powierzono firmie Bestänier&George z Lipska specjalizującej się w budowie wysokich obiektów. Uroczyste otwarcie nastąpiło 24 maja 1906. Lokalizacja murowanej 25 metrowej wieży jest na terenie województwa dolnośląskiego, powiatu dzierżoniowskiego, w gminie Pieszyce nie daleko miejscowości: Walim, Rzeczka, Modlęcin.
+h:
+  "50696080667":
+    x:
+      - 70cm: 0
+    p: Wielka Sowa
+    e: 1015
+    g: 25
+    a: 50.680321
+    o: 16.485667
+o:
+  - SQ6NEJ
+page: https://mapy73.pl/repeater/SR6LWS

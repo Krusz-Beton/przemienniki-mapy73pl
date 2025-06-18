@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 430.725
+      tx:
+        f: 438.325
+      h: "49790043211"
+      t: a
+      s: "5"
+      p: 25
+      u:
+        - http://www.prevadece.cz/dmr/sit
+      d: ""
+h:
+  "49790043211":
+    x:
+      - 70cm: 0
+    p: Studená loučka
+    e: 560
+    g: 0
+    a: 49.773611
+    o: 16.821111
+o:
+  - OK2ZAR
+page: https://mapy73.pl/repeater/OK0DSL

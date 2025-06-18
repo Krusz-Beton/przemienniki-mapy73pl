@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.225
+        t:
+          - a: ""
+      tx:
+        f: 438.825
+      h: "45791090202"
+      t: da
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "45791090202":
+    x:
+      - 70cm: 0
+    p: Pečna Reber
+    e: 660
+    g: 0
+    a: 45.777673
+    o: 14.229019
+o:
+  - S56JCH
+page: https://mapy73.pl/repeater/S55UPO

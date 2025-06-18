@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.175
+        t:
+          - f: "1"
+      tx:
+        f: 438.775
+      h: "48962020833"
+      t: e
+      s: "5"
+      p: 10
+      u:
+        - https://qrz.if.ua/repeaters.html
+      d: ""
+h:
+  "48962020833":
+    x:
+      - 70cm: 0
+    p: Ivano-Frankivsk
+    e: 0
+    g: 0
+    a: 48.9375
+    o: 24.70833
+o: []
+page: https://mapy73.pl/repeater/UR0SUA

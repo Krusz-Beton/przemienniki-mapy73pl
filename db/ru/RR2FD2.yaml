@@ -1,0 +1,35 @@
+x:
+  70cm:
+    - rx:
+        f: 431.0625
+        t:
+          - a: ""
+      tx:
+        f: 438.6625
+      h: "54695071412"
+      t: e
+      s: "5"
+      p: 25
+      u:
+        - https://uc2k.ru/
+      d: >-
+        Opek UVS-200, 25Watt
+
+
+        438.6625/431.0625 CC3
+
+        1 slot TG 2501
+
+        2 slot Local Kaliningrad TG 250777 full synch with VHF DMR repeater in Kaliningrad
+h:
+  "54695071412":
+    x:
+      - 70cm: 0
+    p: ""
+    e: 13
+    g: 60
+    a: 54.675207
+    o: 20.507116
+o:
+  - RU2FAC
+page: https://mapy73.pl/repeater/RR2FD2

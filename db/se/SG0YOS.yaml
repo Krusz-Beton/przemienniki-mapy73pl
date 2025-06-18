@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.7125
+      tx:
+        f: 434.7125
+      h: "59340056677"
+      t: b
+      s: "5"
+      p: 0
+      u:
+        - https://brandmeister.network/?page=repeater&id=2405082
+      d: ""
+h:
+  "59340056677":
+    x:
+      - 70cm: 0
+    p: Stockholm / Lilla Essingen
+    e: 0
+    g: 30
+    a: 59.32256
+    o: 18.00677
+o: []
+page: https://mapy73.pl/repeater/SG0YOS

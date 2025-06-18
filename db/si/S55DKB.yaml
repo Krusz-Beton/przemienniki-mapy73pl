@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.75
+        t:
+          - f: "2"
+      tx:
+        f: 439.35
+      h: "46206068955"
+      t: e
+      s: "4"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+      e1:
+        - 293
+        - 293112
+      e2:
+        - 2935
+h:
+  "46206068955":
+    x:
+      - 70cm: 0
+    p: Kuk nad Livkom
+    e: 1230
+    g: 0
+    a: 46.193085
+    o: 13.604546
+o:
+  - S59DAJ
+page: https://mapy73.pl/repeater/S55DKB

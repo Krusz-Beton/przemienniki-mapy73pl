@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5625
+      tx:
+        f: 434.5625
+      h: "59456026167"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://www.swedmr.se
+      d: ""
+h:
+  "59456026167":
+    x:
+      - 70cm: 0
+    p: Täby
+    e: 0
+    g: 0
+    a: 59.43819
+    o: 18.07167
+o:
+  - Johan
+page: https://mapy73.pl/repeater/SK0MQ

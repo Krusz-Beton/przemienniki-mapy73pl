@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.4875
+        t:
+          - f: "1"
+      tx:
+        f: 439.0875
+      h: "50862071644"
+      t: e
+      s: "5"
+      p: 15
+      u:
+        - http://www.36fm.pl
+      d: ""
+      e1:
+        - 260
+      e2:
+        - 260936
+h:
+  "50862071644":
+    x:
+      - 70cm: 0
+    p: Częstochowa
+    e: 279
+    g: 25
+    a: 50.843583
+    o: 19.133441
+o:
+  - SQ9KFZ
+page: https://mapy73.pl/repeater/SR9UCZ

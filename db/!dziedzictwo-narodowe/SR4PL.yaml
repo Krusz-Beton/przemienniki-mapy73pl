@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.975
+        t:
+          - a: ""
+          - c: "67.0"
+      tx:
+        f: 439.575
+        t:
+          - c: "67.0"
+      h: "53952007422"
+      t: da
+      s: "5"
+      p: 15
+      u:
+        - https://wmp.extreme-link.pl
+      d: Antena x300, 171 m npm, rx tx motorola gm 340, 10W
+h:
+  "53952007422":
+    x:
+      - 70cm: 0
+    p: Podleśna 66
+    e: 160
+    g: 10
+    a: 53.931576
+    o: 20.49822
+o:
+  - HF4OS
+page: https://mapy73.pl/repeater/SR4PL

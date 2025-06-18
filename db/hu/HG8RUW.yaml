@@ -1,0 +1,29 @@
+h:
+  "46703072917":
+    a: 46.682621
+    o: 21.10817
+    p: Bekescsaba Puskin 1.
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "46703072917"
+      u: []
+      d: ""
+      p: 1
+      t: e
+      s: "4"
+      tx:
+        f: 438.4
+      rx:
+        f: 430.8
+        t:
+          - f: "8"
+      e1:
+        - 216
+      e2:
+        - 216820
+o: []
+page: https://mapy73.pl/repeater/HG8RUW

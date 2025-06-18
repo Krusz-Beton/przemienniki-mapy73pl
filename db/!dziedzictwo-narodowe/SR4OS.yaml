@@ -1,0 +1,42 @@
+x:
+  70cm:
+    - rx:
+        f: 430.8
+        t:
+          - a: ""
+          - c: "67.0"
+      tx:
+        f: 438.4
+        t:
+          - c: "67.0"
+      h: "53711056397"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - https://minilink.pl/wp/
+        - https://fm-poland.pl
+      d: >-
+        Przemiennik SR4OS FM-Echolink w Ostródzie Rx: 438,400 Tx: 430,800 CTCSS: 67Hz
+
+
+        Trx: Motorola MTR-2000
+
+        Antena: Diamond X300
+
+        Pwr: 15W
+
+
+        Połączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C - SR2GA - SR4WA
+h:
+  "53711056397":
+    x:
+      - 70cm: 0
+    p: Ostróda
+    e: 119
+    g: 26
+    a: 53.691595
+    o: 19.96897
+o:
+  - SP4OX
+page: https://mapy73.pl/repeater/SR4OS

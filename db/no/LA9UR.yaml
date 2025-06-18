@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.1875
+        t:
+          - b: ""
+      tx:
+        f: 145.7875
+      h: "63738099167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "63738099167":
+    x:
+      - 2m: 0
+    p: Fosen / Ruasetfjellet
+    e: 247
+    g: 0
+    a: 63.7292
+    o: 9.79167
+o: []
+page: https://mapy73.pl/repeater/LA9UR

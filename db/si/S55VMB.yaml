@@ -1,0 +1,27 @@
+x:
+  6m:
+    - rx:
+        f: 51.58
+        t:
+          - a: ""
+      tx:
+        f: 51.58
+      h: "46528036781"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46528036781":
+    x:
+      - 6m: 0
+    p: Pohorje
+    e: 1147
+    g: 0
+    a: 46.512801
+    o: 15.566807
+o:
+  - S59DXX
+page: https://mapy73.pl/repeater/S55VMB

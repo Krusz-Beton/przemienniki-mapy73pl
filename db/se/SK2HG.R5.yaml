@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "65909089478"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk2hg.se
+      d: ""
+h:
+  "65909089478":
+    x:
+      - 2m: 0
+    p: Kalix / Raggdynan
+    e: 0
+    g: 0
+    a: 65.88707
+    o: 22.82478
+o: []
+page: https://mapy73.pl/repeater/SK2HG.R5

@@ -1,0 +1,43 @@
+x:
+  70cm:
+    - rx:
+        f: 430.7
+        t:
+          - a: ""
+          - c: "67.0"
+      tx:
+        f: 438.3
+        t:
+          - c: "67.0"
+      h: "53999054167"
+      t: da
+      s: "6"
+      p: 15
+      u: []
+      d: >-
+        Przemiennik SR4DM Dobre Miasto FM-Echolink Rx: 438,300 Tx: 430,700 CTCSS:
+        67Hz
+
+
+        Trx: Motorola 2x GM-340
+
+        Antena: Diamond X300
+
+        Pwr: 15W
+
+
+        Połączone na stałe do sieci Mini Link:
+
+        SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR4DM - SR2GD
+h:
+  "53999054167":
+    x:
+      - 70cm: 0
+    p: Dobre Miasto
+    e: 150
+    g: 16
+    a: 53.97917
+    o: 20.375
+o:
+  - SP4OX
+page: https://mapy73.pl/repeater/SR4DM

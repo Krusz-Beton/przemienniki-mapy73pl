@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.5875
+        t:
+          - c: "103.5"
+      tx:
+        f: 439.1875
+        t:
+          - c: "103.5"
+      h: "51323014300"
+      t: a
+      s: "3"
+      p: 5
+      u: []
+      d: Przemiennik okresowy - zasilany energią słoneczną.
+h:
+  "51323014300":
+    x:
+      - 70cm: 0
+    p: ""
+    e: 244
+    g: 0
+    a: 51.30611
+    o: 17.033005
+o: []
+page: https://mapy73.pl/repeater/SR6FG

@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.575
+        t:
+          - a: ""
+          - b: ""
+      tx:
+        f: 439.175
+      h: "52158045833"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.db0bel.de
+      d: ""
+h:
+  "52158045833":
+    x:
+      - 70cm: 0
+    p: Belzig
+    e: 180
+    g: 56
+    a: 52.14583
+    o: 12.625
+o:
+  - DL2ROA
+page: https://mapy73.pl/repeater/DB0BEL

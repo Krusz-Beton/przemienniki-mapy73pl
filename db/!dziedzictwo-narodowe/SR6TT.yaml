@@ -1,0 +1,43 @@
+x:
+  70cm:
+    - rx:
+        f: 431.625
+        t:
+          - a: ""
+          - c: "67.0"
+      tx:
+        f: 439.225
+        t:
+          - c: "67.0"
+      h: "50930037139"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - https://fm-poland.pl/
+      d: 2X GM340 , DUPLEKSER PROCOM , ANTENA SIGMA . Zapraszamy do rozmowy 73
+      j0:
+        - 26061
+      j1:
+        - 112
+        - 2606
+        - 26001
+        - 26061
+        - 260612
+        - 260614
+        - 260691
+        - 260692
+        - 260693
+        - 260695
+h:
+  "50930037139":
+    x:
+      - 70cm: 0
+    p: 59-420 BOLKÓW STARE ROCHOWICE 116
+    e: 505
+    g: 20
+    a: 50.914357
+    o: 16.014392
+o:
+  - SQ6LAE
+page: https://mapy73.pl/repeater/SR6TT

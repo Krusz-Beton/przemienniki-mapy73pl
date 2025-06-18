@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.1
+        t:
+          - b: ""
+      tx:
+        f: 438.7
+      h: "47752012835"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://c14.dl3mlp.de/relais-im-ov-c-14/
+      d: ""
+h:
+  "47752012835":
+    x:
+      - 70cm: 0
+    p: ""
+    e: 0
+    g: 0
+    a: 47.739895
+    o: 12.233351
+o: []
+page: https://mapy73.pl/repeater/DB0TR

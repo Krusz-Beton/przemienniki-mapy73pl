@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.55
+      tx:
+        f: 439.15
+      h: "48762012356"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - https://mhz.sk/om0oue/
+      d: |
+        
+        	DCS 073
+
+        Antena: Diamond X-300
+        Sprzęt: Yaesu DR-1X FM/C4FM Repeater
+h:
+  "48762012356":
+    x:
+      - 70cm: 0
+    p: Kosice
+    e: 310
+    g: 0
+    a: 48.740833
+    o: 21.290556
+o:
+  - OM8KT
+page: https://mapy73.pl/repeater/OM0OUE

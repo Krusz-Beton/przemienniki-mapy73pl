@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.9
+        t:
+          - c: "79.7"
+      tx:
+        f: 439.5
+        t:
+          - c: "79.7"
+      h: "42742052209"
+      t: a
+      s: "5"
+      p: 45
+      u:
+        - http://www.repeaters.bg/
+      d: ""
+h:
+  "42742052209":
+    x:
+      - 70cm: 0
+    p: връх Ботев
+    e: 2376
+    g: 30
+    a: 42.717605
+    o: 24.917091
+o:
+  - LZ1AA
+page: https://mapy73.pl/repeater/LZ0HAM

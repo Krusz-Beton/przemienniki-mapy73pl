@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8
+        t:
+          - a: ""
+          - c: "77.0"
+      tx:
+        f: 439.4
+      h: "50625066744"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - https://photos.google.com/share/AF1QipPDsuuqctER6itYKT_m1vIRLo1qzaZgIpeKpohYmD2wE6xRmelZshwLIGxdB5vq4g?key=bGc4aVpmZFIxRGJqaVd1eGttNFRoeXJoeEJyVWlB
+        - https://photos.google.com/share/AF1QipM-G_E0C_jPbP5XgdiF-CQJN7WCJlvAX-YcsuXiaC3nc5GUPLsfXE_6QJaOPbqFiQ?key=SEVWOU9wMHVCZllRU0w0S2pxd2pYTVVfOEJMUUxB
+        - https://radio.denied.org.ua/repa_a/antopil.html
+      d: Zamontowany na maszcie radiowej w okolicach Antopolia.
+h:
+  "50625066744":
+    x:
+      - 70cm: 0
+    p: ""
+    e: 261
+    g: 120
+    a: 50.599246
+    o: 26.421445
+o:
+  - UR5KSH
+page: https://mapy73.pl/repeater/UR0KUC

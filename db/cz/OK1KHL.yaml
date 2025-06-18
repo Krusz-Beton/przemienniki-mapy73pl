@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 438.1
+      tx:
+        f: 438.1
+      h: "50102080620"
+      t: a
+      s: "6"
+      p: 20
+      u: []
+      d: ""
+h:
+  "50102080620":
+    x:
+      - 70cm: 0
+    p: Holice - Kamenec
+    e: 320
+    g: 0
+    a: 50.0868
+    o: 16.0062
+o:
+  - OK1ALX
+page: https://mapy73.pl/repeater/OK1KHL

@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.2
+        t:
+          - c: "131.8"
+      tx:
+        f: 438.8
+      h: "50983037500"
+      t: a
+      s: "5"
+      p: 25
+      u:
+        - http://svxportal.on4akh.be/list_reciver.php
+      d: ""
+h:
+  "50983037500":
+    x:
+      - 70cm: 0
+    p: Opwijk
+    e: 0
+    g: 0
+    a: 50.97917
+    o: 4.20833
+o: []
+page: https://mapy73.pl/repeater/ON0ORA

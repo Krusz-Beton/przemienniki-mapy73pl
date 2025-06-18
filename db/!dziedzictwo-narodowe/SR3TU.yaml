@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.55
+        t:
+          - a: ""
+      tx:
+        f: 439.15
+      h: "52039029167"
+      t: a
+      s: "6"
+      p: 10
+      u:
+        - http://www.sp3kwa.net/przemiennik-sr3tu
+      d: Antena X-510, diplekser, 2xMotorola
+h:
+  "52039029167":
+    x:
+      - 70cm: 0
+    p: Turek
+    e: 0
+    g: 0
+    a: 52.02083
+    o: 18.45833
+o:
+  - SP3SLU
+page: https://mapy73.pl/repeater/SR3TU

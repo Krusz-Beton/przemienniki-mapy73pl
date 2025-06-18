@@ -1,0 +1,43 @@
+x:
+  70cm:
+    - rx:
+        f: 432.85
+      tx:
+        f: 434.85
+      h: "56116040432"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.gilleleje-uhf.webbyen.dk
+      d: ""
+  10m:
+    - rx:
+        f: 29.56
+      tx:
+        f: 29.66
+      h: "55658026100"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "56116040432":
+    x:
+      - 70cm: 0
+    p: Gilleleje
+    e: 38
+    g: 18
+    a: 56.104196
+    o: 12.208315
+  "55658026100":
+    x:
+      - 10m: 0
+    p: Copenhagen / Hvidovre H.C.
+    e: 9
+    g: 35
+    a: 55.6458
+    o: 12.461
+o: []
+page: https://mapy73.pl/repeater/OZ0REU

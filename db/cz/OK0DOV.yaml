@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8875
+        t:
+          - c: "88.5"
+      tx:
+        f: 439.4875
+        t:
+          - c: "88.5"
+      h: "49850039061"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://ok2kos.wz.cz/cz_soubory/ok0dov.html
+      d: ""
+h:
+  "49850039061":
+    x:
+      - 70cm: 0
+    p: Ostrava-Poruba
+    e: 300
+    g: 0
+    a: 49.832222
+    o: 18.168611
+o:
+  - OK8UOF
+page: https://mapy73.pl/repeater/OK0DOV

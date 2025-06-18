@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 430.65
+        t:
+          - a: ""
+          - c: "127.3"
+      tx:
+        f: 438.25
+        t:
+          - c: "127.3"
+      h: "51922088747"
+      t: ga
+      s: "5"
+      p: 10
+      u: []
+      d: |-
+        YAESU DR-1X, antena DIAMOND X-510N,
+        przemiennik pracuje w sieci WIRES-X oraz w analogu.
+h:
+  "51922088747":
+    x:
+      - 70cm: 0
+    p: Garwolin
+    e: 130
+    g: 15
+    a: 51.901273
+    o: 21.614472
+o:
+  - SQ5AKY
+page: https://mapy73.pl/repeater/SR5FWG

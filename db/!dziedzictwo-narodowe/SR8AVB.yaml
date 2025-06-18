@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.4125
+        t:
+          - a: ""
+          - f: "8"
+      tx:
+        f: 439.0125
+      h: "52053076106"
+      t: geb
+      s: "5"
+      p: 15
+      u: []
+      d: ""
+h:
+  "52053076106":
+    x:
+      - 70cm: 0
+    p: Biała Podlaska
+    e: 140
+    g: 0
+    a: 52.030614
+    o: 23.147055
+o:
+  - SQ8ISH
+page: https://mapy73.pl/repeater/SR8AVB

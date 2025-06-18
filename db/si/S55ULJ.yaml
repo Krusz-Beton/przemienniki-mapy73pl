@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.275
+        t:
+          - c: "123.0"
+      tx:
+        f: 438.875
+      h: "46063061649"
+      t: da
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46063061649":
+    x:
+      - 70cm: 0
+    p: Janče
+    e: 794
+    g: 0
+    a: 46.04892
+    o: 14.696489
+o:
+  - S50ZRS
+page: https://mapy73.pl/repeater/S55ULJ

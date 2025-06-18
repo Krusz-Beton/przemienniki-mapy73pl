@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.25
+        t:
+          - a: ""
+      tx:
+        f: 438.85
+      h: "49921026749"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://www.do0lee.de
+      d: ""
+h:
+  "49921026749":
+    x:
+      - 70cm: 0
+    p: ""
+    e: 96
+    g: 27
+    a: 49.912789
+    o: 8.478488
+o:
+  - DL1ITU
+page: https://mapy73.pl/repeater/DO0GG

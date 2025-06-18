@@ -1,0 +1,24 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+      tx:
+        f: 145.775
+      h: "64375044840"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "64375044840":
+    x:
+      - 2m: 0
+    p: Lycksele
+    e: 280
+    g: 45
+    a: 64.357
+    o: 18.4484
+o:
+  - SM2JDU
+page: https://mapy73.pl/repeater/SK2LY.R

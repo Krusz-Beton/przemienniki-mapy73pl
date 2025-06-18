@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 430.95
+        t:
+          - f: "9"
+      tx:
+        f: 438.55
+      h: "49456049017"
+      t: e
+      s: "4"
+      p: 0
+      u: []
+      d: BUDOWANY - OBIEKT NA KTÓRYM MA BYĆ ZAINSTALOWANY PRZEMIENNIK JEST W BUDOWIE
+      e1:
+        - 260
+      e2:
+        - 2609
+        - 26095
+h:
+  "49456049017":
+    x:
+      - 70cm: 0
+    p: Góra Kicarz
+    e: 667
+    g: 0
+    a: 49.435756
+    o: 20.734167
+o:
+  - SQ9OKT
+page: https://mapy73.pl/repeater/SR9DDP

@@ -1,0 +1,27 @@
+x:
+  10m:
+    - rx:
+        f: 29.57
+        t:
+          - c: "71.9"
+      tx:
+        f: 29.67
+      h: "50243042888"
+      t: a
+      s: "6"
+      p: 15
+      u: []
+      d: Przemiennik posiada link pomiędzy nadajnikiem a odbiornikiem 439,8250MHz
+        aktywowany nośną.
+h:
+  "50243042888":
+    x:
+      - 10m: 0
+    p: Giedlarowa
+    e: 220
+    g: 0
+    a: 50.221007
+    o: 22.421881
+o:
+  - SP8LNK
+page: https://mapy73.pl/repeater/SR8LBL

@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6375
+        t:
+          - a: ""
+      tx:
+        f: 439.2375
+      h: "51860073025"
+      t: b
+      s: "5"
+      p: 10
+      u:
+        - http://dstar.pzk.pl/detail.php?rpt=SR3UVL
+      d: ""
+h:
+  "51860073025":
+    x:
+      - 70cm: 0
+    p: Leszno
+    e: 93
+    g: 35
+    a: 51.844136
+    o: 16.594246
+o:
+  - SP3JJ
+page: https://mapy73.pl/repeater/SR3UVL

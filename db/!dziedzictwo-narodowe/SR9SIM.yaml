@@ -1,0 +1,28 @@
+x:
+  2m:
+    - rx:
+        f: 145.3375
+        t:
+          - c: "79.7"
+      tx:
+        f: 145.3375
+        t:
+          - c: "79.7"
+      h: "50285046750"
+      t: d
+      s: "6"
+      p: 10
+      u: []
+      d: dipol 1/4
+h:
+  "50285046750":
+    x:
+      - 2m: 0
+    p: Sosnowiec
+    e: 254
+    g: 18
+    a: 50.26633
+    o: 19.1375
+o:
+  - SQ9SIM
+page: https://mapy73.pl/repeater/SR9SIM

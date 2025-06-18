@@ -1,0 +1,40 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.4
+        t:
+          - c: "67.0"
+      h: "51221099390"
+      t: aj
+      s: "4"
+      p: 10
+      u:
+        - http://fm-poland.pl
+      d: |-
+        Nr pozwolenia 
+        DC.WML.5101.4494.2023.2
+        Przemiennik podłączony do sieci FM-Poland
+      j0:
+        - 26061
+      j1:
+        - 112
+        - 2606
+        - 26061
+        - 260613
+        - 260691
+h:
+  "51221099390":
+    x:
+      - 70cm: 0
+    p: Legnica
+    e: 126
+    g: 20
+    a: 51.205828
+    o: 16.165898
+o:
+  - SP6AW
+page: https://mapy73.pl/repeater/SR6AA

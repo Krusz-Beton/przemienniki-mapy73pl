@@ -1,0 +1,47 @@
+x:
+  70cm:
+    - rx:
+        f: 431.175
+        t:
+          - f: "5"
+      tx:
+        f: 438.775
+      h: "52171059420"
+      t: e
+      s: "4"
+      p: 10
+      u:
+        - https://brandmeister.network/?page=repeater&id=260512
+      d: >-
+        Antena Diamond X-510 (wysokość ok. 45m npt),
+
+
+        DMR w sieci Brandmeister.
+
+        MMDVM + 2 x Motorola GM340
+
+
+        Color Code: 5
+
+
+        Timeslot 1 preferowany do połączeń lokalnych, grup dynamicznych, reflektorów, danych GPS, wywołań indywidualnych.
+
+
+        Bieżący stan aktywnych linków: https://brandmeister.network/?page=repeater&id=260512
+      e1:
+        - 260512
+      e2:
+        - 26055
+        - 2605655
+h:
+  "52171059420":
+    x:
+      - 70cm: 0
+    p: Warszawa-Ursynów
+    e: 103
+    g: 0
+    a: 52.150552
+    o: 21.042197
+o:
+  - SP5MRK
+page: https://mapy73.pl/repeater/SR5WU

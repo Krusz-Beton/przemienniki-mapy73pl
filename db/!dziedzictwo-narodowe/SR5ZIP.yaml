@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.65
+        t:
+          - c: "127.3"
+      tx:
+        f: 439.25
+        t:
+          - c: "127.3"
+      h: "52305036339"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: Harcerski Klub Łączności SP5ZIP im. hm. Wacława Łukaszewicza SP5WL, przy
+        Szkole Podstawowej z O.I. nr 223 im. Partyzantów Ziemi Kieleckiej 01-823
+        Warszawa, ul. Kasprowicza 107. Hufiec ZHP Warszawa Żoliborz
+h:
+  "52305036339":
+    x:
+      - 70cm: 0
+    p: Warszawa
+    e: 100
+    g: 15
+    a: 52.284421
+    o: 20.94239
+o:
+  - SQ5VJA
+page: https://mapy73.pl/repeater/SR5ZIP

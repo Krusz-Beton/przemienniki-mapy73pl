@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.475
+        t:
+          - c: "88.5"
+      tx:
+        f: 439.075
+        t:
+          - c: "88.5"
+      h: "49050028829"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://www.ok1ocb.cz
+      d: ""
+h:
+  "49050028829":
+    x:
+      - 70cm: 0
+    p: Prachatice - Libín
+    e: 1099
+    g: 0
+    a: 49.036246
+    o: 14.042288
+o:
+  - OK1ZJV
+page: https://mapy73.pl/repeater/OK0BPT

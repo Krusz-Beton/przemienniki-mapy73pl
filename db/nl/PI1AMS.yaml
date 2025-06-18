@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 430.8
+        t:
+          - f: "1"
+      tx:
+        f: 438.4
+      h: "52358095833"
+      t: e
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "52358095833":
+    x:
+      - 70cm: 0
+    p: Amsterdam
+    e: 0
+    g: 0
+    a: 52.35417
+    o: 4.79167
+o: []
+page: https://mapy73.pl/repeater/PI1AMS

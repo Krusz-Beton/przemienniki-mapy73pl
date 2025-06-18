@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.55
+        t:
+          - a: ""
+      tx:
+        f: 434.55
+      h: "59499016288"
+      t: "0"
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59499016288":
+    x:
+      - 70cm: 0
+    p: Stockholm / Kungsängen
+    e: 25
+    g: 10
+    a: 59.48145
+    o: 17.71288
+o:
+  - Tilman
+page: https://mapy73.pl/repeater/SK0PT

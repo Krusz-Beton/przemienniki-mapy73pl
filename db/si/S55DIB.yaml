@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 431.775
+        t:
+          - f: "1"
+      tx:
+        f: 439.375
+      h: "45592018931"
+      t: e
+      s: "4"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+      e1:
+        - 293
+        - 293112
+      e2:
+        - 2936
+        - 29310
+h:
+  "45592018931":
+    x:
+      - 70cm: 0
+    p: Karlovica
+    e: 0
+    g: 0
+    a: 45.578002
+    o: 14.187313
+o:
+  - S57DV
+page: https://mapy73.pl/repeater/S55DIB

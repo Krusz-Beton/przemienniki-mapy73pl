@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.025
+        t:
+          - b: ""
+      tx:
+        f: 438.625
+        t:
+          - c: "74.4"
+      h: "53509080058"
+      t: da
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "53509080058":
+    x:
+      - 70cm: 0
+    p: Hamburg-Lohbrügge
+    e: 39
+    g: 138
+    a: 53.49961
+    o: 10.190584
+o: []
+page: https://mapy73.pl/repeater/DB0SY

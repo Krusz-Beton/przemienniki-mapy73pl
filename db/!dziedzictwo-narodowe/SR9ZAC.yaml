@@ -1,0 +1,29 @@
+x:
+  2m:
+    - rx:
+        f: 145.2875
+        t:
+          - a: ""
+      tx:
+        f: 145.2875
+        t:
+          - c: "107.2"
+      h: "49297017568"
+      t: j
+      s: "4"
+      p: 15
+      u:
+        - http://radioteam.pl/sr9zac
+      d: ""
+h:
+  "49297017568":
+    x:
+      - 2m: 0
+    p: Kościelisko (Podhale)
+    e: 951
+    g: 12
+    a: 49.277298
+    o: 19.877682
+o:
+  - SP9FUN
+page: https://mapy73.pl/repeater/SR9ZAC

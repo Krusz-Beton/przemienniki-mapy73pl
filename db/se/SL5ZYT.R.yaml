@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.95
+      tx:
+        f: 434.95
+      h: "58703079170"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - https://brandmeister.network/?page=repeater&id=240501
+      d: ""
+h:
+  "58703079170":
+    x:
+      - 70cm: 0
+    p: Norrköping
+    e: 150
+    g: 30
+    a: 58.6875
+    o: 16.2917
+o:
+  - SM5TJH
+page: https://mapy73.pl/repeater/SL5ZYT.R

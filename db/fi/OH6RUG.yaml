@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.7
+      tx:
+        f: 434.7
+      h: "63694028570"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.multi.fi/~oh6ag/html/repeatrar.html
+      d: ""
+h:
+  "63694028570":
+    x:
+      - 70cm: 0
+    p: Jakobstad / Pietarsaari
+    e: 48
+    g: 35
+    a: 63.6716
+    o: 22.6857
+o:
+  - OH6MH
+page: https://mapy73.pl/repeater/OH6RUG

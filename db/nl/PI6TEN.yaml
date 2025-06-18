@@ -1,0 +1,25 @@
+x:
+  10m:
+    - rx:
+        f: 29.59
+        t:
+          - a: ""
+      tx:
+        f: 29.69
+      h: "52234029167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "52234029167":
+    x:
+      - 10m: 0
+    p: Hilversum
+    e: 0
+    g: 0
+    a: 52.22917
+    o: 5.125
+o: []
+page: https://mapy73.pl/repeater/PI6TEN

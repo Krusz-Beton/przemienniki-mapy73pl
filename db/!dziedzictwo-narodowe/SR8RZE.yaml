@@ -1,0 +1,35 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6875
+        t:
+          - c: "71.9"
+      tx:
+        f: 439.2875
+      h: "50084001533"
+      t: j
+      s: "4"
+      p: 15
+      u:
+        - https://radioteam.pl/sr8rze/
+        - https://fm-poland.pl/aktualne-grupy/
+      d: Diamond X-200 (UHF 4 x 5/8 λ)
+      j0:
+        - 26081
+      j1:
+        - 2600
+        - 26081
+        - 260990
+h:
+  "50084001533":
+    x:
+      - 70cm: 0
+    p: Rzeszów
+    e: 0
+    g: 0
+    a: 50.062061
+    o: 21.95433
+o:
+  - SQ8RZE
+  - SQ8PDY
+page: https://mapy73.pl/repeater/SR8RZE

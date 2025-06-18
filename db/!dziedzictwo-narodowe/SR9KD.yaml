@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.35
+        t:
+          - c: "71.9"
+      tx:
+        f: 438.95
+      h: "50331055093"
+      t: ga
+      s: "5"
+      p: 10
+      u:
+        - http://radioamatorzy.pl/
+      d: >-
+        Przemiennik jest włączony. Jego lokalizacja pozwala nam ( SKZD ) na częste
+        próby nowych rozwiązań, eksperymenty techniczne, sprawdzanie poprawności
+        działania podzespołów do innych przemienników.
+
+        Dlatego też ze względu na te lokalne uwarunkowania, prace konstrukcyjne, próby itp może być chwilowo wyłączony, zmieniony tryb pracy czy sposób otwarcia itp.
+h:
+  "50331055093":
+    x:
+      - 70cm: 0
+    p: Sosnowiec
+    e: 406
+    g: 0
+    a: 50.312352
+    o: 19.198926
+o:
+  - SQ9CNN
+page: https://mapy73.pl/repeater/SR9KD

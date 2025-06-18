@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+      tx:
+        f: 145.625
+      h: "58859065833"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "58859065833":
+    x:
+      - 2m: 0
+    p: Sunnhordland / Kattnakken
+    e: 723
+    g: 0
+    a: 58.8542
+    o: 5.45833
+o: []
+page: https://mapy73.pl/repeater/LA5VR

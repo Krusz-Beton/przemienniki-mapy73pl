@@ -1,0 +1,25 @@
+x:
+  23cm:
+    - rx:
+        f: 1291.2
+        t:
+          - b: ""
+      tx:
+        f: 1297.2
+      h: "56059016151"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "56059016151":
+    x:
+      - 23cm: 0
+    p: Helsingborg
+    e: 0
+    g: 0
+    a: 56.046467
+    o: 12.694512
+o: []
+page: https://mapy73.pl/repeater/SK7CY

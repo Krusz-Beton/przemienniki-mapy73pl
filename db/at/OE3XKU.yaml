@@ -1,0 +1,25 @@
+h:
+  "48274031755":
+    a: 48.258298
+    o: 16.019551
+    p: Sieghartskirchen
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "48274031755"
+      u: []
+      d: ""
+      p: 1
+      t: e
+      s: "4"
+      tx:
+        f: 431.7
+      rx:
+        f: 431.7
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/OE3XKU

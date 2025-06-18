@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.65
+      tx:
+        f: 434.65
+      h: "57944099390"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "57944099390":
+    x:
+      - 70cm: 0
+    p: Ulricehamn / Blidsberg
+    e: 202
+    g: 7
+    a: 57.9315
+    o: 13.4939
+o:
+  - H\u00e5kan
+page: https://mapy73.pl/repeater/SM6WVY.R

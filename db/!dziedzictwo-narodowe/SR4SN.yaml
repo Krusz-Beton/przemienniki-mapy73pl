@@ -1,0 +1,54 @@
+x:
+  70cm:
+    - rx:
+        f: 431.275
+        t:
+          - a: ""
+          - c: "67.0"
+          - f: "4"
+      tx:
+        f: 438.875
+      h: "53585068416"
+      t: geab
+      s: "6"
+      p: 15
+      u:
+        - https://brandmeister.network/?page=repeater&id=260403
+        - http://dmrplus.pl
+        - http://kurpie.hblink.network/
+        - https://sp4.jestok.com
+      d: |-
+        Antena Diamond, urządzenie Motorola 2x GM340 + Modem MMDVM
+
+        Brandmeister
+        Color Code 4
+        TG statyczne TS1: 260, 2604
+        TG statyczne TS2: 26041, 26059
+        Do łączności lokalnych TG9 TS2
+
+        DMR+
+        Color Code 4
+        TG statyczna TS1: 260 (uruchamiana grupą 1260)
+        Do łączności lokalnych TG9 TS2 (uruchamiana grupą 90)
+
+        DMR Serwer
+        Color Code 4
+        TG statyczna TS1: 260 (uruchamiana grupą 2260)
+        Do łączności lokalnych TG7 TS2 (uruchamiana grupą 3)
+      e1:
+        - 2604
+      e2:
+        - 26041
+        - 26059
+h:
+  "53585068416":
+    x:
+      - 70cm: 0
+    p: Szczytno
+    e: 142
+    g: 0
+    a: 53.564684
+    o: 21.00016
+o:
+  - SP4TWQ
+page: https://mapy73.pl/repeater/SR4SN

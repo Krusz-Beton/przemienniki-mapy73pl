@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+      tx:
+        f: 145.625
+      h: "62456072675"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "62456072675":
+    x:
+      - 2m: 0
+    p: Vemdalen
+    e: 0
+    g: 0
+    a: 62.44286
+    o: 13.86675
+o:
+  - SM\u00d8DQX
+page: https://mapy73.pl/repeater/SK3RQC

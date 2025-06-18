@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - h: "51225008042"
+      u: []
+      d: ""
+      p: 10
+      t: e
+      s: "4"
+      tx:
+        f: 438.6125
+      rx:
+        f: 431.0125
+        t:
+          - f: "1"
+      e1:
+        - 2607
+      e2:
+        - 26071
+h:
+  "51225008042":
+    x:
+      - 70cm: 0
+    p: Góra Kamieńsk wieża EmiTel
+    e: 387
+    g: 75
+    a: 51.205645
+    o: 19.435416
+o:
+  - SQ7SCC
+  - SP7CC
+page: https://mapy73.pl/repeater/SR7FUS

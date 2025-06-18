@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 430.45
+        t:
+          - a: ""
+      tx:
+        f: 438.05
+      h: "51818037500"
+      t: b
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "51818037500":
+    x:
+      - 70cm: 0
+    p: Nijmegen
+    e: 0
+    g: 0
+    a: 51.8125
+    o: 5.875
+o: []
+page: https://mapy73.pl/repeater/PI1NYM

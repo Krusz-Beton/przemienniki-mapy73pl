@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "60570070833"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://echolink.org/logins.jsp
+      d: ""
+h:
+  "60570070833":
+    x:
+      - 2m: 0
+    p: Geilo / Hallingdal
+    e: 1070
+    g: 0
+    a: 60.5625
+    o: 8.20833
+o: []
+page: https://mapy73.pl/repeater/LA8HR

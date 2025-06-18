@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.425
+        t:
+          - b: ""
+      tx:
+        f: 439.025
+      h: "54506028794"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "54506028794":
+    x:
+      - 70cm: 0
+    p: Fehmarn / Puttgarden
+    e: 6
+    g: 0
+    a: 54.495089
+    o: 11.198941
+o: []
+page: https://mapy73.pl/repeater/DB0IF

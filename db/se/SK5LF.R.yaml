@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.725
+      tx:
+        f: 434.725
+      h: "58415013819"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk5lf.se/
+      d: ""
+h:
+  "58415013819":
+    x:
+      - 70cm: 0
+    p: Linköping / Majelden
+    e: 82
+    g: 0
+    a: 58.3995
+    o: 15.63819
+o: []
+page: https://mapy73.pl/repeater/SK5LF.R

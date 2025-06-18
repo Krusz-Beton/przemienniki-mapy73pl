@@ -1,0 +1,57 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "47432005729"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.db0zu.org
+      d: ""
+  70cm:
+    - rx:
+        f: 431.25
+        t:
+          - b: ""
+      tx:
+        f: 438.85
+      h: "47432005729"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.db0zu.org
+      d: ""
+  23cm:
+    - rx:
+        f: 1270.6
+        t:
+          - b: ""
+      tx:
+        f: 1298.6
+      h: "47432005729"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.db0zu.org/
+      d: ""
+h:
+  "47432005729":
+    x:
+      - 2m: 0
+      - 70cm: 0
+      - 23cm: 0
+    p: Zugspitze
+    e: 2963
+    g: 0
+    a: 47.421072
+    o: 10.985293
+o:
+  - DJ3YB
+page: https://mapy73.pl/repeater/DB0ZU

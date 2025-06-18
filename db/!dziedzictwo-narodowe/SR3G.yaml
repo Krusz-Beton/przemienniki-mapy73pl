@@ -1,0 +1,29 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+        t:
+          - c: "77.0"
+      tx:
+        f: 145.75
+        t:
+          - c: "77.0"
+      h: "52747048047"
+      t: a
+      s: "5"
+      p: 8
+      u:
+        - http://sr3g.qrz.pl/
+      d: X-300
+h:
+  "52747048047":
+    x:
+      - 2m: 0
+    p: Gorzów Wielkopolski
+    e: 110
+    g: 40
+    a: 52.732269
+    o: 15.211474
+o:
+  - SP3CMX
+page: https://mapy73.pl/repeater/SR3G

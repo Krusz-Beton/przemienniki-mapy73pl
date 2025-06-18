@@ -1,0 +1,39 @@
+x:
+  70cm:
+    - rx:
+        f: 432.625
+      tx:
+        f: 434.625
+      h: "55451057622"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.jystrup-net.dk/oz3rej/
+      d: ""
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+      tx:
+        f: 145.625
+      h: "55451057622"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.jystrup-net.dk/oz3rej/
+      d: ""
+h:
+  "55451057622":
+    x:
+      - 70cm: 0
+      - 2m: 0
+    p: Ringsted
+    e: 71
+    g: 48
+    a: 55.43978
+    o: 11.79622
+o: []
+page: https://mapy73.pl/repeater/OZ3REJ

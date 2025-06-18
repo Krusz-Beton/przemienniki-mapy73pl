@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8125
+        t:
+          - a: ""
+      tx:
+        f: 430.2125
+      h: "52151045833"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "52151045833":
+    x:
+      - 70cm: 0
+    p: Barneveld
+    e: 0
+    g: 0
+    a: 52.14583
+    o: 5.625
+o: []
+page: https://mapy73.pl/repeater/PI2TWR

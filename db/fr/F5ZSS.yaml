@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - b: ""
+      tx:
+        f: 145.675
+      h: "43187062500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "43187062500":
+    x:
+      - 2m: 0
+    p: BARBAZAN-DEBAT
+    e: 0
+    g: 0
+    a: 43.1875
+    o: 0.125
+o: []
+page: https://mapy73.pl/repeater/F5ZSS

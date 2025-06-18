@@ -1,0 +1,23 @@
+x:
+  2m:
+    - rx:
+        f: 145.1375
+      tx:
+        f: 145.7375
+      h: "53158004167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "53158004167":
+    x:
+      - 2m: 0
+    p: Wittstock-Pritzwalk
+    e: 95
+    g: 25
+    a: 53.14583
+    o: 12.20833
+o: []
+page: https://mapy73.pl/repeater/DB0WIT

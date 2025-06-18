@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.65
+        t:
+          - a: ""
+      tx:
+        f: 439.25
+        t:
+          - c: "88.5"
+      h: "53729008510"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://sr2ky.dbv.pl/news.php
+      d: |-
+        Przemiennik Powiślański 
+        RX - Motorola GM1200, TX - Motorola GM600, 
+        Ant. Diamond X-300
+h:
+  "53729008510":
+    x:
+      - 70cm: 0
+    p: Kwidzyn
+    e: 69
+    g: 30
+    a: 53.71013
+    o: 18.955103
+o:
+  - SP2JJ
+page: https://mapy73.pl/repeater/SR2KY

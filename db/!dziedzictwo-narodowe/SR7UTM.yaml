@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.5
+        t:
+          - a: ""
+      tx:
+        f: 439.1
+      h: "51567092193"
+      t: b
+      s: "5"
+      p: 10
+      u: []
+      d: |-
+        Komin Wistom.
+        Antena zawieszona 100m n.p.g
+h:
+  "51567092193":
+    x:
+      - 70cm: 0
+    p: Tomaszów Mazowiecki
+    e: 310
+    g: 100
+    a: 51.547877
+    o: 20.044931
+o:
+  - SQ7FJB
+page: https://mapy73.pl/repeater/SR7UTM

@@ -1,0 +1,37 @@
+x:
+  70cm:
+    - rx:
+        f: 431.325
+        t:
+          - a: ""
+          - c: "103.5"
+      tx:
+        f: 438.925
+        t:
+          - c: "103.5"
+      h: "49719012543"
+      t: ga
+      s: "5"
+      p: 10
+      u:
+        - https://kksr.pl
+        - https://www.facebook.com/sp8kbn/
+        - http://ot18.pzk.org.pl/
+        - http://www.sp8kbn.pl.tl
+      d: |-
+        Antena Diamond X-30
+        Duplekser współosiowy 6-komorowy
+        2x Motorola GM360
+        Raspberry Pi + MMDVM
+h:
+  "49719012543":
+    x:
+      - 70cm: 0
+    p: Krosno
+    e: 274
+    g: 40
+    a: 49.697373
+    o: 21.752431
+o:
+  - SP8RHT
+page: https://mapy73.pl/repeater/SR8KSR

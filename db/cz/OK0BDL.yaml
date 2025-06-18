@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.825
+        t:
+          - c: "82.5"
+      tx:
+        f: 439.425
+        t:
+          - c: "82.5"
+      h: "49564057734"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.prevadece.cz/dmr/sit
+      d: ""
+h:
+  "49564057734":
+    x:
+      - 70cm: 0
+    p: Lysá Hora
+    e: 1323
+    g: 0
+    a: 49.546129
+    o: 18.448337
+o:
+  - OK2QW
+page: https://mapy73.pl/repeater/OK0BDL

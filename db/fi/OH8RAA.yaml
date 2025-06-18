@@ -1,0 +1,49 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+        t:
+          - b: ""
+      tx:
+        f: 145.75
+      h: "65041029650"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://oh8aa.sral.fi/
+      d: ""
+  70cm:
+    - rx:
+        f: 432.75
+        t:
+          - b: ""
+      tx:
+        f: 434.75
+      h: "64926054210"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://oh8aa.sral.fi/
+      d: ""
+h:
+  "65041029650":
+    x:
+      - 2m: 0
+    p: Oulu
+    e: 95
+    g: 43
+    a: 65.0158
+    o: 25.4965
+  "64926054210":
+    x:
+      - 70cm: 0
+    p: Oulu
+    e: 73
+    g: 53
+    a: 64.901
+    o: 25.5421
+o:
+  - OH8KH
+page: https://mapy73.pl/repeater/OH8RAA

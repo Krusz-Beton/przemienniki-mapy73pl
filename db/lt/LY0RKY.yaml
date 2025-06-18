@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+        t:
+          - b: ""
+      tx:
+        f: 145.75
+      h: "54668062500"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.lrmd.lt/retransliatoriai_en.htm
+      d: ""
+h:
+  "54668062500":
+    x:
+      - 2m: 0
+    p: Kybartai
+    e: 165
+    g: 90
+    a: 54.64583
+    o: 22.79167
+o:
+  - LY3PDS
+page: https://mapy73.pl/repeater/LY0RKY

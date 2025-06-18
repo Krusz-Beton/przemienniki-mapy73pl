@@ -1,0 +1,97 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+          - e: "6"
+      tx:
+        f: 145.65
+      h: "57690049709"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6ag.org
+      d: ""
+  70cm:
+    - rx:
+        f: 432.6
+        t:
+          - b: ""
+          - e: "6"
+      tx:
+        f: 434.6
+      h: "57690049109"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6ag.org
+      d: ""
+  6m:
+    - rx:
+        f: 51.27
+        t:
+          - b: ""
+          - e: "6"
+      tx:
+        f: 51.87
+      h: "57690050209"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6ag.org
+      d: ""
+  10m:
+    - rx:
+        f: 29.58
+        t:
+          - b: ""
+          - e: "6"
+      tx:
+        f: 29.68
+      h: "57690049509"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6ag.org
+      d: ""
+h:
+  "57690049709":
+    x:
+      - 2m: 0
+    p: Göteborg / Guldheden
+    e: 160
+    g: 50
+    a: 57.67851
+    o: 11.98709
+  "57690049109":
+    x:
+      - 70cm: 0
+    p: Göteborg / Guldheden
+    e: 160
+    g: 50
+    a: 57.67851
+    o: 11.98109
+  "57690050209":
+    x:
+      - 6m: 0
+    p: Göteborg / Guldheden
+    e: 0
+    g: 0
+    a: 57.678519
+    o: 11.98309
+  "57690049509":
+    x:
+      - 10m: 0
+    p: Göteborg / Guldheden
+    e: 160
+    g: 50
+    a: 57.67851
+    o: 11.98509
+o:
+  - SM6VCM
+page: https://mapy73.pl/repeater/SK6RFQ

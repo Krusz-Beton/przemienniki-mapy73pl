@@ -1,0 +1,24 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+      tx:
+        f: 145.675
+      h: "63573014500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "63573014500":
+    x:
+      - 2m: 0
+    p: Nurmes
+    e: 178
+    g: 35
+    a: 63.544
+    o: 29.145
+o:
+  - OH7LNP
+page: https://mapy73.pl/repeater/OH7RAE

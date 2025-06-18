@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - a: ""
+      tx:
+        f: 145.725
+      h: "55543029167"
+      t: a
+      s: "5"
+      p: 25
+      u:
+        - http://www.lrmd.lt/retransliatoriai_en.htm
+      d: ""
+h:
+  "55543029167":
+    x:
+      - 2m: 0
+    p: Kryžkalnis
+    e: 173
+    g: 78
+    a: 55.52083
+    o: 22.45833
+o: []
+page: https://mapy73.pl/repeater/LY0ROM

@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.35
+        t:
+          - b: ""
+      tx:
+        f: 438.95
+      h: "51743079167"
+      t: da
+      s: "5"
+      p: 0
+      u:
+        - http://www.darc.de/der-club/distrikte/y/ortsverbaende/33/relais-db0nfl/
+      d: ""
+h:
+  "51743079167":
+    x:
+      - 70cm: 0
+    p: Forst (Lausitz)
+    e: 0
+    g: 0
+    a: 51.72917
+    o: 14.625
+o:
+  - DC1JMF
+page: https://mapy73.pl/repeater/DB0NFL

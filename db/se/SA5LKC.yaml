@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.7
+      tx:
+        f: 434.7
+      h: "58579020900"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sa5lkc.se/
+      d: ""
+h:
+  "58579020900":
+    x:
+      - 70cm: 0
+    p: Norrköping
+    e: 0
+    g: 0
+    a: 58.563
+    o: 16.209
+o:
+  - Jocke
+page: https://mapy73.pl/repeater/SA5LKC

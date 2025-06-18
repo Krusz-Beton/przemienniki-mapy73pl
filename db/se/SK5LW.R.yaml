@@ -1,0 +1,109 @@
+x:
+  6m:
+    - rx:
+        f: 51.25
+      tx:
+        f: 51.85
+      h: "59287059170"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+  10m:
+    - rx:
+        f: 29.54
+      tx:
+        f: 29.64
+      h: "59300032098"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk5lw.com/esa/
+      d: ""
+  2m:
+    - rx:
+        f: 145.0125
+        t:
+          - b: ""
+          - e: "5"
+      tx:
+        f: 145.6125
+      h: "59245062500"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk5lw.com/esa/index.php/repeater
+      d: ""
+    - rx:
+        f: 144.975
+        t:
+          - a: ""
+      tx:
+        f: 145.575
+      h: "59409090465"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk5lw.com/esa/index.php/repeater
+      d: ""
+  70cm:
+    - rx:
+        f: 432.85
+      tx:
+        f: 434.85
+      h: "59409090165"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk5lw.com/esa/index.php/repeater
+      d: ""
+h:
+  "59287059170":
+    x:
+      - 6m: 0
+    p: Eskilstuna / Ärla
+    e: 0
+    g: 0
+    a: 59.2708
+    o: 16.7917
+  "59300032098":
+    x:
+      - 10m: 0
+    p: Eskilstuna / Ärla
+    e: 28
+    g: 79
+    a: 59.28364
+    o: 16.68098
+  "59245062500":
+    x:
+      - 2m: 0
+    p: Eskilstuna / Slytan
+    e: 100
+    g: 30
+    a: 59.229
+    o: 16.625
+  "59409090465":
+    x:
+      - 2m: 1
+    p: Eskilstuna / Hällby
+    e: 50
+    g: 38
+    a: 59.39348
+    o: 16.42465
+  "59409090165":
+    x:
+      - 70cm: 0
+    p: Eskilstuna / Hällby
+    e: 50
+    g: 33
+    a: 59.39348
+    o: 16.42165
+o:
+  - SM5OXV
+  - Christian
+page: https://mapy73.pl/repeater/SK5LW.R

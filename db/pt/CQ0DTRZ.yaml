@@ -1,0 +1,25 @@
+h:
+  "40778064156":
+    a: 40.786999
+    o: -8.357441
+    p: Serra do Arestal
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "40778064156"
+      u: []
+      d: ""
+      p: 25
+      t: e
+      s: "4"
+      tx:
+        f: 438.3125
+      rx:
+        f: 430.7125
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/CQ0DTRZ

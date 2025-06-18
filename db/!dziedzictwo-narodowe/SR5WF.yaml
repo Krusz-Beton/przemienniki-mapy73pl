@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6
+        t:
+          - a: ""
+      tx:
+        f: 439.2
+      h: "52268003091"
+      t: b
+      s: "2"
+      p: 15
+      u:
+        - https://www.qrz.com/db/sr5wf
+      d: |-
+        Moduły: Icom ID-RP2C + ID-RP4000V
+        Antena: Diamond X-7000
+h:
+  "52268003091":
+    x:
+      - 70cm: 0
+    p: Warszawa
+    e: 85
+    g: 55
+    a: 52.246944
+    o: 21.086911
+o:
+  - SP5QWK
+page: https://mapy73.pl/repeater/SR5WF

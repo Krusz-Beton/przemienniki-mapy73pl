@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.075
+        t:
+          - c: "77.0"
+      tx:
+        f: 438.675
+        t:
+          - c: "77.0"
+      h: "51155033221"
+      t: da
+      s: "6"
+      p: 10
+      u:
+        - http://www.sp8prl.pl/forum/viewthread.php?thread_id=57
+      d: MC2100, GM350
+h:
+  "51155033221":
+    x:
+      - 70cm: 0
+    p: Chełm
+    e: 199
+    g: 12
+    a: 51.13186
+    o: 23.472208
+o:
+  - SP8ENS
+page: https://mapy73.pl/repeater/SR8CH

@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.425
+        t:
+          - c: "110.9"
+      tx:
+        f: 439.025
+        t:
+          - c: "110.9"
+      h: "52476006193"
+      t: ga
+      s: "5"
+      p: 15
+      u: []
+      d: |-
+        Diamond X-200 / 10m kabla / duplekser separacja -120dB 
+        C4FM FUSION WIRES-X
+h:
+  "52476006193":
+    x:
+      - 70cm: 0
+    p: Poznań
+    e: 230
+    g: 0
+    a: 52.459156
+    o: 16.905933
+o:
+  - SP3YEE
+page: https://mapy73.pl/repeater/SR3XX

@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 430.8
+        t:
+          - f: "5"
+      tx:
+        f: 438.4
+      h: "52196005593"
+      t: ge
+      s: "6"
+      p: 15
+      u:
+        - https://sp5.jestok.com/sr5wd/
+      d: >-
+        Antena: Sigma Wireless SA-410 4x dipol 1/2 fali - zysk 5dB - polaryzacja
+        pionowa; urządzenie : 2x Motorola i MMDVM
+
+
+        Przemiennik pracuje tylko w Narrow FM (NFM)
+h:
+  "52196005593":
+    x:
+      - 70cm: 0
+    p: Moszna-Parcela
+    e: 341
+    g: 256
+    a: 52.175313
+    o: 20.742929
+o:
+  - SQ5AGQ
+page: https://mapy73.pl/repeater/SR5WD

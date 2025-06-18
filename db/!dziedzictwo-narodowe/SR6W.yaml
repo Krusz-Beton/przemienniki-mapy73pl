@@ -1,0 +1,34 @@
+x:
+  2m:
+    - rx:
+        f: 145.0625
+        t:
+          - c: "94.8"
+      tx:
+        f: 145.6625
+        t:
+          - c: "94.8"
+      h: "50838099775"
+      t: aj
+      s: "4"
+      p: 5
+      u:
+        - http://sr6dwb.hamradio.pl
+        - http://fm-poland.pl
+      d: GM350, ant X-50
+      j1:
+        - 2606
+        - 260692
+h:
+  "50838099775":
+    x:
+      - 2m: 0
+    p: Wałbrzych
+    e: 470
+    g: 40
+    a: 50.822722
+    o: 16.275748
+o:
+  - SQ6ELQ
+  - SQ6RR
+page: https://mapy73.pl/repeater/SR6W

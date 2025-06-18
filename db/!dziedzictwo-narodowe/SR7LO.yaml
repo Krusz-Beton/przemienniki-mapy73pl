@@ -1,0 +1,26 @@
+x:
+  23cm:
+    - rx:
+        f: 1270.7
+        t:
+          - a: ""
+      tx:
+        f: 1298.7
+      h: "51793054291"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: Antena COMET GP21
+h:
+  "51793054291":
+    x:
+      - 23cm: 0
+    p: Łódź
+    e: 327
+    g: 77
+    a: 51.774038
+    o: 19.504914
+o:
+  - SP7TEE
+page: https://mapy73.pl/repeater/SR7LO

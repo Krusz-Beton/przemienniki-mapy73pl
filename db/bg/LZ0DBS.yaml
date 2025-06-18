@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432
+        t:
+          - a: ""
+      tx:
+        f: 439.6
+      h: "42494076006"
+      t: b
+      s: "5"
+      p: 23
+      u:
+        - http://www.repeaters.bg
+      d: ""
+h:
+  "42494076006":
+    x:
+      - 70cm: 0
+    p: Бургас - м. Чиплака
+    e: 134
+    g: 0
+    a: 42.46736
+    o: 27.40006
+o:
+  - LZ3CB
+page: https://mapy73.pl/repeater/LZ0DBS

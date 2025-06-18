@@ -1,0 +1,46 @@
+x:
+  2m:
+    - rx:
+        f: 145
+        t:
+          - c: "67.0"
+      tx:
+        f: 145.6
+      h: "53038079209"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - https://sr4bi.pl
+        - http://fm-poland.pl
+      d: >-
+        Przemiennik pracuje na Motorolach GM360, jednej antenie Diamond X-510N wraz z
+        wąskopasmowym filtrem dupleksowym DP6-6,5-VHF firmy Elektrit sp. z o.o..
+
+
+        Jest podłączony do sieci FM-POLAND.
+      j0:
+        - 260493
+      j1:
+        - 112
+        - 260
+        - 2604
+        - 26004
+        - 260077
+        - 260493
+        - 260495
+        - 260497
+        - 260498
+        - 260505
+h:
+  "53038079209":
+    x:
+      - 2m: 0
+    p: Juchnowiec
+    e: 182
+    g: 27
+    a: 53.015657
+    o: 23.135085
+o:
+  - SP4DLD
+page: https://mapy73.pl/repeater/SR4X

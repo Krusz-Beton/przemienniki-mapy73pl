@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5125
+        t:
+          - a: ""
+      tx:
+        f: 434.5125
+      h: "55952011744"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=SK7DS%20&mod=B
+      d: ""
+h:
+  "55952011744":
+    x:
+      - 70cm: 0
+    p: Glumslöv
+    e: 0
+    g: 0
+    a: 55.9393
+    o: 12.81744
+o: []
+page: https://mapy73.pl/repeater/SK7DS

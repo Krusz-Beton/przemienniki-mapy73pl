@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.325
+        t:
+          - c: "82.5"
+      tx:
+        f: 438.925
+      h: "52250014872"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: antena Diamond X-200
+h:
+  "52250014872":
+    x:
+      - 70cm: 0
+    p: Kutno
+    e: 115
+    g: 12
+    a: 52.230773
+    o: 19.375715
+o:
+  - SP7IIX
+page: https://mapy73.pl/repeater/SR7KU

@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "67124082500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "67124082500":
+    x:
+      - 2m: 0
+    p: Gällivare / Malmberget
+    e: 0
+    g: 0
+    a: 67.1042
+    o: 20.625
+o: []
+page: https://mapy73.pl/repeater/SK2TP.R

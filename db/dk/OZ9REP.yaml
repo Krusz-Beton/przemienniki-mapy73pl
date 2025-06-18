@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.65
+        t:
+          - b: ""
+      tx:
+        f: 434.65
+      h: "57062081740"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://oz8jyl.dk/cms005/
+      d: ""
+h:
+  "57062081740":
+    x:
+      - 70cm: 0
+    p: Aalborg city
+    e: 0
+    g: 0
+    a: 57.0529
+    o: 9.9174
+o: []
+page: https://mapy73.pl/repeater/OZ9REP

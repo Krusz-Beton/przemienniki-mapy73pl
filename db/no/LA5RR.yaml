@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - b: ""
+      tx:
+        f: 145.675
+      h: "60160040000"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60160040000":
+    x:
+      - 2m: 0
+    p: Ringerike / Ringkollen
+    e: 710
+    g: 0
+    a: 60.15
+    o: 10.4
+o: []
+page: https://mapy73.pl/repeater/LA5RR

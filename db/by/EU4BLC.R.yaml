@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.825
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.425
+        t:
+          - c: "67.0"
+      h: "53711029167"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - https://t.me/teleganame
+      d: ""
+h:
+  "53711029167":
+    x:
+      - 70cm: 0
+    p: KO13VQ
+    e: 0
+    g: 0
+    a: 53.6875
+    o: 23.79167
+o:
+  - EU4BLC
+page: https://mapy73.pl/repeater/EU4BLC.R

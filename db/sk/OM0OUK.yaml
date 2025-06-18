@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.45
+      tx:
+        f: 439.05
+      h: "48799046201"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - https://mhz.sk/om0ouk/
+      d: ""
+h:
+  "48799046201":
+    x:
+      - 70cm: 0
+    p: Kojšovská hoľa
+    e: 1260
+    g: 0
+    a: 48.778489
+    o: 20.973008
+o:
+  - OM8KT
+page: https://mapy73.pl/repeater/OM0OUK

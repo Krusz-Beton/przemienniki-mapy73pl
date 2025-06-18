@@ -1,0 +1,91 @@
+x:
+  23cm:
+    - rx:
+        f: 1291.15
+        t:
+          - b: ""
+      tx:
+        f: 1297.15
+      h: "57690048509"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6ag.org/
+      d: ""
+  2m:
+    - rx:
+        f: 145.15
+        t:
+          - b: ""
+      tx:
+        f: 145.75
+      h: "57720082518"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+    - rx:
+        f: 144.9875
+        t:
+          - a: ""
+      tx:
+        f: 145.5875
+      h: "57773080741"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=SK6RKI&mod=C
+      d: ""
+  70cm:
+    - rx:
+        f: 433.85
+        t:
+          - b: ""
+      tx:
+        f: 434.85
+      h: "57720082318"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "57690048509":
+    x:
+      - 23cm: 0
+    p: Göteborg / Guldheden
+    e: 120
+    g: 0
+    a: 57.67851
+    o: 11.97509
+  "57720082518":
+    x:
+      - 2m: 0
+    p: Göteborg / Öckerö
+    e: 0
+    g: 0
+    a: 57.70918
+    o: 11.64518
+  "57773080741":
+    x:
+      - 2m: 1
+    p: Göteborg / Kortedala
+    e: 0
+    g: 0
+    a: 57.76177
+    o: 12.03741
+  "57720082318":
+    x:
+      - 70cm: 0
+    p: Göteborg / Öckerö
+    e: 0
+    g: 0
+    a: 57.70918
+    o: 11.64318
+o:
+  - SM6VCM
+  - SM6FZG
+page: https://mapy73.pl/repeater/SK6RKI

@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6
+        t:
+          - f: "1"
+      tx:
+        f: 439.2
+      h: "45632098517"
+      t: e
+      s: "4"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+      e1:
+        - 293
+        - 293112
+      e2:
+        - 29310
+h:
+  "45632098517":
+    x:
+      - 70cm: 0
+    p: Knežak
+    e: 1028
+    g: 0
+    a: 45.618745
+    o: 14.240168
+o:
+  - S56KHL
+page: https://mapy73.pl/repeater/S55DKE

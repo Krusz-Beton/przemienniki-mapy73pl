@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.15
+        t:
+          - c: "118.8"
+      tx:
+        f: 438.75
+        t:
+          - c: "118.8"
+      h: "51379015921"
+      t: ab
+      s: "5"
+      p: 15
+      u:
+        - https://sq5dcp.tomul.net/sr5rk/
+      d: Comet GH70 , kable 7/8 i 1&5/8, Motorola MTR2000, D-STAR i FM, DVRPTR +
+        oprogramowanie KI4LKF, Sterownik SQ5DCP
+h:
+  "51379015921":
+    x:
+      - 70cm: 0
+    p: Kozłowiec - Przysucha RTCN
+    e: 430
+    g: 120
+    a: 51.358587
+    o: 20.572206
+o:
+  - SQ7BCZ
+page: https://mapy73.pl/repeater/SR5RK

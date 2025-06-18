@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7
+        t:
+          - c: "79.7"
+      tx:
+        f: 439.3
+      h: "51232004167"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://svxportal.on4akh.be/list_reciver.php
+      d: ""
+h:
+  "51232004167":
+    x:
+      - 70cm: 0
+    p: Oostende
+    e: 0
+    g: 0
+    a: 51.22917
+    o: 2.875
+o: []
+page: https://mapy73.pl/repeater/ON0OST

@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+      tx:
+        f: 145.75
+      h: "63204056680"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk3jr.se/
+      d: ""
+h:
+  "63204056680":
+    x:
+      - 2m: 0
+    p: Östersund
+    e: 0
+    g: 0
+    a: 63.1898
+    o: 14.7668
+o:
+  - Berth
+page: https://mapy73.pl/repeater/SK3JR.R

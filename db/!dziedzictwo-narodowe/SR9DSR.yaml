@@ -1,0 +1,31 @@
+x:
+  2m:
+    - rx:
+        f: 144.9875
+        t:
+          - f: "1"
+      tx:
+        f: 145.5875
+      h: "49757039833"
+      t: e
+      s: "6"
+      p: 15
+      u:
+        - http://sp9kmq.sp-radio.eu
+      d: >-
+        Przemiennik cyfrowy Hytera RD625 pracujący w trybie cyfrowym DMR. Ustawienie
+        CC 1.
+
+        Przemiennik pracuje w sieci BM DMR.
+h:
+  "49757039833":
+    x:
+      - 2m: 0
+    p: Klimczok
+    e: 1075
+    g: 6
+    a: 49.738391
+    o: 19.007333
+o:
+  - SP9EUN
+page: https://mapy73.pl/repeater/SR9DSR

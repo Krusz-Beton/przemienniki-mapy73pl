@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.325
+        t:
+          - a: ""
+      tx:
+        f: 438.925
+      h: "53142063200"
+      t: a
+      s: "6"
+      p: 10
+      u:
+        - http://www.hamradio.biaman.pl/ukf/ukf.htm
+      d: "Lokalizacja: Politechnika Białostocka, Zysk anteny: 10dBd"
+h:
+  "53142063200":
+    x:
+      - 70cm: 0
+    p: Białystok, Politechnika Białostocka
+    e: 141
+    g: 40
+    a: 53.11948
+    o: 23.152
+o:
+  - SP4JCQ
+page: https://mapy73.pl/repeater/SR4BK

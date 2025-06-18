@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7
+        t:
+          - c: "88.5"
+      tx:
+        f: 439.3
+        t:
+          - c: "88.5"
+      h: "49904017489"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://www.ok0bap.estranky.cz
+      d: ""
+h:
+  "49904017489":
+    x:
+      - 70cm: 0
+    p: Litomyšl - Libecina
+    e: 500
+    g: 0
+    a: 49.888056
+    o: 16.118889
+o:
+  - OK7IT
+page: https://mapy73.pl/repeater/OK0BAP

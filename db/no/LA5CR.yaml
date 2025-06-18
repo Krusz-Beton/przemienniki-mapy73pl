@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.675
+        t:
+          - b: ""
+      tx:
+        f: 434.675
+      h: "58651050830"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "58651050830":
+    x:
+      - 70cm: 0
+    p: Jæren / Sandnes
+    e: 0
+    g: 0
+    a: 58.6458
+    o: 5.7083
+o: []
+page: https://mapy73.pl/repeater/LA5CR

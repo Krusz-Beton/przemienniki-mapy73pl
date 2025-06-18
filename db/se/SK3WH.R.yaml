@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.875
+        t:
+          - b: ""
+      tx:
+        f: 434.875
+      h: "63315003380"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk3lh.se
+      d: ""
+h:
+  "63315003380":
+    x:
+      - 70cm: 0
+    p: Örnsköldsvik
+    e: 0
+    g: 0
+    a: 63.2963
+    o: 18.7338
+o:
+  - \u00d6rjan
+page: https://mapy73.pl/repeater/SK3WH.R

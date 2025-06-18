@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.125
+        t:
+          - c: "77.0"
+      tx:
+        f: 438.725
+      h: "49672011778"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: ""
+h:
+  "49672011778":
+    x:
+      - 70cm: 0
+    p: Praha - Brdy
+    e: 897
+    g: 0
+    a: 49.6583
+    o: 13.81778
+o:
+  - OK1VUM
+page: https://mapy73.pl/repeater/OK0BR

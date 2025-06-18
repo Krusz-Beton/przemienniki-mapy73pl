@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 430.775
+        t:
+          - a: ""
+          - f: "1"
+      tx:
+        f: 438.375
+      h: "45985020016"
+      t: eb
+      s: "4"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+      e1:
+        - 293
+        - 293112
+      e2:
+        - 29311
+h:
+  "45985020016":
+    x:
+      - 70cm: 0
+    p: Čretež (Krško)
+    e: 429
+    g: 0
+    a: 45.969742
+    o: 15.458162
+o:
+  - S56CT
+page: https://mapy73.pl/repeater/S55DKK

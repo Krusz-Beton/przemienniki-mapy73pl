@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.725
+      tx:
+        f: 434.725
+      h: "59362038952"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk4il.se/
+      d: ""
+h:
+  "59362038952":
+    x:
+      - 70cm: 0
+    p: Grums
+    e: 0
+    g: 0
+    a: 59.3493
+    o: 13.08952
+o: []
+page: https://mapy73.pl/repeater/SK4IL.R

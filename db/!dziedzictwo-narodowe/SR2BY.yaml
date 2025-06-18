@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.125
+        t:
+          - b: ""
+          - c: "67.0"
+      tx:
+        f: 438.725
+        t:
+          - c: "67.0"
+      h: "53127026014"
+      t: a
+      s: "6"
+      p: 0
+      u: []
+      d: |-
+        Przemiennik według doniesień chwilowo wyłączony
+        Antena: X-510N
+h:
+  "53127026014":
+    x:
+      - 70cm: 0
+    p: Bydgoszcz
+    e: 108
+    g: 40
+    a: 53.10927
+    o: 17.990141
+o:
+  - SP2BZW
+page: https://mapy73.pl/repeater/SR2BY

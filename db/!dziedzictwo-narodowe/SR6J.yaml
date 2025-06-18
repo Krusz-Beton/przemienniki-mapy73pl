@@ -1,0 +1,33 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - c: "67.0"
+      tx:
+        f: 145.675
+        t:
+          - c: "67.0"
+      h: "50810038483"
+      t: a
+      s: "5"
+      p: 5
+      u:
+        - https://sp6pcp.pl/tag/sr6j/
+      d: |-
+        RX/TX: VERTEX VXR-9000
+        Duplexer: IK-TELECOM DPRH4-6-2M
+        Fider: 7m, 1/2 FSJ4-50B ANDREW
+        Antena: RADMOR 32812/1 , 2.15dBi
+h:
+  "50810038483":
+    x:
+      - 2m: 0
+    p: Góra Szrenica/Szklarska Poręba
+    e: 1310
+    g: 5
+    a: 50.79487
+    o: 15.514833
+o:
+  - SP6R
+page: https://mapy73.pl/repeater/SR6J

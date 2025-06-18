@@ -1,0 +1,24 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+      tx:
+        f: 145.675
+      h: "65121057955"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "65121057955":
+    x:
+      - 2m: 0
+    p: Fatmomakke
+    e: 0
+    g: 0
+    a: 65.10645
+    o: 15.12955
+o:
+  - J\u00f6rgen
+page: https://mapy73.pl/repeater/SM2TBQ.R

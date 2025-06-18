@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.925
+      tx:
+        f: 434.925
+      h: "55453057622"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "55453057622":
+    x:
+      - 70cm: 0
+    p: Ystad
+    e: 20
+    g: 6
+    a: 55.43978
+    o: 13.79622
+o:
+  - Anders
+page: https://mapy73.pl/repeater/SA7CCO.R

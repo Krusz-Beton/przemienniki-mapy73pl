@@ -1,0 +1,46 @@
+x:
+  70cm:
+    - rx:
+        f: 432.9
+        t:
+          - a: ""
+      tx:
+        f: 434.9
+      h: "60416088500"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=SK4BW%20&mod=B
+      d: ""
+    - rx:
+        f: 432.85
+      tx:
+        f: 434.85
+      h: "60416089100"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://www.swedmr.se
+      d: ""
+h:
+  "60416088500":
+    x:
+      - 70cm: 0
+    p: Borlänge
+    e: 308
+    g: 14
+    a: 60.40142
+    o: 15.465
+  "60416089100":
+    x:
+      - 70cm: 1
+    p: Borlänge
+    e: 308
+    g: 14
+    a: 60.40142
+    o: 15.471
+o:
+  - sk4bw
+page: https://mapy73.pl/repeater/SK4BW

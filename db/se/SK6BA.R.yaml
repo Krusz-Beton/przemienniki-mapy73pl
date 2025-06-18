@@ -1,0 +1,51 @@
+x:
+  2m:
+    - rx:
+        f: 145
+        t:
+          - b: ""
+          - e: "1"
+      tx:
+        f: 145.6
+      h: "57522009770"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk6ba.se/repeater/
+      d: ""
+  70cm:
+    - rx:
+        f: 432.95
+        t:
+          - b: ""
+          - e: "1"
+      tx:
+        f: 434.95
+      h: "57522010000"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk6ba.se/repeater/
+      d: ""
+h:
+  "57522009770":
+    x:
+      - 2m: 0
+    p: Skene
+    e: 150
+    g: 18
+    a: 57.5095
+    o: 12.5977
+  "57522010000":
+    x:
+      - 70cm: 0
+    p: Skene
+    e: 150
+    g: 18
+    a: 57.5095
+    o: 12.6
+o:
+  - SM6FBD
+page: https://mapy73.pl/repeater/SK6BA.R

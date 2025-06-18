@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.7
+      tx:
+        f: 434.7
+      h: "58520003020"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "58520003020":
+    x:
+      - 70cm: 0
+    p: Lidköping
+    e: 50
+    g: 70
+    a: 58.50686
+    o: 13.1702
+o:
+  - SA6APY
+page: https://mapy73.pl/repeater/SA6APY.R

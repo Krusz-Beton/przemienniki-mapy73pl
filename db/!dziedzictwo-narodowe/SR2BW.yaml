@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.1
+        t:
+          - a: ""
+      tx:
+        f: 438.7
+      h: "54198049345"
+      t: a
+      s: "5"
+      p: 8
+      u:
+        - http://sr2bw.qrz.pl/
+      d: BC-200
+h:
+  "54198049345":
+    x:
+      - 70cm: 0
+    p: Bytów - komin ciepłowni Veolia Północ
+    e: 145
+    g: 50
+    a: 54.181
+    o: 17.49345
+o:
+  - SQ1GPR
+page: https://mapy73.pl/repeater/SR2BW

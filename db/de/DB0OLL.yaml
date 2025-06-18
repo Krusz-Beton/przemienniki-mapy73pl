@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 430.95
+        t:
+          - a: ""
+          - f: "1"
+      tx:
+        f: 438.55
+      h: "51106003821"
+      t: ge
+      s: "4"
+      p: 5
+      u:
+        - https://dmr02.bzsax.de:8488/
+      d: ""
+      e2:
+        - 262907
+h:
+  "51106003821":
+    x:
+      - 70cm: 0
+    p: Löbauer Berg
+    e: 448
+    g: 10
+    a: 51.091346
+    o: 14.692207
+o:
+  - DL1BZ
+page: https://mapy73.pl/repeater/DB0OLL

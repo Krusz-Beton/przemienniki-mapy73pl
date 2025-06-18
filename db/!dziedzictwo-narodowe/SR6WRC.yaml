@@ -1,0 +1,60 @@
+r:
+  - - 70cm: 0
+    - 4m: 0
+    - 4m: 1
+x:
+  70cm:
+    - rx:
+        f: 430.175
+        t:
+          - c: "103.5"
+      h: "51079037500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: >-
+        anteny - X-200 Diamond,
+
+        radiostacja - Yaesu VX-2000U
+
+        sterownik - ATMega32 (home made)
+
+
+        Zmiana częstotliwości w pasmie 4m następuje poprzez wysłanie sekwencji DTMF - odpowiednio 26# lub 28#. Przemiennik powraca automatycznie na częstotliwość 70,260 MHz ("kanał postojowy") po 5 minutach braku aktywności. Możliwy jest również pomiar siły sygnału w pasmie 70 cm poprzez podanie komendy DTMF 17#. Siła sygnału podawana jest telegrafią.
+  4m:
+    - tx:
+        f: 70.26
+        t:
+          - c: "103.5"
+      h: "0"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: |-
+        antena -  Verical 1/2 lambda (home made)
+        radiostacja - Motorola M110
+    - tx:
+        f: 70.28
+        t:
+          - c: "103.5"
+      h: "51079037500"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: |-
+        antena -  Verical 1/2 lambda (home made)
+        radiostacja - Motorola M110          
+h:
+  "51079037500":
+    x: []
+    p: Mokronos Gorny
+    e: 0
+    g: 0
+    a: 51.0625
+    o: 16.875
+o:
+  - SP6SMC
+page: https://mapy73.pl/repeater/SR6WRC

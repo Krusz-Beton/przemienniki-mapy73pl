@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 433.65
+        t:
+          - b: ""
+      tx:
+        f: 434.65
+      h: "67590077000"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oh9ar.fi/
+      d: ""
+h:
+  "67590077000":
+    x:
+      - 70cm: 0
+    p: Yllästunturi
+    e: 732
+    g: 16
+    a: 67.5667
+    o: 24.07
+o:
+  - OH9MWB
+page: https://mapy73.pl/repeater/OH9RUT

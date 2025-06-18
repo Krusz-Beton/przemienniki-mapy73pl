@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 430.75
+      tx:
+        f: 438.35
+      h: "50067052633"
+      t: a
+      s: "5"
+      p: 20
+      u:
+        - http://www.prevadece.cz/dmr/sit
+      d: ""
+h:
+  "50067052633":
+    x:
+      - 70cm: 0
+    p: Suchý vrch
+    e: 0
+    g: 0
+    a: 50.050833
+    o: 16.693333
+o:
+  - OK2JIB
+page: https://mapy73.pl/repeater/OK0DBF

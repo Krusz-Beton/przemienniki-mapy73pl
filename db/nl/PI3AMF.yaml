@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - a: ""
+      tx:
+        f: 145.625
+      h: "52151020833"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "52151020833":
+    x:
+      - 2m: 0
+    p: Amersfoort
+    e: 0
+    g: 0
+    a: 52.14583
+    o: 5.375
+o: []
+page: https://mapy73.pl/repeater/PI3AMF

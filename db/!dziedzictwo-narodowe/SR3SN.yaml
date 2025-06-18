@@ -1,0 +1,50 @@
+x:
+  70cm:
+    - rx:
+        f: 431.5
+        t:
+          - c: "100.0"
+      tx:
+        f: 439.1
+        t:
+          - c: "100.0"
+      h: "52259089920"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - http://sr3sn.pl
+        - http://fm-poland.pl
+      d: >-
+        2x Motorola GM1200, Diamond x520, przewód RF-10, RasberryPI 3 - Svxlink,
+        Duplexer PROXMOX, zasilanie awaryjne. 
+
+
+        Przemiennik wpięty do sieci FM-POLAND
+
+
+        Kontakt: przemiennik@sr3sn.pl
+      j0:
+        - 260391
+      j1:
+        - 112
+        - 260
+        - 2600
+        - 2603
+        - 26050
+        - 26080
+        - 31018
+        - 260019
+        - 260391
+h:
+  "52259089920":
+    x:
+      - 70cm: 0
+    p: Świebodzin
+    e: 117
+    g: 20
+    a: 52.2444
+    o: 15.4992
+o:
+  - HF3PMP
+page: https://mapy73.pl/repeater/SR3SN

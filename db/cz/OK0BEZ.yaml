@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.675
+        t:
+          - c: "88.5"
+      tx:
+        f: 439.275
+        t:
+          - c: "88.5"
+      h: "50332004017"
+      t: a
+      s: "5"
+      p: 5
+      u:
+        - http://www.ok0bez.com
+      d: ""
+h:
+  "50332004017":
+    x:
+      - 70cm: 0
+    p: Žatec
+    e: 295
+    g: 0
+    a: 50.318498
+    o: 13.542172
+o:
+  - OK1MJO
+page: https://mapy73.pl/repeater/OK0BEZ

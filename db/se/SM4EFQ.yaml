@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+      tx:
+        f: 145.7
+      h: "59740021283"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59740021283":
+    x:
+      - 2m: 0
+    p: Filipstad / Storhöjden
+    e: 300
+    g: 0
+    a: 59.72603
+    o: 14.18283
+o:
+  - SM4EFQ
+page: https://mapy73.pl/repeater/SM4EFQ

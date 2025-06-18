@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.075
+        t:
+          - f: "1"
+      tx:
+        f: 438.675
+      h: "56961062500"
+      t: e
+      s: "4"
+      p: 20
+      u:
+        - http://www.yl3bu.lv
+      d: ""
+      e1:
+        - 2470
+h:
+  "56961062500":
+    x:
+      - 70cm: 0
+    p: Riga
+    e: 0
+    g: 0
+    a: 56.9375
+    o: 24.125
+o:
+  - YL3CL
+page: https://mapy73.pl/repeater/YL3RCL

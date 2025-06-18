@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.75
+      tx:
+        f: 434.75
+      h: "60194093100"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60194093100":
+    x:
+      - 70cm: 0
+    p: Helsinki
+    e: 115
+    g: 86
+    a: 60.17
+    o: 24.931
+o:
+  - OH2AA
+page: https://mapy73.pl/repeater/OH2RUA

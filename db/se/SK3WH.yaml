@@ -1,0 +1,48 @@
+x:
+  2m:
+    - rx:
+        f: 144.975
+        t:
+          - a: ""
+      tx:
+        f: 145.575
+      h: "63315003186"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=SK3WH%20&mod=C
+      d: ""
+  23cm:
+    - rx:
+        f: 1291.275
+        t:
+          - b: ""
+      tx:
+        f: 1297.275
+      h: "62820040139"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "63315003186":
+    x:
+      - 2m: 0
+    p: Örnsköldsvik
+    e: 0
+    g: 0
+    a: 63.2963
+    o: 18.73186
+  "62820040139":
+    x:
+      - 23cm: 0
+    p: Högakustenbron
+    e: 0
+    g: 0
+    a: 62.802455
+    o: 17.946394
+o:
+  - \u00d6rjan
+page: https://mapy73.pl/repeater/SK3WH

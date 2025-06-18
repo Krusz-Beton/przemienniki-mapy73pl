@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 433.65
+        t:
+          - b: ""
+      tx:
+        f: 434.65
+      h: "62629076700"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oh7ab.fi/tietoa-kerhosta/kerhon-toistinasemat/
+      d: ""
+h:
+  "62629076700":
+    x:
+      - 70cm: 0
+    p: Joensuu
+    e: 145
+    g: 30
+    a: 62.6
+    o: 29.767
+o:
+  - OH7UE
+page: https://mapy73.pl/repeater/OH7RUB

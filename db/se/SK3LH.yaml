@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.575
+        t:
+          - a: ""
+      tx:
+        f: 434.575
+      h: "63244021800"
+      t: "0"
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "63244021800":
+    x:
+      - 70cm: 0
+    p: Örnsköldsvik / Malmön
+    e: 0
+    g: 0
+    a: 63.2253
+    o: 18.918
+o: []
+page: https://mapy73.pl/repeater/SK3LH

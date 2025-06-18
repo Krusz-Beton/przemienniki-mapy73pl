@@ -1,0 +1,23 @@
+x:
+  2m:
+    - rx:
+        f: 145.1375
+      tx:
+        f: 145.7375
+      h: "57112082500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "57112082500":
+    x:
+      - 2m: 0
+    p: Hanstholm
+    e: 52
+    g: 45
+    a: 57.1042
+    o: 8.625
+o: []
+page: https://mapy73.pl/repeater/OZ9RES

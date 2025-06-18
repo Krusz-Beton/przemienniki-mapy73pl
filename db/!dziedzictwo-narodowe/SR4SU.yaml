@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.2
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.8
+        t:
+          - c: "67.0"
+      h: "54218093180"
+      t: i
+      s: "5"
+      p: 15
+      u: []
+      d: |-
+        Połączony na stałe z przemiennikami sieci FM-LINK.
+        Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.
+h:
+  "54218093180":
+    x:
+      - 70cm: 0
+    p: Jeleniewo
+    e: 248
+    g: 0
+    a: 54.196059
+    o: 22.872801
+o:
+  - SP4SKA
+page: https://mapy73.pl/repeater/SR4SU

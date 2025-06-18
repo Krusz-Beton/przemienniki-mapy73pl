@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7375
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.3375
+        t:
+          - c: "67.0"
+      h: "53863080419"
+      t: a
+      s: "1"
+      p: 15
+      u: []
+      d: Bramka FM-Poland UHF
+h:
+  "53863080419":
+    x:
+      - 70cm: 0
+    p: Augustów
+    e: 0
+    g: 0
+    a: 53.840818
+    o: 22.986185
+o:
+  - SP4BK
+page: https://mapy73.pl/repeater/SR4AUU

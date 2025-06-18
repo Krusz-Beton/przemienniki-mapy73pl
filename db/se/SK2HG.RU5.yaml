@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.725
+        t:
+          - b: ""
+      tx:
+        f: 434.725
+      h: "65881032467"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk2hg.se
+      d: ""
+h:
+  "65881032467":
+    x:
+      - 70cm: 0
+    p: Kalix-Vattentorn
+    e: 0
+    g: 0
+    a: 65.85816
+    o: 23.16467
+o: []
+page: https://mapy73.pl/repeater/SK2HG.RU5

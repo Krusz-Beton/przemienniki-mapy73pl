@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - b: ""
+      tx:
+        f: 145.675
+      h: "58111065833"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "58111065833":
+    x:
+      - 2m: 0
+    p: Mandal / Varmestø
+    e: 300
+    g: 0
+    a: 58.1042
+    o: 7.45833
+o: []
+page: https://mapy73.pl/repeater/LA9MR

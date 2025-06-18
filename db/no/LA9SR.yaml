@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "62276059167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "62276059167":
+    x:
+      - 2m: 0
+    p: S. Sunnmøre / Gurskøy
+    e: 615
+    g: 0
+    a: 62.2708
+    o: 5.79167
+o: []
+page: https://mapy73.pl/repeater/LA9SR

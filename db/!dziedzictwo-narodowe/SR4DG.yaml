@@ -1,0 +1,42 @@
+x:
+  70cm:
+    - rx:
+        f: 431.2625
+        t:
+          - a: ""
+      tx:
+        f: 438.8625
+      h: "53569031545"
+      t: g
+      s: "5"
+      p: 15
+      u:
+        - https://sp4.jestok.com/przemienniki-dv/sr4dg
+        - https://sp4.jestok.com/5104
+      d: >-
+        Przemiennik: YAESU DR-1XE
+
+        Moduł WIRES-X: HRI200
+
+        Duplexer CELWAVE
+
+        Antena nadawcza/odbiorcza: COMET GP-9
+
+        Moc: 7W
+
+        Fider: 50m Andrew 7/8
+
+
+        Przemiennik C4FM FUSION włączony do sieci WIRES-X z pełną funkcjonalnością sieciową.
+h:
+  "53569031545":
+    x:
+      - 70cm: 0
+    p: Góra Dylewska EMITEL
+    e: 312
+    g: 45
+    a: 53.549375
+    o: 19.940454
+o:
+  - SQ4BJA
+page: https://mapy73.pl/repeater/SR4DG

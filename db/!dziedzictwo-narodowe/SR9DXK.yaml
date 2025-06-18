@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.0125
+        t:
+          - f: "1"
+      tx:
+        f: 438.6125
+      h: "50373004167"
+      t: e
+      s: "6"
+      p: 5
+      u:
+        - http://www.dx.katowice.pl
+      d: ""
+h:
+  "50373004167":
+    x:
+      - 70cm: 0
+    p: Bytom
+    e: 0
+    g: 0
+    a: 50.35417
+    o: 18.875
+o:
+  - SQ9SBE
+page: https://mapy73.pl/repeater/SR9DXK

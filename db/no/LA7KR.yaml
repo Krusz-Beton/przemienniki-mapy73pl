@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.625
+      tx:
+        f: 434.625
+      h: "60184066407"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.la7v.org/
+      d: ""
+h:
+  "60184066407":
+    x:
+      - 70cm: 0
+    p: Kongsvinger / Holtberget
+    e: 330
+    g: 30
+    a: 60.17267
+    o: 11.99407
+o:
+  - Roar
+page: https://mapy73.pl/repeater/LA7KR

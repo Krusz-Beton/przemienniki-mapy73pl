@@ -1,0 +1,30 @@
+x:
+  2m:
+    - rx:
+        f: 145.7125
+        t:
+          - a: ""
+          - c: "118.8"
+      tx:
+        f: 145.1125
+        t:
+          - c: "118.8"
+      h: "54731075762"
+      t: a
+      s: "5"
+      p: 45
+      u:
+        - http://uc2k.ru
+      d: ""
+h:
+  "54731075762":
+    x:
+      - 2m: 0
+    p: Kaliningrad
+    e: 13
+    g: 85
+    a: 54.711221
+    o: 20.536616
+o:
+  - RU2FAC
+page: https://mapy73.pl/repeater/RR2FE

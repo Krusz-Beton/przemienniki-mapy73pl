@@ -1,0 +1,25 @@
+h:
+  "41600024297":
+    a: 41.57652
+    o: 23.72297
+    p: Gotse Delchev
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "41600024297"
+      u: []
+      d: ""
+      p: 1
+      t: e
+      s: "4"
+      tx:
+        f: 439.45
+      rx:
+        f: 439.45
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/LZ0ADG

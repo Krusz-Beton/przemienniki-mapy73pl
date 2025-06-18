@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 430.85
+        t:
+          - f: "1"
+      tx:
+        f: 438.45
+      h: "50248020833"
+      t: e
+      s: "4"
+      p: 15
+      u:
+        - http://www.sp-dmr.pl/?p=528
+      d: Hytera RD985 UHF, aktywacja CC1
+      e1:
+        - 260
+      e2:
+        - 26013
+h:
+  "50248020833":
+    x:
+      - 70cm: 0
+    p: Katowice
+    e: 285
+    g: 81
+    a: 50.22917
+    o: 19.04167
+o:
+  - SQ9JTI
+page: https://mapy73.pl/repeater/SR9DMR

@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.225
+        t:
+          - a: ""
+      tx:
+        f: 438.825
+      h: "53923029167"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://hamradio.ucoz.net
+        - ttp://hamradio.ucoz.net/forum/2-65-1&usg=ALkJrhioNzn4cT5Vsmz86n-_IRWkXUdT1g
+      d: ""
+h:
+  "53923029167":
+    x:
+      - 70cm: 0
+    p: Minsk
+    e: 0
+    g: 0
+    a: 53.89583
+    o: 27.45833
+o:
+  - EW1ABT
+page: https://mapy73.pl/repeater/EU1A01R

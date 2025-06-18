@@ -1,0 +1,50 @@
+x:
+  70cm:
+    - rx:
+        f: 431.875
+        t:
+          - c: "71.9"
+      tx:
+        f: 439.475
+        t:
+          - c: "71.9"
+      h: "50973063223"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - http://fm-poland.pl
+      d: >-
+        Urządzenie Motorola MTR2000 UHF / antena: Diamond X-200
+
+
+        >>>NIE KLIKAJ NA ŚLEPO DTMF<<<
+
+
+        Na przemienniku działają usługi: 
+
+        - Głosowa Automatyczna Stacja Pogodowa SR0WX (nadaje o godz. 7:00, 10:00, 13:00, 16:00, 19:00). Stacja nadaje bez Subtonu).
+
+
+        - Siec FM Poland (http://fm-poland.pl)
+
+        Dashboard FM Poland: http://fm-poland.pl/dashboard/
+
+        Mapa RPT/Hostpotów w sieci: http://fm-poland.pl/mapa/
+      j0:
+        - 260792
+      j1:
+        - 2607
+        - 260792
+h:
+  "50973063223":
+    x:
+      - 70cm: 0
+    p: Ostrowiec Świętokrzyski
+    e: 200
+    g: 40
+    a: 50.952249
+    o: 21.383228
+o:
+  - SP7EXY
+page: https://mapy73.pl/repeater/SR7OS

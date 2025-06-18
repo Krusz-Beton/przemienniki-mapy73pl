@@ -1,0 +1,42 @@
+x:
+  70cm:
+    - rx:
+        f: 430.925
+        t:
+          - f: "9"
+      tx:
+        f: 438.525
+      h: "49439034554"
+      t: e
+      s: "4"
+      p: 15
+      u: []
+      d: |-
+        MMDVM RPI3 
+        TX MOTOROLA CM340
+        RX MOTOROLA GM340
+        ANT X200N
+        ID 260926
+        CC-9
+        TS1 TG260
+        TS2 TG2609 TG26093 TG26095 TG260015
+        www.radioklub.pl
+      e1:
+        - 260
+        - 2609
+      e2:
+        - 26093
+        - 26095
+        - 260015
+h:
+  "49439034554":
+    x:
+      - 70cm: 0
+    p: SZCZAWNICA
+    e: 702
+    g: 10
+    a: 49.418869
+    o: 20.476544
+o:
+  - SP9RNS
+page: https://mapy73.pl/repeater/SR9DSK

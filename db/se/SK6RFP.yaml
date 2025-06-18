@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+      tx:
+        f: 145.7
+      h: "59017055259"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6cm.se/
+      d: ""
+h:
+  "59017055259":
+    x:
+      - 2m: 0
+    p: Billingsfors
+    e: 200
+    g: 30
+    a: 59.0053
+    o: 12.25259
+o:
+  - Dalslands
+page: https://mapy73.pl/repeater/SK6RFP

@@ -1,0 +1,27 @@
+x:
+  23cm:
+    - rx:
+        f: 1270.1
+        t:
+          - a: ""
+      tx:
+        f: 1298.1
+      h: "49706054167"
+      t: a
+      s: "5"
+      p: 5
+      u:
+        - https://radioamatorzy.pl/
+      d: Antena 5x 5/8
+h:
+  "49706054167":
+    x:
+      - 23cm: 0
+    p: Skrzyczne
+    e: 1350
+    g: 70
+    a: 49.6875
+    o: 19.04167
+o:
+  - SP9YKD
+page: https://mapy73.pl/repeater/SR23CM

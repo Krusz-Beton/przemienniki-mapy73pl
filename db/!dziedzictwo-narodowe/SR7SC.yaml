@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 431.725
+        t:
+          - c: "118.8"
+      tx:
+        f: 439.325
+        t:
+          - c: "118.8"
+      h: "51995012756"
+      t: da
+      s: "5"
+      p: 10
+      u:
+        - http://www.sp5qwk.sp5kvw.com/krotkofal/Repeater/sr7sc.html
+        - http://www.sp7pbc.pl/index.php/przemiennik-70cm-sr7sc
+      d: |-
+        Antena KATHREIN 7dBi.
+        Duplekser Airtech 2x5 pasmowo-przepustowych filtrów ćwierćfalowych.
+        Przemiennik 2x Motorola GM340.
+h:
+  "51995012756":
+    x:
+      - 70cm: 0
+    p: Skierniewice
+    e: 121
+    g: 45
+    a: 51.974983
+    o: 20.144561
+o:
+  - SQ7EHO
+page: https://mapy73.pl/repeater/SR7SC

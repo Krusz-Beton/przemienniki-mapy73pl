@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "57341095049"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oz5gx.dk/oz3ret/
+      d: ""
+h:
+  "57341095049":
+    x:
+      - 2m: 0
+    p: Sæby
+    e: 21
+    g: 45
+    a: 57.33144
+    o: 10.51049
+o: []
+page: https://mapy73.pl/repeater/OZ3RET

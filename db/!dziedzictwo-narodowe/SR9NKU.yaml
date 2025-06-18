@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 430.7625
+        t:
+          - a: "71.9"
+      tx:
+        f: 438.3625
+      h: "50360092833"
+      t: j
+      s: "4"
+      p: 15
+      u:
+        - http://www.fm-poland.pl
+      d: ""
+      j0:
+        - 3109312
+      j1:
+        - 260019
+        - 260993
+        - 3109312
+h:
+  "50360092833":
+    x:
+      - 70cm: 0
+    p: Dąbrowa Górnicza
+    e: 266
+    g: 10
+    a: 50.34172
+    o: 19.208325
+o:
+  - SQ9NKU
+page: https://mapy73.pl/repeater/SR9NKU

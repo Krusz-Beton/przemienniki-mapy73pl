@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+      tx:
+        f: 145.625
+      h: "50575054167"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.kurierundservice.de/s48/h-rel.html
+      d: ""
+h:
+  "50575054167":
+    x:
+      - 2m: 0
+    p: Pöhlberg, Annaberg
+    e: 0
+    g: 0
+    a: 50.5625
+    o: 13.04167
+o:
+  - DG0MW
+page: https://mapy73.pl/repeater/DB0ANA

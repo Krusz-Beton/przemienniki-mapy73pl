@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.15
+        t:
+          - c: "118.8"
+      tx:
+        f: 438.75
+      h: "50062052610"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: ""
+h:
+  "50062052610":
+    x:
+      - 70cm: 0
+    p: Pardubice - Polabiny
+    e: 280
+    g: 0
+    a: 50.046766
+    o: 15.760102
+o:
+  - OK1FWG
+page: https://mapy73.pl/repeater/OK0BS

@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.275
+        t:
+          - a: ""
+      tx:
+        f: 438.875
+      h: "54563054891"
+      t: g
+      s: "5"
+      p: 15
+      u:
+        - https://lewczuk.pl/sr2sb-1
+      d: |-
+        X-300, TP Emitel RkCN Gdynia/Oksywie
+        Przemiennik podłączony w systemie Wires-X do pokoju TRÓJMIASTO.
+h:
+  "54563054891":
+    x:
+      - 70cm: 0
+    p: Gdynia-Oksywie EMITEL
+    e: 107
+    g: 67
+    a: 54.545013
+    o: 18.535907
+o:
+  - SP2GPU
+page: https://mapy73.pl/repeater/SR2OK

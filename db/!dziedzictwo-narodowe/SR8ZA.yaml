@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.675
+        t:
+          - c: "77.0"
+      tx:
+        f: 439.275
+        t:
+          - c: "77.0"
+      h: "50630080511"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://www.sr8za.fora.pl
+      d: Antena PROCOM CXL-70
+h:
+  "50630080511":
+    x:
+      - 70cm: 0
+    p: Feliksówka k/Zamościa
+    e: 327
+    g: 0
+    a: 50.607544
+    o: 23.261111
+o:
+  - SQ8BWH
+page: https://mapy73.pl/repeater/SR8ZA

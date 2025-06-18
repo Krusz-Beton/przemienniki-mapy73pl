@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.85
+      tx:
+        f: 434.85
+      h: "59374041289"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk0za.se/repeater-skozar/data-sk0za-r/
+      d: ""
+h:
+  "59374041289":
+    x:
+      - 70cm: 0
+    p: Solna
+    e: 45
+    g: 23
+    a: 59.35645
+    o: 17.96289
+o:
+  - Carl-Mikael
+page: https://mapy73.pl/repeater/SK0ZA.R

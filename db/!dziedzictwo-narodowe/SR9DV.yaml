@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 430.725
+        t:
+          - c: "67.0"
+          - f: "1"
+      tx:
+        f: 438.325
+      h: "50135098121"
+      t: geab
+      s: "6"
+      p: 10
+      u:
+        - http://sq9jdo.com.pl/SR9DV/SR9DV.html
+      d: |-
+        Antena Diamond X510 
+        Duplexer Kathrein
+        MMDVM oraz analog.
+h:
+  "50135098121":
+    x:
+      - 70cm: 0
+    p: Węgrzce
+    e: 281
+    g: 10
+    a: 50.116012
+    o: 19.969213
+o:
+  - SQ9MYX
+page: https://mapy73.pl/repeater/SR9DV

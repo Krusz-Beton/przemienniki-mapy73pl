@@ -1,0 +1,47 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+      tx:
+        f: 145.7
+      h: "60766097063"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk3gk.se/
+      d: ""
+  70cm:
+    - rx:
+        f: 432.7
+        t:
+          - e: "1"
+      tx:
+        f: 434.7
+      h: "60766097363"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk3gk.se/sektioner/repeater//
+      d: ""
+h:
+  "60766097063":
+    x:
+      - 2m: 0
+    p: Sandviken / Kungsberget
+    e: 309
+    g: 20
+    a: 60.75048
+    o: 16.49063
+  "60766097363":
+    x:
+      - 70cm: 0
+    p: Sandviken / Kungsberget
+    e: 0
+    g: 0
+    a: 60.75048
+    o: 16.49363
+o:
+  - SM3MTF
+page: https://mapy73.pl/repeater/SK3GK.R

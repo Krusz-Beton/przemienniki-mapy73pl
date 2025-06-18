@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 430.525
+        t:
+          - a: ""
+      tx:
+        f: 438.125
+      h: "51483045833"
+      t: b
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "51483045833":
+    x:
+      - 70cm: 0
+    p: Bergen op Zoom
+    e: 0
+    g: 0
+    a: 51.47917
+    o: 4.29167
+o: []
+page: https://mapy73.pl/repeater/PI1BOZ

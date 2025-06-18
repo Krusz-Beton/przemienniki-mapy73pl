@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 430.65
+        t:
+          - c: "74.4"
+          - f: "1"
+      tx:
+        f: 438.25
+      h: "49779005433"
+      t: ea
+      s: "6"
+      p: 15
+      u:
+        - http://sp9kmq.sp-radio.eu/
+      d: DMR/FM
+      e1:
+        - 260
+        - 2609
+      e2:
+        - 26091
+h:
+  "49779005433":
+    x:
+      - 70cm: 0
+    p: Góra Szyndzielnia
+    e: 1026
+    g: 0
+    a: 49.760053
+    o: 19.001327
+o:
+  - SP0BASR
+page: https://mapy73.pl/repeater/SR9BSR

@@ -1,0 +1,30 @@
+x:
+  2m:
+    - rx:
+        f: 145.1875
+        t:
+          - c: "67.0"
+      tx:
+        f: 145.7875
+        t:
+          - c: "67.0"
+      h: "53959057176"
+      t: da
+      s: "5"
+      p: 10
+      u:
+        - https://sp4.jestok.com
+      d: "Anteny: X-300 @180m RX, GP-98 @ 210m TX, 230m LDF-5 7/8, przemiennik
+        MOTOROLA MTR2000 + SVXLink"
+h:
+  "53959057176":
+    x:
+      - 2m: 0
+    p: Miłki k/Giżycka EMITEL
+    e: 245
+    g: 180
+    a: 53.937727
+    o: 21.844764
+o:
+  - SQ4LWO
+page: https://mapy73.pl/repeater/SR4D

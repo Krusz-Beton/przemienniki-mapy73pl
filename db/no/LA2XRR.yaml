@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.1125
+      tx:
+        f: 145.7125
+      h: "60336029527"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.la7v.org/
+      d: ""
+h:
+  "60336029527":
+    x:
+      - 2m: 0
+    p: Kongsvinger / Rafjellet
+    e: 576
+    g: 14
+    a: 60.32416
+    o: 12.13527
+o:
+  - Roar
+page: https://mapy73.pl/repeater/LA2XRR

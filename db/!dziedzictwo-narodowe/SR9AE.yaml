@@ -1,0 +1,37 @@
+x:
+  70cm:
+    - rx:
+        f: 431.225
+        t:
+          - c: "103.5"
+      tx:
+        f: 438.825
+        t:
+          - c: "103.5"
+      h: "49786080854"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: >-
+        Antena 7 dBi Katherin.
+
+        Otwarcie po 1 sekundzie nośnej z CTCSS.
+
+        Urządzenia: Motorola 2 radia GM-340.
+
+        Obiekt: Obserwatorium Astronomiczne im. Tadeusza Banachiewicza na Lubomirze na szczycie góry Lubomir w okolicy wsi Węglówka, w gminie Wiśniowa, w Beskidzie Wyspowym.
+
+        Ukończenie budowy - 1922, Zniszczono -	1944, Odbudowano - 2007.
+h:
+  "49786080854":
+    x:
+      - 70cm: 0
+    p: Obserwatorium astronomiczne na Górze Lubomir
+    e: 904
+    g: 11
+    a: 49.766749
+    o: 20.059544
+o:
+  - SQ9FQV
+page: https://mapy73.pl/repeater/SR9AE

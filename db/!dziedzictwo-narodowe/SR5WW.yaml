@@ -1,0 +1,38 @@
+x:
+  70cm:
+    - rx:
+        f: 430.9
+        t:
+          - f: "5"
+      tx:
+        f: 438.5
+      h: "52289038269"
+      t: e
+      s: "4"
+      p: 8
+      u:
+        - https://sp5kab.pl/przemienniki/
+      d: |-
+        Urządzenie Motorola MTR2000 + MMDVM pi-star, antena KAD
+        MULTIMODE
+        FUSION (C4FM)
+        APCO-P25
+      e1:
+        - 260
+        - 2605
+        - 260015
+      e2:
+        - 26055
+        - 26057
+h:
+  "52289038269":
+    x:
+      - 70cm: 0
+    p: Warszawa - Komin EC Kawęczyn
+    e: 400
+    g: 305
+    a: 52.268254
+    o: 21.128688
+o:
+  - SP5KAB
+page: https://mapy73.pl/repeater/SR5WW

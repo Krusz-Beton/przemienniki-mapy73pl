@@ -1,0 +1,38 @@
+x:
+  70cm:
+    - rx:
+        f: 431.9375
+        t:
+          - c: "74.4"
+      tx:
+        f: 439.5375
+        t:
+          - c: "74.4"
+      h: "52937056952"
+      t: i
+      s: "5"
+      p: 15
+      u:
+        - http://fm-link.pl/
+      d: >-
+        Przemiennik pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.
+
+        Otwarcie po 1 sekundzie nośnej z CTCSS.
+
+        Urządzenia: Motorola, 2 radia GM-340.
+
+        Antena: Sigma Wireless SA-410, 4x dipol - polaryzacja pionowa, wysokość zawieszenia 40,00 m n.p.t., feeder 7/8@50m, wysokość anteny 2,54 m, Zakres częstotliwości pracy anteny: ‪380-430‬ MHz; Zysk: UHF 8.5 dB.
+
+        Obiekt: Jabłowo Pałuckie wieża P.poż
+h:
+  "52937056952":
+    x:
+      - 70cm: 0
+    p: Szubin - Jabłowo Pałuckie / wieża p.poż
+    e: 202
+    g: 40
+    a: 52.919733
+    o: 17.836519
+o:
+  - SP2GG
+page: https://mapy73.pl/repeater/SR2FM

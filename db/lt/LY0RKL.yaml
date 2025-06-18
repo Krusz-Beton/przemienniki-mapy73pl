@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8
+        t:
+          - a: ""
+      tx:
+        f: 439.4
+      h: "55708062500"
+      t: a
+      s: "5"
+      p: 5
+      u:
+        - http://www.lrmd.lt/retransliatoriai_en.htm
+      d: ""
+h:
+  "55708062500":
+    x:
+      - 70cm: 0
+    p: Klaipėda
+    e: 5
+    g: 120
+    a: 55.6875
+    o: 21.125
+o:
+  - LY1AKM
+page: https://mapy73.pl/repeater/LY0RKL

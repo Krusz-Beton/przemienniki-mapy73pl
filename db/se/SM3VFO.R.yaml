@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.0375
+        t:
+          - b: ""
+      tx:
+        f: 145.6375
+      h: "62403017103"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.27radio.eu/27/news.php
+      d: ""
+h:
+  "62403017103":
+    x:
+      - 2m: 0
+    p: Sundsvall
+    e: 480
+    g: 10
+    a: 62.38685
+    o: 16.32103
+o:
+  - Jan-Erik
+page: https://mapy73.pl/repeater/SM3VFO.R

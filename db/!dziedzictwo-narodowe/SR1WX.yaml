@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6
+        t:
+          - c: "82.5"
+      tx:
+        f: 439.2
+        t:
+          - c: "82.5"
+      h: "53356016554"
+      t: a
+      s: "6"
+      p: 10
+      u: []
+      d: NFM
+h:
+  "53356016554":
+    x:
+      - 70cm: 0
+    p: Stargard
+    e: 38
+    g: 0
+    a: 53.341126
+    o: 15.039536
+o:
+  - SQ1FYB
+page: https://mapy73.pl/repeater/SR1WX

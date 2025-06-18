@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.975
+        t:
+          - f: "1"
+      tx:
+        f: 439.575
+      h: "49544024355"
+      t: e
+      s: "6"
+      p: 15
+      u: []
+      d: Color Code (CC) 1, MMDVM, Diamond X-50, duplekser Procom DPF70/6. Przemiennik
+        został uruchomiony w docelowej lokalizacji 7 czerwca 2020. W razie
+        problemów z jego pracą proszę o informację na sp8ebc@interia.pl
+h:
+  "49544024355":
+    x:
+      - 70cm: 0
+    p: Bezmiechowa
+    e: 615
+    g: 15
+    a: 49.521832
+    o: 22.411545
+o:
+  - SP8EBC
+page: https://mapy73.pl/repeater/SR8DMB

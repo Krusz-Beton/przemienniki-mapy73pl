@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145
+        t:
+          - b: ""
+      tx:
+        f: 145.6
+      h: "58614051410"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - https://sk6lr.macmathan.net/om/sk6roy
+      d: ""
+h:
+  "58614051410":
+    x:
+      - 2m: 0
+    p: Kinnekulle
+    e: 0
+    g: 0
+    a: 58.6011
+    o: 13.4141
+o: []
+page: https://mapy73.pl/repeater/SK6ROY

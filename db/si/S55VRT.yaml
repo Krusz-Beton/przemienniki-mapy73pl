@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.0125
+        t:
+          - c: "123.0"
+      tx:
+        f: 145.6125
+      h: "46135066117"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46135066117":
+    x:
+      - 2m: 0
+    p: Štucinov hrib
+    e: 600
+    g: 0
+    a: 46.12047
+    o: 15.191167
+o:
+  - S59DOR
+page: https://mapy73.pl/repeater/S55VRT

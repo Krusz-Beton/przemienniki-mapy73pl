@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 430.8
+        t:
+          - a: ""
+      tx:
+        f: 438.4
+      h: "51204029167"
+      t: g
+      s: "2"
+      p: 15
+      u: []
+      d: |-
+        DR1XE , HRI-200 ,
+        Diamond x-300 , 
+        Duplexer SGQ-450D
+h:
+  "51204029167":
+    x:
+      - 70cm: 0
+    p: Mrozów
+    e: 0
+    g: 0
+    a: 51.1875
+    o: 16.79167
+o:
+  - SQ6WF
+page: https://mapy73.pl/repeater/SR6WF

@@ -1,0 +1,24 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+      tx:
+        f: 145.725
+      h: "63440008550"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk3jr.se/
+      d: ""
+h:
+  "63440008550":
+    x:
+      - 2m: 0
+    p: Åre / Åreskutan
+    e: 1420
+    g: 0
+    a: 63.427
+    o: 13.0855
+o: []
+page: https://mapy73.pl/repeater/SK3RNJ

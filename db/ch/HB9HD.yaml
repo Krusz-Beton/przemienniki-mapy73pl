@@ -1,0 +1,26 @@
+x:
+  10m:
+    - rx:
+        f: 29.55
+        t:
+          - b: ""
+      tx:
+        f: 29.65
+      h: "46987079167"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.hb9hd.ch/
+      d: ""
+h:
+  "46987079167":
+    x:
+      - 10m: 0
+    p: ""
+    e: 0
+    g: 0
+    a: 46.97917
+    o: 8.625
+o: []
+page: https://mapy73.pl/repeater/HB9HD

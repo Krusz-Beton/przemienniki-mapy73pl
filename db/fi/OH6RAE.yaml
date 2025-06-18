@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "63401057500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "63401057500":
+    x:
+      - 2m: 0
+    p: Pihtipudas
+    e: 402
+    g: 215
+    a: 63.376
+    o: 25.575
+o:
+  - OH6KRZ
+page: https://mapy73.pl/repeater/OH6RAE

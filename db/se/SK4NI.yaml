@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.1625
+        t:
+          - a: ""
+      tx:
+        f: 145.7625
+      h: "59996031334"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=SK4NI%20&mod=C
+      d: ""
+h:
+  "59996031334":
+    x:
+      - 2m: 0
+    p: Tossebergsklätten
+    e: 0
+    g: 0
+    a: 59.98323
+    o: 13.08334
+o: []
+page: https://mapy73.pl/repeater/SK4NI

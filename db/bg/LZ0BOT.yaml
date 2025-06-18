@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - a: ""
+      tx:
+        f: 145.65
+      h: "42742060915"
+      t: da
+      s: "5"
+      p: 45
+      u:
+        - http://www.repeaters.bg/
+      d: ""
+h:
+  "42742060915":
+    x:
+      - 2m: 0
+    p: връх Ботев
+    e: 2376
+    g: 23
+    a: 42.717692
+    o: 24.917145
+o:
+  - LZ1WDX
+page: https://mapy73.pl/repeater/LZ0BOT

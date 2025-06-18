@@ -1,0 +1,27 @@
+h:
+  "41425031406":
+    a: 41.423195
+    o: 2.119062
+    p: Barcelona Tibidabo
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "41425031406"
+      u: []
+      d: ""
+      p: 10
+      t: e
+      s: "4"
+      tx:
+        f: 438.4125
+      rx:
+        f: 430.8125
+        t:
+          - f: "1"
+      e2:
+        - 21460
+o: []
+page: https://mapy73.pl/repeater/ED3ZAK

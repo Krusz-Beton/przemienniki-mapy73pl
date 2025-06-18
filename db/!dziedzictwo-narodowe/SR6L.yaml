@@ -1,0 +1,35 @@
+x:
+  70cm:
+    - rx:
+        f: 431.525
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.125
+      h: "51216077908"
+      t: aj
+      s: "4"
+      p: 0
+      u:
+        - http://fm-poland.pl
+      d: Przemiennik pracujący w sieci FM-Poland
+      j0:
+        - 26061
+      j1:
+        - 112
+        - 2606
+        - 26061
+        - 260611
+        - 260691
+h:
+  "51216077908":
+    x:
+      - 70cm: 0
+    p: Legnica
+    e: 119
+    g: 35
+    a: 51.20057
+    o: 16.209077
+o:
+  - SP6AW
+page: https://mapy73.pl/repeater/SR6L

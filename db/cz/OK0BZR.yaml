@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8
+        t:
+          - c: "79.7"
+      tx:
+        f: 439.4
+      h: "49597027211"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://www.ok0bzr.cz
+      d: ""
+h:
+  "49597027211":
+    x:
+      - 70cm: 0
+    p: Vysoké u Žďáru nad Sázavou
+    e: 655
+    g: 0
+    a: 49.58131
+    o: 15.962114
+o:
+  - OK2MK
+page: https://mapy73.pl/repeater/OK0BZR

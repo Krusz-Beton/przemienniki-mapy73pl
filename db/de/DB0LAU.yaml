@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.5
+        t:
+          - c: "123.0"
+      tx:
+        f: 439.1
+        t:
+          - c: "123.0"
+      h: "50863084153"
+      t: dca
+      s: "5"
+      p: 0
+      u:
+        - https://www.darc.de/distrikte/s/24/lausche-relais-db0lau/
+      d: ""
+h:
+  "50863084153":
+    x:
+      - 70cm: 0
+    p: Lausche/Waltersdorf
+    e: 800
+    g: 7
+    a: 50.849195
+    o: 14.646527
+o: []
+page: https://mapy73.pl/repeater/DB0LAU

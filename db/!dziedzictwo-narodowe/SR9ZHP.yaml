@@ -1,0 +1,31 @@
+x:
+  2m:
+    - rx:
+        f: 145.2875
+        t:
+          - c: "127.3"
+      tx:
+        f: 145.2875
+        t:
+          - c: "127.3"
+      h: "50331062500"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://fm-poland.pl:888/
+      d: |-
+        UWAGA: Nie jest to przemiennik
+        Bramka do sieci FM Poland.
+h:
+  "50331062500":
+    x:
+      - 2m: 0
+    p: Będzin
+    e: 0
+    g: 0
+    a: 50.3125
+    o: 19.125
+o:
+  - SQ9GIN
+page: https://mapy73.pl/repeater/SR9ZHP

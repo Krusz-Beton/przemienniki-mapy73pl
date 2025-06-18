@@ -1,0 +1,42 @@
+x:
+  70cm:
+    - rx:
+        f: 431.9125
+        t:
+          - a: ""
+      tx:
+        f: 439.5125
+      h: "53569031545"
+      t: b
+      s: "5"
+      p: 15
+      u:
+        - http://sp4.jestok.com
+      d: >-
+        MOTOROLA MTR2000,
+
+        Duplexer CELWAVE
+
+        Antena nadawcza/odbiorcza: COMET GP-98
+
+        Moc: 15W
+
+        Fider: 50m Andrew 7/8
+
+        G4KLX IRCddbGateway, DVRPTR v.2LT, terminal HP T5720
+
+
+
+        Obiekt: Lokalizacja wieży jest na terenie Parku Krajobrazowego Wzgórz Dylewskich. Historia obiektu na Dylewskiej Górze wiąże się z początkami telewizji w Gdańsku. W 1959 roku został tam zorganizowany punkt retransmisyjny, który odbierał sygnał z Warszawy i następnie linią radiową transmitował go przez Milejewo pod Elblągiem do Gdańska. Lokalizacja obecnej 60 metrowej wieży jest na terenie województwa warmińsko-mazurskiego, powiatu ostródzkiego, w gminie wiejskiej Ostróda w miejscowości Wysoka Wieś.
+h:
+  "53569031545":
+    x:
+      - 70cm: 0
+    p: Góra Dylewska EMITEL
+    e: 312
+    g: 45
+    a: 53.549375
+    o: 19.940454
+o:
+  - SQ4BJA
+page: https://mapy73.pl/repeater/SR4UVD

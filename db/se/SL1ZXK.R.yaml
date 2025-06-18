@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.6
+      tx:
+        f: 434.6
+      h: "57737038510"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "57737038510":
+    x:
+      - 70cm: 0
+    p: Slite
+    e: 110
+    g: 0
+    a: 57.7186
+    o: 18.7851
+o:
+  - Niclas
+page: https://mapy73.pl/repeater/SL1ZXK.R

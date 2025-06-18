@@ -1,0 +1,25 @@
+h:
+  "37979091006":
+    a: 37.988602
+    o: -8.691944
+    p: Santiago Cacem
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "37979091006"
+      u: []
+      d: ""
+      p: 15
+      t: e
+      s: "4"
+      tx:
+        f: 438.6
+      rx:
+        f: 431
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/CQ0DLA

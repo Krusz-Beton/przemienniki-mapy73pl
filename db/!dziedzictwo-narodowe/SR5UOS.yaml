@@ -1,0 +1,54 @@
+x:
+  70cm:
+    - rx:
+        f: 431.3125
+        t:
+          - a: ""
+          - f: "5"
+      tx:
+        f: 438.9125
+      h: "53101085846"
+      t: eb
+      s: "4"
+      p: 15
+      u:
+        - http://sp5kvw.com/przemienniki-w-ostrolece/
+        - https://brandmeister.network/?page=repeater&id=260515
+        - http://kurpie.hblink.network:8088/
+        - http://dmrplus.pl/serwery
+      d: |-
+        Antena Diamond X-300, urządzenie Motorola MTR2000 + Modem MMDVM
+
+        Brandmeister
+        Color Code 5
+        TG statyczne TS1: 2605
+        TG statyczne TS2: 26059
+        Do łączności lokalnych TG9 TS2
+
+        DMR+
+        Color Code 5
+        TG statyczna TS1: 260 (uruchamiana grupą 1260)
+        Do łączności lokalnych TG9 TS2 (uruchamiana grupą 90)
+
+        DMR Serwer
+        Color Code 5
+        TG statyczna TS1: 260 (uruchamiana grupą 2260)
+        Do łączności lokalnych TG7 TS2 (uruchamiana grupą 3)
+      e1:
+        - 2605
+        - 260515
+        - 260525
+      e2:
+        - 26059
+h:
+  "53101085846":
+    x:
+      - 70cm: 0
+    p: Ostrołęka
+    e: 138
+    g: 42
+    a: 53.080289
+    o: 21.569459
+o:
+  - SP5NAF
+page: https://mapy73.pl/repeater/SR5UOS

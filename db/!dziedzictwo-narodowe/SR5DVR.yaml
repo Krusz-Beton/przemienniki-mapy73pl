@@ -1,0 +1,37 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7625
+        t:
+          - f: "5"
+      tx:
+        f: 439.3625
+      h: "51429037753"
+      t: e
+      s: "4"
+      p: 15
+      u:
+        - http://www.qrz.com/db/SR5DVR
+      d: |-
+        TS1 statycznie TG2605
+        TS2 statycznie TG26057 TG260015
+        CC5
+        Antena GP-6 na 80m nad gruntem na maszcie RON Radom Emitel.
+      e1:
+        - 260
+        - 2605
+      e2:
+        - 26057
+        - 260015
+h:
+  "51429037753":
+    x:
+      - 70cm: 0
+    p: RADOM - maszt Emitel
+    e: 176
+    g: 80
+    a: 51.408264
+    o: 21.113534
+o:
+  - SQ5SUI
+page: https://mapy73.pl/repeater/SR5DVR

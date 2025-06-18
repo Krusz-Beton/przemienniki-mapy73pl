@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+      tx:
+        f: 145.65
+      h: "60184066107"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.la7v.org
+      d: ""
+h:
+  "60184066107":
+    x:
+      - 2m: 0
+    p: Kongsvinger / Holtberget
+    e: 320
+    g: 30
+    a: 60.17267
+    o: 11.99107
+o:
+  - Roar
+page: https://mapy73.pl/repeater/LA5KR

@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.275
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.875
+      h: "49704025284"
+      t: a
+      s: "6"
+      p: 7
+      u:
+        - http://www.skzd.pl
+      d: ""
+h:
+  "49704025284":
+    x:
+      - 70cm: 0
+    p: Skrzyczne EMITEL
+    e: 1249
+    g: 40
+    a: 49.685223
+    o: 19.029843
+o:
+  - SP9QLU
+page: https://mapy73.pl/repeater/SR9EE

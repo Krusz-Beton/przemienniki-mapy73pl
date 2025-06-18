@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7
+        t:
+          - a: ""
+      tx:
+        f: 439.3
+      h: "53348078037"
+      t: b
+      s: "5"
+      p: 10
+      u: []
+      d: D-STAR mode B, DVAR Hot Spot 2.57, X300, RX-TX GM340
+h:
+  "53348078037":
+    x:
+      - 70cm: 0
+    p: Kołowo
+    e: 205
+    g: 65
+    a: 53.334105
+    o: 14.67537
+o:
+  - SP1WSR
+page: https://mapy73.pl/repeater/SR1ZK

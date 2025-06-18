@@ -1,0 +1,74 @@
+x:
+  70cm:
+    - rx:
+        f: 431.475
+        t:
+          - c: "94.8"
+      tx:
+        f: 439.075
+        t:
+          - c: "94.8"
+      h: "54365070579"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - http://sp2pzh.cqdx.pl/
+        - https://fm-poland.pl
+      d: ""
+    - rx:
+        f: 431.4875
+        t:
+          - c: "94.8"
+      tx:
+        f: 439.0875
+        t:
+          - c: "94.8"
+      h: "54365070579"
+      t: da
+      s: "5"
+      p: 10
+      u:
+        - http://http://sp2pzh.cqdx.pl/
+        - https://minilink.pl/wp/
+      d: >-
+        Przemiennik SR2GD FM-Echolink w Gdansku Rx: 439,0875 Tx: 431,4875 CTCSS:
+        94.8Hz
+
+
+        Trx: Motorola GM350
+
+        Antena: Diamond X300
+
+        Pwr: 15W
+
+
+        Połączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C - SR2GA - SR4WA
+    - rx:
+        f: 431.4625
+        t:
+          - a: ""
+      tx:
+        f: 439.0625
+      h: "54365070579"
+      t: g
+      s: "6"
+      p: 4
+      u:
+        - http://sp2pzh.cqdx.pl
+      d: ""
+h:
+  "54365070579":
+    x:
+      - 70cm: 0
+      - 70cm: 1
+      - 70cm: 2
+    p: Gdańsk
+    e: 0
+    g: 0
+    a: 54.34704
+    o: 18.665793
+o:
+  - SQ2CDE
+  - SP2TFV
+page: https://mapy73.pl/repeater/SR2GD

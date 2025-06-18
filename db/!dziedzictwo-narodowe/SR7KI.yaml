@@ -1,0 +1,41 @@
+x:
+  70cm:
+    - rx:
+        f: 431.125
+        t:
+          - c: "88.5"
+      tx:
+        f: 438.725
+        t:
+          - c: "88.5"
+      h: "50881037057"
+      t: i
+      s: "5"
+      p: 10
+      u:
+        - http://fm-link.pl/
+      d: >-
+        Połączony na stałe z przemiennikami sieci FM-LINK.
+
+        Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.
+
+        Otwarcie po 1 sekundzie nośnej z CTCSS.
+
+        Urządzenie: Motorola MTR 2000.
+
+
+        Antena zawieszona na wysokości 120 m n.p.t.
+
+        Obiekt: Lokalizacja wieży na terenie Świętokrzyskiego Parku Narodowego. Otwarcie obiektu nastąpiło w dniu 22 października 1964 roku. Wieża betonowa + stalowa o wysokości 152 m wykonana została przez Kieleckie Przedsiębiorstwo Budownictwa Przemysłowego, a trzon wieży wykonało Warszawskie Przedsiębiorstwo Budowy Pieców Przemysłowych. Położenie obiektu daje mu jeden z największych zasięgów w Polsce obejmujący prawie 1/4 południowo-wschodniej Polski.
+h:
+  "50881037057":
+    x:
+      - 70cm: 0
+    p: RTCN Święty Krzyż EmiTel - Łysa Góra/Nowa Słupia
+    e: 595
+    g: 120
+    a: 50.860322
+    o: 21.048573
+o:
+  - SP8SIW
+page: https://mapy73.pl/repeater/SR7KI

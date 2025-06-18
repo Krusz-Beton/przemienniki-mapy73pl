@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 433.65
+        t:
+          - b: ""
+      tx:
+        f: 434.65
+      h: "61272035000"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "61272035000":
+    x:
+      - 70cm: 0
+    p: Kokemäki
+    e: 126
+    g: 68
+    a: 61.25
+    o: 22.35
+o:
+  - OH1NTI
+page: https://mapy73.pl/repeater/OH1RUL

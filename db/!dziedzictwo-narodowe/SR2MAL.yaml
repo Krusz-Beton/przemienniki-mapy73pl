@@ -1,0 +1,35 @@
+x:
+  70cm:
+    - rx:
+        f: 431.4625
+        t:
+          - a: ""
+      tx:
+        f: 439.0625
+      h: "54058083604"
+      t: g
+      s: "5"
+      p: 15
+      u:
+        - https://ot16.pzk.org.pl/index.php/kluby/51-sp2zft
+      d: >-
+        Lokalizacja na dachu Zespołu Szkół Technicznych w Malbork ul. Narutowicza 14
+        (klub SP2ZFT)
+
+        Antena X-300 na 3m maszcie
+
+        Przemiennik Yaesu DR-2X + HRI-200
+
+        Urządzenia przemiennika w pomieszczeniu klubu SP2ZFT
+h:
+  "54058083604":
+    x:
+      - 70cm: 0
+    p: Malbork
+    e: 0
+    g: 11
+    a: 54.039803
+    o: 19.033037
+o:
+  - SQ2CDE
+page: https://mapy73.pl/repeater/SR2MAL

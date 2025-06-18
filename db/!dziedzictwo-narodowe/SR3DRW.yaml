@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 430.7375
+        t:
+          - f: "1"
+      tx:
+        f: 438.3375
+      h: "51626030777"
+      t: e
+      s: "4"
+      p: 10
+      u:
+        - https://brandmeister.network/?page=repeater&id=260005
+      d: CC1
+      e1:
+        - 2603
+      e2:
+        - 26037
+        - 26066
+        - 260041
+h:
+  "51626030777":
+    x:
+      - 70cm: 0
+    p: Rawicz
+    e: 101
+    g: 0
+    a: 51.60944
+    o: 16.867769
+o:
+  - SP3QYJ
+page: https://mapy73.pl/repeater/SR3DRW

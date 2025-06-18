@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 430.725
+        t:
+          - c: "123.0"
+      tx:
+        f: 438.825
+      h: "46304069844"
+      t: ea
+      s: "1"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46304069844":
+    x:
+      - 70cm: 0
+    p: Boč
+    e: 980
+    g: 0
+    a: 46.289104
+    o: 15.594444
+o:
+  - S50ZRS
+page: https://mapy73.pl/repeater/S55DBC

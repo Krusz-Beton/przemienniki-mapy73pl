@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5375
+        t:
+          - a: ""
+      tx:
+        f: 434.5375
+      h: "55222010287"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=OZ0REH&mod=B
+      d: ""
+h:
+  "55222010287":
+    x:
+      - 70cm: 0
+    p: Gudhjem / Bornholm
+    e: 0
+    g: 0
+    a: 55.20735
+    o: 14.75287
+o: []
+page: https://mapy73.pl/repeater/OZ0REH

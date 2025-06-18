@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.05
+        t:
+          - a: ""
+      tx:
+        f: 438.65
+      h: "53808013582"
+      t: g
+      s: "5"
+      p: 5
+      u: []
+      d: |-
+        Przemiennik
+        C4FM
+        połączony
+        z
+        SR2MAL
+h:
+  "53808013582":
+    x:
+      - 70cm: 0
+    p: Jerzwałd
+    e: 115
+    g: 10
+    a: 53.7886
+    o: 19.535823
+o:
+  - SP4LIN
+page: https://mapy73.pl/repeater/SR4LIN

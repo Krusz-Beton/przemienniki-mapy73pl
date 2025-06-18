@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 433.675
+        t:
+          - b: ""
+      tx:
+        f: 434.675
+      h: "64231013520"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "64231013520":
+    x:
+      - 70cm: 0
+    p: Kajaani
+    e: 250
+    g: 70
+    a: 64.2034
+    o: 27.7352
+o:
+  - OH8JGD
+page: https://mapy73.pl/repeater/OH8RUB

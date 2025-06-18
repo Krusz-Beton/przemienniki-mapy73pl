@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.1375
+        t:
+          - b: ""
+      tx:
+        f: 145.7375
+      h: "59444004167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59444004167":
+    x:
+      - 2m: 0
+    p: Reinsnuten / Sauda
+    e: 1167
+    g: 0
+    a: 59.4375
+    o: 6.54167
+o: []
+page: https://mapy73.pl/repeater/LA8XR

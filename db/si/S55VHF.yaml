@@ -1,0 +1,27 @@
+x:
+  6m:
+    - rx:
+        f: 51.29
+        t:
+          - c: "123.0"
+      tx:
+        f: 51.89
+      h: "46202059283"
+      t: a
+      s: "6"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46202059283":
+    x:
+      - 6m: 0
+    p: Mrzlica
+    e: 1122
+    g: 0
+    a: 46.187485
+    o: 15.107834
+o:
+  - S56CT
+page: https://mapy73.pl/repeater/S55VHF

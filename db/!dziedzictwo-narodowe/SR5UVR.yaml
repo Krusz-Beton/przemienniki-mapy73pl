@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 430.925
+        t:
+          - a: ""
+      tx:
+        f: 438.525
+      h: "51427018855"
+      t: b
+      s: "5"
+      p: 10
+      u: []
+      d: Przemiennik D-Star ,moduły Icom ID-RP2C, ID-RP4000V , antena Comet GP6 ,
+h:
+  "51427018855":
+    x:
+      - 70cm: 0
+    p: Radom
+    e: 170
+    g: 40
+    a: 51.406036
+    o: 21.152552
+o:
+  - SQ7BCZ
+page: https://mapy73.pl/repeater/SR5UVR

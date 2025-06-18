@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.775
+        t:
+          - c: "71.9"
+      tx:
+        f: 430.175
+      h: "51734045833"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "51734045833":
+    x:
+      - 70cm: 0
+    p: s-Hertogenbosch
+    e: 0
+    g: 0
+    a: 51.72917
+    o: 5.29167
+o: []
+page: https://mapy73.pl/repeater/PI2SHB

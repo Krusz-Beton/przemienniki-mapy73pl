@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.1625
+      tx:
+        f: 145.7625
+      h: "59369097800"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://echolink.org/logins.jsp
+      d: ""
+h:
+  "59369097800":
+    x:
+      - 2m: 0
+    p: Solna
+    e: 38
+    g: 18
+    a: 59.352
+    o: 17.978
+o:
+  - SM\u00d8OFV
+page: https://mapy73.pl/repeater/SM0OFV.R

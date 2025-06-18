@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.425
+        t:
+          - c: "82.5"
+      tx:
+        f: 439.025
+      h: "52684078451"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.sp2kfl.org
+      d: 3x5/8
+h:
+  "52684078451":
+    x:
+      - 70cm: 0
+    p: Włocławek
+    e: 57
+    g: 0
+    a: 52.665735
+    o: 19.049512
+o:
+  - SP2OFP
+page: https://mapy73.pl/repeater/SR2WL

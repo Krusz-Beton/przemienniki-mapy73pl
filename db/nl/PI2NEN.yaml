@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6625
+        t:
+          - c: "71.9"
+      tx:
+        f: 430.0625
+      h: "51484070833"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "51484070833":
+    x:
+      - 70cm: 0
+    p: Nederwetten
+    e: 0
+    g: 0
+    a: 51.47917
+    o: 5.54167
+o: []
+page: https://mapy73.pl/repeater/PI2NEN

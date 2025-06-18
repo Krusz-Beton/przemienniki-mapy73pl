@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.65
+        t:
+          - b: ""
+      tx:
+        f: 439.25
+      h: "48190005004"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.darc.de/der-club/distrikte/c/ortsverbaende/15/dboebkn-70cm-relais/
+      d: ""
+h:
+  "48190005004":
+    x:
+      - 70cm: 0
+    p: ""
+    e: 0
+    g: 0
+    a: 48.177277
+    o: 12.773044
+o: []
+page: https://mapy73.pl/repeater/DB0BKN

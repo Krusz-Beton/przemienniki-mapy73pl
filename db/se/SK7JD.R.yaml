@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+      tx:
+        f: 145.675
+      h: "57773031820"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk7jd.com/
+      d: ""
+h:
+  "57773031820":
+    x:
+      - 2m: 0
+    p: Västervik
+    e: 75
+    g: 40
+    a: 57.7567
+    o: 16.6182
+o:
+  - Tomas
+page: https://mapy73.pl/repeater/SK7JD.R

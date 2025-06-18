@@ -1,0 +1,68 @@
+x:
+  70cm:
+    - rx:
+        f: 431.3
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.9
+        t:
+          - c: "67.0"
+      h: "51394096774"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - http://fm-poland.pl
+      d: >-
+        UWAGA: Tymczasowo na zastępczej antenie!
+
+
+        Urządzenie Motorola Quantar UHF
+
+        Antena Lafayette MA2000
+
+
+        Na przemienniku działają usługi: 
+
+        - Głosowa Automatyczna Stacja Pogodowa SR0WX (nadaje o godz. 7:00, 10:00, 13:00, 16:00, 19:00). Stacja nadaje bez Subtonu).
+
+
+        - Siec FM Poland (fm-poland.pl:888)
+
+        Domyślna grupa rozmowna na której pracuje przemiennik to 26080 (Lubelszczyzna). 
+
+        Przemiennik monitoruje grupy 26050, 26080, 260
+
+        Po aktywności na jednej z monitorowanych grup przez 3 min można korzystać z możliwości rozmowy na ostatniej aktywnej grupie.
+
+        Rozłączenie grupy przez DTMF: 910
+
+        Połączenie z daną grupą DTMF: 91*(numer grupy)
+
+        Papuga: 9990 
+
+        W FM Poland działa też Echolink. Ważna informacja. Podczas próbny podłączenia kogoś z zewnątrz system nie wpuści w trakcie aktywności jakiejś grupy rozmownej.
+
+
+        W tej samej lokalizacji pracuje Digi VHF SR8OSP
+      j0:
+        - 26080
+      j1:
+        - 112
+        - 260
+        - 26050
+        - 26080
+        - 260804
+h:
+  "51394096774":
+    x:
+      - 70cm: 0
+    p: gm. Urszulin
+    e: 171
+    g: 10
+    a: 51.371732
+    o: 23.23574
+o:
+  - SP5OSP
+page: https://mapy73.pl/repeater/SR8PPN

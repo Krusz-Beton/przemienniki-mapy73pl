@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 433.875
+        t:
+          - b: ""
+      tx:
+        f: 434.875
+      h: "62446017000"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "62446017000":
+    x:
+      - 70cm: 0
+    p: Kauhajoki
+    e: 153
+    g: 10
+    a: 62.424
+    o: 22.17
+o:
+  - OH6LF
+page: https://mapy73.pl/repeater/OH6RUT

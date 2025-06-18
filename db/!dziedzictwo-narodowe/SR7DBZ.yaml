@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 430.9625
+        t:
+          - a: ""
+          - f: "1"
+      tx:
+        f: 438.5625
+      h: "50501020277"
+      t: ea
+      s: "6"
+      p: 15
+      u: []
+      d: Motorola MTR2000, płytka SP4XKB, Diamond X-300
+h:
+  "50501020277":
+    x:
+      - 70cm: 0
+    p: Busko-Zdroj
+    e: 243
+    g: 19
+    a: 50.4804872
+    o: 20.71557265
+o:
+  - SQ7FSO
+page: https://mapy73.pl/repeater/SR7DBZ

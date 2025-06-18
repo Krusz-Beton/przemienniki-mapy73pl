@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.8
+        t:
+          - b: ""
+      tx:
+        f: 434.8
+      h: "62327013300"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://r.net.rats.fi/wp/
+      d: ""
+h:
+  "62327013300":
+    x:
+      - 70cm: 0
+    p: Pieksämäki
+    e: 235
+    g: 40
+    a: 62.3
+    o: 27.133
+o:
+  - OH4WW
+page: https://mapy73.pl/repeater/OH4RUB

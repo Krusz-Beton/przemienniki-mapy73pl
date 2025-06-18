@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 430.95
+        t:
+          - f: "6"
+      tx:
+        f: 438.55
+      h: "51121012500"
+      t: e
+      s: "6"
+      p: 15
+      u:
+        - http://www.hblinkwroc.pl
+      d: |-
+        Przemiennik lokalnej sieci HBLink Wrocław
+        TS1 Brandmeister, TS2 HBLink Wrocław
+h:
+  "51121012500":
+    x:
+      - 70cm: 0
+    p: Wrocław
+    e: 0
+    g: 0
+    a: 51.10417
+    o: 16.95833
+o:
+  - SQ6NZW
+page: https://mapy73.pl/repeater/SR6HBL

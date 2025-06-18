@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 438.2
+        t:
+          - f: "6"
+      tx:
+        f: 438.2
+      h: "50871065100"
+      t: e
+      s: "5"
+      p: 1
+      u: []
+      d: ""
+h:
+  "50871065100":
+    x:
+      - 70cm: 0
+    p: Brzeg
+    e: 0
+    g: 0
+    a: 50.85419
+    o: 17.461
+o:
+  - SP6BR
+page: https://mapy73.pl/repeater/SR6BR

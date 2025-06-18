@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8125
+        t:
+          - f: "1"
+      tx:
+        f: 439.4125
+      h: "50881037057"
+      t: e
+      s: "4"
+      p: 15
+      u: []
+      d: ""
+      e1:
+        - 260
+        - 2607
+      e2:
+        - 26074
+h:
+  "50881037057":
+    x:
+      - 70cm: 0
+    p: Łysa Góra/Nowa Słupia - RTCN Święty Krzyż EmiTel
+    e: 595
+    g: 120
+    a: 50.860322
+    o: 21.048573
+o:
+  - SP8I
+page: https://mapy73.pl/repeater/SR7DMK

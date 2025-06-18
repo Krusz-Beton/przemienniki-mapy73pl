@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 430.7625
+        t:
+          - f: "1"
+      tx:
+        f: 438.3625
+      h: "53860013315"
+      t: e
+      s: "6"
+      p: 15
+      u: []
+      d: "MTR-2000, DMRID: 260433,"
+h:
+  "53860013315":
+    x:
+      - 70cm: 0
+    p: Augustów
+    e: 125
+    g: 0
+    a: 53.837154
+    o: 22.97915
+o:
+  - SP4MPN
+page: https://mapy73.pl/repeater/SR4BAU

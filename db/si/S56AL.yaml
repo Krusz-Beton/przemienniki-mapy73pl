@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 433.425
+        t:
+          - a: ""
+      tx:
+        f: 433.425
+      h: "46352054856"
+      t: eb
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46352054856":
+    x:
+      - 70cm: 0
+    p: Bovec (mesto)
+    e: 450
+    g: 0
+    a: 46.338999
+    o: 13.549563
+o:
+  - S56AL
+page: https://mapy73.pl/repeater/S56AL

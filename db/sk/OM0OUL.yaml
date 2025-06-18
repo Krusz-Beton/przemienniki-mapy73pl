@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.375
+      tx:
+        f: 438.975
+      h: "48361026451"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://meteolc.sk/dash/index.html
+      d: ""
+h:
+  "48361026451":
+    x:
+      - 70cm: 0
+    p: Lučenec
+    e: 230
+    g: 0
+    a: 48.34161
+    o: 19.654512
+o:
+  - OM7AZA
+page: https://mapy73.pl/repeater/OM0OUL

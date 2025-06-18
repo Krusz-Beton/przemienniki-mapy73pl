@@ -1,0 +1,56 @@
+x:
+  70cm:
+    - rx:
+        f: 431.0875
+      tx:
+        f: 438.6875
+      h: "54471018895"
+      t: b
+      s: "5"
+      p: 10
+      u:
+        - http://www.lewczuk.pl/index.php/pl/sr2uvg
+      d: |-
+        Antena Radmor 3284/3
+        Emitel RTCN Chwaszczyno
+    - rx:
+        f: 431.2375
+        t:
+          - f: "2"
+      tx:
+        f: 438.8375
+      h: "54471018895"
+      t: e
+      s: "4"
+      p: 10
+      u:
+        - http://lewczuk.pl/index.php/pl/sr2uvg
+        - http://lewczuk.pl/index.php/pl/sr2uvg-pozwolenie-radiowe/category/188
+      d: >-
+        1. Przemiennik DMR, uruchamiany CC2.
+
+
+        2.Przemiennik pracujący na podstawie tego samego pozwolenia co przemiennik D-STAR SR2UVG-B
+
+
+        3. Przemiennik osiągalny z ręki mocą 1 wata z Juraty (JO94CB).
+      e1:
+        - 260
+        - 2602
+      e2:
+        - 26021
+        - 26026
+        - 260015
+h:
+  "54471018895":
+    x:
+      - 70cm: 0
+      - 70cm: 1
+    p: Chwaszczyno EMITEL
+    e: 344
+    g: 161
+    a: 54.452753
+    o: 18.435949
+o:
+  - SP2XDM
+page: https://mapy73.pl/repeater/SR2UVG

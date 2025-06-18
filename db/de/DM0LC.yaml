@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7875
+        t:
+          - a: ""
+          - f: "1"
+      tx:
+        f: 439.3875
+      h: "51349073246"
+      t: ge
+      s: "6"
+      p: 15
+      u:
+        - http://www.dg5lc.de
+      d: ""
+h:
+  "51349073246":
+    x:
+      - 70cm: 0
+    p: Leipzig
+    e: 0
+    g: 0
+    a: 51.33732
+    o: 12.41246
+o:
+  - DG5LC
+page: https://mapy73.pl/repeater/DM0LC

@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.1875
+      tx:
+        f: 145.7875
+      h: "49438075958"
+      t: b
+      s: "5"
+      p: 10
+      u:
+        - http://www.sr9uvj.pl
+        - http://www.ircddb.net/
+      d: "Ant: Tagra KAD150 1 x Tait TB8110 - 2m ( duosimplex)"
+h:
+  "49438075958":
+    x:
+      - 2m: 0
+    p: Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)
+    e: 1114
+    g: 12
+    a: 49.417864
+    o: 20.895578
+o:
+  - SP9WTC
+page: https://mapy73.pl/repeater/SR9DJC

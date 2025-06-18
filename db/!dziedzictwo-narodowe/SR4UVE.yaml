@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 430.55
+        t:
+          - a: ""
+          - c: "94.8"
+      tx:
+        f: 439.95
+      h: "54092099271"
+      t: gb
+      s: "5"
+      p: 15
+      u: []
+      d: |-
+        Motorola Mtr-2000
+        Antena-Comet GP9
+        Duplexer-Motorola
+h:
+  "54092099271":
+    x:
+      - 70cm: 0
+    p: Pasłęk, pow. elbląski
+    e: 109
+    g: 10
+    a: 54.073344
+    o: 19.648709
+o:
+  - SP4KDK
+page: https://mapy73.pl/repeater/SR4UVE

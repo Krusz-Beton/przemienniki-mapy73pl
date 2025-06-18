@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5125
+      tx:
+        f: 434.5125
+      h: "59315067306"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://www.swedmr.se
+      d: ""
+h:
+  "59315067306":
+    x:
+      - 70cm: 0
+    p: Stockholm / Tyresö
+    e: 100
+    g: 39
+    a: 59.2975
+    o: 18.17306
+o:
+  - Johan
+page: https://mapy73.pl/repeater/SM0RMQ

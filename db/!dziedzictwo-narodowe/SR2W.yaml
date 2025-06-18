@@ -1,0 +1,29 @@
+x:
+  2m:
+    - rx:
+        f: 145.1375
+        t:
+          - c: "82.5"
+      tx:
+        f: 145.7375
+        t:
+          - c: "82.5"
+      h: "52684078451"
+      t: a
+      s: "6"
+      p: 10
+      u:
+        - http://www.sp2kfl.org
+      d: Antena Diamond X-510
+h:
+  "52684078451":
+    x:
+      - 2m: 0
+    p: Włocławek
+    e: 57
+    g: 0
+    a: 52.665735
+    o: 19.049512
+o:
+  - SP2FP
+page: https://mapy73.pl/repeater/SR2W

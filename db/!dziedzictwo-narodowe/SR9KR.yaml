@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.675
+        t:
+          - a: ""
+      tx:
+        f: 439.275
+      h: "50086029720"
+      t: b
+      s: "5"
+      p: 15
+      u:
+        - http://www.kpgk.pl
+      d: "ID: 260906"
+h:
+  "50086029720":
+    x:
+      - 70cm: 0
+    p: Kraków
+    e: 220
+    g: 0
+    a: 50.066357
+    o: 19.940202
+o:
+  - SP9SVH
+page: https://mapy73.pl/repeater/SR9KR

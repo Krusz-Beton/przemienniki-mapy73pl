@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.35
+        t:
+          - b: ""
+          - c: "77.0"
+      tx:
+        f: 438.95
+      h: "52755069977"
+      t: a
+      s: "5"
+      p: 5
+      u:
+        - http://www.sr3gw.sp3ypr.pl/
+      d: Beacon nadawany co 30 minut
+h:
+  "52755069977":
+    x:
+      - 70cm: 0
+    p: Gorzów Wielkopolski - lokalny
+    e: 65
+    g: 0
+    a: 52.740422
+    o: 15.277767
+o:
+  - SP3NYF
+page: https://mapy73.pl/repeater/SR3GW

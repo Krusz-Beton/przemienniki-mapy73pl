@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.8
+        t:
+          - b: ""
+      tx:
+        f: 434.8
+      h: "55723030600"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "55723030600":
+    x:
+      - 70cm: 0
+    p: Eskebjerg
+    e: 35
+    g: 0
+    a: 55.712
+    o: 11.306
+o: []
+page: https://mapy73.pl/repeater/OZ4REY

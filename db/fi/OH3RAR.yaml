@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "60727021860"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://oh3ad.fi/
+      d: ""
+h:
+  "60727021860":
+    x:
+      - 2m: 0
+    p: Erkylä / Hausjärvi
+    e: 197
+    g: 45
+    a: 60.7023
+    o: 24.9186
+o:
+  - OH2LRD
+page: https://mapy73.pl/repeater/OH3RAR

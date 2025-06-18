@@ -1,0 +1,49 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+          - e: "1"
+      tx:
+        f: 145.625
+      h: "56915022180"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6jx.org/
+      d: ""
+  70cm:
+    - rx:
+        f: 433.625
+        t:
+          - b: ""
+      tx:
+        f: 434.625
+      h: "56923057176"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6jx.org/
+      d: ""
+h:
+  "56915022180":
+    x:
+      - 2m: 0
+    p: Falkenberg / Arvidstorp
+    e: 0
+    g: 0
+    a: 56.902733
+    o: 12.488801
+  "56923057176":
+    x:
+      - 70cm: 0
+    p: Falkenberg
+    e: 0
+    g: 0
+    a: 56.91111
+    o: 12.46176
+o: []
+page: https://mapy73.pl/repeater/SK6JX.R

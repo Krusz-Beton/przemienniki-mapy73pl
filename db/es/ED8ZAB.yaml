@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 430.8825
+        t:
+          - a: ""
+      tx:
+        f: 438.4625
+      h: "27963062500"
+      t: b
+      s: "5"
+      p: 5
+      u: []
+      d: ""
+h:
+  "27963062500":
+    x:
+      - 70cm: 0
+    p: Cumbre Gran Canaria
+    e: 0
+    g: 0
+    a: 27.97917
+    o: -15.54167
+o: []
+page: https://mapy73.pl/repeater/ED8ZAB

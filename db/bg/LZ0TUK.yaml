@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 430.5
+        t:
+          - a: ""
+      tx:
+        f: 438.1
+        t:
+          - c: "79.7"
+      h: "42660022196"
+      t: a
+      s: "5"
+      p: 20
+      u:
+        - http://www.repeaters.bg/repeater/view/id/72
+      d: ""
+h:
+  "42660022196":
+    x:
+      - 70cm: 0
+    p: София - НУРТС - Копитото
+    e: 1327
+    g: 70
+    a: 42.636978
+    o: 23.243964
+o:
+  - LZ0TUK
+page: https://mapy73.pl/repeater/LZ0TUK

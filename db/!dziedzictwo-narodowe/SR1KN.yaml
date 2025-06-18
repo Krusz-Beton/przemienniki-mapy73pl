@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.075
+        t:
+          - a: ""
+      tx:
+        f: 438.675
+      h: "54223090071"
+      t: a
+      s: "5"
+      p: 9
+      u:
+        - http://ot22.mashgsm.com/articles.php?article_id=8
+      d: X-200
+h:
+  "54223090071":
+    x:
+      - 70cm: 0
+    p: Koszalin Góra Chełmska - wieża widokowa
+    e: 170
+    g: 0
+    a: 54.207675
+    o: 16.225714
+o:
+  - SP1MHY
+page: https://mapy73.pl/repeater/SR1KN

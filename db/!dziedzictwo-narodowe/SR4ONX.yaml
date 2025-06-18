@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.35
+        t:
+          - a: ""
+      tx:
+        f: 438.95
+      h: "53793063132"
+      t: gab
+      s: "2"
+      p: 15
+      u: []
+      d: |-
+        Multimode
+        FM, DSTAR, Fusion, eksperymenty
+h:
+  "53793063132":
+    x:
+      - 70cm: 0
+    p: Olsztyn
+    e: 167
+    g: 35
+    a: 53.773118
+    o: 20.51332
+o: []
+page: https://mapy73.pl/repeater/SR4ONX

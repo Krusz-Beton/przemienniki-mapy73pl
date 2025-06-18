@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.375
+        t:
+          - c: "100.0"
+      tx:
+        f: 438.975
+        t:
+          - c: "100.0"
+      h: "52156029167"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://www.dj1bb.de
+      d: ""
+h:
+  "52156029167":
+    x:
+      - 70cm: 0
+    p: Salzgitter Watenstedt
+    e: 0
+    g: 0
+    a: 52.14583
+    o: 10.45833
+o: []
+page: https://mapy73.pl/repeater/DB0SMB

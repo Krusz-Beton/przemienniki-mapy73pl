@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 427.6875
+      tx:
+        f: 434.6875
+      h: "59295062952"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - https://brandmeister.network/?page=repeater&id=240099
+      d: ""
+h:
+  "59295062952":
+    x:
+      - 70cm: 0
+    p: Stockholm / Söderort
+    e: 100
+    g: 30
+    a: 59.27774
+    o: 17.88952
+o:
+  - info
+page: https://mapy73.pl/repeater/SK0MG

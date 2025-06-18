@@ -1,0 +1,67 @@
+x:
+  2m:
+    - rx:
+        f: 145.0125
+        t:
+          - c: "127.3"
+      tx:
+        f: 145.6125
+        t:
+          - c: "127.3"
+      h: "52201008918"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - http://fm-poland.pl
+      d: >-
+        Przemiennik: Vertex VXR-7000 VHF
+
+        Antena: Diamond F23
+
+
+        >>>NIE KLIKAJ NA ŚLEPO DTMF<<<
+
+
+        - Siec FM Poland (http://fm-poland.pl:888)
+
+        Dashboard FM Poland: http://fm-poland.pl:888/dashboard.php
+
+        Mapa RPT/Hostpotów w sieci: http://fm-poland.pl:888/map.php
+
+        Kody DTMF: http://fm-poland.pl:888/dtmf.php
+
+
+        Domyślna grupa rozmowna 26050 (Mazowsze). Otwarcie przemiennika standardowo aktywuje grupę przemienników zlinkowanych w grupie Mazowsze. Przemiennik monitoruje grupy: 26050 (Mazowsze), 26080 (Lubelszczyzna), 260505 (SR5S), 260 (Ogólnopolska).
+
+        Po aktywności na jednej z monitorowanych grup przez 30 sek. można korzystać z możliwości rozmowy na ostatniej aktywnej grupie.
+
+        Rozłączenie grupy przez DTMF: 910
+
+        Połączenie z daną grupą DTMF: 91(numer grupy)
+
+        Sprawdzenie aktywnej grupy DTMF: 91
+
+        Papuga: 919990
+
+
+        W FM Poland działa też Echolink. Ważna informacja. Podczas próby podłączenia kogoś z zewnątrz system nie wpuści w trakcie aktywności jakiejś grupy rozmownej. Trzeba czekać do wygaśnięcia. Łącząc się przez Echolink słychać tylko aktywność z tego przemiennika a nie całej sieci. 
+
+
+        W razie wszelkich uwag proszę o kontakt: sq5mog@interia.pl
+      j0:
+        - 26050
+      j1:
+        - 260505
+h:
+  "52201008918":
+    x:
+      - 2m: 0
+    p: Siedlce
+    e: 145
+    g: 30
+    a: 52.178818
+    o: 22.271183
+o:
+  - SP5OSP
+page: https://mapy73.pl/repeater/SR5S

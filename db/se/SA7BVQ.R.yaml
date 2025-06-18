@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.75
+      tx:
+        f: 434.75
+      h: "55860040900"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "55860040900":
+    x:
+      - 70cm: 0
+    p: Eslöv
+    e: 0
+    g: 0
+    a: 55.84713
+    o: 13.279
+o:
+  - Joakim
+page: https://mapy73.pl/repeater/SA7BVQ.R

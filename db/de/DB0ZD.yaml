@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.4
+        t:
+          - b: ""
+      tx:
+        f: 439
+      h: "47531004167"
+      t: da
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "47531004167":
+    x:
+      - 70cm: 0
+    p: Mittagberg
+    e: 0
+    g: 0
+    a: 47.52083
+    o: 10.20833
+o: []
+page: https://mapy73.pl/repeater/DB0ZD

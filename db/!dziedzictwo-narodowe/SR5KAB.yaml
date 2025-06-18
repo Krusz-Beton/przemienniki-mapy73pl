@@ -1,0 +1,36 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8
+        t:
+          - f: "5"
+      tx:
+        f: 439.4
+      h: "52240060419"
+      t: e
+      s: "4"
+      p: 15
+      u:
+        - https://www.sp5kab.pl/przemienniki
+        - https://brandmeister.network/?page=repeater&id=260550
+      d: |-
+        Diamond X-300 , Hytera RD
+        CC 5
+        TS 1 2605
+        TS 2 statyczne 26055TG KAB
+      e1:
+        - 260
+      e2:
+        - 26055
+h:
+  "52240060419":
+    x:
+      - 70cm: 0
+    p: Warszawa
+    e: 112
+    g: 0
+    a: 52.219587
+    o: 21.017187
+o:
+  - SP5KAB
+page: https://mapy73.pl/repeater/SR5KAB

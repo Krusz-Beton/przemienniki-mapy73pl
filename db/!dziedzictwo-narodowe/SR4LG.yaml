@@ -1,0 +1,37 @@
+x:
+  70cm:
+    - rx:
+        f: 431.125
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.725
+        t:
+          - c: "67.0"
+      h: "53151024155"
+      t: aj
+      s: "4"
+      p: 10
+      u:
+        - http://fm-poland.pl
+      d: Przemiennik w sieci FM Poland
+      j0:
+        - 260495
+      j1:
+        - 112
+        - 260
+        - 2604
+        - 260495
+        - 260496
+h:
+  "53151024155":
+    x:
+      - 70cm: 0
+    p: Giełczyn
+    e: 143
+    g: 30
+    a: 53.129161
+    o: 22.080552
+o:
+  - SP5OSP
+page: https://mapy73.pl/repeater/SR4LG

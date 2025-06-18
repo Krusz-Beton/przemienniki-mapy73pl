@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - a: ""
+      tx:
+        f: 145.65
+      h: "46238085105"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46238085105":
+    x:
+      - 2m: 0
+    p: Kup (Podbrdo)
+    e: 1046
+    g: 0
+    a: 46.224891
+    o: 13.96005
+o:
+  - S59DAQ
+page: https://mapy73.pl/repeater/S55VBG

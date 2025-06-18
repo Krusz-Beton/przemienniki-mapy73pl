@@ -1,0 +1,28 @@
+x:
+  2m:
+    - rx:
+        f: 145.1875
+        t:
+          - c: "141.3"
+      tx:
+        f: 145.7875
+        t:
+          - c: "141.3"
+      h: "47714039524"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.dm0gap.de/category/allgemein/dm0ulr-wendelstein-relais/
+      d: ""
+h:
+  "47714039524":
+    x:
+      - 2m: 0
+    p: Wendelstein
+    e: 1723
+    g: 0
+    a: 47.702383
+    o: 12.012244
+o: []
+page: https://mapy73.pl/repeater/DM0ULR

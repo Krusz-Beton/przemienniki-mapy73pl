@@ -1,0 +1,43 @@
+x:
+  2m:
+    - rx:
+        f: 144.975
+        t:
+          - c: "67.0"
+      tx:
+        f: 145.575
+        t:
+          - c: "67.0"
+      h: "53432062155"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - https://sr4bi.pl/info-sr4s/
+      d: >-
+        Antena: Diamond X-300N (2×5/8) 6.5 dB
+
+        Przemiennik zbudowany na bazie radiotelefonów Motorola GM 340. 
+
+
+        Sterownik: RPTC Microsat
+
+
+        Pracuje bez duplexera, separacja pozioma nadajnika od odbiornika - 2 lokalizacje
+
+
+        UWAGA
+
+        Przemiennik emituje CTCSS tylko podczas pracy korespondenta. Na podtrzymaniu brak tonu CTCSS.
+h:
+  "53432062155":
+    x:
+      - 2m: 0
+    p: Sokółka
+    e: 198
+    g: 25
+    a: 53.409137
+    o: 23.484552
+o:
+  - SP4AD
+page: https://mapy73.pl/repeater/SR4S

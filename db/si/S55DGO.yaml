@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.65
+        t:
+          - c: "123.0"
+          - f: "1"
+      tx:
+        f: 439.25
+      h: "45982081591"
+      t: geab
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "45982081591":
+    x:
+      - 70cm: 0
+    p: Nova Gorica (pod Skabrijelom)
+    e: 385
+    g: 0
+    a: 45.969145
+    o: 13.670911
+o:
+  - S50ZRS
+page: https://mapy73.pl/repeater/S55DGO

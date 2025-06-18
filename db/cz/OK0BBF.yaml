@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.525
+        t:
+          - a: ""
+          - c: "88.5"
+      tx:
+        f: 439.125
+        t:
+          - c: "88.5"
+      h: "50067039054"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - https://www.ok0bbf.cz
+      d: ""
+h:
+  "50067039054":
+    x:
+      - 70cm: 0
+    p: Suchý vrch - Orlické Hory
+    e: 995
+    g: 0
+    a: 50.050697
+    o: 16.693543
+o:
+  - OK1TBF
+page: https://mapy73.pl/repeater/OK0BBF

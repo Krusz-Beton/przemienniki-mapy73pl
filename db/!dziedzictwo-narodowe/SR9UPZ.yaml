@@ -1,0 +1,34 @@
+x:
+  70cm:
+    - rx:
+        f: 430.9875
+        t:
+          - f: "9"
+      tx:
+        f: 438.5875
+      h: "49699039344"
+      t: e
+      s: "4"
+      p: 15
+      u:
+        - https://radioklub.pl/sr9upz
+      d: D-ORIGINAL X-200
+      e1:
+        - 260
+        - 2609
+      e2:
+        - 26093
+        - 26095
+        - 260015
+h:
+  "49699039344":
+    x:
+      - 70cm: 0
+    p: Klęczany
+    e: 573
+    g: 12
+    a: 49.678767
+    o: 20.626436
+o:
+  - SQ9OKT
+page: https://mapy73.pl/repeater/SR9UPZ

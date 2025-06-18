@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8375
+        t:
+          - a: ""
+      tx:
+        f: 439.4375
+      h: "52289038269"
+      t: g
+      s: "6"
+      p: 0
+      u:
+        - https://sp5kab.pl/pl/przemienniki/
+      d: ""
+h:
+  "52289038269":
+    x:
+      - 70cm: 0
+    p: Warszawa - komin EC Kawęczyn
+    e: 400
+    g: 305
+    a: 52.268254
+    o: 21.128688
+o:
+  - SP5KAB
+page: https://mapy73.pl/repeater/SR5UVA

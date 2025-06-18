@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.3
+      h: "49971015032"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: ""
+h:
+  "49971015032":
+    x:
+      - 70cm: 0
+    p: Mainz - ZDF Television Center
+    e: 230
+    g: 47
+    a: 49.962944
+    o: 8.206319
+o:
+  - DL1ITU
+page: https://mapy73.pl/repeater/DO0SMZ

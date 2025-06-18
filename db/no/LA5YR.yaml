@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.9
+        t:
+          - b: ""
+          - e: "5"
+      tx:
+        f: 434.9
+      h: "59781084170"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.la3f.no/
+      d: ""
+h:
+  "59781084170":
+    x:
+      - 70cm: 0
+    p: Follo / Enebakk
+    e: 350
+    g: 0
+    a: 59.7708
+    o: 11.0417
+o: []
+page: https://mapy73.pl/repeater/LA5YR

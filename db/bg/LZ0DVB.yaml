@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.95
+        t:
+          - a: ""
+      tx:
+        f: 439.55
+      h: "42742052209"
+      t: b
+      s: "5"
+      p: 23
+      u:
+        - http://www.repeaters.bg
+      d: ""
+h:
+  "42742052209":
+    x:
+      - 70cm: 0
+    p: връх Ботев
+    e: 2376
+    g: 23
+    a: 42.717605
+    o: 24.917091
+o:
+  - LZ1IDD
+page: https://mapy73.pl/repeater/LZ0DVB

@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 430.7
+        t:
+          - f: "2"
+      tx:
+        f: 438.3
+      h: "52276020833"
+      t: e
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "52276020833":
+    x:
+      - 70cm: 0
+    p: Spakenburg
+    e: 0
+    g: 0
+    a: 52.27083
+    o: 5.375
+o: []
+page: https://mapy73.pl/repeater/PI1SPA

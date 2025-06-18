@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 431.65
+        t:
+          - a: ""
+      tx:
+        f: 439.25
+      h: "52362007127"
+      t: g
+      s: "1"
+      p: 15
+      u: []
+      d: >-
+        Przemiennik pracuje modulacją C4FM. Podłączony do sieci Wires-X Fusion.
+
+        Urządzenie: 2 x Motorola GM340 + RPi + MMDVM.
+
+        Antena RX/TX X-300N wysokość zawieszenia 185,00 m n.p.t., feeder 7/8@200m; Zakres częstotliwości pracy anteny: 144-146 MHz Zysk: VHF 4.35 dBd / 430-440 MHz Zysk: UHF 6.85 dBd Długość: 3,10 cm Złącze: N antena posiada 3 przeciwwagi. Charakterystyka: 2 x 5/8 fali dla 144MHz, 5 x 5/8 fali dla 430MHz.
+
+        Obiekt: RTCN Jemiołów – Radiowo-Telewizyjne Centrum Nadawcze w Jemiołowie gmina Łagów 66-220 Łagów, maszt o wysokości 316. Centrum zbudowano w latach 1960-1962
+h:
+  "52362007127":
+    x:
+      - 70cm: 0
+    p: RTCN Jemiołów/Łagów maszt EmiTel
+    e: 163
+    g: 185
+    a: 52.346795
+    o: 15.276266
+o:
+  - SQ4LWO
+page: https://mapy73.pl/repeater/SR3JX

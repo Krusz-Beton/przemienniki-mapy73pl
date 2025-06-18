@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.625
+        t:
+          - c: "88.5"
+      tx:
+        f: 439.225
+        t:
+          - c: "88.5"
+      h: "49448029392"
+      t: a
+      s: "6"
+      p: 15
+      u:
+        - http://www.ok4ps.cz/
+      d: ""
+h:
+  "49448029392":
+    x:
+      - 70cm: 0
+    p: Prostějov
+    e: 654
+    g: 0
+    a: 49.431384
+    o: 16.909925
+o:
+  - OK4PS
+page: https://mapy73.pl/repeater/OK0PV

@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.225
+        t:
+          - c: "77.0"
+      tx:
+        f: 438.825
+        t:
+          - c: "77.0"
+      h: "51617050622"
+      t: da
+      s: "5"
+      p: 10
+      u:
+        - https://sp7kzk.pzk.pl/
+      d: Antena HELIX ASD-052 8x5/8 2 * Motorola GM900
+h:
+  "51617050622":
+    x:
+      - 70cm: 0
+    p: Sieradz
+    e: 230
+    g: 90
+    a: 51.598809
+    o: 18.697218
+o:
+  - SQ7PGP
+page: https://mapy73.pl/repeater/SR7SI

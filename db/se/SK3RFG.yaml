@@ -1,0 +1,68 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "62413025830"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://echolink.org/logins.jsp
+      d: ""
+    - rx:
+        f: 144.9875
+        t:
+          - a: ""
+      tx:
+        f: 145.5875
+      h: "62395077144"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=SK3RFG&mod=C
+      d: ""
+  70cm:
+    - rx:
+        f: 432.8
+      tx:
+        f: 434.8
+      h: "62395077344"
+      t: b
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=SK3RFG&mod=B
+      d: ""
+h:
+  "62413025830":
+    x:
+      - 2m: 0
+    p: Sundsvall
+    e: 0
+    g: 0
+    a: 62.3958
+    o: 17.4583
+  "62395077144":
+    x:
+      - 2m: 1
+    p: Sundsvall / Klissberget
+    e: 320
+    g: 60
+    a: 62.37857
+    o: 17.20144
+  "62395077344":
+    x:
+      - 70cm: 0
+    p: Sundsvall / Klissberget
+    e: 320
+    g: 60
+    a: 62.37857
+    o: 17.20344
+o:
+  - Lennart
+page: https://mapy73.pl/repeater/SK3RFG

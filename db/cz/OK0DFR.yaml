@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 430.775
+        t:
+          - a: ""
+          - f: "1"
+      tx:
+        f: 438.375
+      h: "50667011336"
+      t: ge
+      s: "6"
+      p: 15
+      u: []
+      d: ""
+h:
+  "50667011336":
+    x:
+      - 70cm: 0
+    p: Strazne - Krkonose
+    e: 750
+    g: 12
+    a: 50.651483
+    o: 15.630356
+o:
+  - OK4MD
+page: https://mapy73.pl/repeater/OK0DFR

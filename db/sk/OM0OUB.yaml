@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.725
+        t:
+          - c: "77.0"
+      tx:
+        f: 439.325
+        t:
+          - c: "77.0"
+      h: "48199042581"
+      t: a
+      s: "5"
+      p: 3
+      u:
+        - http://sites.google.com/site/om1aeg/prevadzac-om0oub
+      d: ""
+h:
+  "48199042581":
+    x:
+      - 70cm: 0
+    p: Bratislava, Slavin
+    e: 520
+    g: 0
+    a: 48.182331
+    o: 17.094806
+o:
+  - OM1AEG
+page: https://mapy73.pl/repeater/OM0OUB

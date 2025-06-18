@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8
+        t:
+          - c: "82.5"
+      tx:
+        f: 439.4
+        t:
+          - c: "82.5"
+      h: "53294049546"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: TX/RX Motorola GM340, sterownik Microsat, duplekser SGQ-450D-N, antena
+        Diamond X-200
+h:
+  "53294049546":
+    x:
+      - 70cm: 0
+    p: Wałcz
+    e: 115
+    g: 35
+    a: 53.278012
+    o: 16.48346
+o:
+  - SQ1GQN
+page: https://mapy73.pl/repeater/SR1WA

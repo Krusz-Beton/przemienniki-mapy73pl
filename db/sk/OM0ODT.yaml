@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.575
+        t:
+          - c: "88.5"
+      tx:
+        f: 439.175
+        t:
+          - c: "88.5"
+      h: "48793012500"
+      t: a
+      s: "5"
+      p: 20
+      u: []
+      d: |
+        
+        Antena: DIAMOND X-300
+        Sprzęt: Yaesu DR-1X
+h:
+  "48793012500":
+    x:
+      - 70cm: 0
+    p: Koňuš
+    e: 300
+    g: 0
+    a: 48.77083
+    o: 22.29167
+o:
+  - OM8JAP
+page: https://mapy73.pl/repeater/OM0ODT

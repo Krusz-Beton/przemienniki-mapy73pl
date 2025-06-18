@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.2
+        t:
+          - c: "94.8"
+      tx:
+        f: 438.8
+      h: "50559008382"
+      t: da
+      s: "5"
+      p: 10
+      u:
+        - http://sr9jk.pl
+      d: ""
+h:
+  "50559008382":
+    x:
+      - 70cm: 0
+    p: Włodowice
+    e: 410
+    g: 20
+    a: 50.539655
+    o: 19.428821
+o:
+  - SP9JKL
+page: https://mapy73.pl/repeater/SR9JK

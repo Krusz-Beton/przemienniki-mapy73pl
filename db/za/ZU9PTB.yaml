@@ -1,0 +1,25 @@
+h:
+  "-26176095028":
+    a: -26.205
+    o: 28.049722
+    p: Northcliff Ext12
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "-26176095028"
+      u: []
+      d: ""
+      p: 25
+      t: e
+      s: "4"
+      tx:
+        f: 438.2
+      rx:
+        f: 430.6
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/ZU9PTB

@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 433
+      tx:
+        f: 434.6
+      h: "62168000830"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "62168000830":
+    x:
+      - 70cm: 0
+    p: Isojoki
+    e: 250
+    g: 20
+    a: 62.1458
+    o: 22.2083
+o:
+  - OH6MTC
+page: https://mapy73.pl/repeater/OH6RUF

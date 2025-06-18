@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5625
+        t:
+          - a: ""
+      tx:
+        f: 434.5625
+      h: "63078075430"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk3jr.se
+      d: ""
+h:
+  "63078075430":
+    x:
+      - 70cm: 0
+    p: Östersund
+    e: 475
+    g: 8
+    a: 63.0644
+    o: 14.3543
+o:
+  - Ernst
+page: https://mapy73.pl/repeater/SK3JR

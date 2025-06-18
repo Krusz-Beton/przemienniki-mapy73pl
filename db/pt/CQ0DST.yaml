@@ -1,0 +1,27 @@
+h:
+  "38777010580":
+    a: 38.786491
+    o: -9.3852
+    p: Serra de Sintra - Sintra
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "38777010580"
+      u: []
+      d: ""
+      p: 25
+      t: e
+      s: "4"
+      tx:
+        f: 438.2875
+      rx:
+        f: 430.6875
+        t:
+          - f: "1"
+      e1:
+        - 268
+o: []
+page: https://mapy73.pl/repeater/CQ0DST

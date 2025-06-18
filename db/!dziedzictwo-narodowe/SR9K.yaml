@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+        t:
+          - c: "103.5"
+      tx:
+        f: 145.75
+      h: "49993013385"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: Przemiennik wrócił do żywych.
+h:
+  "49993013385":
+    x:
+      - 2m: 0
+    p: Siercza k/Wieliczki
+    e: 336
+    g: 0
+    a: 49.9731
+    o: 20.033849
+o: []
+page: https://mapy73.pl/repeater/SR9K

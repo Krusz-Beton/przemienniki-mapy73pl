@@ -1,0 +1,35 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - c: "88.5"
+      tx:
+        f: 145.625
+        t:
+          - c: "88.5"
+      h: "50881037057"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://sp7pki.iq24.pl/default.asp?action=4&f_szukaj=sr7v
+      d: >-
+        Urządzenie: Motorola MTR 2000.
+
+
+        Antena zawieszona na wysokości 120 m n.p.t.
+
+        Obiekt: Lokalizacja wieży na terenie Świętokrzyskiego Parku Narodowego. Otwarcie obiektu nastąpiło w dniu 22 października 1964 roku. Wieża betonowa + stalowa o wysokości 152 m wykonana została przez Kieleckie Przedsiębiorstwo Budownictwa Przemysłowego, a trzon wieży wykonało Warszawskie Przedsiębiorstwo Budowy Pieców Przemysłowych. Położenie obiektu daje mu jeden z największych zasięgów w Polsce obejmujący prawie 1/4 południowo-wschodniej Polski.
+h:
+  "50881037057":
+    x:
+      - 2m: 0
+    p: RTCN Święty Krzyż EmiTel - Łysa Góra/Nowa Słupia
+    e: 595
+    g: 120
+    a: 50.860322
+    o: 21.048573
+o:
+  - SP8SIW
+page: https://mapy73.pl/repeater/SR7V

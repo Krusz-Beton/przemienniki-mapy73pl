@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.225
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.825
+        t:
+          - c: "67.0"
+      h: "52901095683"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://sp5kvw.com/sr5vw/
+      d: FM-Narrow, X-300
+h:
+  "52901095683":
+    x:
+      - 70cm: 0
+    p: Różan EMITEL
+    e: 185
+    g: 65
+    a: 52.880556
+    o: 21.400833
+o:
+  - SP5RMT
+page: https://mapy73.pl/repeater/SR5VW

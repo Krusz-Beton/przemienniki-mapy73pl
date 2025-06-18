@@ -1,0 +1,48 @@
+x:
+  2m:
+    - rx:
+        f: 145.1375
+      tx:
+        f: 145.7375
+      h: "56019041566"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk7bq.com/
+      d: ""
+  70cm:
+    - rx:
+        f: 432.6
+        t:
+          - b: ""
+      tx:
+        f: 434.6
+      h: "56036004882"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk7bq.com/
+      d: ""
+h:
+  "56019041566":
+    x:
+      - 2m: 0
+    p: Kristianstad
+    e: 0
+    g: 0
+    a: 56.00535
+    o: 14.06566
+  "56036004882":
+    x:
+      - 70cm: 0
+    p: Kristianstad
+    e: 0
+    g: 0
+    a: 56.02188
+    o: 14.16882
+o:
+  - SM7FLD
+  - SM7XQO
+page: https://mapy73.pl/repeater/SK7BQ.R

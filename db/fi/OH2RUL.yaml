@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 433.725
+        t:
+          - b: ""
+      tx:
+        f: 434.725
+      h: "60274008300"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60274008300":
+    x:
+      - 70cm: 0
+    p: Lohja
+    e: 110
+    g: 15
+    a: 60.25
+    o: 24.083
+o:
+  - OH2BUF
+page: https://mapy73.pl/repeater/OH2RUL

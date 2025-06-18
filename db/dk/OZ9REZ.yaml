@@ -1,0 +1,40 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5625
+        t:
+          - a: ""
+      tx:
+        f: 434.5625
+      h: "56489024170"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://www.d-star4all.dk/
+      d: ""
+    - rx:
+        f: 432.8
+        t:
+          - b: ""
+      tx:
+        f: 434.8
+      h: "56489024170"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://echolink.org/logins.jsp
+      d: ""
+h:
+  "56489024170":
+    x:
+      - 70cm: 0
+      - 70cm: 1
+    p: Randers
+    e: 0
+    g: 0
+    a: 56.4792
+    o: 10.0417
+o: []
+page: https://mapy73.pl/repeater/OZ9REZ

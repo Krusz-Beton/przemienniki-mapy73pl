@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.4
+        t:
+          - a: ""
+      tx:
+        f: 439
+        t:
+          - c: "123.0"
+      h: "46002061579"
+      t: da
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46002061579":
+    x:
+      - 70cm: 0
+    p: Laze
+    e: 528
+    g: 0
+    a: 45.987337
+    o: 15.278792
+o:
+  - S56CT
+page: https://mapy73.pl/repeater/S55USE

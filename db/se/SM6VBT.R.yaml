@@ -1,0 +1,49 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+      tx:
+        f: 145.7
+      h: "57662001667"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://status.irlp.net/?PSTART=5&country=225
+      d: ""
+  70cm:
+    - rx:
+        f: 432.7
+      tx:
+        f: 434.7
+      h: "57662001667"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://status.irlp.net/?PSTART=5&country=225
+      d: ""
+  10m:
+    - rx:
+        f: 29.59
+      tx:
+        f: 29.69
+      h: "57662001667"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "57662001667":
+    x:
+      - 2m: 0
+      - 70cm: 0
+      - 10m: 0
+    p: Mölndal
+    e: 0
+    g: 0
+    a: 57.65
+    o: 12.016667
+o: []
+page: https://mapy73.pl/repeater/SM6VBT.R

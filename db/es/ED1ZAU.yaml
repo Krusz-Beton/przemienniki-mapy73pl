@@ -1,0 +1,27 @@
+h:
+  "43378005869":
+    a: 43.383938
+    o: -5.879306
+    p: Monte Naranco Oviedo
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "43378005869"
+      u: []
+      d: ""
+      p: 15
+      t: e
+      s: "4"
+      tx:
+        f: 438.5
+      rx:
+        f: 430.9
+        t:
+          - f: "1"
+      e2:
+        - 21433
+o: []
+page: https://mapy73.pl/repeater/ED1ZAU

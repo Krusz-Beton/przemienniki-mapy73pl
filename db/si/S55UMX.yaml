@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6
+        t:
+          - a: ""
+          - c: "88.5"
+      tx:
+        f: 439.2
+      h: "46531096570"
+      t: da
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46531096570":
+    x:
+      - 70cm: 0
+    p: Pohorje (Maribor)
+    e: 935
+    g: 0
+    a: 46.516374
+    o: 15.591698
+o:
+  - S56WAN
+page: https://mapy73.pl/repeater/S55UMX

@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.5
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.1
+        t:
+          - c: "67.0"
+      h: "53181057575"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://krotkofalowcy.lomza.pl/index.php/nasza-dzialalnosc/techniki-cyfrowe/32-sr4lo
+      d: MTR2000, X-300, 70 m npt
+h:
+  "53181057575":
+    x:
+      - 70cm: 0
+    p: Łomża - maszt
+    e: 139
+    g: 65
+    a: 53.159484
+    o: 22.091746
+o:
+  - SP5VJE
+page: https://mapy73.pl/repeater/SR4LO

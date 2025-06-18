@@ -1,0 +1,36 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6875
+        t:
+          - f: "1"
+      tx:
+        f: 439.2875
+      h: "51995012756"
+      t: e
+      s: "4"
+      p: 1
+      u: []
+      d: |-
+        Antena : Diamont X510
+        Radio RX/TX : Motorola CM140
+        Moc: 1W
+        Sterowanie : MMDVM (Pi-Star)
+        DMR Id: 260724
+      e1:
+        - 260
+      e2:
+        - 26072
+        - 26095
+h:
+  "51995012756":
+    x:
+      - 70cm: 0
+    p: Skierniewice
+    e: 121
+    g: 45
+    a: 51.974983
+    o: 20.144561
+o:
+  - SP9ODT
+page: https://mapy73.pl/repeater/SR7DSC

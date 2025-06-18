@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.975
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.575
+        t:
+          - c: "67.0"
+      h: "50139013528"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - https://www.facebook.com/SP9PRR/
+      d: 2x Motorola GM1200, Duplekser Procom DFP70/6, CNT400 60mb, Antena Diamond
+        X50N
+h:
+  "50139013528":
+    x:
+      - 70cm: 0
+    p: Strzybniczek
+    e: 269
+    g: 50
+    a: 50.120982
+    o: 18.153277
+o:
+  - SQ9HHV
+page: https://mapy73.pl/repeater/SR9RAC

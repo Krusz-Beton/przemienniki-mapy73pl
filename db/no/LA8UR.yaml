@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.775
+        t:
+          - b: ""
+          - e: "5"
+      tx:
+        f: 434.775
+      h: "63822020833"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "63822020833":
+    x:
+      - 70cm: 0
+    p: Fosen / Kopparen
+    e: 476
+    g: 0
+    a: 63.8125
+    o: 9.70833
+o: []
+page: https://mapy73.pl/repeater/LA8UR

@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "56826047234"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk7mo.se/
+      d: ""
+h:
+  "56826047234":
+    x:
+      - 2m: 0
+    p: Ljungby
+    e: 0
+    g: 0
+    a: 56.81253
+    o: 13.94234
+o:
+  - SK7MO
+page: https://mapy73.pl/repeater/SK7MO.R

@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "62526092500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "62526092500":
+    x:
+      - 2m: 0
+    p: Ålesund / Valderøyfjellet
+    e: 243
+    g: 0
+    a: 62.5208
+    o: 6.125
+o: []
+page: https://mapy73.pl/repeater/LA6MR

@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - a: ""
+      tx:
+        f: 145.725
+      h: "53131096894"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.hamradio.biaman.pl/ukf/ukf.htm
+      d: Radmor, 3x5/8
+h:
+  "53131096894":
+    x:
+      - 2m: 0
+    p: Białystok
+    e: 153
+    g: 0
+    a: 53.108847
+    o: 23.121939
+o:
+  - SP4YB
+page: https://mapy73.pl/repeater/SR4U

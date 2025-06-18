@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7
+        t:
+          - c: "71.9"
+      tx:
+        f: 430.1
+      h: "51459017814"
+      t: ga
+      s: "5"
+      p: 0
+      u:
+        - http://hhertz.org/technische-gegevens/pi2ehv_en/
+        - https://aprs.fi/#!mt=roadmap&z=18&call=a%2FPI2EHV&timerange=3600&tail=3600
+      d: "Antenna: Kathrein K7516221, polaryzacja pionowa, dookólna"
+h:
+  "51459017814":
+    x:
+      - 70cm: 0
+    p: Eindhoven
+    e: 69
+    g: 47
+    a: 51.453776
+    o: 5.402144
+o: []
+page: https://mapy73.pl/repeater/PI2EHV

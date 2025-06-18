@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.625
+        t:
+          - b: ""
+      tx:
+        f: 434.625
+      h: "60118072490"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60118072490":
+    x:
+      - 70cm: 0
+    p: Torsby / Valberget
+    e: 0
+    g: 0
+    a: 60.10576
+    o: 12.9649
+o:
+  - SK4RPK
+page: https://mapy73.pl/repeater/SK4RPK

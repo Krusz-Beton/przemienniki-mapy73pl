@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.0875
+        t:
+          - f: "1"
+      tx:
+        f: 438.6875
+      h: "51874016605"
+      t: e
+      s: "6"
+      p: 15
+      u:
+        - http://dmrplus.pl/przemienniki
+      d: |-
+        Przemiennik sieci DMR+ Color Code 3
+        TG 260 grupa wywoławcza sieci DMR+
+        TG2603 grupa połączona z siecią Brand Meister
+
+        więcej na stronie http://dmrplus.pl
+h:
+  "51874016605":
+    x:
+      - 70cm: 0
+    p: Krzemieniewo
+    e: 111
+    g: 12
+    a: 51.857324
+    o: 16.842054
+o:
+  - SP3SPK
+page: https://mapy73.pl/repeater/SR3KRZ

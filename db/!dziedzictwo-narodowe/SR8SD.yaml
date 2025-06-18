@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.725
+        t:
+          - c: "123.0"
+      tx:
+        f: 439.325
+        t:
+          - c: "123.0"
+      h: "51237076918"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.krotkofalowcyswidnik.rejmak.pl
+      d: ""
+h:
+  "51237076918":
+    x:
+      - 70cm: 0
+    p: Świdnik
+    e: 191
+    g: 0
+    a: 51.215067
+    o: 22.70218
+o:
+  - SQ8EP
+page: https://mapy73.pl/repeater/SR8SD

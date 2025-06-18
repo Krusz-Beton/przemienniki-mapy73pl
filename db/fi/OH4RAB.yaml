@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - b: ""
+      tx:
+        f: 145.675
+      h: "62327013300"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "62327013300":
+    x:
+      - 2m: 0
+    p: Pieksämäki
+    e: 185
+    g: 57
+    a: 62.3
+    o: 27.133
+o:
+  - OH4WW
+page: https://mapy73.pl/repeater/OH4RAB

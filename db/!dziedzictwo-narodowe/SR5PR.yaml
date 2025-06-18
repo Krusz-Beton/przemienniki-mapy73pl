@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.575
+        t:
+          - a: ""
+      tx:
+        f: 439.175
+      h: "52179032363"
+      t: da
+      s: "5"
+      p: 10
+      u: []
+      d: uvs-300
+h:
+  "52179032363":
+    x:
+      - 70cm: 0
+    p: Pruszków
+    e: 100
+    g: 0
+    a: 52.158506
+    o: 20.817633
+o:
+  - SP5CFS
+page: https://mapy73.pl/repeater/SR5PR

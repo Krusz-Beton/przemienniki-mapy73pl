@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - a: ""
+      tx:
+        f: 145.625
+      h: "59330004124"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59330004124":
+    x:
+      - 2m: 0
+    p: Stockholm / Nacka
+    e: 0
+    g: 0
+    a: 59.31186
+    o: 18.18124
+o: []
+page: https://mapy73.pl/repeater/SK0RIX

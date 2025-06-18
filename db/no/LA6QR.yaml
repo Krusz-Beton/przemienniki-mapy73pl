@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.75
+        t:
+          - b: ""
+          - e: "4"
+      tx:
+        f: 434.75
+      h: "59359049167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59359049167":
+    x:
+      - 70cm: 0
+    p: Haugesund / Karmøy
+    e: 128
+    g: 0
+    a: 59.3542
+    o: 5.29167
+o: []
+page: https://mapy73.pl/repeater/LA6QR

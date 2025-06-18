@@ -1,0 +1,25 @@
+h:
+  "47537089220":
+    a: 47.5242
+    o: 13.6922
+    p: Krippenstein
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "47537089220"
+      u: []
+      d: ""
+      p: 15
+      t: e
+      s: "4"
+      tx:
+        f: 438.5
+      rx:
+        f: 430.9
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/OE5XKL

@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 430.85
+        t:
+          - a: ""
+      tx:
+        f: 438.45
+      h: "43156047373"
+      t: gb
+      s: "5"
+      p: 10
+      u:
+        - http://www.dstar.bg/
+        - http://www.repeaters.bg/
+      d: ""
+h:
+  "43156047373":
+    x:
+      - 70cm: 0
+    p: Петрохан
+    e: 1638
+    g: 57
+    a: 43.133355
+    o: 23.118725
+o:
+  - LZ1AA
+page: https://mapy73.pl/repeater/LZ0DDA

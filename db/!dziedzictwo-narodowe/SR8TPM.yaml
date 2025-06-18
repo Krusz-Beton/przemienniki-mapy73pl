@@ -1,0 +1,29 @@
+x:
+  2m:
+    - rx:
+        f: 145.3375
+        t:
+          - c: "71.9"
+      tx:
+        f: 145.3375
+        t:
+          - c: "71.9"
+      h: "50093098594"
+      t: a
+      s: "6"
+      p: 15
+      u:
+        - http://fm-poland.pl
+      d: Hotspot publiczny FM-POLAND
+h:
+  "50093098594":
+    x:
+      - 2m: 0
+    p: ""
+    e: 177
+    g: 6
+    a: 50.071275
+    o: 22.710937
+o:
+  - SP8KZI
+page: https://mapy73.pl/repeater/SR8TPM

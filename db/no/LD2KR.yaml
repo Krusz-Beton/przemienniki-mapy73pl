@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5625
+      tx:
+        f: 434.5625
+      h: "60336037796"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.la7v.org
+      d: ""
+h:
+  "60336037796":
+    x:
+      - 70cm: 0
+    p: Kongsvinger / Rafjellet
+    e: 576
+    g: 14
+    a: 60.32424
+    o: 12.13796
+o:
+  - Roar
+page: https://mapy73.pl/repeater/LD2KR

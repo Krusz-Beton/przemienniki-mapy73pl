@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.55
+        t:
+          - a: ""
+      tx:
+        f: 439.15
+      h: "50317020803"
+      t: g
+      s: "5"
+      p: 10
+      u: []
+      d: ""
+h:
+  "50317020803":
+    x:
+      - 70cm: 0
+    p: Siemianowice Śląskie
+    e: 314
+    g: 35
+    a: 50.298203
+    o: 19.005029
+o:
+  - SQ9DHE
+page: https://mapy73.pl/repeater/SR9SZ

@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.625
+        t:
+          - c: "107.2"
+      tx:
+        f: 439.225
+        t:
+          - c: "107.2"
+      h: "49654008887"
+      t: ga
+      s: "5"
+      p: 15
+      u: []
+      d: www.radioklub.pl
+h:
+  "49654008887":
+    x:
+      - 70cm: 0
+    p: Nowy Sącz
+    e: 450
+    g: 15
+    a: 49.633351
+    o: 20.737875
+o:
+  - SQ9OKT
+page: https://mapy73.pl/repeater/SR9NS

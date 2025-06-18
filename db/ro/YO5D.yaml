@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.725
+        t:
+          - a: ""
+      tx:
+        f: 145.125
+      h: "47302009102"
+      t: a
+      s: "5"
+      p: 4
+      u: []
+      d: ""
+h:
+  "47302009102":
+    x:
+      - 2m: 0
+    p: Bârgău Mountains, Heniu Mare
+    e: 1611
+    g: 0
+    a: 47.277356
+    o: 24.735018
+o:
+  - YO5KUC
+page: https://mapy73.pl/repeater/YO5D

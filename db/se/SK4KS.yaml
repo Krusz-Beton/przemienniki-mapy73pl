@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.85
+        t:
+          - b: ""
+      tx:
+        f: 434.85
+      h: "59418050914"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59418050914":
+    x:
+      - 70cm: 0
+    p: Karlstad / Kronoparken
+    e: 0
+    g: 0
+    a: 59.40491
+    o: 13.59914
+o: []
+page: https://mapy73.pl/repeater/SK4KS

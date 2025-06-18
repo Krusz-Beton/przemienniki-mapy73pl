@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.55
+        t:
+          - a: ""
+      tx:
+        f: 434.55
+      h: "59074002510"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk5um.se/
+      d: ""
+h:
+  "59074002510":
+    x:
+      - 70cm: 0
+    p: Flen / Vattentornet
+    e: 0
+    g: 0
+    a: 59.05742
+    o: 16.6051
+o:
+  - G\u00f6ran
+page: https://mapy73.pl/repeater/SK5UM

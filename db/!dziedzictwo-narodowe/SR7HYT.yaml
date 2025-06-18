@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - f: "1"
+      tx:
+        f: 145.625
+      h: "51790029167"
+      t: e
+      s: "6"
+      p: 15
+      u: []
+      d: Antena Katherin
+h:
+  "51790029167":
+    x:
+      - 2m: 0
+    p: Łódź
+    e: 0
+    g: 0
+    a: 51.77083
+    o: 19.45833
+o:
+  - SP7JB
+page: https://mapy73.pl/repeater/SR7HYT

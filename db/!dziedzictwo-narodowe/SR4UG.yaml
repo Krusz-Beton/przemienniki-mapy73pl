@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.175
+        t:
+          - a: ""
+          - f: "1"
+      tx:
+        f: 438.775
+      h: "54044020833"
+      t: geb
+      s: "6"
+      p: 15
+      u: []
+      d: D-Star, DMR+, Fusion II YCS260
+h:
+  "54044020833":
+    x:
+      - 70cm: 0
+    p: Giby
+    e: 0
+    g: 0
+    a: 54.02083
+    o: 23.375
+o:
+  - SP4XKB
+page: https://mapy73.pl/repeater/SR4UG

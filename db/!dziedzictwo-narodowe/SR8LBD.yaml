@@ -1,0 +1,35 @@
+x:
+  70cm:
+    - rx:
+        f: 430.975
+        t:
+          - c: "77.0"
+      tx:
+        f: 438.575
+        t:
+          - c: "77.0"
+      h: "51027046351"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: >-
+        Przemiennik pracuje jeszcze testowo. Prosimy zaznaczać słyszalność
+        przemiennika na przemienniki.net.
+
+
+        Chwilowo przemiennik pracuje na X50 Diamonda - wysokości instalacji antenowej ok 458m.n.p.m 
+
+        Przemiennik Motorola MTR2000 UHF
+h:
+  "51027046351":
+    x:
+      - 70cm: 0
+    p: RTCN Lublin / Boży Dar (Emitel)
+    e: 458
+    g: 151
+    a: 51.00481
+    o: 22.65351
+o:
+  - SQ8MFR
+page: https://mapy73.pl/repeater/SR8LBD

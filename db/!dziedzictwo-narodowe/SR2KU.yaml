@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.825
+        t:
+          - c: "94.8"
+      tx:
+        f: 439.425
+        t:
+          - c: "94.8"
+      h: "54227098587"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://lewczuk.pl/index.php/pl/sr2ku
+      d: Przemiennik Działa na 5 s W Gdyni ANT x300 wysokości 15 m nad ziemią .
+        jakości jest w W pełni poprawna . Moc 1 W wystarczy by go otworzyć .
+        (napisać SQ2RAD)
+h:
+  "54227098587":
+    x:
+      - 70cm: 0
+    p: Wieżyca
+    e: 362
+    g: 35
+    a: 54.209874
+    o: 18.111871
+o:
+  - SQ2LYH
+page: https://mapy73.pl/repeater/SR2KU

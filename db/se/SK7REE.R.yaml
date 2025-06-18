@@ -1,0 +1,25 @@
+x:
+  6m:
+    - rx:
+        f: 51.25
+      tx:
+        f: 51.85
+      h: "56064081672"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk7dd.se
+      d: ""
+h:
+  "56064081672":
+    x:
+      - 6m: 0
+    p: Helsingborg / Söderåsen
+    e: 220
+    g: 0
+    a: 56.05171
+    o: 13.10672
+o:
+  - SM7VEV
+page: https://mapy73.pl/repeater/SK7REE.R

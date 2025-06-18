@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+      tx:
+        f: 145.625
+      h: "61825039000"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "61825039000":
+    x:
+      - 2m: 0
+    p: Kankaanpää
+    e: 42
+    g: 15
+    a: 61.803
+    o: 22.39
+o:
+  - OH1HKN
+page: https://mapy73.pl/repeater/OH1RAE

@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+      tx:
+        f: 145.625
+      h: "63721021000"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.multi.fi/~oh6ag/
+      d: ""
+h:
+  "63721021000":
+    x:
+      - 2m: 0
+    p: Jakobstad / Pietarsaari
+    e: 92
+    g: 90
+    a: 63.6985
+    o: 22.71
+o:
+  - OH6MLL
+page: https://mapy73.pl/repeater/OH6RAG

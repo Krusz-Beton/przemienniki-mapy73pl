@@ -1,0 +1,28 @@
+x:
+  2m:
+    - rx:
+        f: 145.0875
+        t:
+          - c: "67.0"
+      tx:
+        f: 145.6875
+        t:
+          - c: "67.0"
+      h: "53859015972"
+      t: a
+      s: "3"
+      p: 15
+      u: []
+      d: Bramka FM-Poland VHF
+h:
+  "53859015972":
+    x:
+      - 2m: 0
+    p: KO13MV
+    e: 0
+    g: 0
+    a: 53.836155
+    o: 23.004719
+o:
+  - SP4XKS
+page: https://mapy73.pl/repeater/SR4AUV

@@ -1,0 +1,24 @@
+x:
+  10m:
+    - rx:
+        f: 29.58
+      tx:
+        f: 29.68
+      h: "55738066133"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://echolink.org/logins.jsp
+      d: ""
+h:
+  "55738066133":
+    x:
+      - 10m: 0
+    p: Vejle
+    e: 0
+    g: 0
+    a: 55.7292
+    o: 9.46133
+o: []
+page: https://mapy73.pl/repeater/OZ1OPY.R

@@ -1,0 +1,24 @@
+x:
+  6m:
+    - rx:
+        f: 51.35
+      tx:
+        f: 51.95
+      h: "55658025850"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "55658025850":
+    x:
+      - 6m: 0
+    p: Copenhagen / Hvidovre H.C.
+    e: 9
+    g: 35
+    a: 55.6458
+    o: 12.4585
+o:
+  - oz3jbp
+page: https://mapy73.pl/repeater/OZ6REU

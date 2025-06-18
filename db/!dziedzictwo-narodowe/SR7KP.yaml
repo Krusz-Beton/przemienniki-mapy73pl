@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.825
+        t:
+          - c: "88.5"
+      tx:
+        f: 439.425
+        t:
+          - c: "88.5"
+      h: "50916046448"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sp7pki.iq24.pl/default.asp?grupa=96478&temat=43583
+      d: Ponownie działa.
+h:
+  "50916046448":
+    x:
+      - 70cm: 0
+    p: Kielce
+    e: 320
+    g: 35
+    a: 50.895799
+    o: 20.665477
+o:
+  - SP7UDB
+page: https://mapy73.pl/repeater/SR7KP

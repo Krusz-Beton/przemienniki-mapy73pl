@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - c: "77.0"
+      tx:
+        f: 145.7
+      h: "51943079167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "51943079167":
+    x:
+      - 2m: 0
+    p: Doetinchem
+    e: 0
+    g: 0
+    a: 51.9375
+    o: 6.29167
+o: []
+page: https://mapy73.pl/repeater/PI3DTC

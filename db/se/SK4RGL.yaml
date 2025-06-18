@@ -1,0 +1,49 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+      tx:
+        f: 145.625
+      h: "60622009550"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk4ao.net/
+      d: ""
+  70cm:
+    - rx:
+        f: 432.625
+        t:
+          - a: ""
+      tx:
+        f: 434.625
+      h: "60625065000"
+      t: b
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk4ao.net
+      d: ""
+h:
+  "60622009550":
+    x:
+      - 2m: 0
+    p: Falun
+    e: 0
+    g: 0
+    a: 60.60646
+    o: 15.6355
+  "60625065000":
+    x:
+      - 70cm: 0
+    p: Falun
+    e: 0
+    g: 0
+    a: 60.61
+    o: 15.65
+o:
+  - SM4RMH
+page: https://mapy73.pl/repeater/SK4RGL

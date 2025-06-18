@@ -1,0 +1,23 @@
+x:
+  2m:
+    - rx:
+        f: 145.1375
+      tx:
+        f: 145.7375
+      h: "55740057500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "55740057500":
+    x:
+      - 2m: 0
+    p: Snertinge
+    e: 27
+    g: 0
+    a: 55.7292
+    o: 11.375
+o: []
+page: https://mapy73.pl/repeater/OZ7REP

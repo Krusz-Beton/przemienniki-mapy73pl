@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 430.65
+        t:
+          - a: ""
+      tx:
+        f: 438.25
+      h: "52652062500"
+      t: e
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "52652062500":
+    x:
+      - 70cm: 0
+    p: Coevorden
+    e: 0
+    g: 0
+    a: 52.64583
+    o: 6.79167
+o: []
+page: https://mapy73.pl/repeater/PI1CVD

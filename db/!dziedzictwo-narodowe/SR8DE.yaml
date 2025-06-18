@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7
+        t:
+          - c: "103.5"
+      tx:
+        f: 439.3
+      h: "49985092909"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.krotkofalowcy.org/
+      d: 2x Motorola MC2100, Antena X-300
+h:
+  "49985092909":
+    x:
+      - 70cm: 0
+    p: Dębica
+    e: 448
+    g: 0
+    a: 49.964483
+    o: 21.446086
+o:
+  - SQ8UPS
+page: https://mapy73.pl/repeater/SR8DE

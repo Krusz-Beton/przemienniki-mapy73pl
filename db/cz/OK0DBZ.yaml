@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.9
+      tx:
+        f: 439.5
+      h: "50553088672"
+      t: a
+      s: "5"
+      p: 25
+      u:
+        - http://www.prevadece.cz/dmr/sit
+      d: ""
+h:
+  "50553088672":
+    x:
+      - 70cm: 0
+    p: Bezděz
+    e: 600
+    g: 0
+    a: 50.539167
+    o: 14.719722
+o:
+  - OK2TN
+page: https://mapy73.pl/repeater/OK0DBZ

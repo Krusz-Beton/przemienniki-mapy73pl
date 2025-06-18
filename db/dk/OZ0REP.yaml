@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.675
+        t:
+          - b: ""
+      tx:
+        f: 434.675
+      h: "56146058764"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.hamphone.dk/
+      d: ""
+h:
+  "56146058764":
+    x:
+      - 70cm: 0
+    p: Spjald
+    e: 0
+    g: 0
+    a: 56.13816
+    o: 8.427639
+o: []
+page: https://mapy73.pl/repeater/OZ0REP

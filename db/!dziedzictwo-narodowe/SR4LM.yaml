@@ -1,0 +1,26 @@
+x:
+  23cm:
+    - rx:
+        f: 1270.6
+        t:
+          - a: ""
+          - b: ""
+      tx:
+        f: 1298.6
+      h: "53959057176"
+      t: a
+      s: "2"
+      p: 15
+      u: []
+      d: ""
+h:
+  "53959057176":
+    x:
+      - 23cm: 0
+    p: Miłki k/Giżycka EMITEL
+    e: 244
+    g: 180
+    a: 53.937727
+    o: 21.844764
+o: []
+page: https://mapy73.pl/repeater/SR4LM

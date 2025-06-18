@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.2125
+      tx:
+        f: 438.8125
+      h: "52446009439"
+      t: g
+      s: "5"
+      p: 15
+      u:
+        - https://m17project.org
+      d: |-
+        Przemiennik M17
+        Diamond X200
+        MTR2000
+h:
+  "52446009439":
+    x:
+      - 70cm: 0
+    p: Nowy Dwór Mazowiecki
+    e: 75
+    g: 118
+    a: 52.425343
+    o: 20.751385
+o:
+  - SP5WWP
+page: https://mapy73.pl/repeater/SR5MS

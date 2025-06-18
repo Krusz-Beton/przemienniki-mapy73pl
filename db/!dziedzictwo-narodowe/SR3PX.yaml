@@ -1,0 +1,42 @@
+x:
+  70cm:
+    - rx:
+        f: 431.3
+        t:
+          - c: "110.9"
+      tx:
+        f: 438.9
+        t:
+          - c: "110.9"
+      h: "52698027381"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://sr3px.qrz.pl
+        - http://sp3yor.net
+      d: >-
+        RX Motorola MCS2000
+
+        TX Motorola GM1280
+
+        duplexer SGQ-450D
+
+        sterownik i zasilacz SP3OKE
+
+        Antena X-300, 80m kabla 1 i 1/4
+
+
+        bikon co 10 min. Do powstania przemiennika doprowadzili: lokalizacja, tor antenowy, antena, duplexer: Bartek SP3XBS; urządzenia radiowe, zasilacz, obudowa, okablowanie: Andrzej SO3Z, Wojtek SP3OKE, Piotr SQ3XBG; sterownik przemiennika wykonał: Krzysztof SQ3FYK; oprogramowanie sterownika napisał: Michał SQ3LVJ.
+h:
+  "52698027381":
+    x:
+      - 70cm: 0
+    p: Słomowo
+    e: 119
+    g: 62
+    a: 52.681328
+    o: 16.945813
+o:
+  - SO3Z
+page: https://mapy73.pl/repeater/SR3PX

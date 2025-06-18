@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.85
+        t:
+          - f: "1"
+      tx:
+        f: 439.45
+      h: "49852009475"
+      t: e
+      s: "5"
+      p: 0
+      u:
+        - https://www.ur4wwr.org/about
+      d: ""
+h:
+  "49852009475":
+    x:
+      - 70cm: 0
+    p: ""
+    e: 0
+    g: 0
+    a: 49.82816
+    o: 23.93475
+o: []
+page: https://mapy73.pl/repeater/UR0WUB

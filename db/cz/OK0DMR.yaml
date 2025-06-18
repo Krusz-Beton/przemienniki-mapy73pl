@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.875
+      tx:
+        f: 439.475
+      h: "50094011422"
+      t: a
+      s: "5"
+      p: 20
+      u:
+        - http://www.prevadece.cz/dmr/sit
+      d: ""
+h:
+  "50094011422":
+    x:
+      - 70cm: 0
+    p: Praha – Strahov
+    e: 0
+    g: 0
+    a: 50.079722
+    o: 14.392222
+o:
+  - OK2ZAR
+page: https://mapy73.pl/repeater/OK0DMR

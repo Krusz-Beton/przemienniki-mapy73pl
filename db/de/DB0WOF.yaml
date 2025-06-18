@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.475
+        t:
+          - b: ""
+      tx:
+        f: 439.075
+      h: "51699079167"
+      t: da
+      s: "5"
+      p: 12
+      u:
+        - http://www.darc.de/distrikte/w/28/db0wof/
+      d: ""
+h:
+  "51699079167":
+    x:
+      - 70cm: 0
+    p: Wolfen
+    e: 0
+    g: 120
+    a: 51.6875
+    o: 12.29167
+o: []
+page: https://mapy73.pl/repeater/DB0WOF

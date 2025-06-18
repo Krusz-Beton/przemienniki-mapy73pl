@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.775
+        t:
+          - a: ""
+      tx:
+        f: 434.775
+      h: "59195010263"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk0nn.se/
+      d: ""
+h:
+  "59195010263":
+    x:
+      - 70cm: 0
+    p: Haninge
+    e: 0
+    g: 0
+    a: 59.17698
+    o: 18.12263
+o:
+  - info
+page: https://mapy73.pl/repeater/SK0NN.R

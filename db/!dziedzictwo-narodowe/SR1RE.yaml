@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.55
+        t:
+          - c: "88.5"
+      tx:
+        f: 439.15
+      h: "53788006874"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: Diamond X-50
+h:
+  "53788006874":
+    x:
+      - 70cm: 0
+    p: Resko
+    e: 105
+    g: 63
+    a: 53.772662
+    o: 15.406737
+o:
+  - SP1WW
+page: https://mapy73.pl/repeater/SR1RE

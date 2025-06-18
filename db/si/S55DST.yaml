@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 430.925
+        t:
+          - f: "1"
+      tx:
+        f: 438.525
+      h: "45898003489"
+      t: e
+      s: "4"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+      e1:
+        - 293
+        - 293112
+      e2:
+        - 2937
+h:
+  "45898003489":
+    x:
+      - 70cm: 0
+    p: Vinji vrh (Šmarješke Toplice)
+    e: 380
+    g: 0
+    a: 45.88275
+    o: 15.284886
+o:
+  - S52RS
+page: https://mapy73.pl/repeater/S55DST

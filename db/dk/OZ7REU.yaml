@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.675
+      tx:
+        f: 434.675
+      h: "55658028120"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://oz7reu.dk/70cm.asp
+      d: ""
+h:
+  "55658028120":
+    x:
+      - 70cm: 0
+    p: Copenhagen / Hvidovre H.C.
+    e: 0
+    g: 0
+    a: 55.6458
+    o: 12.4812
+o: []
+page: https://mapy73.pl/repeater/OZ7REU

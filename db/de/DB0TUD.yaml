@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.275
+        t:
+          - b: ""
+      tx:
+        f: 438.875
+      h: "51034057831"
+      t: da
+      s: "5"
+      p: 10
+      u:
+        - http://www.qsl.net/dh1dm/db0tud/
+        - http://dl0tud.tu-dresden.de/html/Suedhoehe.html
+      d: ""
+h:
+  "51034057831":
+    x:
+      - 70cm: 0
+    p: Dresden - (Technische Universität)
+    e: 220
+    g: 20
+    a: 51.02085
+    o: 13.72831
+o:
+  - DH1DM
+page: https://mapy73.pl/repeater/DB0TUD

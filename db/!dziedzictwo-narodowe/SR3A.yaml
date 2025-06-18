@@ -1,0 +1,31 @@
+x:
+  2m:
+    - rx:
+        f: 145.0625
+        t:
+          - c: "79.7"
+      tx:
+        f: 145.6625
+        t:
+          - c: "79.7"
+      h: "52362007127"
+      t: a
+      s: "1"
+      p: 10
+      u: []
+      d: >-
+        Urządzenie: Motorola MTR 2000.
+
+        Antena RX/TX X-300N wysokość zawieszenia 185,00 m n.p.t., feeder 7/8@200m; Zakres częstotliwości pracy anteny: 144-146 MHz Zysk: VHF 4.35 dBd / 430-440 MHz Zysk: UHF 6.85 dBd Długość: 3,10 cm Złącze: N antena posiada 3 przeciwwagi. Charakterystyka: 2 x 5/8 fali dla 144MHz, 5 x 5/8 fali dla 430MHz. Obiekt: RTCN Jemiołów – Radiowo-Telewizyjne Centrum Nadawcze w Jemiołowie gmina Łagów 66-220 Łagów, maszt o wysokości 316. Centrum zbudowano w latach 1960-1962
+h:
+  "52362007127":
+    x:
+      - 2m: 0
+    p: RTCN Jemiołów/Łagów maszt EmiTel
+    e: 163
+    g: 185
+    a: 52.346795
+    o: 15.276266
+o:
+  - SP3AMO
+page: https://mapy73.pl/repeater/SR3A

@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 430.6125
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.2125
+      h: "49868009206"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://www.do0lee.de/
+      d: ""
+h:
+  "49868009206":
+    x:
+      - 70cm: 0
+    p: Riedstadt
+    e: 90
+    g: 15
+    a: 49.859652
+    o: 8.440062
+o:
+  - DL1ITU
+page: https://mapy73.pl/repeater/DO0LEE

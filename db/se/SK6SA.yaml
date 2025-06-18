@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5125
+        t:
+          - a: ""
+      tx:
+        f: 434.5125
+      h: "57690048909"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6ag.org/
+      d: ""
+h:
+  "57690048909":
+    x:
+      - 70cm: 0
+    p: Göteborg / Guldheden
+    e: 0
+    g: 0
+    a: 57.67851
+    o: 11.97909
+o: []
+page: https://mapy73.pl/repeater/SK6SA

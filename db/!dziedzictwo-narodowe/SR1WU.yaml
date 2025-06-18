@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.125
+        t:
+          - d: "073"
+      tx:
+        f: 438.725
+      h: "53922023577"
+      t: a
+      s: "5"
+      p: 5
+      u: []
+      d: Antena X-200, (przemiennik testowo uruchomiony w trybie DCS)
+h:
+  "53922023577":
+    x:
+      - 70cm: 0
+    p: Świnoujście
+    e: 4
+    g: 40
+    a: 53.907989
+    o: 14.246773
+o:
+  - SQ1DEX
+page: https://mapy73.pl/repeater/SR1WU

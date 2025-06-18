@@ -1,0 +1,30 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - c: "103.5"
+      tx:
+        f: 145.775
+        t:
+          - c: "103.5"
+      h: "51863077082"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.sp3zir.sandor.com.pl/Przemienniki.php
+      d: Anteny Radmor 3282/3,TRX ,Motorola GM-300, filtry 1/4l, 2x antena , Planowany
+        echolink
+h:
+  "51863077082":
+    x:
+      - 2m: 0
+    p: Leszno
+    e: 95
+    g: 0
+    a: 51.847173
+    o: 16.597824
+o:
+  - SQ3OOG
+page: https://mapy73.pl/repeater/SR3L

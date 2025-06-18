@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.725
+        t:
+          - a: ""
+      tx:
+        f: 439.325
+      h: "46490021079"
+      t: a
+      s: "5"
+      p: 1
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46490021079":
+    x:
+      - 70cm: 0
+    p: Struška
+    e: 1944
+    g: 0
+    a: 46.476093
+    o: 14.11779
+o:
+  - S59DNA
+page: https://mapy73.pl/repeater/S55UJE

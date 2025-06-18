@@ -1,0 +1,23 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+      tx:
+        f: 145.775
+      h: "53320075867"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "53320075867":
+    x:
+      - 2m: 0
+    p: Osipovichi
+    e: 0
+    g: 0
+    a: 53.292134
+    o: 28.624672
+o: []
+page: https://mapy73.pl/repeater/EU4XXX

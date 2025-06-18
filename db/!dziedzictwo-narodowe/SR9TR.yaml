@@ -1,0 +1,38 @@
+x:
+  70cm:
+    - rx:
+        f: 431.575
+        t:
+          - f: "1"
+      tx:
+        f: 439.175
+      h: "50046009756"
+      t: e
+      s: "6"
+      p: 10
+      u: []
+      d: |-
+        Slot 1:
+        Wszystkie z BM
+        Slot 2 BM:
+        TG 9 mapowany na TG 5 (ustaw w radiu)
+        TG 26092(TASR), TG260015(EMCOM)
+        Slot2 HBlink:
+        TG8 - HBLINK siec
+        TG 9 HBLINK lokalny(linkowany lokalnie w hblink serwer Tarnow)
+        ColorCode - 1
+
+        Motorola GM360 2X
+        Płytka MMDVM SP8NTH+ARDUINO
+h:
+  "50046009756":
+    x:
+      - 70cm: 0
+    p: Tarnów
+    e: 476
+    g: 40
+    a: 50.02509
+    o: 21.007561
+o:
+  - SQ9MUR
+page: https://mapy73.pl/repeater/SR9TR

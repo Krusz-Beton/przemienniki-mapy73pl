@@ -1,0 +1,45 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5875
+        t:
+          - a: ""
+      tx:
+        f: 434.5875
+      h: "55034075923"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=OZ0REC&mod=B
+      d: ""
+  2m:
+    - rx:
+        f: 145.1125
+      tx:
+        f: 145.7125
+      h: "55040071044"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "55034075923":
+    x:
+      - 70cm: 0
+    p: Vordingsborg
+    e: 6
+    g: 0
+    a: 55.022863
+    o: 11.896234
+  "55040071044":
+    x:
+      - 2m: 0
+    p: Vordingborg
+    e: 2
+    g: 23
+    a: 55.02884
+    o: 11.87044
+o: []
+page: https://mapy73.pl/repeater/OZ0REC

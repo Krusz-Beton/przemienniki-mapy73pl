@@ -1,0 +1,25 @@
+h:
+  "47019058695":
+    a: 46.990766
+    o: 28.82095
+    p: Brandmeister
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "47019058695"
+      u: []
+      d: ""
+      p: 1
+      t: e
+      s: "4"
+      tx:
+        f: 438.9
+      rx:
+        f: 438.9
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/ER1OVR

@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7875
+        t:
+          - a: ""
+          - c: "94.8"
+      tx:
+        f: 439.3875
+        t:
+          - c: "94.8"
+      h: "50769004666"
+      t: ab
+      s: "5"
+      p: 10
+      u: []
+      d: |-
+        Przemiennik zbudowany na bazie radiotelefonów Motorola GM950.
+        Zastosowano duplekser K&L,antena Diamond X50N.
+h:
+  "50769004666":
+    x:
+      - 70cm: 0
+    p: Elektrownia Opole, Brzezie k/Opola
+    e: 400
+    g: 250
+    a: 50.751164
+    o: 17.882663
+o:
+  - SQ6OYO
+page: https://mapy73.pl/repeater/SR6UVO

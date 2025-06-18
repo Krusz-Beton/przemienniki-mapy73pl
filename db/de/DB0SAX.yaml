@@ -1,0 +1,24 @@
+x:
+  23cm:
+    - rx:
+        f: 1270.7
+      tx:
+        f: 1242.7
+      h: "51325054167"
+      t: c
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "51325054167":
+    x:
+      - 23cm: 0
+    p: Collmberg
+    e: 0
+    g: 0
+    a: 51.3125
+    o: 13.04167
+o:
+  - DL1XM
+page: https://mapy73.pl/repeater/DB0SAX

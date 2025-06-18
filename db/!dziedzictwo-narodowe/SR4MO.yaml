@@ -1,0 +1,42 @@
+x:
+  70cm:
+    - rx:
+        f: 430.85
+        t:
+          - a: ""
+          - c: "67.0"
+      tx:
+        f: 438.45
+        t:
+          - c: "67.0"
+      h: "53933043790"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - https://minilink.pl/wp/
+        - https://fm-poland.pl
+      d: >-
+        Przemiennik SR4MO FM-Echolink w Moragu Rx: 438,450 Tx: 430,850 CTCSS: 67Hz
+
+
+        Trx: Motorola GM340
+
+        Antena: Diamond X300
+
+        Pwr: 15W
+
+
+        Połączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C - SR2GA - SR4WA
+h:
+  "53933043790":
+    x:
+      - 70cm: 0
+    p: Morąg
+    e: 117
+    g: 20
+    a: 53.913509
+    o: 19.928902
+o:
+  - SP4OX
+page: https://mapy73.pl/repeater/SR4MO

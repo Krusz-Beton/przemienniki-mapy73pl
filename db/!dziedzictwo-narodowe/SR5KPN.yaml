@@ -1,0 +1,75 @@
+r:
+  - - 6m: 0
+    - 70cm: 0
+  - - 4m: 0
+    - 70cm: 0
+  - - 10m: 0
+    - 10m: 0
+    - 70cm: 0
+x:
+  70cm:
+    - rx:
+        f: 430.6
+        t:
+          - c: "127.3"
+      tx:
+        f: 438.2
+        t:
+          - c: "127.3"
+      h: "52319016059"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - https://www.facebook.com/SR5KPN
+      d: |-
+        Zainstalowany na wieży obserwacyjnej w Kampinoskim Parku Narodowym 
+        Antena 70cm 3 x 5/8 fali
+  4m:
+    - rx:
+        f: 70.29
+        t:
+          - c: "127.3"
+      h: "52319016059"
+      t: a
+      s: "6"
+      p: 0
+      u: []
+      d: "Antena 4m 5/8 fali         "
+  6m:
+    - rx:
+        f: 51.85
+        t:
+          - c: "127.3"
+      h: "52319016059"
+      t: a
+      s: "6"
+      p: 0
+      u: []
+      d: "Antena 6m 5/8 fali "
+  10m:
+    - rx:
+        f: 29.65
+        t:
+          - c: "127.3"
+      tx:
+        f: 29.65
+      h: "52319016059"
+      t: a
+      s: "6"
+      p: 0
+      u: []
+      d: "Antena 10m 5/8 fali    "
+h:
+  "52319016059":
+    x:
+      - 70cm: 0
+      - 10m: 0
+    p: Zamczysko
+    e: 83
+    g: 47
+    a: 52.29863
+    o: 20.530593
+o:
+  - SQ5ALQ
+page: https://mapy73.pl/repeater/SR5KPN

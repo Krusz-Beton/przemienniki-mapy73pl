@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7
+        t:
+          - c: "127.3"
+      tx:
+        f: 439.3
+      h: "52215026011"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: ""
+h:
+  "52215026011":
+    x:
+      - 70cm: 0
+    p: Warszawa Ursus
+    e: 107
+    g: 0
+    a: 52.194374
+    o: 20.886109
+o:
+  - SP5KEH
+page: https://mapy73.pl/repeater/SR5UR

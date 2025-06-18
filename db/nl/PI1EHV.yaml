@@ -1,0 +1,25 @@
+h:
+  "51474076631":
+    a: 51.46928
+    o: 5.48631
+    p: Eindhoven
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "51474076631"
+      u: []
+      d: ""
+      p: 1
+      t: e
+      s: "4"
+      tx:
+        f: 438.25
+      rx:
+        f: 438.25
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/PI1EHV

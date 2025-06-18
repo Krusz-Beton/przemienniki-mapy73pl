@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 438.1
+      tx:
+        f: 438.1
+      h: "50701054167"
+      t: a
+      s: "5"
+      p: 7
+      u: []
+      d: ""
+h:
+  "50701054167":
+    x:
+      - 70cm: 0
+    p: Ústí nad Labem- Centrum
+    e: 200
+    g: 0
+    a: 50.6875
+    o: 14.04167
+o:
+  - OK5DM
+page: https://mapy73.pl/repeater/OK5DM

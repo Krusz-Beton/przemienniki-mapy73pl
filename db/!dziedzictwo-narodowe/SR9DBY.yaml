@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.55
+        t:
+          - f: "9"
+      tx:
+        f: 439.15
+      h: "50373004167"
+      t: e
+      s: "6"
+      p: 15
+      u:
+        - https://brandmeister.network/?page=repeater&id=260006
+        - http://silesia.hblink.network:8011/
+      d: Ant. GP 4 x 5/8, przemiennik pracuje w sieci HBLink Silesia, ważne CC9, inne
+        dane dostępne w necie.
+h:
+  "50373004167":
+    x:
+      - 70cm: 0
+    p: Bytom
+    e: 0
+    g: 0
+    a: 50.35417
+    o: 18.875
+o:
+  - SP9UVG
+page: https://mapy73.pl/repeater/SR9DBY

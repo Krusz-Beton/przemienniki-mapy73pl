@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7625
+        t:
+          - a: ""
+      tx:
+        f: 439.3625
+      h: "49773008220"
+      t: b
+      s: "5"
+      p: 10
+      u:
+        - http://www.sp9kpgk.pl
+      d: ""
+h:
+  "49773008220":
+    x:
+      - 70cm: 0
+    p: Góra Koskowa POLKOMTEL
+    e: 874
+    g: 30
+    a: 49.7533
+    o: 19.7822
+o:
+  - SP9SVH
+page: https://mapy73.pl/repeater/SR9UVP

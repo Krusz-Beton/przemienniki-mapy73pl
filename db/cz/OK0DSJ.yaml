@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 431.025
+      tx:
+        f: 438.625
+      h: "49545038367"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: ""
+h:
+  "49545038367":
+    x:
+      - 70cm: 0
+    p: Velký Javorník
+    e: 0
+    g: 0
+    a: 49.527222
+    o: 18.161667
+o:
+  - OK2ULQ
+page: https://mapy73.pl/repeater/OK0DSJ

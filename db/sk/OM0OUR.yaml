@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.875
+        t:
+          - c: "88.5"
+      tx:
+        f: 439.475
+        t:
+          - c: "88.5"
+      h: "48386046805"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.om3ktr.sk/om0our_new.html
+      d: ""
+h:
+  "48386046805":
+    x:
+      - 70cm: 0
+    p: Trnava
+    e: 170
+    g: 0
+    a: 48.36889
+    o: 17.578055
+o:
+  - OM3PV
+page: https://mapy73.pl/repeater/OM0OUR

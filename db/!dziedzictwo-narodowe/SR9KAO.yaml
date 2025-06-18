@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6125
+      tx:
+        f: 439.2125
+      h: "50054013813"
+      t: "14372"
+      s: "1"
+      p: 10
+      u: []
+      d: Przemiennik Yaesu DR-1X ,mmdvm, pistar , UVS-300
+h:
+  "50054013813":
+    x:
+      - 70cm: 0
+    p: Tarnów
+    e: 236
+    g: 20
+    a: 50.03314
+    o: 20.998133
+o:
+  - SQ9OL
+page: https://mapy73.pl/repeater/SR9KAO

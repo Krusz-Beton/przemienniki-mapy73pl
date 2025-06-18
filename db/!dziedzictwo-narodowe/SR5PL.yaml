@@ -1,0 +1,36 @@
+x:
+  70cm:
+    - rx:
+        f: 431.525
+        t:
+          - c: "127.3"
+      tx:
+        f: 439.125
+        t:
+          - c: "127.3"
+      h: "52564017465"
+      t: aj
+      s: "4"
+      p: 12
+      u:
+        - http://www.sp5zba.net/
+        - https://fm-poland.pl
+      d: Antena X-300, SR5PL podłączny do sieci FM-Poland id 260501, Echolink
+      j0:
+        - 260591
+      j1:
+        - 112
+        - 26050
+        - 260501
+h:
+  "52564017465":
+    x:
+      - 70cm: 0
+    p: Płock
+    e: 102
+    g: 40
+    a: 52.544455
+    o: 19.719648
+o:
+  - SQ5EBC
+page: https://mapy73.pl/repeater/SR5PL

@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.6
+        t:
+          - a: ""
+      tx:
+        f: 434.6
+      h: "59317056040"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59317056040":
+    x:
+      - 70cm: 0
+    p: Stockholm / Sollentuna
+    e: 0
+    g: 0
+    a: 59.2995
+    o: 18.0604
+o: []
+page: https://mapy73.pl/repeater/SM0WHP.R

@@ -1,0 +1,39 @@
+x:
+  70cm:
+    - rx:
+        f: 432.6
+      tx:
+        f: 434.6
+      h: "61004034870"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://r.net.rats.fi/wp/
+      d: ""
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "61004034870"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "61004034870":
+    x:
+      - 70cm: 0
+      - 2m: 0
+    p: Lahti
+    e: 180
+    g: 44
+    a: 60.9787
+    o: 25.6487
+o:
+  - OH3WE
+page: https://mapy73.pl/repeater/OH3RAC

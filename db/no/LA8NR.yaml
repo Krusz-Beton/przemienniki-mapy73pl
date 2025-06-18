@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "71005015830"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "71005015830":
+    x:
+      - 2m: 0
+    p: Honningsvåg / Nordkapp
+    e: 337
+    g: 0
+    a: 70.9792
+    o: 25.9583
+o: []
+page: https://mapy73.pl/repeater/LA8NR

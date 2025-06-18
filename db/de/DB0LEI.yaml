@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - a: ""
+      tx:
+        f: 145.775
+      h: "51366054167"
+      t: a
+      s: "5"
+      p: 5
+      u:
+        - http://db0lei.ccx.de/
+      d: ""
+h:
+  "51366054167":
+    x:
+      - 2m: 0
+    p: Völkerschlachtdenkmal Leipzig
+    e: 0
+    g: 0
+    a: 51.35417
+    o: 12.375
+o:
+  - DL1XM
+page: https://mapy73.pl/repeater/DB0LEI

@@ -1,0 +1,29 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - c: "71.9"
+      tx:
+        f: 145.675
+        t:
+          - c: "71.9"
+      h: "50326077405"
+      t: ga
+      s: "5"
+      p: 10
+      u:
+        - http://www.skzd.pl
+      d: Przemiennik FM/C4FM
+h:
+  "50326077405":
+    x:
+      - 2m: 0
+    p: Będzin
+    e: 299
+    g: 50
+    a: 50.307652
+    o: 19.12205
+o:
+  - SP9CSW
+page: https://mapy73.pl/repeater/SR9D

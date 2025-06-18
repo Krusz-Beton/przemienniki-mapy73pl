@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.525
+        t:
+          - a: ""
+      tx:
+        f: 434.525
+      h: "56064030285"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://sk7mq.org/
+      d: ""
+h:
+  "56064030285":
+    x:
+      - 70cm: 0
+    p: Fjälkinge
+    e: 0
+    g: 0
+    a: 56.05002
+    o: 14.28285
+o:
+  - SM7IOE
+page: https://mapy73.pl/repeater/SK7RPQ

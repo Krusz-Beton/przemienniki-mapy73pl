@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8
+        t:
+          - b: ""
+      tx:
+        f: 439.4
+      h: "50700037500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "50700037500":
+    x:
+      - 70cm: 0
+    p: Auerbach / Erzgebirge
+    e: 0
+    g: 0
+    a: 50.6875
+    o: 12.875
+o: []
+page: https://mapy73.pl/repeater/DB0AER

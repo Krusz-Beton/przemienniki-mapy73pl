@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.325
+        t:
+          - c: "94.8"
+      tx:
+        f: 438.925
+        t:
+          - c: "94.8"
+      h: "50696080667"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: Antena @ 20m npg
+h:
+  "50696080667":
+    x:
+      - 70cm: 0
+    p: Wielka Sowa
+    e: 1015
+    g: 25
+    a: 50.680321
+    o: 16.485667
+o:
+  - SQ6NEJ
+page: https://mapy73.pl/repeater/SR6WS

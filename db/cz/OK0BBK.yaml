@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.475
+        t:
+          - a: ""
+      tx:
+        f: 439.075
+      h: "50609059615"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "50609059615":
+    x:
+      - 70cm: 0
+    p: Kozákov u Semil
+    e: 744
+    g: 0
+    a: 50.594333
+    o: 15.263153
+o:
+  - OK1TPF
+page: https://mapy73.pl/repeater/OK0BBK

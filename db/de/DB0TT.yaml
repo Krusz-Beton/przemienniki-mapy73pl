@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.05
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.65
+        t:
+          - c: "67.0"
+      h: "51469061042"
+      t: a
+      s: "5"
+      p: 9
+      u:
+        - http://www.db0tt.de
+        - https://www.relaisgruppe-ruhr.de/index.php/db0tt-fm-relais/
+      d: TV Tower
+h:
+  "51469061042":
+    x:
+      - 70cm: 0
+    p: Dortmund
+    e: 210
+    g: 130
+    a: 51.462067
+    o: 7.543422
+o:
+  - DF1VB
+page: https://mapy73.pl/repeater/DB0TT

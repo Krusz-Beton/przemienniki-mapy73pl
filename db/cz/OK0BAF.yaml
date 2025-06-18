@@ -1,0 +1,40 @@
+x:
+  70cm:
+    - rx:
+        f: 431.25
+        t:
+          - c: "88.5"
+      tx:
+        f: 438.85
+        t:
+          - c: "136.5"
+      h: "49751004539"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://ok2af.nagano.cz/ok0baf.htm
+      d: ""
+    - rx:
+        f: 431
+      tx:
+        f: 438.6
+      h: "49751004539"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: ""
+h:
+  "49751004539":
+    x:
+      - 70cm: 0
+      - 70cm: 1
+    p: Svratouch, Otava
+    e: 735
+    g: 0
+    a: 49.735011
+    o: 16.034392
+o:
+  - OK2AF
+page: https://mapy73.pl/repeater/OK0BAF

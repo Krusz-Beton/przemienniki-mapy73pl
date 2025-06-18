@@ -1,0 +1,61 @@
+x:
+  70cm:
+    - rx:
+        f: 431.35
+        t:
+          - c: "127.3"
+      tx:
+        f: 438.95
+        t:
+          - c: "127.3"
+      h: "52198074463"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - http://fm-poland.pl
+      d: >-
+        Przemiennik Motorola MTR2000 UHF
+
+        Antena Comet GP6N
+
+        Fider Draka 1/4. 
+
+
+        Na przemienniku działają usługi: 
+
+        - Głosowa Automatyczna Stacja Pogodowa SR0WX (nadaje o godz. 7:00, 10:00, 13:00, 16:00, 19:00). Stacja nadaje bez Subtonu).
+
+
+        >>>NIE KLIKAJ NA ŚLEPO DTMF<<<
+
+
+        - Siec FM Poland (http://fm-poland.pl:888)
+
+        Dashboard FM Poland: http://fm-poland.pl:888/dashboard.php
+
+        Mapa RPT/Hostpotów w sieci: http://fm-poland.pl:888/map.php
+
+
+        Domyślna grupa rozmowna 26050 (Mazowsze). Otwarcie przemiennika standardowo aktywuje grupę przemienników zlinkowanych w grupie Mazowsze. Przemiennik monitoruje grupy: 26050 (Mazowsze), 26080 (Lubelszczyzna), 260503 (SR5MM), 260 (Ogólnopolska).
+
+        Po aktywności na jednej z monitorowanych grup przez 30 sek. można korzystać z możliwości rozmowy na ostatniej aktywnej grupie.
+
+
+        W tej samej lokalizacji pracuje Crossband Digi APRS VHF-UHF SR5ZBL.
+      j1:
+        - 112
+        - 26050
+        - 260503
+h:
+  "52198074463":
+    x:
+      - 70cm: 0
+    p: Mińsk Mazowiecki
+    e: 153
+    g: 40
+    a: 52.177192
+    o: 21.552627
+o:
+  - SQ5PTS
+page: https://mapy73.pl/repeater/SR5MM

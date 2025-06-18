@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - h: "52905005278"
+      u: []
+      d: Antena X300 20m n.p.g 118m n.p.m MMDVM 2 x Motorola GM340
+      p: 15
+      t: e
+      s: "5"
+      tx:
+        f: 438.4375
+      rx:
+        f: 430.8375
+        t:
+          - f: "5"
+      e1:
+        - 260
+        - 26053
+      e2:
+        - 26054
+h:
+  "52905005278":
+    x:
+      - 70cm: 0
+    p: Ciechanów
+    e: 118
+    g: 20
+    a: 52.88445
+    o: 20.602777
+o:
+  - SQ5OMZ
+page: https://mapy73.pl/repeater/SR5CI

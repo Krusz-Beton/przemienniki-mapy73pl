@@ -1,0 +1,23 @@
+x:
+  70cm:
+    - rx:
+        f: 432.9
+      tx:
+        f: 434.9
+      h: "55747011944"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "55747011944":
+    x:
+      - 70cm: 0
+    p: Gladsaxe
+    e: 0
+    g: 0
+    a: 55.734658
+    o: 12.46144
+o: []
+page: https://mapy73.pl/repeater/OZ8REL

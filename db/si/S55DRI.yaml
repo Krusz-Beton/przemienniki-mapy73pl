@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 430.75
+        t:
+          - c: "123.0"
+          - f: "1"
+      tx:
+        f: 438.35
+      h: "45757034765"
+      t: ea
+      s: "4"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+      e1:
+        - 293
+        - 293112
+      e2:
+        - 2931
+h:
+  "45757034765":
+    x:
+      - 70cm: 0
+    p: Travna gora
+    e: 857
+    g: 0
+    a: 45.742706
+    o: 14.641651
+o:
+  - S59DLT
+page: https://mapy73.pl/repeater/S55DRI

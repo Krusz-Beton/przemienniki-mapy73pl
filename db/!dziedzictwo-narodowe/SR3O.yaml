@@ -1,0 +1,28 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - c: "103.5"
+      tx:
+        f: 145.725
+      h: "51664024922"
+      t: a
+      s: "5"
+      p: 2
+      u: []
+      d: |-
+        2x Motorola MC MICRO 
+        F-23 RX 3x5/8 , F-23 TX 3x5/8
+h:
+  "51664024922":
+    x:
+      - 2m: 0
+    p: Ostrów Wielkopolski
+    e: 162
+    g: 30
+    a: 51.64643
+    o: 17.819217
+o:
+  - SQ3NQH
+page: https://mapy73.pl/repeater/SR3O

@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+        t:
+          - a: ""
+      tx:
+        f: 145.75
+      h: "59392043500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59392043500":
+    x:
+      - 2m: 0
+    p: Karlskoga
+    e: 250
+    g: 23
+    a: 59.378
+    o: 14.435
+o:
+  - SM4IHY
+page: https://mapy73.pl/repeater/SK4RKD

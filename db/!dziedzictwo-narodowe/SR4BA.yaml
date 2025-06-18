@@ -1,0 +1,41 @@
+x:
+  70cm:
+    - rx:
+        f: 430.9375
+        t:
+          - a: ""
+          - c: "67.0"
+      tx:
+        f: 438.5375
+        t:
+          - c: "67.0"
+      h: "54321070034"
+      t: da
+      s: "5"
+      p: 15
+      u:
+        - https://wmp.extreme-link.pl
+      d: >-
+        Przemiennik SR4BA FM Kiertyny Małe k/Bartoszyc Rx: 439,5375 Tx: 430.9375
+        CTCSS: 67Hz, Echolink
+
+
+        Rx:Motorola GM-340
+
+        Tx: Motorola GM-340
+
+        Antena: Diamond F-718
+
+        Pwr: 15W
+h:
+  "54321070034":
+    x:
+      - 70cm: 0
+    p: Kiertyny Małe k/Bartoszyc
+    e: 108
+    g: 8
+    a: 54.300948
+    o: 20.752344
+o:
+  - SQ4OJD
+page: https://mapy73.pl/repeater/SR4BA

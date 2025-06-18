@@ -1,0 +1,27 @@
+h:
+  "41791050900":
+    a: 41.800201
+    o: -8.692
+    p: Serra de Arga
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "41791050900"
+      u: []
+      d: ""
+      p: 10
+      t: e
+      s: "4"
+      tx:
+        f: 438.65
+      rx:
+        f: 431.05
+        t:
+          - f: "1"
+      e1:
+        - 268
+o: []
+page: https://mapy73.pl/repeater/CQ0USA

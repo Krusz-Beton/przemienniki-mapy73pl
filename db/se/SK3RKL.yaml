@@ -1,0 +1,49 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "63401055640"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk3lh.se
+      d: ""
+  70cm:
+    - rx:
+        f: 432.775
+        t:
+          - b: ""
+      tx:
+        f: 434.775
+      h: "63321019118"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "63401055640":
+    x:
+      - 2m: 0
+    p: Örnsköldsvik / Rutberget
+    e: 340
+    g: 0
+    a: 63.383
+    o: 18.5564
+  "63321019118":
+    x:
+      - 70cm: 0
+    p: Örnsköldsvik
+    e: 0
+    g: 0
+    a: 63.3025
+    o: 18.69118
+o:
+  - \u00d6rjan
+  - SK3RKL
+page: https://mapy73.pl/repeater/SK3RKL

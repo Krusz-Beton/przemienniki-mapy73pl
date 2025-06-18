@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 430.7125
+        t:
+          - a: ""
+      tx:
+        f: 438.3125
+      h: "52206012500"
+      t: g
+      s: "5"
+      p: 15
+      u: []
+      d: ""
+h:
+  "52206012500":
+    x:
+      - 70cm: 0
+    p: 62-600 Koło, ul. Dąbrowskiego 7
+    e: 0
+    g: 0
+    a: 52.1875
+    o: 18.625
+o:
+  - SP3OCG
+page: https://mapy73.pl/repeater/SR3KHA

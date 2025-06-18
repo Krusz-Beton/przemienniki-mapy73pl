@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.225
+        t:
+          - c: "103.5"
+      tx:
+        f: 438.825
+        t:
+          - c: "103.5"
+      h: "51622051937"
+      t: a
+      s: "6"
+      p: 10
+      u: []
+      d: |-
+        - radio 2x Motorola GM340
+        - zasilacz Motorola AA16600
+        - sterownik RPTC Microsat
+        - duplekser Radmor 05113
+        - antena Diamond x200
+h:
+  "51622051937":
+    x:
+      - 70cm: 0
+    p: Rawicz
+    e: 100
+    g: 0
+    a: 51.605659
+    o: 16.860366
+o: []
+page: https://mapy73.pl/repeater/SR3RR

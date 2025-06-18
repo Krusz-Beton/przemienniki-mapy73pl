@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.9625
+        t:
+          - a: ""
+      tx:
+        f: 439.5625
+      h: "50696080667"
+      t: g
+      s: "5"
+      p: 15
+      u: []
+      d: |-
+        Yaesu DR-1X.
+        Podłączony do Wires-X poprzez HRI-200
+        Przemiennik tylko cyfrowy (Fusion).
+h:
+  "50696080667":
+    x:
+      - 70cm: 0
+    p: Wielka Sowa
+    e: 1015
+    g: 25
+    a: 50.680321
+    o: 16.485667
+o:
+  - SQ6KOJ
+page: https://mapy73.pl/repeater/SR6XWS

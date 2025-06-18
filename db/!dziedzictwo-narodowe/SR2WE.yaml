@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.625
+        t:
+          - a: ""
+      tx:
+        f: 439.225
+      h: "54608098503"
+      t: g
+      s: "5"
+      p: 15
+      u:
+        - https://sr2we.prv.pl/
+      d: |-
+        Antena BSL UHF/H 400-470 MHz 4,5 dB
+        Przemiennik Yaesu DR-1X.
+        Duplexer procom DPF 70/6
+h:
+  "54608098503":
+    x:
+      - 70cm: 0
+    p: Wejherowo
+    e: 108
+    g: 30
+    a: 54.590756
+    o: 18.22903
+o:
+  - SQ2IHP
+page: https://mapy73.pl/repeater/SR2WE

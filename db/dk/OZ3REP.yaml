@@ -1,0 +1,24 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+      tx:
+        f: 145.65
+      h: "54846079120"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://oz3rep.dk/z/
+      d: ""
+h:
+  "54846079120":
+    x:
+      - 2m: 0
+    p: Lolland / Bandholm
+    e: 1
+    g: 60
+    a: 54.8353
+    o: 11.4912
+o: []
+page: https://mapy73.pl/repeater/OZ3REP

@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.7
+        t:
+          - b: ""
+      tx:
+        f: 434.7
+      h: "60228036390"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://la1r.net/?page_id=28
+      d: ""
+h:
+  "60228036390":
+    x:
+      - 70cm: 0
+    p: Modum / Norefjell
+    e: 250
+    g: 0
+    a: 60.2188
+    o: 9.5639
+o: []
+page: https://mapy73.pl/repeater/LA7CR

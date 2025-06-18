@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6
+      tx:
+        f: 439.2
+      h: "51908045833"
+      t: a
+      s: "5"
+      p: 11
+      u:
+        - http://db0noe.dyndns.org/web/db0wbg.htm
+      d: ""
+h:
+  "51908045833":
+    x:
+      - 70cm: 0
+    p: Wittenberg
+    e: 0
+    g: 0
+    a: 51.89583
+    o: 12.625
+o: []
+page: https://mapy73.pl/repeater/DB0WBG

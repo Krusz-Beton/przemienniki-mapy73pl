@@ -1,0 +1,41 @@
+x:
+  70cm:
+    - rx:
+        f: 430.525
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.125
+        t:
+          - c: "67.0"
+      h: "53466029842"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - https://minilink.pl/wp
+        - https://fm-poland.pl
+      d: >-
+        Przemiennik SR4WA FM-Echolink w Wawrowicach
+         Rx: 438,125 Tx: 430,525 CTCSS: 67Hz
+
+        Trx i Rx: 2 x Motorola GM-350
+
+        Antena: Diamond X510
+
+        Pwr: 15W
+
+
+        Połączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C - SR2GA - SR4WA
+h:
+  "53466029842":
+    x:
+      - 70cm: 0
+    p: Wawrowice
+    e: 120
+    g: 15
+    a: 53.446825
+    o: 19.473418
+o:
+  - SP2PA
+page: https://mapy73.pl/repeater/SR4WA

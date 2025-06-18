@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 431.475
+        t:
+          - c: "103.5"
+      tx:
+        f: 439.075
+        t:
+          - c: "103.5"
+      h: "50054016005"
+      t: da
+      s: "6"
+      p: 10
+      u:
+        - http://hamradio.pl/sq9jti/sr9vo-dla-kazdego-amatora/
+      d: |-
+        RX - Motorola GM340
+        TX - Motorola GM950 N4 
+        UVS200 RX / MA1300 TX
+        Kontroler SP3PLX
+h:
+  "50054016005":
+    x:
+      - 70cm: 0
+    p: Tarnów
+    e: 234
+    g: 10
+    a: 50.033162
+    o: 20.998049
+o:
+  - SQ9OL
+page: https://mapy73.pl/repeater/SR9VO

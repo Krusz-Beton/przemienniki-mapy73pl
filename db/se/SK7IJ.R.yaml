@@ -1,0 +1,47 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+      tx:
+        f: 145.625
+      h: "57514037514"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk7ij.se
+      d: ""
+  70cm:
+    - rx:
+        f: 432.625
+      tx:
+        f: 434.625
+      h: "57514037314"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk7ij.se
+      d: ""
+h:
+  "57514037514":
+    x:
+      - 2m: 0
+    p: Vetlanda
+    e: 0
+    g: 0
+    a: 57.49913
+    o: 15.24514
+  "57514037314":
+    x:
+      - 70cm: 0
+    p: Vetlanda
+    e: 0
+    g: 0
+    a: 57.49913
+    o: 15.24314
+o:
+  - Oskar
+page: https://mapy73.pl/repeater/SK7IJ.R

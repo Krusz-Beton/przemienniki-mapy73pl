@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.9
+      tx:
+        f: 434.9
+      h: "57664068009"
+      t: b
+      s: "5"
+      p: 0
+      u:
+        - https://brandmeister.network/?page=repeater&id=240707
+      d: ""
+h:
+  "57664068009":
+    x:
+      - 70cm: 0
+    p: Nässjö
+    e: 0
+    g: 0
+    a: 57.64998
+    o: 14.70009
+o: []
+page: https://mapy73.pl/repeater/SG7RFH

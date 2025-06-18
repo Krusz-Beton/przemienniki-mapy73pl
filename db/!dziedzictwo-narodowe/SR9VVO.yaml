@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8375
+        t:
+          - a: ""
+      tx:
+        f: 439.4375
+      h: "49912064262"
+      t: b
+      s: "5"
+      p: 10
+      u:
+        - http://sr9vvo.org.pl
+      d: |-
+        Antena Diamond BC-205
+        Kabel Andrew LDF-4-50A
+        Motorola MTR 2000 + Dell Optiplex Gx620
+        Kathrein 8-Komorowy + Multicoupler + Combiner
+        Internet dostarcza Firma INFO-NET s.c. http://www.in.net.pl/
+h:
+  "49912064262":
+    x:
+      - 70cm: 0
+    p: Lichwin
+    e: 476
+    g: 40
+    a: 49.891714
+    o: 20.928624
+o:
+  - SQ9PCH
+page: https://mapy73.pl/repeater/SR9VVO

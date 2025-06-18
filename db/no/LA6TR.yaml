@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+        t:
+          - b: ""
+      tx:
+        f: 145.75
+      h: "69580095830"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "69580095830":
+    x:
+      - 2m: 0
+    p: Tromsø / Kvitbergfjellet
+    e: 600
+    g: 0
+    a: 69.5625
+    o: 18.4583
+o: []
+page: https://mapy73.pl/repeater/LA6TR

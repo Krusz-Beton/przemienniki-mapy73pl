@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.625
+        t:
+          - b: ""
+      tx:
+        f: 434.625
+      h: "56244007500"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk7jc.se/repeater70cm.php
+      d: ""
+h:
+  "56244007500":
+    x:
+      - 70cm: 0
+    p: Olofström
+    e: 0
+    g: 0
+    a: 56.2292
+    o: 14.875
+o: []
+page: https://mapy73.pl/repeater/SK7JC.R

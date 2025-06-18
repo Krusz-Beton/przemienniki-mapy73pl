@@ -1,0 +1,46 @@
+x:
+  70cm:
+    - rx:
+        f: 432.6625
+        t:
+          - a: ""
+      tx:
+        f: 434.6625
+      h: "56044071737"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=OZ2RES&mod=B
+      d: ""
+  2m:
+    - rx:
+        f: 145.0125
+      tx:
+        f: 145.6125
+      h: "56033054200"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "56044071737":
+    x:
+      - 70cm: 0
+    p: Helsingør
+    e: 54
+    g: 21
+    a: 56.03216
+    o: 12.55737
+  "56033054200":
+    x:
+      - 2m: 0
+    p: Helsingør
+    e: 38
+    g: 35
+    a: 56.021
+    o: 12.542
+o:
+  - Lasse
+page: https://mapy73.pl/repeater/OZ2RES

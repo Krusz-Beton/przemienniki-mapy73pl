@@ -1,0 +1,59 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6
+        t:
+          - c: "110.9"
+      tx:
+        f: 439.2
+        t:
+          - c: "110.9"
+      h: "52476006193"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://sp3yor.net
+      d: >-
+        RX: Motorola GM1200 
+
+        TX: Motorola GM1280
+
+        sterownik RPTC, antena Radmor 10dBi, duplekser SGQ-450d, filtr pasmowy odbiorczy LBQ-450D, LNA, czułość RX 0.13uV
+
+        105m npm + 91m npt = 196m npm
+
+        znamiennik przemiennika - głosu użyczył legendarny polski lektor śp. dr inż. Tomasz Knapik
+  23cm:
+    - rx:
+        f: 1270.4
+        t:
+          - a: ""
+      tx:
+        f: 1298.4
+      h: "52476006193"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://sp3yor.net/
+      d: >-
+        By uruchomić przemiennik należy przytrzymać 2 sekundy PTT.
+
+        TX TR-50, RX FT-911, PA 10W, 2 filtry RX + LNA, 1 filtr TX, cyrkulator, sterownik, triplexer, Comet GP93n 10dBi 6x5/8l
+
+        zbudował i zestroił Andrzej SP8XXN
+h:
+  "52476006193":
+    x:
+      - 70cm: 0
+      - 23cm: 0
+    p: Poznań
+    e: 196
+    g: 91
+    a: 52.459156
+    o: 16.905933
+o:
+  - SP3XBS
+  - SO3Z
+page: https://mapy73.pl/repeater/SR3PO

@@ -1,0 +1,47 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+      tx:
+        f: 145.7
+      h: "66127093120"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk2au.org/repeatrar
+      d: ""
+    - rx:
+        f: 145.15
+        t:
+          - b: ""
+      tx:
+        f: 145.75
+      h: "65172070528"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk2au.org/repeatrar
+      d: ""
+h:
+  "66127093120":
+    x:
+      - 2m: 0
+    p: Arjeplog / Galtispouda
+    e: 805
+    g: 12
+    a: 66.11
+    o: 17.9312
+  "65172070528":
+    x:
+      - 2m: 1
+    p: Jörn / Storklinta
+    e: 500
+    g: 6
+    a: 65.15257
+    o: 20.13528
+o: []
+page: https://mapy73.pl/repeater/SK2AU.R

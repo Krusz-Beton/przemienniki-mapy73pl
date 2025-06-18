@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.875
+      tx:
+        f: 434.875
+      h: "56330028099"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "56330028099":
+    x:
+      - 70cm: 0
+    p: Karlskrona
+    e: 98
+    g: 10
+    a: 56.31482
+    o: 15.46099
+o:
+  - SM7YWE
+page: https://mapy73.pl/repeater/SM7YWE.R

@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.575
+      tx:
+        f: 439.175
+      h: "50833058391"
+      t: b
+      s: "5"
+      p: 5
+      u:
+        - http://www.sp9kaj.com
+      d: "250 npm 35 npt ant: X-510"
+h:
+  "50833058391":
+    x:
+      - 70cm: 0
+    p: Częstochowa
+    e: 254
+    g: 0
+    a: 50.814463
+    o: 19.12091
+o:
+  - SP9VJ
+page: https://mapy73.pl/repeater/SR9CZ

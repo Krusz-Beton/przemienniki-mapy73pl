@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.8875
+      tx:
+        f: 434.8875
+      h: "59654066884"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - https://brandmeister.network/?page=repeater&id=240024
+      d: ""
+h:
+  "59654066884":
+    x:
+      - 70cm: 0
+    p: Sigtuna
+    e: 0
+    g: 0
+    a: 59.63686
+    o: 17.80884
+o: []
+page: https://mapy73.pl/repeater/SK0RPF

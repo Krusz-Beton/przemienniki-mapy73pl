@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.55
+        t:
+          - a: ""
+      tx:
+        f: 434.55
+      h: "57122066320"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://oz8jyl.dk/cms005/
+      d: ""
+h:
+  "57122066320":
+    x:
+      - 70cm: 0
+    p: Vodskov
+    e: 34
+    g: 50
+    a: 57.112632
+    o: 10.0312
+o: []
+page: https://mapy73.pl/repeater/OZ1REC

@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - b: ""
+      tx:
+        f: 145.675
+      h: "65077006813"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.fura.se/index.php?option=com_content&view=article&id=2175&Itemid=232
+      d: ""
+h:
+  "65077006813":
+    x:
+      - 2m: 0
+    p: Kristineberg / Hornberget
+    e: 561
+    g: 15
+    a: 65.0585
+    o: 18.56813
+o: []
+page: https://mapy73.pl/repeater/SM2KOT.R

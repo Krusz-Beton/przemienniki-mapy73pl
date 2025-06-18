@@ -1,0 +1,31 @@
+x:
+  2m:
+    - rx:
+        f: 145
+        t:
+          - c: "94.8"
+      tx:
+        f: 145.6
+        t:
+          - c: "94.8"
+      h: "54471018895"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - https://www.lewczuk.pl/sr2c-1
+      d: |-
+        Antena Radmor 3282/3 4dBd
+        TP Emitel RTCN Chwaszczyno
+h:
+  "54471018895":
+    x:
+      - 2m: 0
+    p: Chwaszczyno EMITEL
+    e: 344
+    g: 161
+    a: 54.452753
+    o: 18.435949
+o:
+  - SP2XDM
+page: https://mapy73.pl/repeater/SR2C

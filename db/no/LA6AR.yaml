@@ -1,0 +1,24 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+      tx:
+        f: 145.725
+      h: "65926051174"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "65926051174":
+    x:
+      - 2m: 0
+    p: Sandnessjøen / Brasøy
+    e: 20
+    g: 10
+    a: 65.91433
+    o: 12.18174
+o:
+  - Steinar
+page: https://mapy73.pl/repeater/LA6AR

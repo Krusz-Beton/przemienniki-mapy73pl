@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8125
+        t:
+          - c: "103.5"
+      tx:
+        f: 439.4125
+      h: "51487044020"
+      t: ab
+      s: "5"
+      p: 10
+      u:
+        - http://sp7pki.iq24.pl/default.asp?grupa=74078&temat=202382
+      d: Antena x-200, przemiennik Motorola. 5W przy pracy z baterii.
+h:
+  "51487044020":
+    x:
+      - 70cm: 0
+    p: Żmigród
+    e: 93
+    g: 0
+    a: 51.470531
+    o: 16.909204
+o:
+  - SQ6ODL
+page: https://mapy73.pl/repeater/SR6UVX

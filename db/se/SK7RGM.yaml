@@ -1,0 +1,47 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+      tx:
+        f: 145.7
+      h: "56243065830"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk7jc.se/repeater2m.php
+      d: ""
+  70cm:
+    - rx:
+        f: 432.7125
+        t:
+          - a: ""
+      tx:
+        f: 434.7125
+      h: "56229079365"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk7jc.se/
+      d: ""
+h:
+  "56243065830":
+    x:
+      - 2m: 0
+    p: Olofström / Boafallsbacke
+    e: 0
+    g: 0
+    a: 56.2292
+    o: 14.4583
+  "56229079365":
+    x:
+      - 70cm: 0
+    p: Asarum
+    e: 59
+    g: 35
+    a: 56.21495
+    o: 14.84365
+o:
+  - SM7IKJ
+page: https://mapy73.pl/repeater/SK7RGM

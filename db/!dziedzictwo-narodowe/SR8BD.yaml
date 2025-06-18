@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.275
+        t:
+          - c: "103.5"
+      tx:
+        f: 438.875
+        t:
+          - c: "103.5"
+      h: "52050099057"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: Motorola MTR2000, antena 3x5/8
+h:
+  "52050099057":
+    x:
+      - 70cm: 0
+    p: Biała Podlaska Pec
+    e: 141
+    g: 50
+    a: 52.027832
+    o: 23.158573
+o:
+  - SP8KB
+page: https://mapy73.pl/repeater/SR8BD

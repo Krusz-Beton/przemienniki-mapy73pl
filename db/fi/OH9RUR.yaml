@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 433.775
+        t:
+          - b: ""
+      tx:
+        f: 434.775
+      h: "65792018210"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oh9ar.fi/
+      d: ""
+h:
+  "65792018210":
+    x:
+      - 70cm: 0
+    p: Tornio / Röyttä
+    e: 59
+    g: 54
+    a: 65.768
+    o: 24.1821
+o:
+  - OH9VC
+page: https://mapy73.pl/repeater/OH9RUR

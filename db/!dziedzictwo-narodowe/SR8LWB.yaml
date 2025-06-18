@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.5375
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.1375
+        t:
+          - c: "67.0"
+      h: "51335054167"
+      t: a
+      s: "2"
+      p: 15
+      u: []
+      d: Przemiennik ma być umiejscowiony na terenie Zakładu Górniczego Lubelski
+        Węgiel Bogdanka S. A. w ramach programu Aktywni Bogdanka.
+h:
+  "51335054167":
+    x:
+      - 70cm: 0
+    p: Bogdanka
+    e: 0
+    g: 0
+    a: 51.3125
+    o: 23.04167
+o:
+  - SP8GON
+page: https://mapy73.pl/repeater/SR8LWB

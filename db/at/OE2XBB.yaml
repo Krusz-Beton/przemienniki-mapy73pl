@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6
+        t:
+          - b: ""
+          - c: "88.5"
+      tx:
+        f: 439.2
+      h: "47784029167"
+      t: da
+      s: "5"
+      p: 10
+      u:
+        - http://www.qrv.at/oe2xbb/cms/doku.php
+      d: |-
+        umiejscowienie 1782m npm.
+        Echolink dziala poniedzialek piatek 14do21
+        sobota miedziela i wolne dni 8do21
+h:
+  "47784029167":
+    x:
+      - 70cm: 0
+    p: SCHAFBERG
+    e: 0
+    g: 0
+    a: 47.77083
+    o: 13.45833
+o:
+  - OE5FML
+page: https://mapy73.pl/repeater/OE2XBB

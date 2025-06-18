@@ -1,0 +1,35 @@
+x:
+  70cm:
+    - rx:
+        f: 430.6625
+        t:
+          - c: "88.5"
+      tx:
+        f: 438.2625
+      h: "52028045997"
+      t: j
+      s: "4"
+      p: 15
+      u:
+        - https://fm-poland.pl/aktualne-grupy/
+      d: ""
+      j0:
+        - 260793
+      j1:
+        - 260
+        - 2603
+        - 2606
+        - 2607
+h:
+  "52028045997":
+    x:
+      - 70cm: 0
+    p: Wielenin
+    e: 0
+    g: 0
+    a: 52.00964
+    o: 18.81997
+o:
+  - SQ9EPG
+  - SQ3DAB
+page: https://mapy73.pl/repeater/SR7KFX

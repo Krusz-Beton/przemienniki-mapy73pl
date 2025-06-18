@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 430.825
+        t:
+          - f: "3"
+      tx:
+        f: 438.425
+      h: "46305033951"
+      t: e
+      s: "4"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+      e1:
+        - 293
+      e2:
+        - 2933
+h:
+  "46305033951":
+    x:
+      - 70cm: 0
+    p: Gora (Celje)
+    e: 554
+    g: 0
+    a: 46.290124
+    o: 15.215514
+o:
+  - S56KZ
+page: https://mapy73.pl/repeater/S55DCE

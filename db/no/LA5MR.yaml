@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+      tx:
+        f: 145.625
+      h: "60573045830"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://grupper.nrrl.no/la3r/Repeatere.html
+      d: ""
+h:
+  "60573045830":
+    x:
+      - 2m: 0
+    p: Mjøsa / Totenåsen
+    e: 950
+    g: 0
+    a: 60.5625
+    o: 10.9583
+o: []
+page: https://mapy73.pl/repeater/LA5MR

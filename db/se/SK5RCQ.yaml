@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+      tx:
+        f: 145.7
+      h: "58002065720"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.radioklubbencq.se/
+      d: ""
+h:
+  "58002065720":
+    x:
+      - 2m: 0
+    p: Kisa
+    e: 0
+    g: 0
+    a: 57.987026
+    o: 15.631203
+o:
+  - SM5YMX
+page: https://mapy73.pl/repeater/SK5RCQ

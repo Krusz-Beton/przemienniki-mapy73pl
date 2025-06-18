@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.075
+        t:
+          - b: ""
+      tx:
+        f: 438.675
+      h: "52111045833"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://www.db0tt.de
+      d: ""
+h:
+  "52111045833":
+    x:
+      - 70cm: 0
+    p: Schoeppingen
+    e: 0
+    g: 0
+    a: 52.10417
+    o: 7.29167
+o:
+  - DF1VB
+page: https://mapy73.pl/repeater/DB0EG

@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.5125
+        t:
+          - c: "127.3"
+      tx:
+        f: 439.1125
+        t:
+          - c: "127.3"
+      h: "52129096018"
+      t: a
+      s: "1"
+      p: 15
+      u: []
+      d: Planowany przemiennik FM Poland w Otwocku
+h:
+  "52129096018":
+    x:
+      - 70cm: 0
+    p: Otwock
+    e: 99
+    g: 10
+    a: 52.108696
+    o: 21.264175
+o: []
+page: https://mapy73.pl/repeater/SR5ZZZ

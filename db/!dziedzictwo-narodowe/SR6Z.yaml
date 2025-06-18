@@ -1,0 +1,46 @@
+x:
+  2m:
+    - rx:
+        f: 145.0375
+        t:
+          - c: "67.0"
+      tx:
+        f: 145.6375
+        t:
+          - c: "67.0"
+      h: "50899037989"
+      t: a
+      s: "6"
+      p: 5
+      u: []
+      d: >-
+        TX Yaesu FTL-2011 
+
+        RX Motorola GM900
+
+        ANT: Radmor 32812 (TX), Radmor 32812 (RX)
+
+        Kable CNT400, sterownik na terminalu.
+
+
+        kody DTMF: 
+
+        -podawanie aktualnej godziny - 
+
+        wpisać 1D na klawiaturze DTMF z sekundową przerwą pomiędzy wpisywaniem znaków;
+
+        -podawanie informacji o przemienniku - 
+
+        wpisać ** (dwa razy gwiazdka) na klawiaturze DTMF z sekundową przerwą pomiędzy wpisywaniem znaków.
+h:
+  "50899037989":
+    x:
+      - 2m: 0
+    p: Góra Świeradowiec
+    e: 1030
+    g: 20
+    a: 50.88405
+    o: 15.329887
+o:
+  - SQ6RS
+page: https://mapy73.pl/repeater/SR6Z

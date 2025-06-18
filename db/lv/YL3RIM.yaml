@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 439.85
+        t:
+          - f: "1"
+      tx:
+        f: 439.85
+      h: "56991048228"
+      t: e
+      s: "5"
+      p: 5
+      u:
+        - https://brandmeister.network/?page=repeater&id=2470053
+      d: ""
+      e1:
+        - 247
+        - 24706
+h:
+  "56991048228":
+    x:
+      - 70cm: 0
+    p: Riga
+    e: 10
+    g: 15
+    a: 56.967333
+    o: 24.149278
+o:
+  - YL3IM
+page: https://mapy73.pl/repeater/YL3RIM

@@ -1,0 +1,65 @@
+x:
+  10m:
+    - rx:
+        f: 29.59
+        t:
+          - a: ""
+          - c: "127.3"
+      tx:
+        f: 29.69
+        t:
+          - c: "127.3"
+      h: "49719022467"
+      t: a
+      s: "5"
+      p: 20
+      u:
+        - https://www.facebook.com/sp8kbn/
+        - http://ot18.pzk.org.pl
+        - http://www.sp8kbn.pl.tl
+      d: |-
+        Anteny Tx/Rx SIRIO SD DIPOLE 1/2
+        Tx YAESU FTL1011
+        Rx YAESU FTL1011
+        Przemiennik jest na stałe zlinkowany z przemiennikiem SR8KN
+        Tx 438.925
+        Rx 431.325
+        CTCSS 103.5 Hz
+    - rx:
+        f: 29.69
+        t:
+          - c: "127.3"
+      tx:
+        f: 29.59
+        t:
+          - c: "127.3"
+      h: "49719017950"
+      t: a
+      s: "3"
+      p: 20
+      u:
+        - http://www.facebook.com/sp8kbn/
+      d: |-
+        Przemiennik zlinkowany z przemiennikiem SR8KN
+        RADIOTELEFONY YAESU FTL1011
+        Anteny GP 1/4
+h:
+  "49719022467":
+    x:
+      - 10m: 0
+    p: Krosno
+    e: 274
+    g: 40
+    a: 49.697472
+    o: 21.752673
+  "49719017950":
+    x:
+      - 10m: 1
+    p: Krosno
+    e: 274
+    g: 40
+    a: 49.697426
+    o: 21.753496
+o:
+  - SP8RHT
+page: https://mapy73.pl/repeater/SR8AR

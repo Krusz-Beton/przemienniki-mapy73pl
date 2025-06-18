@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - c: "88.5"
+      tx:
+        f: 145.625
+      h: "54193083721"
+      t: da
+      s: "5"
+      p: 10
+      u:
+        - http://www.bsk.kolobrzeg.pl/
+      d: YAESU DR-1XE , Antena X-510 50m
+h:
+  "54193083721":
+    x:
+      - 2m: 0
+    p: Kołobrzeg
+    e: 2
+    g: 0
+    a: 54.178284
+    o: 15.553207
+o:
+  - SQ1GU
+page: https://mapy73.pl/repeater/SR1G

@@ -1,0 +1,28 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - a: ""
+      tx:
+        f: 145.775
+        t:
+          - c: "67.0"
+      h: "53669070833"
+      t: a
+      s: "5"
+      p: 7
+      u:
+        - http://qrz.by/repiters/
+      d: ""
+h:
+  "53669070833":
+    x:
+      - 2m: 0
+    p: Grodno
+    e: 160
+    g: 0
+    a: 53.64583
+    o: 23.875
+o: []
+page: https://mapy73.pl/repeater/EV4VHF

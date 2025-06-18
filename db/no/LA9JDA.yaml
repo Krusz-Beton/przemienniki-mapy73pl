@@ -1,0 +1,24 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+      tx:
+        f: 145.75
+      h: "67294076092"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://status.irlp.net/?PSTART=5&country=180
+      d: ""
+h:
+  "67294076092":
+    x:
+      - 2m: 0
+    p: Bodø
+    e: 0
+    g: 0
+    a: 67.280356
+    o: 14.404916
+o: []
+page: https://mapy73.pl/repeater/LA9JDA

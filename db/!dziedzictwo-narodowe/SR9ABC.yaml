@@ -1,0 +1,30 @@
+x:
+  6m:
+    - rx:
+        f: 51.39
+        t:
+          - a: ""
+          - d: "114"
+      tx:
+        f: 51.99
+      h: "49487012155"
+      t: a
+      s: "6"
+      p: 0
+      u: []
+      d: SR9ABC (51,990 MHz) – Pozwolenie radiowe do 27 VII 2027 r. Pierwszy w Polsce
+        analogowy, foniczny radioprzemiennik FM. Projekt wygaszony / wyłączony
+        ze względu na budowę analogowego, fonicznego, wielozakresowego
+        radioprzemiennika SR9RT (51,990 MHz).
+h:
+  "49487012155":
+    x:
+      - 6m: 0
+    p: Szczawnica - Góra Przehyba (Teren schroniska)
+    e: 1175
+    g: 14
+    a: 49.466565
+    o: 20.556552
+o:
+  - SP9FUN
+page: https://mapy73.pl/repeater/SR9ABC

@@ -1,0 +1,46 @@
+x:
+  70cm:
+    - rx:
+        f: 432.7
+      tx:
+        f: 434.7
+      h: "55826021420"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oz3reg.dk/
+      d: ""
+  2m:
+    - rx:
+        f: 145
+        t:
+          - b: ""
+      tx:
+        f: 145.6
+      h: "55834056930"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oz3reg.dk/
+      d: ""
+h:
+  "55826021420":
+    x:
+      - 70cm: 0
+    p: Vejrhøj
+    e: 0
+    g: 0
+    a: 55.8147
+    o: 11.5142
+  "55834056930":
+    x:
+      - 2m: 0
+    p: Vejrhøj
+    e: 67
+    g: 6
+    a: 55.823
+    o: 11.5693
+o: []
+page: https://mapy73.pl/repeater/OZ3REG

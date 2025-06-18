@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - b: ""
+      tx:
+        f: 145.675
+      h: "56873006318"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk7hw.org/
+      d: ""
+h:
+  "56873006318":
+    x:
+      - 2m: 0
+    p: Växjö / Hollstorp
+    e: 205
+    g: 180
+    a: 56.8582
+    o: 14.86318
+o: []
+page: https://mapy73.pl/repeater/SK7HW.R

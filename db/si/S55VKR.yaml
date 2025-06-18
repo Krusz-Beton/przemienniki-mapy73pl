@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.0125
+        t:
+          - a: ""
+      tx:
+        f: 145.6125
+      h: "46246010000"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46246010000":
+    x:
+      - 2m: 0
+    p: Mohor
+    e: 952
+    g: 0
+    a: 46.231883
+    o: 14.217002
+o:
+  - S59BDE
+page: https://mapy73.pl/repeater/S55VKR

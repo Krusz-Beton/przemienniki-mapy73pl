@@ -1,0 +1,24 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+      tx:
+        f: 145.725
+      h: "59307022570"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.rep-jane.com
+      d: ""
+h:
+  "59307022570":
+    x:
+      - 2m: 0
+    p: Skärholmen
+    e: 0
+    g: 0
+    a: 59.28932
+    o: 17.9057
+o: []
+page: https://mapy73.pl/repeater/SM0HGS.R

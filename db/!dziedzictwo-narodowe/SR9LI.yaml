@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.075
+        t:
+          - b: ""
+      tx:
+        f: 438.675
+      h: "49793059704"
+      t: da
+      s: "5"
+      p: 10
+      u:
+        - http://www.sp9krj.qrz.pl/
+      d: |-
+        TRX: TXU-1256
+        ANTENA 3X5/8
+        ECHOLINK node 768315
+h:
+  "49793059704":
+    x:
+      - 70cm: 0
+    p: Pasierbiec
+    e: 669
+    g: 5
+    a: 49.773212
+    o: 20.385038
+o:
+  - SP9KRJ
+page: https://mapy73.pl/repeater/SR9LI

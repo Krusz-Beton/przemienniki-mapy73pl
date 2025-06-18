@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+      tx:
+        f: 145.625
+      h: "49411054053"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - https://www.speckmarschall.de/?page_id=1272
+      d: 2 x 2m Dipol vertikal Antennen
+h:
+  "49411054053":
+    x:
+      - 2m: 0
+    p: Heidelberg
+    e: 559
+    g: 50
+    a: 49.40281
+    o: 8.730529
+o:
+  - DF6II
+page: https://mapy73.pl/repeater/DB0ZH

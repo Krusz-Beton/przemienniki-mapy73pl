@@ -1,0 +1,42 @@
+x:
+  70cm:
+    - rx:
+        f: 431.375
+        t:
+          - c: "94.8"
+      tx:
+        f: 438.975
+        t:
+          - c: "94.8"
+      h: "54796008613"
+      t: aj
+      s: "4"
+      p: 10
+      u:
+        - http://www.lewczuk.pl/index.php/pl/sr2ga
+        - https://fm-poland.pl
+      d: >-
+        Przemiennik SR2GA FM-Echolink w Władysławowie Rx: 438,975 Tx: 431,375 CTCSS:
+        94,8Hz
+
+
+        Trx: Motorola GM-600, GM-340
+
+        Antena: Diamond F718
+
+        Pwr: 10W
+
+
+        Połączone na stałe do sieci Mini Link SR2GA - SR2PA - SR2GDA - SR2GD - SR2EL - SR4OS - SR4MO - SR4WA
+h:
+  "54796008613":
+    x:
+      - 70cm: 0
+    p: Władysławowo
+    e: 11
+    g: 21
+    a: 54.777673
+    o: 18.413129
+o:
+  - SQ2IHP
+page: https://mapy73.pl/repeater/SR2GA

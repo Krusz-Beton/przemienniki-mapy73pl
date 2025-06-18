@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 430.85
+        t:
+          - f: "1"
+      tx:
+        f: 438.45
+      h: "51800032696"
+      t: e
+      s: "4"
+      p: 15
+      u:
+        - https://brandmeister.network/?page=repeater&id=260001
+      d: "Warstwa radiowa: MTR200, Duplekser: PROCOM, Antena: RADMOR, Logika: MMDVM"
+      e1:
+        - 260
+        - 2607
+      e2:
+        - 26071
+h:
+  "51800032696":
+    x:
+      - 70cm: 0
+    p: Łódź
+    e: 305
+    g: 25
+    a: 51.780793
+    o: 19.533964
+o:
+  - SQ7SCC
+page: https://mapy73.pl/repeater/SR7LDA

@@ -1,0 +1,44 @@
+x:
+  70cm:
+    - rx:
+        f: 431.5125
+        t:
+          - c: "77.0"
+      tx:
+        f: 439.1125
+        t:
+          - c: "77.0"
+      h: "51225008042"
+      t: i
+      s: "5"
+      p: 10
+      u:
+        - http://fm-link.pl/
+      d: >-
+        Połączony na stałe z przemiennikami sieci FM-LINK.
+
+        Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.
+
+        Otwarcie po 1 sekundzie nośnej z CTCSS.
+
+        Urządzenie: Motorola MTR 2000.
+
+        Antena 5/8 RADMOR; zysk 8 dBd.
+
+
+
+        Antena zawieszona na wysokości 62 m n.p.t.
+
+        Obiekt: Telewizyjna Stacja Retransmisyjna na Górze Kamieńsk EmiTel-a – zwana Zwałowiskiem – rozpoczęła pracę 19 grudnia 1991 roku. Lokalizacja obecnej 75 metrowej wieży wybudowanej w maju 2020 roku jest na terenie powiatu radomszczańskiego, w gminie miejsko-wiejskiej Kamieńsk, niedaleko miasta Kamieńsk w miejscowości Piła Ruszczyńska.
+h:
+  "51225008042":
+    x:
+      - 70cm: 0
+    p: Góra Kamieńsk wieża EmiTel
+    e: 387
+    g: 75
+    a: 51.205645
+    o: 19.435416
+o:
+  - SQ7LRX
+page: https://mapy73.pl/repeater/SR7VV

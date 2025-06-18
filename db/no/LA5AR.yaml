@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+      tx:
+        f: 145.7
+      h: "58446029167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "58446029167":
+    x:
+      - 2m: 0
+    p: Arendal / Tromøya
+    e: 116
+    g: 0
+    a: 58.4375
+    o: 8.79167
+o: []
+page: https://mapy73.pl/repeater/LA5AR

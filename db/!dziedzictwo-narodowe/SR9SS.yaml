@@ -1,0 +1,34 @@
+x:
+  70cm:
+    - rx:
+        f: 431.5
+        t:
+          - c: "71.9"
+      tx:
+        f: 439.1
+        t:
+          - c: "71.9"
+      h: "50317020803"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://fm-link.pl
+      d: >-
+        Jest połączony na stałe z przemiennikami sieci FM-LINK. Praca z wąską
+        dewiacją (NARROW FM) +/- 2,5 kHz. Otwarcie po 1 sekundzie nośnej z
+        CTCSS.
+
+        Urządzenia: Motorola 2 radia GM-340.
+h:
+  "50317020803":
+    x:
+      - 70cm: 0
+    p: Siemianowice Śląskie
+    e: 312
+    g: 35
+    a: 50.298203
+    o: 19.005029
+o:
+  - SQ9NFI
+page: https://mapy73.pl/repeater/SR9SS

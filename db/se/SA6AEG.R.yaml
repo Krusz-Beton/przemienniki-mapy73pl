@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 433.6
+        t:
+          - b: ""
+      tx:
+        f: 434.6
+      h: "58201004170"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "58201004170":
+    x:
+      - 70cm: 0
+    p: Falköping
+    e: 0
+    g: 0
+    a: 58.1875
+    o: 13.5417
+o: []
+page: https://mapy73.pl/repeater/SA6AEG.R

@@ -1,0 +1,29 @@
+x:
+  2m:
+    - rx:
+        f: 145.1875
+        t:
+          - c: "123.0"
+      tx:
+        f: 145.7875
+        t:
+          - c: "123.0"
+      h: "50833058391"
+      t: a
+      s: "5"
+      p: 2
+      u:
+        - http://www.sp9kaj.com
+      d: 250 npm 35npt ant X-510
+h:
+  "50833058391":
+    x:
+      - 2m: 0
+    p: Częstochowa
+    e: 254
+    g: 0
+    a: 50.814463
+    o: 19.12091
+o:
+  - SP9GR
+page: https://mapy73.pl/repeater/SR9J

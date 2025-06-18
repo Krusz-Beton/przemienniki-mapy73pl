@@ -1,0 +1,29 @@
+x:
+  2m:
+    - rx:
+        f: 145.1375
+        t:
+          - a: ""
+      tx:
+        f: 145.7375
+      h: "50653009282"
+      t: a
+      s: "5"
+      p: 0.5
+      u:
+        - http://sp6ynr.ubf.pl
+      d: |-
+        2x 2el Yagi
+        sp6ynr.ubf.pl
+h:
+  "50653009282":
+    x:
+      - 2m: 0
+    p: Jugów
+    e: 631
+    g: 0
+    a: 50.63656
+    o: 16.532815
+o:
+  - SP6EUA
+page: https://mapy73.pl/repeater/SR6K

@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.9625
+        t:
+          - a: ""
+      tx:
+        f: 434.9625
+      h: "57052007440"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://oz8jyl.dk/cms005/
+      d: ""
+h:
+  "57052007440":
+    x:
+      - 70cm: 0
+    p: Aalborg east
+    e: 47
+    g: 6
+    a: 57.0421
+    o: 9.9744
+o: []
+page: https://mapy73.pl/repeater/OZ3DST

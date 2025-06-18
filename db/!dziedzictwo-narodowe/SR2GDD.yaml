@@ -1,0 +1,35 @@
+x:
+  70cm:
+    - rx:
+        f: 430.6875
+        t:
+          - f: "2"
+      tx:
+        f: 438.2875
+      h: "54372087500"
+      t: e
+      s: "4"
+      p: 15
+      u: []
+      d: |-
+        wysokość anteny 41m
+        antena 5dbi
+      e1:
+        - 2602
+      e2:
+        - 26021
+        - 26022
+        - 260015
+        - 260222
+h:
+  "54372087500":
+    x:
+      - 70cm: 0
+    p: Gdańsk
+    e: 10
+    g: 0
+    a: 54.35417
+    o: 18.70833
+o:
+  - SP2TFV
+page: https://mapy73.pl/repeater/SR2GDD

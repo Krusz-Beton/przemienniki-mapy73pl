@@ -1,0 +1,182 @@
+x:
+  70cm:
+    - rx:
+        f: 431.65
+        t:
+          - f: "1"
+      tx:
+        f: 439.25
+      h: "53131011908"
+      t: e
+      s: "6"
+      p: 15
+      u:
+        - https://sr4bi.pl/
+      d: >-
+        Pozwolenie UKE nr : DC.WML.5101.2512.2019.2
+
+        2 X GM 340 + modem MMDVM ,
+
+        Antena Lafayette MA-2000 Falkos Zysk: VHF 6.5 dB UHF 9.5 dB ,
+
+        Color Code 4.
+
+        Pracuje w sieci HBLink & BrandMeister & DMR PLUS
+
+
+        Grupy TG na SR4BIA
+
+
+        SLOT 1
+
+
+        TG 260 Wywoławcza - BrandMeister
+
+
+        TG 1260 Wywoławcza - DMR PLUS
+
+
+        TG 26004Grupa Dynamiczna Okręgowa SP4 do połączeń HBLink Polska
+
+
+        TG 4 Grupa do rozmów na reflektorze XLX132-D D-Star/DMR/YSF Dynamiczna (aktywacja PTT 10 min)
+
+
+        TG 5 Grupa do rozmów lokalnych Białystok na XLX260-E Dynamiczna (aktywacja PTT 10 min)
+
+
+        TG 6 Grupa do rozmów na reflektorze XLX260-A Dynamiczna (aktywacja PTT 10 min)
+
+
+        TG 11 EmCom Polska (BM-HBLink)
+
+
+        TG 12 EmCom Podlasie (BM-HBLink)
+
+
+        TG 26000 Grupa Dynamiczna - Techniczna HBLink Polska
+
+
+        ----------------------------------------------
+
+
+        SLOT 2
+
+
+        TG 10 Podlaska (BM-HBLink)
+
+
+        TG 260 Wywoławcza - HBLink Polska
+
+
+        TG 8004 Okręgowa SP4 DMR PLUS
+
+
+        TG 2604 Okręgowa SP4 do połączeń BrandMeister - DMR PLUS
+
+
+        TG 7 Grupa - Lokalna HBLink
+
+
+        TG 8 Wywoławcza - HBLink Polska
+
+
+        TG 9 Grupa statyczna oraz linkowanie się do reflektorów
+
+
+        TG 20 Grupa Dynamiczna (aktywacja PTT 10 min) do rozmów na przemienniku SR4X Analog ..:::.. HBLink - Białystok
+
+
+        TG 40 Echolink NODE:ID 438584 SR4BI-R HBLink - Białystok
+
+
+        TG 60 Grupa do rozmów na reflektorze NXDN HBLink PL
+
+
+        TG 61 Grupa do rozmów na reflektorze P25 HBLink PL
+
+
+        TG 260 Grupa Wywoławcza HBLink Polska
+
+
+        TG 260454(SR4BI) Grupa - Lokalna
+
+
+        TG 260453(SR4BIA) Grupa - Lokalna
+
+
+        TG 260099 GPS/RRS/APRS.
+
+
+        260097 Echo (NOTICE: private call, not a TG)
+
+
+        TG 9990 Echo TEST DMR PLUS
+
+
+        TG 9999 Echo TEST HBLink
+
+
+        Informacje na żądanie
+
+
+        AKTYWACJA PTT od 2-5 sekund
+
+
+        Lokalny Serwis Informacyjny:Białystok
+
+        TG 50 - Info
+
+        TG 51 - Pogoda
+
+        TG 52 - Pogoda za 12H
+
+        TG 53 - Meteo alerty
+
+        TG 54 - Poziom rzek
+
+        TG 55 - Lokalne info
+
+
+        Lokalny Serwis Informacyjny:Giżycko
+
+        TG 70 - Info
+
+        TG 71 - Pogoda
+
+        TG 72 - Pogoda za 12H
+
+        TG 73 - Meteo alerty
+
+        TG 74 - Poziom rzek
+
+        TG 75 - Lokalne info
+
+
+        Pogoda w regionie teraz i za 12H
+
+        TG 78/79 - Augustów
+
+        TG 80/81 - Sokółka
+
+        TG 82/83 - Hajnówka
+
+        TG 84/85 - Łomża
+
+        TG 86/87 - Zambrów
+
+        TG 88/89 - Suwałki
+
+        TG 90/91 - Siemiatycze
+h:
+  "53131011908":
+    x:
+      - 70cm: 0
+    p: Białystok
+    e: 156
+    g: 25
+    a: 53.107935
+    o: 23.184082
+o:
+  - SP4FEU
+page: https://mapy73.pl/repeater/SR4BIA

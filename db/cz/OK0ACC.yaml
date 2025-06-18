@@ -1,0 +1,28 @@
+x:
+  2m:
+    - rx:
+        f: 145.1625
+        t:
+          - c: "136.5"
+      tx:
+        f: 145.7625
+        t:
+          - c: "136.5"
+      h: "49758034330"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: ""
+h:
+  "49758034330":
+    x:
+      - 2m: 0
+    p: Obecnice, Drahlín - Sádka
+    e: 765
+    g: 0
+    a: 49.744391
+    o: 13.952304
+o:
+  - OK4PZ
+page: https://mapy73.pl/repeater/OK0ACC

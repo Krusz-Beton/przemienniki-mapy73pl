@@ -1,0 +1,48 @@
+x:
+  70cm:
+    - rx:
+        f: 433.65
+        t:
+          - b: ""
+      tx:
+        f: 434.65
+      h: "63200014188"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk3ek.n.nu/
+      d: ""
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "63182068313"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk3ek.n.nu/
+      d: ""
+h:
+  "63200014188":
+    x:
+      - 70cm: 0
+    p: Sollefteå
+    e: 0
+    g: 0
+    a: 63.18287
+    o: 17.27188
+  "63182068313":
+    x:
+      - 2m: 0
+    p: Sollefteå
+    e: 0
+    g: 0
+    a: 63.165406
+    o: 17.277135
+o: []
+page: https://mapy73.pl/repeater/SK3EK.R

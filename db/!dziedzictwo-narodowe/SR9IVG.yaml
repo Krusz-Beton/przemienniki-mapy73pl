@@ -1,0 +1,34 @@
+x:
+  4m:
+    - rx:
+        f: 70.26
+        t:
+          - a: ""
+      tx:
+        f: 70.26
+        t:
+          - c: "107.2"
+      h: "49739084978"
+      t: da
+      s: "6"
+      p: 15
+      u: []
+      d: >-
+        SR9IVG (70,290 MHz) – Pozwolenie radiowe zmienione (zmiana częstotliwości na
+        70,260 MHz). Eksperymentalna, foniczna bramka internetowa sieci
+        EchoLink. Od 6 XII 2021 r. zmiana częstotliwości na 70,260 MHz.
+
+
+        SR9IVG (70,260 MHz) – Pozwolenie radiowe do 20 XI 2025 r. Eksperymentalna, foniczna bramka internetowa sieci EchoLink. RadioEksperyment, projekt wygaszany / wyłączony.
+h:
+  "49739084978":
+    x:
+      - 4m: 0
+    p: Mordarka - Łysa Góra (k. Limanowej)
+    e: 781
+    g: 12
+    a: 49.719395
+    o: 20.454785
+o:
+  - SP9FUN
+page: https://mapy73.pl/repeater/SR9IVG

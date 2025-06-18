@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - a: ""
+      tx:
+        f: 145.7
+      h: "54365070579"
+      t: g
+      s: "5"
+      p: 15
+      u:
+        - http://sp2pzh.cqdx.pl/
+      d: ""
+h:
+  "54365070579":
+    x:
+      - 2m: 0
+    p: Gdańsk
+    e: 5
+    g: 35
+    a: 54.34704
+    o: 18.665793
+o:
+  - SQ2CDE
+page: https://mapy73.pl/repeater/SR2G

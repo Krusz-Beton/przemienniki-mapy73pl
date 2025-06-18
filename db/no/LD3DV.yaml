@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.525
+        t:
+          - a: ""
+      tx:
+        f: 434.525
+      h: "59766017493"
+      t: b
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=LD3DV
+      d: CCS 69222
+h:
+  "59766017493":
+    x:
+      - 70cm: 0
+    p: Varden, Drammen
+    e: 266
+    g: 0
+    a: 59.75597
+    o: 10.20493
+o: []
+page: https://mapy73.pl/repeater/LD3DV

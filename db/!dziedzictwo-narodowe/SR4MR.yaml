@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.55
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.15
+        t:
+          - c: "67.0"
+      h: "53885076486"
+      t: a
+      s: "6"
+      p: 15
+      u: []
+      d: ""
+h:
+  "53885076486":
+    x:
+      - 70cm: 0
+    p: Mrągowo - wieża ciśnień wodociągów
+    e: 0
+    g: 0
+    a: 53.864468
+    o: 21.296859
+o: []
+page: https://mapy73.pl/repeater/SR4MR

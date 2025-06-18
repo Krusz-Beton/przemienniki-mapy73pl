@@ -1,0 +1,43 @@
+x:
+  70cm:
+    - rx:
+        f: 431.2875
+        t:
+          - f: "5"
+      tx:
+        f: 438.8875
+      h: "52198074463"
+      t: e
+      s: "6"
+      p: 5
+      u: []
+      d: >-
+        Urządzenie TX/RX: 2x Kenwood TK-8180 oraz MMDVM (PiStar)
+
+        Antena: Comet GP6N (RX) / Sirio CX-432 (TX)
+
+        Moc nadawcza 5W
+
+        Przemiennik pracuje w trybie mieszanym DMR / NXDN
+
+        DMR Color Code:5 TSlot1: TG260 (Polska) TSlot2: TG 8005, TG9 (Lokalna)
+
+        NXDN- RAN1 i praca w grupie 26000 (Polska)
+
+        UWAGA: 15 min. po ostatniej wykrytej aktywności na odbiorniku przemiennik przechodzi w tryb mieszany
+      e1:
+        - 260
+      e2:
+        - 2605
+h:
+  "52198074463":
+    x:
+      - 70cm: 0
+    p: Mińsk Mazowiecki
+    e: 153
+    g: 40
+    a: 52.177192
+    o: 21.552627
+o:
+  - SP5OSP
+page: https://mapy73.pl/repeater/SR5MDV

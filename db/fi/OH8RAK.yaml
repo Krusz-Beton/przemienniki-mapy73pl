@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+      tx:
+        f: 145.7
+      h: "64231013520"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "64231013520":
+    x:
+      - 2m: 0
+    p: Kajaani / Rouvankangas
+    e: 230
+    g: 50
+    a: 64.2034
+    o: 27.7352
+o:
+  - OH8JGD
+page: https://mapy73.pl/repeater/OH8RAK

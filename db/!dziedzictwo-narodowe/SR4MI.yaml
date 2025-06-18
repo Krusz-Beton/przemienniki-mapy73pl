@@ -1,0 +1,37 @@
+x:
+  70cm:
+    - rx:
+        f: 431.15
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.75
+        t:
+          - c: "67.0"
+      h: "53959057176"
+      t: i
+      s: "5"
+      p: 10
+      u:
+        - https://sp4.jestok.com/przemienniki/sr4mi/
+        - https://fm-link.pl/
+      d: >-
+        Połączony na stałe z przemiennikami sieci FM-LINK.
+
+        Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.
+
+        Otwarcie po 1 sekundzie nośnej z CTCSS.
+
+        Anteny: X-300 @180m RX, GP-98 @ 210m TX, 230m LDF-5 7/8; przemiennik Motorola MTR2000.
+h:
+  "53959057176":
+    x:
+      - 70cm: 0
+    p: Miłki k/Giżycka EMITEL
+    e: 244
+    g: 180
+    a: 53.937727
+    o: 21.844764
+o:
+  - SQ4LWO
+page: https://mapy73.pl/repeater/SR4MI

@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.375
+        t:
+          - b: ""
+      tx:
+        f: 438.975
+      h: "49450020807"
+      t: a
+      s: "5"
+      p: 3
+      u:
+        - https://www.darc.de/der-club/distrikte/u/ortsverbaende/20/relais-bilder/
+      d: ""
+h:
+  "49450020807":
+    x:
+      - 70cm: 0
+    p: Altenschneeberg
+    e: 765
+    g: 0
+    a: 49.43766
+    o: 12.54807
+o:
+  - DL6RBO
+page: https://mapy73.pl/repeater/DB0QG

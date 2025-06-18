@@ -1,0 +1,34 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+        t:
+          - c: "127.3"
+          - f: "5"
+      tx:
+        f: 145.75
+        t:
+          - c: "127.3"
+      h: "52289038269"
+      t: ea
+      s: "6"
+      p: 15
+      u:
+        - https://sp5kab.pl/przemienniki
+        - https://brandmeister.network/?page=device&id=260517
+      d: |-
+        mix
+        CC5
+        https://brandmeister.network/?page=device&id=260517
+h:
+  "52289038269":
+    x:
+      - 2m: 0
+    p: Warszawa - komin EC Kawęczyn
+    e: 394
+    g: 305
+    a: 52.268254
+    o: 21.128688
+o:
+  - SQ5IT
+page: https://mapy73.pl/repeater/SR5W

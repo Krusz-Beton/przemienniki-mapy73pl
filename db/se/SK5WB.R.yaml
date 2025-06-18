@@ -1,0 +1,23 @@
+x:
+  70cm:
+    - rx:
+        f: 432.95
+      tx:
+        f: 434.95
+      h: "59662092500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59662092500":
+    x:
+      - 70cm: 0
+    p: Enköping
+    e: 0
+    g: 0
+    a: 59.6458
+    o: 17.125
+o: []
+page: https://mapy73.pl/repeater/SK5WB.R

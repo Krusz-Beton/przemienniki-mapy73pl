@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.175
+        t:
+          - c: "88.5"
+      tx:
+        f: 438.775
+        t:
+          - c: "88.5"
+      h: "49536001936"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://www.prevadece.cz/dmr/sit
+      d: ""
+h:
+  "49536001936":
+    x:
+      - 70cm: 0
+    p: Kozlov u Chyšek
+    e: 750
+    g: 0
+    a: 49.521587
+    o: 14.432357
+o:
+  - OK4PZ
+page: https://mapy73.pl/repeater/OK0BNJ

@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "65626040830"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://echolink.org/logins.jsp
+      d: ""
+h:
+  "65626040830":
+    x:
+      - 2m: 0
+    p: Luleå
+    e: 0
+    g: 0
+    a: 65.6042
+    o: 22.2083
+o: []
+page: https://mapy73.pl/repeater/SK2AZ.R

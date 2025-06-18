@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "55160059170"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "55160059170":
+    x:
+      - 2m: 0
+    p: Østermarie / Bornholm
+    e: 114
+    g: 30
+    a: 55.1458
+    o: 14.7917
+o: []
+page: https://mapy73.pl/repeater/OZ3REO

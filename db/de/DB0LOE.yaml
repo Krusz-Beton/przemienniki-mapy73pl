@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+      tx:
+        f: 145.625
+      h: "51024093328"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://qrg.globaltuners.com/details.php?id=3159
+      d: OPEN:7sek call tone 1750Hz
+h:
+  "51024093328":
+    x:
+      - 2m: 0
+    p: Kottmar / Lobau
+    e: 583
+    g: 0
+    a: 51.010278
+    o: 14.655278
+o: []
+page: https://mapy73.pl/repeater/DB0LOE

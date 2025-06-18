@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "58611057500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "58611057500":
+    x:
+      - 2m: 0
+    p: Mandal / Sjåvassknuten
+    e: 855
+    g: 0
+    a: 58.6042
+    o: 7.375
+o: []
+page: https://mapy73.pl/repeater/LA7ER

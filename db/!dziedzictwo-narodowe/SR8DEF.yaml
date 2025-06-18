@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 430.825
+        t:
+          - c: "103.5"
+      tx:
+        f: 438.425
+      h: "50080075584"
+      t: ga
+      s: "5"
+      p: 15
+      u: []
+      d: |-
+        Yeasu DR1XE 15W ant. Diamond X-300 
+        Więcej info na Facebook - krotkofalowcy.org
+        Wiosną antena idzie wyżej.
+h:
+  "50080075584":
+    x:
+      - 70cm: 0
+    p: Dębica
+    e: 190
+    g: 22
+    a: 50.059358
+    o: 21.397837
+o:
+  - SQ8MXK
+page: https://mapy73.pl/repeater/SR8DEF

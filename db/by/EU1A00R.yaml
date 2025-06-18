@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 431.225
+      tx:
+        f: 438.725
+      h: "53954058761"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://enw.ontodo.org/docs/2586/index-328278.html
+      d: ""
+h:
+  "53954058761":
+    x:
+      - 70cm: 0
+    p: Mińsk
+    e: 0
+    g: 0
+    a: 53.927074
+    o: 27.513611
+o: []
+page: https://mapy73.pl/repeater/EU1A00R

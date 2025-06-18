@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.425
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.025
+        t:
+          - c: "67.0"
+      h: "53156002530"
+      t: ga
+      s: "5"
+      p: 15
+      u: []
+      d: Antena RADMOR 3284 + ANDREW CNT-400 (22m) + duplexer K&L + YAESU DR-1XE
+        WIRES-X DTMF ID-17835 / SR4BS-ROOM - 27835
+h:
+  "53156002530":
+    x:
+      - 70cm: 0
+    p: Białystok
+    e: 145
+    g: 35
+    a: 53.132887
+    o: 23.138298
+o:
+  - SQ4G
+page: https://mapy73.pl/repeater/SR4BS

@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.0375
+        t:
+          - c: "77.0"
+      tx:
+        f: 145.6375
+      h: "46318037801"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46318037801":
+    x:
+      - 2m: 0
+    p: Stare Slemene
+    e: 630
+    g: 0
+    a: 46.303014
+    o: 15.364014
+o:
+  - S51HT
+page: https://mapy73.pl/repeater/S55VSC

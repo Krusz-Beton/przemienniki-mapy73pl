@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.8875
+      tx:
+        f: 434.8875
+      h: "55577010389"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "55577010389":
+    x:
+      - 70cm: 0
+    p: Gladsax
+    e: 120
+    g: 0
+    a: 55.56282
+    o: 14.28389
+o:
+  - SM7IOE
+page: https://mapy73.pl/repeater/SK7ROQ

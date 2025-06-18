@@ -1,0 +1,73 @@
+x:
+  70cm:
+    - rx:
+        f: 434.7
+        t:
+          - c: "67.0"
+      tx:
+        f: 434.7
+        t:
+          - c: "67.0"
+      h: "54144024700"
+      t: aj
+      s: "4"
+      p: 5
+      j0:
+        - 260497
+      j1:
+        - 112
+        - 260
+        - 2600
+        - 2601
+        - 2602
+        - 2603
+        - 2604
+        - 2605
+        - 2606
+        - 2607
+        - 2608
+        - 2609
+        - 260077
+        - 260497
+      u:
+        - http://sr4suw.cba.pl
+        - https://fm-poland.pl/aktualne-grupy/
+      d: >-
+        Hotspot publiczny FM Poland.
+
+        Monitorowane grupy: 112,260,2600,260077,260497,SP1...SP9
+
+        Dostępne komendy DTMF:
+
+        1# - lokalne echo (po testach należy rozlinkować komendą #)
+
+        60# - pogoda dla Suwałk i okolic
+
+        61# - ostrzeżenia pogodowe dla Suwałk i okolic
+
+        62# - warunki propagacji
+
+        63# - stopień zagrożenia pożarowego lasów (rejon 1_C Suwałki)
+
+        64# - stan rzeki Czarna Hańcza (stacja Bród Stary)
+
+        *# - identyfikacja przemiennika
+
+        91xxx# - linkowanie grupy xxx
+
+        910# - rozłączenie grupy(grupa 0)
+
+
+        Lokalna grupa domyślna: 260497 (po otwarciu hotspota nośną ta grupa zostaje zlinkowana automatycznie)
+h:
+  "54144024700":
+    x:
+      - 70cm: 0
+    p: Suwałki
+    e: 176
+    g: 12
+    a: 54.1213
+    o: 22.947
+o:
+  - SP4MN
+page: https://mapy73.pl/repeater/SR4SUW

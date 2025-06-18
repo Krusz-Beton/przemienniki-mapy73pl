@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.75
+        t:
+          - a: ""
+      tx:
+        f: 145.15
+      h: "47790007597"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "47790007597":
+    x:
+      - 2m: 0
+    p: Satu Mare
+    e: 0
+    g: 0
+    a: 47.767199
+    o: 22.876974
+o:
+  - YO5KAW
+page: https://mapy73.pl/repeater/YO5N

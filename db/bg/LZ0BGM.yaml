@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 432.7
+        t:
+          - a: ""
+          - c: "79.7"
+      tx:
+        f: 439.3
+        t:
+          - c: "79.7"
+      h: "42202092115"
+      t: a
+      s: "5"
+      p: 40
+      u:
+        - http://www.repeaters.bg/
+      d: ""
+h:
+  "42202092115":
+    x:
+      - 70cm: 0
+    p: връх Мусала
+    e: 2907
+    g: 18
+    a: 42.179336
+    o: 23.585146
+o:
+  - LZ1LSD
+page: https://mapy73.pl/repeater/LZ0BGM

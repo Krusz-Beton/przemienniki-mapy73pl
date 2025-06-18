@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5
+      tx:
+        f: 434.5
+      h: "56320094970"
+      t: b
+      s: "5"
+      p: 0
+      u:
+        - https://brandmeister.network/?page=repeater&id=2407161
+      d: ""
+h:
+  "56320094970":
+    x:
+      - 70cm: 0
+    p: Tving
+    e: 0
+    g: 0
+    a: 56.30548
+    o: 15.4697
+o: []
+page: https://mapy73.pl/repeater/SG7CDJ

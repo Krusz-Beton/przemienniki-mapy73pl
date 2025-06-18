@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.4
+        t:
+          - a: ""
+      tx:
+        f: 439
+      h: "53130057171"
+      t: g
+      s: "5"
+      p: 15
+      u: []
+      d: |-
+        RPT: Yaesu DR-1X
+        Antena: X300
+h:
+  "53130057171":
+    x:
+      - 70cm: 0
+    p: Bydgoszcz
+    e: 74
+    g: 30
+    a: 53.112533
+    o: 18.038706
+o:
+  - SP2QVH
+page: https://mapy73.pl/repeater/SR2BD

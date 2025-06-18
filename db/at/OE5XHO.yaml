@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 438.75
+        t:
+          - a: ""
+      tx:
+        f: 431.15
+      h: "48035029167"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://jaltrichter.magix.net/start.htm
+      d: ""
+h:
+  "48035029167":
+    x:
+      - 70cm: 0
+    p: Damberg
+    e: 0
+    g: 0
+    a: 48.02083
+    o: 14.45833
+o: []
+page: https://mapy73.pl/repeater/OE5XHO

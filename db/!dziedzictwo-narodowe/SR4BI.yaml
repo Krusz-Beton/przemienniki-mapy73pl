@@ -1,0 +1,89 @@
+x:
+  70cm:
+    - rx:
+        f: 430.8625
+        t:
+          - c: "67.0"
+          - f: "4"
+      tx:
+        f: 438.4625
+        t:
+          - c: "67.0"
+      h: "53038067722"
+      t: ea
+      s: "4"
+      p: 15
+      u:
+        - https://sr4bi.pl
+      d: >-
+        MOTOROLA MTR-2000 , sterownik MMDVM.
+
+        Color Code 4.
+
+        Przemiennik pracuje w sieci Brandmeister 
+
+        ----------------------------------------------------------------------------
+
+        oraz Analogowo FM
+
+
+        CTCSS odbiornika:67.0Hz
+
+        CTCSS nadajnika:67.0 Hz
+
+        Szerokość : WIDE
+
+        Antena Radmor 3284/3
+
+
+        Grupy TG na SR4BI 
+
+
+        SLOT 1
+
+
+        TG 260 Wywoławcza - BrandMeister
+
+
+
+        ----------------------------------------------
+
+
+        SLOT 2
+
+
+        TG 2604 Okręgowa SP4 do połączeń BrandMeister - DMR PLUS
+
+
+
+        TG 9 Grupa statyczna oraz linkowanie się do reflektorów
+
+
+        TG 260454(SR4BI) Grupa - Lokalna
+
+
+        TG 260099 GPS/RRS/APRS.
+
+
+        260097 Echo (NOTICE: private call, not a TG)
+      e1:
+        - 260
+        - 260015
+      e2:
+        - 2600
+        - 2604
+        - 26043
+        - 26045
+        - 260454
+h:
+  "53038067722":
+    x:
+      - 70cm: 0
+    p: Juchnowiec
+    e: 152
+    g: 35
+    a: 53.015542
+    o: 23.135219
+o:
+  - SP4FEU
+page: https://mapy73.pl/repeater/SR4BI

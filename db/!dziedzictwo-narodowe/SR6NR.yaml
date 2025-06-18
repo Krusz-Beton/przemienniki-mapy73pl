@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.825
+        t:
+          - c: "94.8"
+      tx:
+        f: 439.425
+      h: "50555087429"
+      t: da
+      s: "5"
+      p: 10
+      u:
+        - http://www.hf-uhf-vhf-forum.iq24.pl/default.asp
+      d: zasięg Kotlina Kłodzka
+h:
+  "50555087429":
+    x:
+      - 70cm: 0
+    p: Nowa Ruda-Słupiec
+    e: 454
+    g: 65
+    a: 50.539307
+    o: 16.567286
+o:
+  - SP6NET
+page: https://mapy73.pl/repeater/SR6NR

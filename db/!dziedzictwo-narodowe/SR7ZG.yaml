@@ -1,0 +1,51 @@
+r:
+  - - 70cm: 0
+    - 2m: 0
+x:
+  70cm:
+    - rx:
+        f: 431.35
+        t:
+          - c: "74.4"
+      h: "51866066518"
+      t: a
+      s: "6"
+      p: 0
+      u: []
+      d: CTCSS crossband 74,4Hz Częstotliwość crossband również przeznaczona do
+        nawiązywania łączności przez przemiennik Moc wyjściowa na 2m - 12W .
+    - rx:
+        f: 431.35
+        t:
+          - c: "77.0"
+      tx:
+        f: 438.95
+        t:
+          - c: "77.0"
+      h: "51866066518"
+      t: a
+      s: "6"
+      p: 15
+      u: []
+      d: Na przemienniku uruchomiony komunikator Zello
+  2m:
+    - tx:
+        f: 144.775
+      h: "51866066518"
+      t: a
+      s: "6"
+      p: 12
+      u: []
+      d: ""
+h:
+  "51866066518":
+    x:
+      - 70cm: 1
+    p: Zgierz
+    e: 200
+    g: 33
+    a: 51.847251
+    o: 19.414183
+o:
+  - SP7WNY
+page: https://mapy73.pl/repeater/SR7ZG

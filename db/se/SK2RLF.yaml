@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+      tx:
+        f: 145.625
+      h: "65734052808"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.qsl.net/sk2vy/repeat.html
+      d: ""
+h:
+  "65734052808":
+    x:
+      - 2m: 0
+    p: Tärnaby
+    e: 0
+    g: 0
+    a: 65.71926
+    o: 15.26808
+o: []
+page: https://mapy73.pl/repeater/SK2RLF

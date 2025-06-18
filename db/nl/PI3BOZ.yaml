@@ -1,0 +1,28 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - c: "88.5"
+      tx:
+        f: 145.625
+        t:
+          - c: "88.5"
+      h: "51483045833"
+      t: da
+      s: "5"
+      p: 10
+      u:
+        - http://www.facebook.com/repeatersboz
+      d: ""
+h:
+  "51483045833":
+    x:
+      - 2m: 0
+    p: Bergen op Zoom
+    e: 0
+    g: 0
+    a: 51.47917
+    o: 4.29167
+o: []
+page: https://mapy73.pl/repeater/PI3BOZ

@@ -1,0 +1,70 @@
+x:
+  2m:
+    - rx:
+        f: 145.1875
+        t:
+          - b: ""
+      tx:
+        f: 145.7875
+      h: "57720091542"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6go.se
+      d: ""
+    - rx:
+        f: 145.0875
+        t:
+          - b: ""
+      tx:
+        f: 145.6875
+      h: "57720084456"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6go.se
+      d: ""
+  70cm:
+    - rx:
+        f: 432.65
+        t:
+          - b: ""
+      tx:
+        f: 434.65
+      h: "57720091342"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk6go.se/wp/?page_id=7
+      d: ""
+h:
+  "57720091542":
+    x:
+      - 2m: 0
+    p: Göteborg / Lunden
+    e: 0
+    g: 0
+    a: 57.70891
+    o: 12.00542
+  "57720091342":
+    x:
+      - 70cm: 0
+    p: Göteborg / Lunden
+    e: 0
+    g: 0
+    a: 57.70891
+    o: 12.00342
+  "57720084456":
+    x:
+      - 2m: 1
+    p: Göteborg
+    e: 0
+    g: 0
+    a: 57.70887
+    o: 11.97456
+o:
+  - SM6JOC
+page: https://mapy73.pl/repeater/SK6GO.R

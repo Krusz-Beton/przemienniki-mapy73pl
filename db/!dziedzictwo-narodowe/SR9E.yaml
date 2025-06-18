@@ -1,0 +1,31 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - c: "71.9"
+      tx:
+        f: 145.725
+        t:
+          - c: "71.9"
+      h: "50317020803"
+      t: da
+      s: "5"
+      p: 15
+      u: []
+      d: >-
+        Dostęp do modułu echolink wyłącznie z RPT,
+
+        Na przemienniku nadawane są komunikaty Śląskiego Oddziału Terenowego PZK w Siemianowicach Śląskich. w każdy poniedziałek o godzinie 21:00.
+h:
+  "50317020803":
+    x:
+      - 2m: 0
+    p: Siemianowice Śląskie
+    e: 314
+    g: 35
+    a: 50.298203
+    o: 19.005029
+o:
+  - SQ9NFI
+page: https://mapy73.pl/repeater/SR9E

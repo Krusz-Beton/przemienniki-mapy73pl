@@ -1,0 +1,29 @@
+x:
+  2m:
+    - rx:
+        f: 145.1125
+        t:
+          - c: "67.0"
+      tx:
+        f: 145.7125
+        t:
+          - c: "67.0"
+      h: "49704025284"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.skzd.pl
+      d: ""
+h:
+  "49704025284":
+    x:
+      - 2m: 0
+    p: Skrzyczne
+    e: 1249
+    g: 40
+    a: 49.685223
+    o: 19.029843
+o:
+  - SP9YKD
+page: https://mapy73.pl/repeater/SR9B

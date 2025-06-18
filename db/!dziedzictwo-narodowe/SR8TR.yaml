@@ -1,0 +1,25 @@
+x:
+  10m:
+    - rx:
+        f: 29.59
+        t:
+          - a: ""
+      tx:
+        f: 29.69
+      h: "50251054167"
+      t: a
+      s: "1"
+      p: 0
+      u: []
+      d: ""
+h:
+  "50251054167":
+    x:
+      - 10m: 0
+    p: Leżajsk Cmentarna CNR
+    e: 0
+    g: 0
+    a: 50.22917
+    o: 22.375
+o: []
+page: https://mapy73.pl/repeater/SR8TR

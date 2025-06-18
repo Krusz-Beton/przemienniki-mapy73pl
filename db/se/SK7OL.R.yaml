@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.1875
+      tx:
+        f: 145.7875
+      h: "56408075830"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk7ol.org
+      d: ""
+h:
+  "56408075830":
+    x:
+      - 2m: 0
+    p: Hallandsåsen
+    e: 240
+    g: 37
+    a: 56.3958
+    o: 12.9583
+o:
+  - SM7YES
+page: https://mapy73.pl/repeater/SK7OL.R

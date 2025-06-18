@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 440.025
+        t:
+          - c: "67.0"
+      tx:
+        f: 445.025
+      h: "42006076564"
+      t: j
+      s: "4"
+      p: 0
+      u:
+        - http://paaros.com
+        - https://fm-poland.pl/aktualne-grupy/
+      d: ""
+      j0:
+        - 31018
+      j1:
+        - 31018
+h:
+  "42006076564":
+    x:
+      - 70cm: 0
+    p: Arlington Heights, IL
+    e: 0
+    g: 0
+    a: 42.094785
+    o: -88.01936
+o:
+  - W9GIL
+page: https://mapy73.pl/repeater/NA9PL.R

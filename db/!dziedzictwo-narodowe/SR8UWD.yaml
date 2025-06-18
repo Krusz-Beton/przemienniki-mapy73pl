@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 430.9125
+        t:
+          - a: ""
+          - f: "1"
+      tx:
+        f: 438.5125
+      h: "51581063171"
+      t: geb
+      s: "4"
+      p: 10
+      u: []
+      d: C4FM - pracuje w sieci YSF. Reflektor PL SR8UWD
+      e1:
+        - 2608
+      e2:
+        - 26081
+        - 26093
+h:
+  "51581063171":
+    x:
+      - 70cm: 0
+    p: Włodawa
+    e: 173
+    g: 38
+    a: 51.558078
+    o: 23.55371
+o:
+  - SQ8ISJ
+page: https://mapy73.pl/repeater/SR8UWD

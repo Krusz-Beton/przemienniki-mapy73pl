@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.525
+        t:
+          - a: ""
+      tx:
+        f: 434.525
+      h: "55576066188"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=OZ1REF&mod=B
+      d: ""
+h:
+  "55576066188":
+    x:
+      - 70cm: 0
+    p: Fredericia
+    e: 22
+    g: 9
+    a: 55.56694
+    o: 9.72188
+o:
+  - OZ1LN
+page: https://mapy73.pl/repeater/OZ1REF

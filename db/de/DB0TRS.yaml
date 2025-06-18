@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.525
+        t:
+          - b: ""
+      tx:
+        f: 439.125
+      h: "47853085088"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.charly16.de/
+      d: ""
+h:
+  "47853085088":
+    x:
+      - 70cm: 0
+    p: ""
+    e: 765
+    g: 0
+    a: 47.841196
+    o: 12.654882
+o: []
+page: https://mapy73.pl/repeater/DB0TRS

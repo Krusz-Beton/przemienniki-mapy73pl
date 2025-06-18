@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 430.8625
+      tx:
+        f: 438.4625
+      h: "50696080667"
+      t: b
+      s: "5"
+      p: 15
+      u: []
+      d: ""
+h:
+  "50696080667":
+    x:
+      - 70cm: 0
+    p: Wielka Sowa
+    e: 1015
+    g: 20
+    a: 50.680321
+    o: 16.485667
+o:
+  - SQ6ODL
+page: https://mapy73.pl/repeater/SR6DWS

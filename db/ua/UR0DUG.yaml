@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.175
+        t:
+          - f: "1"
+      tx:
+        f: 438.775
+      h: "48168087500"
+      t: e
+      s: "5"
+      p: 10
+      u: []
+      d: ""
+h:
+  "48168087500":
+    x:
+      - 70cm: 0
+    p: Vynogradiv
+    e: 0
+    g: 0
+    a: 48.14583
+    o: 23.04167
+o:
+  - UR7D
+page: https://mapy73.pl/repeater/UR0DUG

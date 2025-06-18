@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "59739034570"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59739034570":
+    x:
+      - 2m: 0
+    p: Drammen / Nordbykollen
+    e: 300
+    g: 0
+    a: 59.7291
+    o: 10.2457
+o: []
+page: https://mapy73.pl/repeater/LA5DR

@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - a: ""
+      tx:
+        f: 145.675
+      h: "54961045833"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://www.lrmd.lt/retransliatoriai_en.htm
+      d: ""
+h:
+  "54961045833":
+    x:
+      - 2m: 0
+    p: Kaunas
+    e: 5
+    g: 120
+    a: 54.9375
+    o: 23.95833
+o: []
+page: https://mapy73.pl/repeater/LY0RKA

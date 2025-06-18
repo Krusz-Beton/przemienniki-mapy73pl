@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.9
+      tx:
+        f: 439.5
+      h: "49438075958"
+      t: b
+      s: "5"
+      p: 10
+      u:
+        - http://www.sr9uvj.pl
+        - http://www.ircddb.net/
+      d: "Ant: Diamond X-50 2 x Motorola GM340 - 70cm 1 x Motorola CM140 - 2m"
+h:
+  "49438075958":
+    x:
+      - 70cm: 0
+    p: Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)
+    e: 1114
+    g: 12
+    a: 49.417864
+    o: 20.895578
+o:
+  - SQ9ATC
+page: https://mapy73.pl/repeater/SR9UVJ

@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 430.9125
+        t:
+          - a: ""
+          - c: "103.5"
+      tx:
+        f: 438.5125
+        t:
+          - c: "103.5"
+      h: "49802032883"
+      t: ab
+      s: "5"
+      p: 15
+      u:
+        - http://naszepodroze-pcim.pl/przemiennik-sr9tm.html
+      d: "Sprzęt obsługujący przemiennik: Radia: MOTOROLA GM-340, Zasilacz
+        HP-DPS-600PB B, Duplexer: SGQ-450D, Antena: FALKOS UH-2000, Sterownik
+        D-STAR: GS68 MMDVM, Sterownik FM:ID-O-Matic IV."
+h:
+  "49802032883":
+    x:
+      - 70cm: 0
+    p: Pcim - Kudłacze
+    e: 730
+    g: 8
+    a: 49.782306
+    o: 20.022833
+o:
+  - SP9CPZ
+page: https://mapy73.pl/repeater/SR9TM

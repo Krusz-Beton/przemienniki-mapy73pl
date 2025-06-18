@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.7375
+        t:
+          - a: ""
+      tx:
+        f: 434.7375
+      h: "55657073716"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://www.d-star4all.dk/
+      d: ""
+h:
+  "55657073716":
+    x:
+      - 70cm: 0
+    p: Regstrup
+    e: 0
+    g: 0
+    a: 55.646113
+    o: 11.624156
+o: []
+page: https://mapy73.pl/repeater/OZ2REN

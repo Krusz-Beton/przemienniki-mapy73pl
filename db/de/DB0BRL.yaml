@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "52534029167"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.funkzentrum.de/news-mainmenu-92/7622.html
+      d: ""
+h:
+  "52534029167":
+    x:
+      - 2m: 0
+    p: Berlin-Hohenschönhausen
+    e: 85
+    g: 60
+    a: 52.52083
+    o: 13.45833
+o: []
+page: https://mapy73.pl/repeater/DB0BRL

@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 430.95
+        t:
+          - a: ""
+      tx:
+        f: 438.55
+      h: "43260075632"
+      t: b
+      s: "5"
+      p: 0
+      u:
+        - http://www.dstar.bg/
+        - http://www.repeaters.bg/
+      d: ""
+h:
+  "43260075632":
+    x:
+      - 70cm: 0
+    p: НУРТС - Варна
+    e: 303
+    g: 50
+    a: 43.232802
+    o: 27.954323
+o:
+  - LZ1AA
+page: https://mapy73.pl/repeater/LZ0DAV

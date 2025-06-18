@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.75
+        t:
+          - a: ""
+          - c: "103.5"
+      tx:
+        f: 439.35
+      h: "49836091581"
+      t: ea
+      s: "5"
+      p: 0
+      u:
+        - http://ot18.pzk.org.pl/?page_id=9098
+      d: CC1
+h:
+  "49836091581":
+    x:
+      - 70cm: 0
+    p: Domaradz
+    e: 450
+    g: 15
+    a: 49.814923
+    o: 21.99281
+o:
+  - SQ8RFU
+page: https://mapy73.pl/repeater/SR8AGA

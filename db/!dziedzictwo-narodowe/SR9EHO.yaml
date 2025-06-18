@@ -1,0 +1,29 @@
+x:
+  10m:
+    - rx:
+        f: 29.61
+        t:
+          - c: "107.2"
+      tx:
+        f: 29.61
+        t:
+          - c: "107.2"
+      h: "49739085183"
+      t: da
+      s: "6"
+      p: 50
+      u:
+        - http://radioteam.pl/sr9eho
+      d: Lokalizacja testowa - Mordarka - Łysa Góra (k. Limanowej).
+h:
+  "49739085183":
+    x:
+      - 10m: 0
+    p: Mordarka - Łysa Góra (k. Limanowej)
+    e: 781
+    g: 12
+    a: 49.719397
+    o: 20.454828
+o:
+  - SP9FUN
+page: https://mapy73.pl/repeater/SR9EHO

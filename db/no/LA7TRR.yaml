@@ -1,0 +1,25 @@
+x:
+  6m:
+    - rx:
+        f: 51.25
+        t:
+          - b: ""
+      tx:
+        f: 51.85
+      h: "63281017500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "63281017500":
+    x:
+      - 6m: 0
+    p: Trondheim / Vassfjellet
+    e: 710
+    g: 0
+    a: 63.2708
+    o: 10.375
+o: []
+page: https://mapy73.pl/repeater/LA7TRR

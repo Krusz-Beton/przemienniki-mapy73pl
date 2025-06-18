@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.4
+        t:
+          - b: ""
+      tx:
+        f: 439
+      h: "52334039173"
+      t: da
+      s: "5"
+      p: 12
+      u:
+        - http://www.db0bel.de/db0fro.html
+      d: ""
+h:
+  "52334039173":
+    x:
+      - 70cm: 0
+    p: Frankfurt n/Oder
+    e: 83
+    g: 103
+    a: 52.319863
+    o: 14.52873
+o:
+  - DL2BWL
+page: https://mapy73.pl/repeater/DB0FOD

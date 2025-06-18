@@ -1,0 +1,29 @@
+x:
+  2m:
+    - rx:
+        f: 145.2375
+        t:
+          - c: "77.0"
+      tx:
+        f: 145.2375
+        t:
+          - c: "77.0"
+      h: "51476098412"
+      t: da
+      s: "6"
+      p: 15
+      u: []
+      d: gateway SR7SI klubu SP7KZK Zeby uruchomić przemiennik należy przytrzymać ptt
+        min. 0,7 sek.
+h:
+  "51476098412":
+    x:
+      - 2m: 0
+    p: Burzenin
+    e: 190
+    g: 25
+    a: 51.458155
+    o: 18.829116
+o:
+  - SQ7OBH
+page: https://mapy73.pl/repeater/SR7BU

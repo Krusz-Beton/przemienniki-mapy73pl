@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.5
+      tx:
+        f: 439.1
+      h: "49441096619"
+      t: a
+      s: "5"
+      p: 25
+      u:
+        - http://www.prevadece.cz/dmr/sit
+      d: ""
+h:
+  "49441096619":
+    x:
+      - 70cm: 0
+    p: Určice
+    e: 370
+    g: 0
+    a: 49.424917
+    o: 17.049194
+o:
+  - OK2VWH
+page: https://mapy73.pl/repeater/OK0DUR

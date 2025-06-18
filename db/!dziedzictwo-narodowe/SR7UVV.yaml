@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8875
+        t:
+          - a: ""
+      tx:
+        f: 439.4875
+      h: "51225008042"
+      t: b
+      s: "5"
+      p: 10
+      u: []
+      d: >-
+        31-10-2014.
+
+        Przemiennik uruchomiony w trybie DV. Zapraszamy wszystkich do korzystania z przemiennika.
+
+
+        Antena 5/8 RADMOR
+h:
+  "51225008042":
+    x:
+      - 70cm: 0
+    p: Góra Kamieńsk wieża EmiTel
+    e: 387
+    g: 75
+    a: 51.205645
+    o: 19.435416
+o:
+  - SQ7SCC
+page: https://mapy73.pl/repeater/SR7UVV

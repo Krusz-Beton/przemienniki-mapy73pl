@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.85
+        t:
+          - a: ""
+      tx:
+        f: 434.85
+      h: "66330024750"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=LD8MR%20&mod=B
+      d: ""
+h:
+  "66330024750":
+    x:
+      - 70cm: 0
+    p: Mo i Rana
+    e: 0
+    g: 0
+    a: 66.3161
+    o: 14.1475
+o: []
+page: https://mapy73.pl/repeater/LD8MR

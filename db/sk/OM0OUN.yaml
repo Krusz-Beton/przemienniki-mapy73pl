@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7
+        t:
+          - c: "88.5"
+      tx:
+        f: 439.3
+        t:
+          - c: "88.5"
+      h: "48428054056"
+      t: a
+      s: "5"
+      p: 5
+      u: []
+      d: ""
+h:
+  "48428054056":
+    x:
+      - 70cm: 0
+    p: Veľký Inovec
+    e: 865
+    g: 0
+    a: 48.41
+    o: 18.540556
+o:
+  - OM5LD
+page: https://mapy73.pl/repeater/OM0OUN

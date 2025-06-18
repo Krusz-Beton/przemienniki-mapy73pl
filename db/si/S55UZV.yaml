@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 430.95
+        t:
+          - c: "123.0"
+      tx:
+        f: 438.55
+      h: "46044018800"
+      t: a
+      s: "6"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46044018800":
+    x:
+      - 70cm: 0
+    p: Žagarski Vrh
+    e: 626
+    g: 0
+    a: 46.029534
+    o: 14.654003
+o:
+  - S51KM
+page: https://mapy73.pl/repeater/S55UZV

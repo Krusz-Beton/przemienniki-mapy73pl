@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.725
+        t:
+          - a: ""
+      tx:
+        f: 439.325
+      h: "46278002713"
+      t: a
+      s: "6"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46278002713":
+    x:
+      - 70cm: 0
+    p: Strmec (Rogaška Slatina)
+    e: 468
+    g: 0
+    a: 46.262348
+    o: 15.679129
+o:
+  - S59DRO
+page: https://mapy73.pl/repeater/S55URS

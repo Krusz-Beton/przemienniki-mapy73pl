@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 430.7625
+        t:
+          - f: "9"
+      tx:
+        f: 438.3625
+      h: "49673060566"
+      t: e
+      s: "6"
+      p: 15
+      u:
+        - http://www.kpgk.pl
+      d: "DMR Id: 260916 CC9 Hytera RD625"
+h:
+  "49673060566":
+    x:
+      - 70cm: 0
+    p: Luboń Wlk.
+    e: 1009
+    g: 10
+    a: 49.653614
+    o: 19.991663
+o:
+  - SP9SVH
+page: https://mapy73.pl/repeater/SR9UVL

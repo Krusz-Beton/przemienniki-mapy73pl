@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6
+        t:
+          - a: ""
+      tx:
+        f: 439.2
+      h: "49369073108"
+      t: gb
+      s: "5"
+      p: 15
+      u:
+        - http://www.kpgk.pl/sr9uvz-gubalowka/
+      d: ""
+h:
+  "49369073108":
+    x:
+      - 70cm: 0
+    p: OSP Gliczarów górny
+    e: 986
+    g: 0
+    a: 49.349678
+    o: 20.05308
+o:
+  - SQ9JDZ
+page: https://mapy73.pl/repeater/SR9UVZ

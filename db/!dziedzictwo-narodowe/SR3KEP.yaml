@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 430.8375
+        t:
+          - c: "103.5"
+      tx:
+        f: 438.4375
+      h: "51315060835"
+      t: gea
+      s: "6"
+      p: 15
+      u: []
+      d: Antena zamontowana na wysokiej wieży budynek elewatora + maszt trelina 12m. (
+        Przemiennik posiada zdjęte anteny, pozostał tylko widoczny maszt bez
+        anten. )
+h:
+  "51315060835":
+    x:
+      - 70cm: 0
+    p: Kępno
+    e: 172
+    g: 77
+    a: 51.297605
+    o: 18.00335
+o: []
+page: https://mapy73.pl/repeater/SR3KEP

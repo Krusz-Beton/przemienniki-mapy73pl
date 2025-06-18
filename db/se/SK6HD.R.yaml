@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "58188058222"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk6hd.se/repeater/
+      d: ""
+h:
+  "58188058222":
+    x:
+      - 2m: 0
+    p: Falköping
+    e: 0
+    g: 0
+    a: 58.175029
+    o: 13.553217
+o:
+  - Christer
+page: https://mapy73.pl/repeater/SK6HD.R

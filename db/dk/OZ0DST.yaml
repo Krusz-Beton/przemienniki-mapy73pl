@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432
+        t:
+          - a: ""
+      tx:
+        f: 434
+      h: "57472085360"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=OZ0DST&mod=B
+      d: ""
+h:
+  "57472085360":
+    x:
+      - 70cm: 0
+    p: Frederikshavn
+    e: 18
+    g: 10
+    a: 57.4624
+    o: 10.4536
+o: []
+page: https://mapy73.pl/repeater/OZ0DST

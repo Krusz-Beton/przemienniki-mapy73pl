@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+      tx:
+        f: 145.7
+      h: "66634054010"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oh9ab.com/toistimet/
+      d: ""
+h:
+  "66634054010":
+    x:
+      - 2m: 0
+    p: Rovaniemi / Salmenvaara
+    e: 200
+    g: 10
+    a: 66.6087
+    o: 25.8401
+o:
+  - OH9HNE
+page: https://mapy73.pl/repeater/OH9RAB

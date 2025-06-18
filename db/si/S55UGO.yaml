@@ -1,0 +1,34 @@
+x:
+  70cm:
+    - rx:
+        f: 431.15
+        t:
+          - c: "123.0"
+          - f: "1"
+      tx:
+        f: 438.75
+      h: "45871036783"
+      t: geab
+      s: "4"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+      e1:
+        - 293
+        - 293112
+      e2:
+        - 2935
+        - 29351
+h:
+  "45871036783":
+    x:
+      - 70cm: 0
+    p: Trstelj (NG)
+    e: 643
+    g: 0
+    a: 45.857664
+    o: 13.703827
+o:
+  - S51WND
+page: https://mapy73.pl/repeater/S55UGO

@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.2
+        t:
+          - c: "94.8"
+      tx:
+        f: 438.8
+        t:
+          - c: "94.8"
+      h: "50859021010"
+      t: da
+      s: "5"
+      p: 10
+      u:
+        - http://cra.swidnica.pl
+      d: |-
+        AntenaComet F72GFL gain 5.5dBi
+        Pomiar sygnału RSSI - załącz nośną na 3 sek i naciśnij * DTMF
+h:
+  "50859021010":
+    x:
+      - 70cm: 0
+    p: Świdnica
+    e: 246
+    g: 57
+    a: 50.842723
+    o: 16.487099
+o:
+  - SQ6ADD
+page: https://mapy73.pl/repeater/SR6PS

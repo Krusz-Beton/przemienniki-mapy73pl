@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.075
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.675
+        t:
+          - c: "67.0"
+      h: "53791008213"
+      t: da
+      s: "5"
+      p: 10
+      u:
+        - http://sp4.jestok.com/przemienniki/sr4on
+      d: |-
+        TRX: MOTOROLA MTR2000, 
+        ANT. COMET CP6
+        Sterownik: Raspberry Pi + SVXLink
+h:
+  "53791008213":
+    x:
+      - 70cm: 0
+    p: Olsztyn
+    e: 180
+    g: 70
+    a: 53.770592
+    o: 20.490134
+o:
+  - SQ4BJA
+page: https://mapy73.pl/repeater/SR4ON

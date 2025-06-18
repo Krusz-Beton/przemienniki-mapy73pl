@@ -1,0 +1,24 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+      tx:
+        f: 145.7
+      h: "59127096385"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59127096385":
+    x:
+      - 2m: 0
+    p: Södertälje
+    e: 0
+    g: 0
+    a: 59.1104
+    o: 17.56385
+o:
+  - Tore
+page: https://mapy73.pl/repeater/SK0MK.R

@@ -1,0 +1,39 @@
+x:
+  70cm:
+    - rx:
+        f: 430.525
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.125
+        t:
+          - c: "67.0"
+      h: "53790045833"
+      t: a
+      s: "2"
+      p: 15
+      u: []
+      d: >-
+        Przemiennik SR4SK FM-Echolink w Ostródzie Rx: 438,125 Tx: 430,525 CTCSS: 67Hz
+
+
+        Trx: 2 x Motorola GM-340
+
+        Antena: Diamond X300
+
+        Pwr: 15W
+
+
+        Połączone na stałe do sieci Mini Link SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C
+h:
+  "53790045833":
+    x:
+      - 70cm: 0
+    p: Skitławki
+    e: 0
+    g: 0
+    a: 53.77083
+    o: 19.625
+o:
+  - SP4OX
+page: https://mapy73.pl/repeater/SR4SK

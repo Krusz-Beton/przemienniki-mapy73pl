@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 144.95
+        t:
+          - a: ""
+      tx:
+        f: 144.95
+      h: "52483079167"
+      t: b
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "52483079167":
+    x:
+      - 2m: 0
+    p: IJmuiden
+    e: 0
+    g: 0
+    a: 52.47917
+    o: 4.625
+o: []
+page: https://mapy73.pl/repeater/PI1YMD

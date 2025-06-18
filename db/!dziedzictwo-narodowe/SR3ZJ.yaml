@@ -1,0 +1,37 @@
+x:
+  70cm:
+    - rx:
+        f: 431.15
+        t:
+          - b: ""
+          - c: "79.7"
+      tx:
+        f: 438.75
+        t:
+          - c: "79.7"
+      h: "52362007127"
+      t: a
+      s: "5"
+      p: 5
+      u:
+        - http://sr3zj.qrz.pl/
+      d: >-
+        Antena RX/TX X-300N wysokość zawieszenia 185,00 m n.p.t., feeder 7/8@200m;
+        Zakres częstotliwości pracy anteny: 144-146 MHz VHF 6.5 dB / 430-440 MHz
+        Zysk: UHF 9.0 dB Długość: 3,10 cm Złącze: N antena posiada 3
+        przeciwwagi. Charakterystyka: 2 x 5/8 fali dla 144MHz, 5 x 5/8 fali dla
+        430MHz.
+
+        Obiekt: RTCN Jemiołów – Radiowo-Telewizyjne Centrum Nadawcze w Jemiołowie gmina Łagów 66-220 Łagów, maszt o wysokości 316 metrów. Centrum zbudowano w latach 1960-1962
+h:
+  "52362007127":
+    x:
+      - 70cm: 0
+    p: RTCN Jemiołów/Łagów maszt EmiTel
+    e: 160
+    g: 185
+    a: 52.346795
+    o: 15.276266
+o:
+  - SQ4LWO
+page: https://mapy73.pl/repeater/SR3ZJ

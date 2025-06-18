@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - c: "127.3"
+      tx:
+        f: 145.725
+      h: "52562091792"
+      t: a
+      s: "6"
+      p: 12
+      u:
+        - http://www.sp5zba.net/
+      d: Antena Diamond X300, crossband z przemiennikiem SR5PL
+h:
+  "52562091792":
+    x:
+      - 2m: 0
+    p: Płock
+    e: 102
+    g: 40
+    a: 52.543202
+    o: 19.71592
+o:
+  - SP5DP
+page: https://mapy73.pl/repeater/SR5P

@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 433.85
+        t:
+          - b: ""
+      tx:
+        f: 434.85
+      h: "60324029100"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60324029100":
+    x:
+      - 70cm: 0
+    p: Parainen
+    e: 80
+    g: 18
+    a: 60.302
+    o: 22.291
+o:
+  - OH1FB
+page: https://mapy73.pl/repeater/OH1RUH

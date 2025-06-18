@@ -1,0 +1,35 @@
+x:
+  2m:
+    - rx:
+        f: 145.0625
+        t:
+          - a: ""
+      tx:
+        f: 145.6625
+      h: "53622004167"
+      t: b
+      s: "5"
+      p: 10
+      u:
+        - http://sp2put.utp.edu.pl
+      d: >-
+        Przemiennik (hotspot) pracuje w half-duplex, ustawienia radia identyczna jak
+        dla zwykłego przemiennika. Tymczasowe niskie mocowanie anteny -
+        ograniczony zasięg.
+
+
+        RPT1: SR2UVT_C
+
+        RPT2: SR2UVT_G
+h:
+  "53622004167":
+    x:
+      - 2m: 0
+    p: Tuchola
+    e: 0
+    g: 0
+    a: 53.60417
+    o: 17.875
+o:
+  - SP2AGX
+page: https://mapy73.pl/repeater/SR2UVT

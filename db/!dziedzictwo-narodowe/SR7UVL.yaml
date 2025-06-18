@@ -1,0 +1,46 @@
+x:
+  70cm:
+    - rx:
+        f: 431.85
+        t:
+          - a: ""
+      tx:
+        f: 439.45
+      h: "51800032696"
+      t: b
+      s: "5"
+      p: 15
+      u:
+        - https://sr7uvl.dstarpl.net
+      d: |-
+        -antena RADMOR 5/8
+        - przemiennik pracuje z oryginalnym sterownikiem ID-RP2C firmy ICOM
+    - tx:
+        f: 439.45
+      rx:
+        f: 431.85
+        t:
+          - f: "1"
+      h: "51800032696"
+      u: []
+      d: ""
+      p: 10
+      t: e
+      s: "4"
+      e1:
+        - 2607
+      e2:
+        - 26071
+h:
+  "51800032696":
+    x:
+      - 70cm: 0
+      - 70cm: 1
+    p: Łódź
+    e: 273
+    g: 0
+    a: 51.780793
+    o: 19.533964
+o:
+  - SQ7SCC
+page: https://mapy73.pl/repeater/SR7UVL

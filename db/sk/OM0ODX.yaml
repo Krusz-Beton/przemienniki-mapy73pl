@@ -1,0 +1,26 @@
+h:
+  "48060018687":
+    a: 48.04177
+    o: 18.416868
+    p: Dedinka
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "48060018687"
+      u: []
+      d: ""
+      p: 5
+      t: e
+      s: "4"
+      tx:
+        f: 438.1
+      rx:
+        f: 438.1
+        t:
+          - f: "1"
+o:
+  - OM5AVM
+page: https://mapy73.pl/repeater/OM0ODX

@@ -1,0 +1,44 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - a: ""
+      tx:
+        f: 145.725
+      h: "55546045833"
+      t: a
+      s: "5"
+      p: 20
+      u:
+        - http://www.lrmd.lt/retransliatoriai_en.htm
+      d: ""
+  70cm:
+    - h: "55546045833"
+      u: []
+      d: ""
+      p: 20
+      t: e
+      s: "4"
+      tx:
+        f: 439.35
+      rx:
+        f: 431.75
+        t:
+          - f: "1"
+      e2:
+        - 246
+        - 24601
+h:
+  "55546045833":
+    x:
+      - 70cm: 0
+      - 2m: 0
+    p: Utena
+    e: 155
+    g: 30
+    a: 55.52083
+    o: 25.625
+o:
+  - LY2BE
+page: https://mapy73.pl/repeater/LY0RUT

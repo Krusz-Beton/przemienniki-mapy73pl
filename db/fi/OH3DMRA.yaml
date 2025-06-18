@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.55
+      tx:
+        f: 434.55
+      h: "61016067390"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://radioharrastajat.fi/
+      d: ""
+h:
+  "61016067390":
+    x:
+      - 70cm: 0
+    p: " Lahti"
+    e: 179
+    g: 33
+    a: 60.991
+    o: 25.6739
+o:
+  - OH3LFQ
+page: https://mapy73.pl/repeater/OH3DMRA

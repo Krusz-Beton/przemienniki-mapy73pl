@@ -1,0 +1,44 @@
+x:
+  70cm:
+    - rx:
+        f: 432.875
+      tx:
+        f: 434.875
+      h: "59268057900"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - https://brandmeister.network/?page=repeater&id=240003
+      d: ""
+    - rx:
+        f: 432.6125
+      tx:
+        f: 434.6125
+      h: "59092067160"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - https://brandmeister.network/?page=repeater&id=240007
+      d: ""
+h:
+  "59268057900":
+    x:
+      - 70cm: 0
+    p: Botkyrka
+    e: 100
+    g: 20
+    a: 59.2507
+    o: 17.879
+  "59092067160":
+    x:
+      - 70cm: 1
+    p: Sorunda
+    e: 70
+    g: 10
+    a: 59.0748
+    o: 17.8716
+o:
+  - Thomas
+page: https://mapy73.pl/repeater/SM0WIU.R

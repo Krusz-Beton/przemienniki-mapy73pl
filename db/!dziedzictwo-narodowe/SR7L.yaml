@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - c: "77.0"
+      tx:
+        f: 145.675
+      h: "51793082504"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - https://ot15.pgk.net.pl/
+      d: antena GP-9 urządzenie YAESU DR-1X duplekser DPRE4-6-2m
+h:
+  "51793082504":
+    x:
+      - 2m: 0
+    p: Łódź
+    e: 237
+    g: 30
+    a: 51.774319
+    o: 19.506038
+o:
+  - SP7MTU
+page: https://mapy73.pl/repeater/SR7L

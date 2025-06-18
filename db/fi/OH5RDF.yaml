@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.625
+        t:
+          - b: ""
+      tx:
+        f: 434.625
+      h: "61079032240"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://r.net.rats.fi/wp/
+      d: ""
+h:
+  "61079032240":
+    x:
+      - 70cm: 0
+    p: Lappeenranta
+    e: 90
+    g: 12
+    a: 61.0511
+    o: 28.2224
+o:
+  - OH5HCJ
+page: https://mapy73.pl/repeater/OH5RDF

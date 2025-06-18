@@ -1,0 +1,35 @@
+x:
+  70cm:
+    - rx:
+        f: 431
+        t:
+          - a: ""
+      tx:
+        f: 438.6
+      h: "52196005593"
+      t: b
+      s: "5"
+      p: 0
+      u:
+        - http://sp5.jestok.com/
+        - http://sr5uva.org/
+      d: >-
+        Antena: Sigma Wireless SA-410 4x dipol 1/2 fali - zysk 5dB - polaryzacja
+        pionowa.
+
+        Motorola MTR2000+DVRPTR1
+
+
+        Obiekt: komin Elektrociepłowni Pruszków II o wysokości 256 m n.p.t. – zlokalizowany w miejscowości Moszna-Wieś koło Pruszkowa, w gminie Brwinów w województwie mazowieckim.
+h:
+  "52196005593":
+    x:
+      - 70cm: 0
+    p: Moszna-Parcela komin Elektrociepłowni Pruszków II
+    e: 341
+    g: 256
+    a: 52.175313
+    o: 20.742929
+o:
+  - SQ5AGQ
+page: https://mapy73.pl/repeater/SR5WC

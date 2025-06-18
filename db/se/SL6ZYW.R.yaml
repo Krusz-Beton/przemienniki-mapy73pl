@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.7
+        t:
+          - b: ""
+      tx:
+        f: 434.7
+      h: "59017053259"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6cm.se/
+      d: ""
+h:
+  "59017053259":
+    x:
+      - 70cm: 0
+    p: Billingsfors
+    e: 0
+    g: 0
+    a: 59.0053
+    o: 12.23259
+o:
+  - Dalslands
+page: https://mapy73.pl/repeater/SL6ZYW.R

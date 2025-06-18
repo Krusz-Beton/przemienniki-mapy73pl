@@ -1,0 +1,43 @@
+x:
+  70cm:
+    - rx:
+        f: 431.1
+        t:
+          - c: "103.5"
+      tx:
+        f: 438.7
+        t:
+          - c: "103.5"
+      h: "49438075958"
+      t: da
+      s: "5"
+      p: 10
+      u: []
+      d: "antena: COMET GP1M"
+  23cm:
+    - rx:
+        f: 1270.15
+        t:
+          - a: ""
+      tx:
+        f: 1298.15
+      h: "49438075958"
+      t: a
+      s: "5"
+      p: 6.5
+      u: []
+      d: antena Diamond VX4000
+h:
+  "49438075958":
+    x:
+      - 70cm: 0
+      - 23cm: 0
+    p: Krynica Zdrój, Jaworzyna (górna stacja kolejki gondolowej
+    e: 1114
+    g: 12
+    a: 49.417864
+    o: 20.895578
+o:
+  - SP9HYX
+  - SP9XWL
+page: https://mapy73.pl/repeater/SR9NJ

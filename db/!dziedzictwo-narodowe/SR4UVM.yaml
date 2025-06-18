@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8875
+        t:
+          - a: ""
+      tx:
+        f: 439.4875
+      h: "53959057176"
+      t: b
+      s: "5"
+      p: 15
+      u:
+        - https://sp4.jestok.com
+      d: |-
+        Antena RX: Diamond X-300 @180m 
+        Antena TX: Comet GP-98 @ 210m 
+        Fider: 230m LDF-5 7/8
+        przemiennik MOTOROLA MTR2000
+        PI-STAR + DV-RPTR v1
+h:
+  "53959057176":
+    x:
+      - 70cm: 0
+    p: Miłki k/Giżycka EMITEL
+    e: 245
+    g: 180
+    a: 53.937727
+    o: 21.844764
+o:
+  - SQ4LWO
+page: https://mapy73.pl/repeater/SR4UVM

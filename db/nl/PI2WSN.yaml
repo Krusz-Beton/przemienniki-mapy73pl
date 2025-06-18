@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.75
+        t:
+          - c: "82.5"
+      tx:
+        f: 430.15
+      h: "52986012500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "52986012500":
+    x:
+      - 70cm: 0
+    p: Stadskanaal
+    e: 0
+    g: 0
+    a: 52.97917
+    o: 6.95833
+o: []
+page: https://mapy73.pl/repeater/PI2WSN

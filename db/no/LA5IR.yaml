@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+      tx:
+        f: 145.7
+      h: "61443037500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "61443037500":
+    x:
+      - 2m: 0
+    p: Hafstadfjell / Førde
+    e: 700
+    g: 0
+    a: 61.4375
+    o: 5.875
+o: []
+page: https://mapy73.pl/repeater/LA5IR

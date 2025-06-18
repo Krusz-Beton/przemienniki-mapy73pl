@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7
+        t:
+          - a: ""
+          - b: ""
+          - c: "103.5"
+      tx:
+        f: 439.3
+        t:
+          - c: "103.5"
+      h: "51664024922"
+      t: a
+      s: "2"
+      p: 0
+      u: []
+      d: wspólna lokalizacja z SR3O
+h:
+  "51664024922":
+    x:
+      - 70cm: 0
+    p: Ostrów Wielkopolski
+    e: 162
+    g: 30
+    a: 51.64643
+    o: 17.819217
+o:
+  - SQ3NQH
+page: https://mapy73.pl/repeater/SR3OS

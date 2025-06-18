@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.75
+        t:
+          - c: "127.3"
+      tx:
+        f: 439.35
+        t:
+          - c: "127.3"
+      h: "52289038269"
+      t: a
+      s: "6"
+      p: 15
+      u:
+        - https://sp5kab.pl/przemienniki/
+      d: |-
+        UWAGA: Przemiennik pracuje na zastępczej antenie
+
+        Antena 2x5/8 kathrein , urządznie MTR 2000 , 34m 1/2 andrew
+h:
+  "52289038269":
+    x:
+      - 70cm: 0
+    p: Warszawa - komin EC Kawęczyn
+    e: 400
+    g: 305
+    a: 52.268254
+    o: 21.128688
+o:
+  - SP5KAB
+page: https://mapy73.pl/repeater/SR5WA

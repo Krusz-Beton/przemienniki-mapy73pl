@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+      tx:
+        f: 145.7
+      h: "63867012800"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.anvianet.fi/oh6ai/
+      d: ""
+h:
+  "63867012800":
+    x:
+      - 2m: 0
+    p: Kokkola
+    e: 46
+    g: 31
+    a: 63.844
+    o: 23.128
+o:
+  - OH6LSL
+page: https://mapy73.pl/repeater/OH6RAW

@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.85
+        t:
+          - b: ""
+      tx:
+        f: 434.85
+      h: "63406009170"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "63406009170":
+    x:
+      - 70cm: 0
+    p: Trondheim / Gråkallen
+    e: 510
+    g: 0
+    a: 63.3958
+    o: 10.2917
+o: []
+page: https://mapy73.pl/repeater/LA5XR

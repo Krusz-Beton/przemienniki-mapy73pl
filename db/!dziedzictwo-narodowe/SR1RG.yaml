@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.275
+        t:
+          - c: "82.5"
+      tx:
+        f: 438.875
+        t:
+          - c: "82.5"
+      h: "54068072087"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.sp1wsr.eu/?p=400
+      d: |-
+        CTCSS 82.5Hz - podtrzymanie 5sek
+        przemiennik ma wyższe położenie ok. 20m
+h:
+  "54068072087":
+    x:
+      - 70cm: 0
+    p: Trzebiatów
+    e: 12
+    g: 40
+    a: 54.053464
+    o: 15.256868
+o:
+  - SQ1JGV
+page: https://mapy73.pl/repeater/SR1RG

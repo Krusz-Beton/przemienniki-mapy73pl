@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.3
+        t:
+          - c: "103.5"
+      tx:
+        f: 438.9
+        t:
+          - c: "103.5"
+      h: "49993013385"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://hamradio.salwator.net/sr9ks/index.html
+      d: Motorola, 12dBi
+h:
+  "49993013385":
+    x:
+      - 70cm: 0
+    p: Siercza k/Wieliczki
+    e: 350
+    g: 0
+    a: 49.9731
+    o: 20.033849
+o:
+  - SQ9DDD
+page: https://mapy73.pl/repeater/SR9KS

@@ -1,0 +1,41 @@
+x:
+  70cm:
+    - rx:
+        f: 431.95
+        t:
+          - a: ""
+          - c: "94.8"
+      tx:
+        f: 439.55
+        t:
+          - c: "94.8"
+      h: "54157047807"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - https://minilink.pl/wp/
+      d: >-
+        Przemiennik SR2EL FM-Echolink w Elblągu Rx: 439,550 Tx: 431,950 CTCSS: 94,8Hz
+
+
+        Trx: Motorola MTR-2000
+
+        Antena: Diamond X300
+
+        Pwr: 15W
+
+
+        Połączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C - SR2GA - SR4WA
+h:
+  "54157047807":
+    x:
+      - 70cm: 0
+    p: Elbląg
+    e: 13
+    g: 20
+    a: 54.138022
+    o: 19.456066
+o:
+  - SP4I
+page: https://mapy73.pl/repeater/SR2EL

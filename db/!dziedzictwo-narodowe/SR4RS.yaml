@@ -1,0 +1,30 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - c: "67.0"
+      tx:
+        f: 145.7
+        t:
+          - c: "67.0"
+      h: "53157028952"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: |-
+        RX: Big-Star + BPF + GM-300
+        TX: Big-Star + GM-300
+h:
+  "53157028952":
+    x:
+      - 2m: 0
+    p: Białystok
+    e: 0
+    g: 0
+    a: 53.134117
+    o: 23.172523
+o:
+  - SQ4O
+page: https://mapy73.pl/repeater/SR4RS

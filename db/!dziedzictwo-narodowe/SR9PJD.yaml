@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 439.4
+        t:
+          - a: ""
+      tx:
+        f: 431.8
+      h: "50331012500"
+      t: gea
+      s: "3"
+      p: 0
+      u: []
+      d: ""
+h:
+  "50331012500":
+    x:
+      - 70cm: 0
+    p: Gliwice
+    e: 0
+    g: 0
+    a: 50.3125
+    o: 18.625
+o:
+  - SQ9IWI
+page: https://mapy73.pl/repeater/SR9PJD

@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.475
+        t:
+          - c: "71.9"
+      tx:
+        f: 439.075
+        t:
+          - c: "71.9"
+      h: "50483043244"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: Motorola MTR2000 + DPF70/6-150 + BPF Airtech(RX)
+h:
+  "50483043244":
+    x:
+      - 70cm: 0
+    p: Wysoka k. Góry Św Anny
+    e: 386
+    g: 0
+    a: 50.465278
+    o: 18.154444
+o:
+  - SP6LUV
+page: https://mapy73.pl/repeater/SR6WY

@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.6375
+      tx:
+        f: 434.6375
+      h: "56035046272"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://www.dstar-net.com
+      d: ""
+h:
+  "56035046272":
+    x:
+      - 70cm: 0
+    p: Helsingør
+    e: 90
+    g: 25
+    a: 56.02289
+    o: 12.57272
+o:
+  - Lasse
+page: https://mapy73.pl/repeater/OZ6DMR

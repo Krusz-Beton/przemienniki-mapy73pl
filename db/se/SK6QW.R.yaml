@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.9
+        t:
+          - a: ""
+      tx:
+        f: 434.9
+      h: "58714002530"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://echolink.org/logins.jsp
+      d: ""
+h:
+  "58714002530":
+    x:
+      - 70cm: 0
+    p: Mariestad / Katrinefors
+    e: 0
+    g: 0
+    a: 58.7002
+    o: 13.8253
+o: []
+page: https://mapy73.pl/repeater/SK6QW.R

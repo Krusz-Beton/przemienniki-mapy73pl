@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.5
+        t:
+          - b: ""
+      tx:
+        f: 439.1
+      h: "54227099384"
+      t: a
+      s: "5"
+      p: 35
+      u: []
+      d: ""
+h:
+  "54227099384":
+    x:
+      - 70cm: 0
+    p: Bungsberg
+    e: 130
+    g: 221
+    a: 54.217275
+    o: 10.718836
+o:
+  - DK6XU
+page: https://mapy73.pl/repeater/DB0PC

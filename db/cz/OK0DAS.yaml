@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 430.7
+        t:
+          - c: "88.5"
+      tx:
+        f: 438.3
+        t:
+          - c: "88.5"
+      h: "50751057328"
+      t: a
+      s: "5"
+      p: 20
+      u:
+        - http://www.prevadece.cz/dmr/sit
+      d: ""
+h:
+  "50751057328":
+    x:
+      - 70cm: 0
+    p: Sněžka
+    e: 1605
+    g: 0
+    a: 50.735833
+    o: 15.740278
+o:
+  - OK2ZAR
+page: https://mapy73.pl/repeater/OK0DAS

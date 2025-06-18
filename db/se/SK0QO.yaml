@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.575
+        t:
+          - a: ""
+      tx:
+        f: 434.575
+      h: "59255077357"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://www.amatorradio.se/qo/dstar.html
+      d: ""
+h:
+  "59255077357":
+    x:
+      - 70cm: 0
+    p: Haninge
+    e: 0
+    g: 0
+    a: 59.23753
+    o: 18.24357
+o: []
+page: https://mapy73.pl/repeater/SK0QO

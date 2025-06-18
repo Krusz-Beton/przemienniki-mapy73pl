@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.875
+        t:
+          - b: ""
+      tx:
+        f: 434.875
+      h: "59613040833"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59613040833":
+    x:
+      - 70cm: 0
+    p: Aasvik / Risør
+    e: 70
+    g: 0
+    a: 59.6042
+    o: 9.20833
+o: []
+page: https://mapy73.pl/repeater/LA4URR

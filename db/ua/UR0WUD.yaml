@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.125
+        t:
+          - f: "1"
+      tx:
+        f: 438.725
+      h: "49523061669"
+      t: e
+      s: "5"
+      p: 10
+      u:
+        - https://brandmeister.network/?page=sysopDashboard
+      d: ""
+h:
+  "49523061669":
+    x:
+      - 70cm: 0
+    p: Sambir
+    e: 293
+    g: 15
+    a: 49.500413
+    o: 23.203691
+o:
+  - UR5WGN
+page: https://mapy73.pl/repeater/UR0WUD

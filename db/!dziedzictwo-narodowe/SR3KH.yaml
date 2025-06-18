@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.2
+        t:
+          - a: ""
+      tx:
+        f: 438.8
+      h: "52227035238"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://sp3pgz.net/?cat=129
+      d: ""
+h:
+  "52227035238":
+    x:
+      - 70cm: 0
+    p: Koło - ZST
+    e: 100
+    g: 15
+    a: 52.208723
+    o: 18.629383
+o:
+  - SP3OCG
+page: https://mapy73.pl/repeater/SR3KH

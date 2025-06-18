@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.3
+        t:
+          - c: "77.0"
+      tx:
+        f: 438.9
+      h: "51615024369"
+      t: da
+      s: "5"
+      p: 15
+      u: []
+      d: ""
+h:
+  "51615024369":
+    x:
+      - 70cm: 0
+    p: Zduńska Wola
+    e: 185
+    g: 15
+    a: 51.596268
+    o: 18.975685
+o:
+  - SQ7RAF
+page: https://mapy73.pl/repeater/SR7ZD

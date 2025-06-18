@@ -1,0 +1,29 @@
+x:
+  2m:
+    - rx:
+        f: 145.0625
+        t:
+          - c: "103.5"
+      tx:
+        f: 145.6625
+        t:
+          - c: "103.5"
+      h: "49392088732"
+      t: a
+      s: "5"
+      p: 25
+      u:
+        - https://ok2kaa.cz/prevadec/
+      d: ""
+h:
+  "49392088732":
+    x:
+      - 2m: 0
+    p: Mešnice, okr. Pelhřimov
+    e: 753
+    g: 0
+    a: 49.37749
+    o: 15.397316
+o:
+  - OK2IGG
+page: https://mapy73.pl/repeater/OK0AA

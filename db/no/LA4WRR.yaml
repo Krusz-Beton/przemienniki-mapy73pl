@@ -1,0 +1,23 @@
+x:
+  70cm:
+    - rx:
+        f: 432.85
+      tx:
+        f: 434.85
+      h: "58818020833"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "58818020833":
+    x:
+      - 70cm: 0
+    p: Bogafjell
+    e: 180
+    g: 0
+    a: 58.8125
+    o: 5.70833
+o: []
+page: https://mapy73.pl/repeater/LA4WRR

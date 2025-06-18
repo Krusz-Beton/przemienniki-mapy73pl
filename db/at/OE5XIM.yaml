@@ -1,0 +1,25 @@
+h:
+  "48573096900":
+    a: 48.5597
+    o: 14.269
+    p: Sternstein
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "48573096900"
+      u: []
+      d: ""
+      p: 10
+      t: e
+      s: "4"
+      tx:
+        f: 438.25
+      rx:
+        f: 430.65
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/OE5XIM

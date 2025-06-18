@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.15
+        t:
+          - a: ""
+      tx:
+        f: 438.75
+      h: "50205029167"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.skpo.glubczyce.info/newses
+      d: 33m RL-10, X-50, Yaesu DR-1X
+h:
+  "50205029167":
+    x:
+      - 70cm: 0
+    p: Głubczyce
+    e: 300
+    g: 33
+    a: 50.1875
+    o: 17.79167
+o:
+  - SP6OUJ
+page: https://mapy73.pl/repeater/SR6GL

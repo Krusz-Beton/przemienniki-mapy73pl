@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.725
+      tx:
+        f: 434.725
+      h: "62261052080"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oh6ad.fi/
+      d: ""
+h:
+  "62261052080":
+    x:
+      - 70cm: 0
+    p: Jyväskylä
+    e: 135
+    g: 35
+    a: 62.2358
+    o: 25.7208
+o:
+  - OH5GE
+page: https://mapy73.pl/repeater/OH6RUD

@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.675
+      tx:
+        f: 434.675
+      h: "59198077365"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.la1t.no/main/component/content/article/162-ny-uhf-repeater-i-vestfold-la3jrr-434675mhz-1413-pl-tone
+      d: ""
+h:
+  "59198077365":
+    x:
+      - 70cm: 0
+    p: Vestfold / Jordstøyp
+    e: 0
+    g: 0
+    a: 59.18882
+    o: 9.95365
+o: []
+page: https://mapy73.pl/repeater/LA3JRR

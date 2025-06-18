@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "64281034170"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "64281034170":
+    x:
+      - 2m: 0
+    p: Fosen / Gjeltheia
+    e: 519
+    g: 0
+    a: 64.2708
+    o: 10.5417
+o: []
+page: https://mapy73.pl/repeater/LA6UR

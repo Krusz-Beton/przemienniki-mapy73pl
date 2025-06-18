@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.925
+        t:
+          - a: ""
+      tx:
+        f: 439.525
+      h: "51248029419"
+      t: g
+      s: "5"
+      p: 15
+      u:
+        - http://krotkofalowcy-lublin.pl/sr8luf/
+      d: >-
+        Antena: PROCOM CXL 70-3LW/l, o zysku energetycznym względem dipola λ/2 3 dBd
+        (5,15 dBi).
+
+        Tor nadawczo - odbiorczy: Yaesu DR-1XE.
+h:
+  "51248029419":
+    x:
+      - 70cm: 0
+    p: Lublin
+    e: 207
+    g: 43
+    a: 51.225671
+    o: 22.623193
+o:
+  - SQ8MFR
+page: https://mapy73.pl/repeater/SR8LUF

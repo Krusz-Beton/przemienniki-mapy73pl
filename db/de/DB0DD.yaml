@@ -1,0 +1,24 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+      tx:
+        f: 145.675
+      h: "51117095833"
+      t: a
+      s: "5"
+      p: 12
+      u:
+        - http://db0noe.dyndns.org/web/db0dd.htm
+      d: ""
+h:
+  "51117095833":
+    x:
+      - 2m: 0
+    p: Dresden-Hellerau
+    e: 0
+    g: 0
+    a: 51.10417
+    o: 13.79167
+o: []
+page: https://mapy73.pl/repeater/DB0DD

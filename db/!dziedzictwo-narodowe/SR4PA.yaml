@@ -1,0 +1,54 @@
+x:
+  70cm:
+    - rx:
+        f: 431.4
+        t:
+          - c: "94.8"
+      tx:
+        f: 439
+        t:
+          - c: "94.8"
+      h: "54076051698"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: |-
+        Motorola MTR2000
+        Antena-Diamond SE-300
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - c: "94.8"
+      tx:
+        f: 145.775
+        t:
+          - c: "94.8"
+      h: "54039085629"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: Yaesu VXR 7000,COMET GP9
+h:
+  "54076051698":
+    x:
+      - 70cm: 0
+    p: Pasłęk, pow. elbląski
+    e: 55
+    g: 20
+    a: 54.056859
+    o: 19.65798
+  "54039085629":
+    x:
+      - 2m: 0
+    p: Pasłęk
+    e: 150
+    g: 0
+    a: 54.020164
+    o: 19.692291
+o:
+  - SP2PA
+  - SP4KDK
+page: https://mapy73.pl/repeater/SR4PA

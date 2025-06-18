@@ -1,0 +1,65 @@
+x:
+  6m:
+    - rx:
+        f: 51.33
+      tx:
+        f: 51.93
+      h: "59231060203"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+  2m:
+    - rx:
+        f: 145.1125
+      tx:
+        f: 145.7125
+      h: "58926013784"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk0bj.se/nra/
+      d: ""
+  70cm:
+    - rx:
+        f: 432.7125
+      tx:
+        f: 434.7125
+      h: "58926013584"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk0bj.se/nra/
+      d: ""
+h:
+  "59231060203":
+    x:
+      - 6m: 0
+    p: Stockholm / Södertörn
+    e: 0
+    g: 0
+    a: 59.21366
+    o: 17.94203
+  "58926013784":
+    x:
+      - 2m: 0
+    p: Nynäshamn
+    e: 80
+    g: 45
+    a: 58.90819
+    o: 17.94784
+  "58926013584":
+    x:
+      - 70cm: 0
+    p: Nynäshamn
+    e: 80
+    g: 45
+    a: 58.90819
+    o: 17.94584
+o:
+  - Jouni
+  - SM\u00d8MMO
+page: https://mapy73.pl/repeater/SK0BJ.R

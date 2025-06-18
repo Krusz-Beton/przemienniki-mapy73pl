@@ -1,0 +1,28 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - c: "82.5"
+      tx:
+        f: 145.775
+        t:
+          - c: "82.5"
+      h: "53473036203"
+      t: a
+      s: "6"
+      p: 1
+      u: []
+      d: N-FM, dwie GM-300 i dwie anteny.
+h:
+  "53473036203":
+    x:
+      - 2m: 0
+    p: Szczecin
+    e: 57
+    g: 0
+    a: 53.458827
+    o: 14.535034
+o:
+  - SP1XNA
+page: https://mapy73.pl/repeater/SR1S

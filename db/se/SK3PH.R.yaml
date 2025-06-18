@@ -1,0 +1,25 @@
+x:
+  6m:
+    - rx:
+        f: 51.27
+      tx:
+        f: 51.87
+      h: "61829051972"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk3ph.se
+      d: ""
+h:
+  "61829051972":
+    x:
+      - 6m: 0
+    p: Delsbo
+    e: 52
+    g: 10
+    a: 61.81296
+    o: 16.55972
+o:
+  - Delsbo
+page: https://mapy73.pl/repeater/SK3PH.R

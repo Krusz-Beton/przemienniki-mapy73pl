@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - a: ""
+          - b: ""
+      tx:
+        f: 145.65
+      h: "53159095833"
+      t: a
+      s: "6"
+      p: 0
+      u: []
+      d: ""
+h:
+  "53159095833":
+    x:
+      - 2m: 0
+    p: Schwedt/Oder
+    e: 0
+    g: 0
+    a: 53.14583
+    o: 14.125
+o: []
+page: https://mapy73.pl/repeater/DB0PCK

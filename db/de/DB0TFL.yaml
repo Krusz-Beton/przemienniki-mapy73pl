@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.2
+        t:
+          - b: ""
+      tx:
+        f: 438.8
+      h: "52075095833"
+      t: a
+      s: "5"
+      p: 14
+      u:
+        - http://db0tfl.y34.de/
+      d: |-
+        odbiornik - GM1200 nadajnik - CM340 antena - Kathrein duplexer - Procom
+        DPF70/6
+h:
+  "52075095833":
+    x:
+      - 70cm: 0
+    p: Baruth/Mark
+    e: 0
+    g: 0
+    a: 52.0625
+    o: 13.45833
+o: []
+page: https://mapy73.pl/repeater/DB0TFL

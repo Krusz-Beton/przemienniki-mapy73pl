@@ -1,0 +1,25 @@
+h:
+  "42824038367":
+    a: 42.828831
+    o: -4.447331
+    p: Monte Caderamo
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "42824038367"
+      u: []
+      d: ""
+      p: 15
+      t: e
+      s: "6"
+      tx:
+        f: 438.275
+      rx:
+        f: 430.675
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/ED1ZBA

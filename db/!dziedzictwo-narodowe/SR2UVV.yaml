@@ -1,0 +1,43 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7625
+        t:
+          - a: ""
+      tx:
+        f: 439.3625
+      h: "52937056952"
+      t: b
+      s: "5"
+      p: 15
+      u:
+        - https://www.facebook.com/profile.php?id=100064510003135
+      d: ""
+    - tx:
+        f: 439.3625
+      rx:
+        f: 431.7625
+        t:
+          - f: "12"
+      h: "52937056952"
+      u: []
+      d: ""
+      p: 15
+      t: e
+      s: "6"
+      e2:
+        - 26029
+        - 260202
+h:
+  "52937056952":
+    x:
+      - 70cm: 0
+      - 70cm: 1
+    p: Szubin - Jabłowo Pałuckie / wieża p.poż
+    e: 202
+    g: 40
+    a: 52.919733
+    o: 17.836519
+o:
+  - SP2GG
+page: https://mapy73.pl/repeater/SR2UVV

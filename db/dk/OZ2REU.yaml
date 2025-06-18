@@ -1,0 +1,44 @@
+x:
+  23cm:
+    - rx:
+        f: 1291.15
+      tx:
+        f: 1297.15
+      h: "55658026720"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://oz7reu.dk/23cm.asp
+      d: ""
+  2m:
+    - rx:
+        f: 145.15
+      tx:
+        f: 145.75
+      h: "55658025950"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://oz7reu.dk/2m.asp
+      d: ""
+h:
+  "55658026720":
+    x:
+      - 23cm: 0
+    p: Copenhagen / Hvidovre H.C.
+    e: 3
+    g: 120
+    a: 55.6458
+    o: 12.4672
+  "55658025950":
+    x:
+      - 2m: 0
+    p: Copenhagen / Hvidovre H.C.
+    e: 3
+    g: 124
+    a: 55.6458
+    o: 12.4595
+o: []
+page: https://mapy73.pl/repeater/OZ2REU

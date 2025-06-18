@@ -1,0 +1,29 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - c: "100.0"
+      tx:
+        f: 145.65
+        t:
+          - c: "100.0"
+      h: "50409072870"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://www.ok1kvk.cz/web/index.php/ok0e-a-ok0be
+      d: ""
+h:
+  "50409072870":
+    x:
+      - 2m: 0
+    p: Klínovec
+    e: 1244
+    g: 0
+    a: 50.396761
+    o: 12.9677
+o:
+  - OK1KVK
+page: https://mapy73.pl/repeater/OK0E

@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.775
+        t:
+          - b: ""
+      tx:
+        f: 434.775
+      h: "59948029170"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.la4o.net/Details.asp?id=34
+      d: ""
+h:
+  "59948029170":
+    x:
+      - 70cm: 0
+    p: Oslo / Grefsenkollen
+    e: 370
+    g: 0
+    a: 59.9375
+    o: 10.7917
+o: []
+page: https://mapy73.pl/repeater/LA7OR

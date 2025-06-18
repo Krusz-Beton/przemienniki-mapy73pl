@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.3875
+        t:
+          - c: "131.8"
+      tx:
+        f: 438.9875
+        t:
+          - c: "131.8"
+      h: "51233054167"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - https://www.qrz.com/db/ON0AND
+      d: ""
+h:
+  "51233054167":
+    x:
+      - 70cm: 0
+    p: Antwerp City Police Building
+    e: 0
+    g: 0
+    a: 51.22917
+    o: 4.375
+o:
+  - ON7FQ
+page: https://mapy73.pl/repeater/ON0AND

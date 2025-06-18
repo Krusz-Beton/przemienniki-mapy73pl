@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.75
+        t:
+          - b: ""
+          - e: "6"
+      tx:
+        f: 434.75
+      h: "60698087500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60698087500":
+    x:
+      - 70cm: 0
+    p: Mjøsa / Steinfjellhytta
+    e: 750
+    g: 0
+    a: 60.6875
+    o: 11.375
+o: []
+page: https://mapy73.pl/repeater/LA6GR

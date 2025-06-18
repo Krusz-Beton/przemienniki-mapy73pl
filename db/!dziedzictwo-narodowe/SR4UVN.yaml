@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8625
+        t:
+          - a: ""
+      tx:
+        f: 439.4625
+      h: "53791008213"
+      t: gb
+      s: "5"
+      p: 10
+      u:
+        - https://sp4.jestok.com/przemienniki/sr4uvn-olsztyn-dstar
+      d: |-
+        MOTOROLA MTR2000, Ant: COMET GP-6
+
+        MMDVM - moduł MTR2000 wg Czarka SP4XKB
+h:
+  "53791008213":
+    x:
+      - 70cm: 0
+    p: Olsztyn
+    e: 180
+    g: 70
+    a: 53.770592
+    o: 20.490134
+o:
+  - SQ4BJA
+page: https://mapy73.pl/repeater/SR4UVN

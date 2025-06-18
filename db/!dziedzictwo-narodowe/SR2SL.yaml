@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.15
+        t:
+          - a: ""
+      tx:
+        f: 438.75
+      h: "54479096393"
+      t: da
+      s: "5"
+      p: 10
+      u: []
+      d: Antena MA-2000 Lafayette na budynku wieżowca.
+h:
+  "54479096393":
+    x:
+      - 70cm: 0
+    p: Słupsk
+    e: 112
+    g: 38
+    a: 54.462977
+    o: 16.986933
+o:
+  - SQ2NIA
+page: https://mapy73.pl/repeater/SR2SL

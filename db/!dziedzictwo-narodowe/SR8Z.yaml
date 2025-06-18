@@ -1,0 +1,28 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+        t:
+          - c: "77.0"
+      tx:
+        f: 145.75
+        t:
+          - c: "77.0"
+      h: "50630080511"
+      t: a
+      s: "6"
+      p: 10
+      u: []
+      d: 3x5/8 l Diamond F23
+h:
+  "50630080511":
+    x:
+      - 2m: 0
+    p: Feliksówka k/Zamościa
+    e: 327
+    g: 0
+    a: 50.607544
+    o: 23.261111
+o:
+  - SQ8BWH
+page: https://mapy73.pl/repeater/SR8Z

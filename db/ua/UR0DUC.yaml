@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.05
+        t:
+          - f: "1"
+      tx:
+        f: 438.65
+      h: "48639059343"
+      t: e
+      s: "5"
+      p: 0
+      u:
+        - http://ham-dmr.com.ua/index.php/kunena/radioaparatura/9-nashi-retransliatory
+      d: ""
+h:
+  "48639059343":
+    x:
+      - 70cm: 0
+    p: Uzhhorod
+    e: 0
+    g: 0
+    a: 48.617252
+    o: 22.341428
+o:
+  - UZ5DX
+page: https://mapy73.pl/repeater/UR0DUC

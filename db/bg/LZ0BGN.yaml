@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6
+        t:
+          - a: ""
+          - c: "79.7"
+      tx:
+        f: 439.2
+        t:
+          - c: "79.7"
+      h: "43156047373"
+      t: a
+      s: "5"
+      p: 45
+      u:
+        - http://www.repeaters.bg/
+      d: ""
+h:
+  "43156047373":
+    x:
+      - 70cm: 0
+    p: Петрохан
+    e: 1638
+    g: 18
+    a: 43.133355
+    o: 23.118725
+o:
+  - LZ1LSD
+page: https://mapy73.pl/repeater/LZ0BGN

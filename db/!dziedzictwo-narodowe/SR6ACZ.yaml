@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.35
+        t:
+          - c: "103.5"
+      tx:
+        f: 438.95
+        t:
+          - c: "103.5"
+      h: "51128060530"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: |-
+        Diamond X-200n, 
+        Przemiennik z Roger Beep-em na kwarcu, 
+        RX - Motorola GM1200 europejska
+        TX - Radmor 3005 strojony komputerowo
+h:
+  "51128060530":
+    x:
+      - 70cm: 0
+    p: Wrocław
+    e: 121
+    g: 24
+    a: 51.111545
+    o: 17.060299
+o:
+  - SQ6RS
+page: https://mapy73.pl/repeater/SR6ACZ

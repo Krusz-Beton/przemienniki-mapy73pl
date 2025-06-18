@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 430.775
+        t:
+          - c: "77.0"
+      tx:
+        f: 438.375
+        t:
+          - c: "77.0"
+      h: "50743029571"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://ok0dns.ok4md.eu
+      d: ""
+h:
+  "50743029571":
+    x:
+      - 70cm: 0
+    p: Ještědka
+    e: 935
+    g: 0
+    a: 50.728306
+    o: 14.989711
+o:
+  - OK4MD
+page: https://mapy73.pl/repeater/OK0DNS

@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 431.825
+        t:
+          - a: ""
+          - c: "127.3"
+      tx:
+        f: 439.425
+        t:
+          - c: "127.3"
+      h: "52468094110"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: |-
+        - Diamond X300
+        - MMDVM Repeater Board V3F4 BI7JTA
+        - Raspberry Pi 3B+
+        - 2x Motorola GM350
+h:
+  "52468094110":
+    x:
+      - 70cm: 0
+    p: Nowy Dwór Mazowiecki
+    e: 95
+    g: 11
+    a: 52.448234
+    o: 20.707103
+o:
+  - SO5DZ
+page: https://mapy73.pl/repeater/SR5ND

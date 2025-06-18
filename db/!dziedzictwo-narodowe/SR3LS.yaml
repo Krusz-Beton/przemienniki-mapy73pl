@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.675
+        t:
+          - c: "103.5"
+      tx:
+        f: 439.275
+        t:
+          - c: "103.5"
+      h: "51863077082"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://sp3zir.pl/Przemienniki.php
+      d: dwie anteny X-200,2x Motorola gm-600,Sterownik made in SQ3NQH.Przemiennik
+        zmodernizowany i uruchomiony ponownie 15.10.2018
+h:
+  "51863077082":
+    x:
+      - 70cm: 0
+    p: Leszno
+    e: 95
+    g: 0
+    a: 51.847173
+    o: 16.597824
+o:
+  - SP3HSZ
+page: https://mapy73.pl/repeater/SR3LS

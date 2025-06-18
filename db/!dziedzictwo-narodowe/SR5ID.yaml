@@ -1,0 +1,36 @@
+x:
+  70cm:
+    - rx:
+        f: 431.4375
+        t:
+          - c: "127.3"
+          - f: "1"
+      tx:
+        f: 439.0375
+        t:
+          - c: "127.3"
+      h: "52123061709"
+      t: ea
+      s: "6"
+      p: 15
+      u:
+        - https://sr5id.waw.pl
+      d: |-
+        2m FM - RX: 145,1250 TX: 145,7250 CTCSS: 127.3
+        70cm DMR - RX: 431,4375, TX: 439,0375 CC5
+
+        144,800 - VPDigi APRS FM
+
+        Planowane uruchomienie na przełomie kwietnia/mają br.
+h:
+  "52123061709":
+    x:
+      - 70cm: 0
+    p: Kuflew
+    e: 154
+    g: 30
+    a: 52.101806
+    o: 21.811093
+o:
+  - SQ5ID
+page: https://mapy73.pl/repeater/SR5ID

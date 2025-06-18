@@ -1,0 +1,24 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+      tx:
+        f: 145.675
+      h: "59419051875"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59419051875":
+    x:
+      - 2m: 0
+    p: Stockholm / Kista
+    e: 0
+    g: 0
+    a: 59.401572
+    o: 17.946745
+o:
+  - SM\u00d8MPE
+page: https://mapy73.pl/repeater/SK0PQ.R

@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.7
+        t:
+          - b: ""
+          - e: "3"
+      tx:
+        f: 434.7
+      h: "60401000833"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60401000833":
+    x:
+      - 70cm: 0
+    p: Ørnfjell / Bergen
+    e: 340
+    g: 0
+    a: 60.3958
+    o: 5.20833
+o: []
+page: https://mapy73.pl/repeater/LA7BR

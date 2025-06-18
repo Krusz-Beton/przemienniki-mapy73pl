@@ -1,0 +1,41 @@
+x:
+  23cm:
+    - rx:
+        f: 1270.2
+        t:
+          - c: "67.0"
+      tx:
+        f: 1298.2
+        t:
+          - c: "67.0"
+      h: "53569031545"
+      t: a
+      s: "6"
+      p: 15
+      u:
+        - https://sp4.jestok.com
+      d: >-
+        UWAGA!: przemiennik jest niesprawny co najmniej do końca 2024 r. z powodu
+        poważnej awarii urządzeń na maszcie.
+
+
+        https://sp4.jestok.com/19116
+
+
+        Zbudowany na bazie transvertera SSB Electronic z oddzielnym modułem down i up convertera oraz dwóch radiotelefonów Motorola na pasmo 2m. Transverter, duplexer, filtry oraz stopień mocy są zamontowane na maszcie przy antenie. Duplexer firmy Procom.
+
+
+
+        Obiekt: Lokalizacja wieży jest na terenie Parku Krajobrazowego Wzgórz Dylewskich. Historia obiektu na Dylewskiej Górze wiąże się z początkami telewizji w Gdańsku. W 1959 roku został tam zorganizowany punkt retransmisyjny, który odbierał sygnał z Warszawy i następnie linią radiową transmitował go przez Milejewo pod Elblągiem do Gdańska. Lokalizacja obecnej 60 metrowej wieży jest na terenie województwa warmińsko-mazurskiego, powiatu ostródzkiego, w gminie wiejskiej Ostróda w miejscowości Wysoka Wieś.
+h:
+  "53569031545":
+    x:
+      - 23cm: 0
+    p: Góra Dylewska EMITEL
+    e: 312
+    g: 45
+    a: 53.549375
+    o: 19.940454
+o:
+  - SQ4LWO
+page: https://mapy73.pl/repeater/SR4LDG

@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 433.775
+        t:
+          - b: ""
+      tx:
+        f: 434.775
+      h: "64618009410"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "64618009410":
+    x:
+      - 70cm: 0
+    p: Lycksele
+    e: 0
+    g: 0
+    a: 64.59944
+    o: 18.6541
+o:
+  - SM2KXX
+page: https://mapy73.pl/repeater/SM2KXX

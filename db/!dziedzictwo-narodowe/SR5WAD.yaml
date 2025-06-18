@@ -1,0 +1,80 @@
+x:
+  70cm:
+    - rx:
+        f: 430.7375
+        t:
+          - c: "127.3"
+          - f: "5"
+      tx:
+        f: 438.3375
+        t:
+          - c: "127.3"
+      h: "52289038269"
+      t: ea
+      s: "4"
+      p: 15
+      u:
+        - https://sp5kab.pl/przemienniki/
+        - https://brandmeister.network/?page=repeater&id=260552
+      d: >-
+        NIE DZIAŁA (AWARIA – przemiennik został uszkodzony podczas burzy) – w
+        zastępstwie, ale wyłącznie jako DMR, pracuje przemiennik SR5WW
+
+
+        Przemiennik pracuje na zastępczej antenie typu CAD oraz w dwóch systemach: analogowym i DMR
+
+
+        Antena Radmor 8x5/8 urządzenie tymczasowo Hytera RD985S 
+
+        32m 1/2 andrew 
+
+
+        Analog:
+
+        CTCSS: odbiór i nadawanie - 127.3 Hz
+
+
+        DMR:
+
+        Color Code 5
+
+        TG statyczne TS1: TG2605
+
+        TG statyczne TS1: TG260552 (ID BM)
+
+        TG statycznie TS1: TG260015 (EMCOM)
+
+        TG statyczne TS2: TG26055 (SP5KAB)
+
+        TG statyczne TS2: TG26057 (MASR)
+
+
+        Zasilanie awaryjne 12V
+
+        TS1 - TG9, TG260, Grupy dynamiczne, regionalne i narodowe oraz GPS, DATA i Private Call.
+
+
+        TS2 Tylko grupy statyczne i reflektory.
+
+
+        TX preamble duration: 960ms
+
+        Repeat Request Priority: First Come First Send
+      e1:
+        - 2605
+        - 260015
+      e2:
+        - 26055
+        - 26057
+h:
+  "52289038269":
+    x:
+      - 70cm: 0
+    p: Warszawa - komin EC Kawęczyn
+    e: 400
+    g: 305
+    a: 52.268254
+    o: 21.128688
+o:
+  - SQ5IT
+page: https://mapy73.pl/repeater/SR5WAD

@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.525
+        t:
+          - c: "123.0"
+      tx:
+        f: 439.125
+      h: "46103037888"
+      t: da
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46103037888":
+    x:
+      - 70cm: 0
+    p: Kum
+    e: 1219
+    g: 0
+    a: 46.088305
+    o: 15.073875
+o:
+  - S56CT
+page: https://mapy73.pl/repeater/S55UHF

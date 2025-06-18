@@ -1,0 +1,47 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5375
+        t:
+          - a: ""
+      tx:
+        f: 434.5375
+      h: "55384053519"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=OZ2REE&mod=B
+      d: ""
+  23cm:
+    - rx:
+        f: 1291.25
+        t:
+          - a: ""
+      tx:
+        f: 1297.25
+      h: "55239065830"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "55384053519":
+    x:
+      - 70cm: 0
+    p: Odense
+    e: 17
+    g: 10
+    a: 55.37403
+    o: 10.50519
+  "55239065830":
+    x:
+      - 23cm: 0
+    p: Ringe / Midtfyn
+    e: 65
+    g: 55
+    a: 55.2292
+    o: 10.4583
+o: []
+page: https://mapy73.pl/repeater/OZ2REE

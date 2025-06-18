@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5375
+        t:
+          - a: ""
+      tx:
+        f: 434.5375
+      h: "58074020830"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6qa.se/WP/
+      d: ""
+h:
+  "58074020830":
+    x:
+      - 70cm: 0
+    p: Stenungsund
+    e: 105
+    g: 20
+    a: 58.0625
+    o: 11.7083
+o:
+  - SK6QA
+page: https://mapy73.pl/repeater/SK6QA

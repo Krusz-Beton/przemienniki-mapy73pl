@@ -1,0 +1,37 @@
+x:
+  2m:
+    - rx:
+        f: 145.1375
+        t:
+          - c: "107.2"
+      tx:
+        f: 145.7375
+        t:
+          - c: "107.2"
+      h: "49487080993"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://radioklub.pl
+        - http://radioklub.pl/sr9z
+      d: |-
+        RPT: MTR2000
+        DPX: DPRE5-6V
+        ANT: X200
+
+
+
+        Więcej info na: www.radioklub.pl/sr9z
+h:
+  "49487080993":
+    x:
+      - 2m: 0
+    p: Przehyba EMITEL
+    e: 1146
+    g: 45
+    a: 49.467256
+    o: 20.553933
+o:
+  - SQ9OJV
+page: https://mapy73.pl/repeater/SR9Z

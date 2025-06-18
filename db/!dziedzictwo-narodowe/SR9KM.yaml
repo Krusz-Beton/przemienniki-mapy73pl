@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.375
+        t:
+          - c: "71.9"
+      tx:
+        f: 438.975
+        t:
+          - c: "71.9"
+      h: "50581012500"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: ""
+h:
+  "50581012500":
+    x:
+      - 70cm: 0
+    p: Krupski Młyn
+    e: 0
+    g: 0
+    a: 50.5625
+    o: 18.625
+o:
+  - SP9RVU
+page: https://mapy73.pl/repeater/SR9KM

@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.6
+        t:
+          - b: ""
+      tx:
+        f: 434.6
+      h: "59860099167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59860099167":
+    x:
+      - 70cm: 0
+    p: Sauda / Røldal
+    e: 400
+    g: 0
+    a: 59.8542
+    o: 6.79167
+o: []
+page: https://mapy73.pl/repeater/LA5RRR

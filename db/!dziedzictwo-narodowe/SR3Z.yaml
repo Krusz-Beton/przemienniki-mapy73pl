@@ -1,0 +1,31 @@
+x:
+  2m:
+    - rx:
+        f: 145.1125
+        t:
+          - c: "71.9"
+      tx:
+        f: 145.7125
+        t:
+          - c: "71.9"
+      h: "51951003811"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: |-
+        GP 3x5/8,
+        GM-360 x2 
+        Ster.Procom
+h:
+  "51951003811":
+    x:
+      - 2m: 0
+    p: Zielona Góra
+    e: 237
+    g: 0
+    a: 51.935511
+    o: 15.527107
+o:
+  - SP3AMO
+page: https://mapy73.pl/repeater/SR3Z

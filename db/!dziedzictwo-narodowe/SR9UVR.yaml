@@ -1,0 +1,35 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7
+        t:
+          - c: "94.8"
+      tx:
+        f: 439.3
+      h: "49369073701"
+      t: aj
+      s: "4"
+      p: 10
+      u:
+        - http://www.kpgk.pl
+        - http://fm-poland.pl
+      d: FM-Poland TG 260
+      j0:
+        - 260998
+      j1:
+        - 112
+        - 260
+        - 26090
+        - 260998
+h:
+  "49369073701":
+    x:
+      - 70cm: 0
+    p: OSP Gliczarów górny
+    e: 986
+    g: 40
+    a: 49.349684
+    o: 20.053013
+o:
+  - SQ9JDZ
+page: https://mapy73.pl/repeater/SR9UVR

@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 431.4625
+        t:
+          - f: "7"
+      tx:
+        f: 439.0625
+      h: "50614079385"
+      t: e
+      s: "4"
+      p: 15
+      u:
+        - http://sr7san-79.ddns.net
+      d: |-
+        CC7
+        Antena Diamond x300
+      e1:
+        - 2607
+      e2:
+        - 26079
+h:
+  "50614079385":
+    x:
+      - 70cm: 0
+    p: Koprzywnica
+    e: 147
+    g: 14
+    a: 50.593202
+    o: 21.591853
+o:
+  - SQ7PTE
+page: https://mapy73.pl/repeater/SR7SAN

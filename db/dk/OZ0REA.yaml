@@ -1,0 +1,45 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5625
+        t:
+          - a: ""
+      tx:
+        f: 434.5625
+      h: "55234076352"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=OZ0REA&mod=B
+      d: ""
+  6m:
+    - rx:
+        f: 51.27
+      tx:
+        f: 51.87
+      h: "55240079200"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "55234076352":
+    x:
+      - 70cm: 0
+    p: Naestved
+    e: 35
+    g: 40
+    a: 55.22299
+    o: 11.77352
+  "55240079200":
+    x:
+      - 6m: 0
+    p: Naestved
+    e: 49
+    g: 27
+    a: 55.229
+    o: 11.792
+o: []
+page: https://mapy73.pl/repeater/OZ0REA

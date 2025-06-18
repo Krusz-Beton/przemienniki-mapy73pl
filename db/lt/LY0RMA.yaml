@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+      tx:
+        f: 145.7
+      h: "54585087500"
+      t: a
+      s: "5"
+      p: 25
+      u:
+        - http://www.lrmd.lt/retransliatoriai_en.htm
+      d: ""
+h:
+  "54585087500":
+    x:
+      - 2m: 0
+    p: Marijampolė
+    e: 85
+    g: 70
+    a: 54.5625
+    o: 23.375
+o:
+  - LY2SA
+page: https://mapy73.pl/repeater/LY0RMA

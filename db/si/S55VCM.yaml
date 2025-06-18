@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 144.9875
+        t:
+          - c: "123.0"
+      tx:
+        f: 145.5875
+      h: "46198048905"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46198048905":
+    x:
+      - 2m: 0
+    p: Malič (Celje, Laško)
+    e: 936
+    g: 0
+    a: 46.183281
+    o: 15.208054
+o:
+  - S59GCD
+page: https://mapy73.pl/repeater/S55VCM

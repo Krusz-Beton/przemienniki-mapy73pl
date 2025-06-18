@@ -1,0 +1,31 @@
+x:
+  23cm:
+    - rx:
+        f: 1270.3
+        t:
+          - b: ""
+      tx:
+        f: 1298.3
+      h: "53449098058"
+      t: a
+      s: "5"
+      p: 5
+      u: []
+      d: |-
+        TX - Motorola GM300 + TRV + PA10W
+        RX - Motorola GM300 + TRV
+        Duplekser PROCOM
+        Antena Diamond X-7000
+        triplexer 2/70/23
+h:
+  "53449098058":
+    x:
+      - 23cm: 0
+    p: Szczecin
+    e: 32
+    g: 70
+    a: 53.435441
+    o: 14.539579
+o:
+  - SP1TMT
+page: https://mapy73.pl/repeater/SR1LS

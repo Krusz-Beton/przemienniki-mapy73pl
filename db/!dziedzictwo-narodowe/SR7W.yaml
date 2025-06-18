@@ -1,0 +1,31 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - a: ""
+      tx:
+        f: 145.7
+        t:
+          - c: "77.0"
+      h: "51227077296"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://mnenz5pjlr7m.az.pl/sp7ked/07/07-1.html
+        - http://mnenz5pjlr7m.az.pl/sp7ked/00/mapka.html
+        - https://sp7ked.pl/przemienniki/
+      d: ""
+h:
+  "51227077296":
+    x:
+      - 2m: 0
+    p: Wieluń
+    e: 265
+    g: 0
+    a: 51.209193
+    o: 18.579957
+o:
+  - SP7KED
+page: https://mapy73.pl/repeater/SR7W

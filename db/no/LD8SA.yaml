@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.8
+        t:
+          - a: ""
+      tx:
+        f: 434.8
+      h: "66018086791"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=LD8SA%20&mod=B
+      d: ""
+h:
+  "66018086791":
+    x:
+      - 70cm: 0
+    p: Sandnessjoen / Nordland
+    e: 0
+    g: 0
+    a: 66.00625
+    o: 12.61791
+o: []
+page: https://mapy73.pl/repeater/LD8SA

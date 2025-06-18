@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+        t:
+          - b: ""
+      tx:
+        f: 145.75
+      h: "61710025000"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "61710025000":
+    x:
+      - 2m: 0
+    p: Mikkeli
+    e: 223
+    g: 88
+    a: 61.683
+    o: 27.25
+o:
+  - OH4SK
+page: https://mapy73.pl/repeater/OH4RAC

@@ -1,0 +1,44 @@
+x:
+  70cm:
+    - rx:
+        f: 432.925
+      tx:
+        f: 434.925
+      h: "56774048056"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6sp.se/
+      d: ""
+  2m:
+    - rx:
+        f: 145.075
+      tx:
+        f: 145.675
+      h: "56774045050"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6sp.se/
+      d: ""
+h:
+  "56774048056":
+    x:
+      - 70cm: 0
+    p: Halmstad
+    e: 162
+    g: 55
+    a: 56.76143
+    o: 13.05056
+  "56774045050":
+    x:
+      - 2m: 0
+    p: Halmstad
+    e: 162
+    g: 52
+    a: 56.7614
+    o: 13.0505
+o: []
+page: https://mapy73.pl/repeater/SK6RKG

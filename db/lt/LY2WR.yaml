@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145
+        t:
+          - a: ""
+      tx:
+        f: 145.6
+      h: "54712031764"
+      t: a
+      s: "5"
+      p: 40
+      u:
+        - http://www.lrmd.lt/retransliatoriai_en.htm
+      d: ""
+h:
+  "54712031764":
+    x:
+      - 2m: 0
+    p: Vilinius
+    e: 170
+    g: 180
+    a: 54.687103
+    o: 25.214642
+o:
+  - LY3BF
+page: https://mapy73.pl/repeater/LY2WR

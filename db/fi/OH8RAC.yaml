@@ -1,0 +1,43 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "65972040220"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://oh8aa.sral.fi/
+      d: ""
+  70cm:
+    - rx:
+        f: 433.725
+        t:
+          - b: ""
+      tx:
+        f: 434.725
+      h: "65972040220"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://oh8aa.sral.fi/
+      d: ""
+h:
+  "65972040220":
+    x:
+      - 2m: 0
+      - 70cm: 0
+    p: Kuusamo / Säynäjävaara
+    e: 0
+    g: 57
+    a: 65.9433
+    o: 29.1022
+o:
+  - OH8KH
+  - OH8UL
+page: https://mapy73.pl/repeater/OH8RAC

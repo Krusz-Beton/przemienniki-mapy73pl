@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+        t:
+          - b: ""
+      tx:
+        f: 145.75
+      h: "69717045830"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "69717045830":
+    x:
+      - 2m: 0
+    p: Kirkenes / Verigasfjellet
+    e: 164
+    g: 0
+    a: 69.6875
+    o: 29.9583
+o: []
+page: https://mapy73.pl/repeater/LA6VR

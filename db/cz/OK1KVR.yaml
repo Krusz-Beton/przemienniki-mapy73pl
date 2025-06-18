@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.7875
+        t:
+          - a: ""
+      tx:
+        f: 145.1875
+      h: "50619079167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ANT GP
+h:
+  "50619079167":
+    x:
+      - 2m: 0
+    p: Vrchlabi
+    e: 0
+    g: 0
+    a: 50.60417
+    o: 15.625
+o: []
+page: https://mapy73.pl/repeater/OK1KVR

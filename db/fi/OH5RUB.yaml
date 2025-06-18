@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.775
+        t:
+          - b: ""
+      tx:
+        f: 434.775
+      h: "61086020930"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "61086020930":
+    x:
+      - 70cm: 0
+    p: Lappeenranta
+    e: 105
+    g: 30
+    a: 61.058
+    o: 28.2093
+o:
+  - OH5MNH
+page: https://mapy73.pl/repeater/OH5RUB

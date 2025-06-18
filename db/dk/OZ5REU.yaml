@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.85
+        t:
+          - b: ""
+      tx:
+        f: 434.85
+      h: "55396039385"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oz7fyn.dk/repeater_fyn.asp
+      d: ""
+h:
+  "55396039385":
+    x:
+      - 70cm: 0
+    p: Odense / Knæhøj
+    e: 12
+    g: 48
+    a: 55.386029
+    o: 10.364847
+o: []
+page: https://mapy73.pl/repeater/OZ5REU

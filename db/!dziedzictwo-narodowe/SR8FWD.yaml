@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.1125
+        t:
+          - a: ""
+      tx:
+        f: 438.7125
+      h: "51581067133"
+      t: g
+      s: "5"
+      p: 15
+      u: []
+      d: "Przemiennik cyfrowy C4FM SR8FWD ID17353 , Room Wires-X: SR8FWD-ROOM, DTMF
+        ID: 27353, DMR ID: 260048, YSF: PL SR8FWD,"
+h:
+  "51581067133":
+    x:
+      - 70cm: 0
+    p: Włodawa
+    e: 173
+    g: 38
+    a: 51.558118
+    o: 23.553329
+o:
+  - SP8NTH
+page: https://mapy73.pl/repeater/SR8FWD

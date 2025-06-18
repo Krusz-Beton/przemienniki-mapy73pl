@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.075
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.675
+        t:
+          - c: "67.0"
+      h: "51263089154"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: "Antena: Radmor 3284/3, 8dBd (10,15dBi)"
+h:
+  "51263089154":
+    x:
+      - 70cm: 0
+    p: Lublin
+    e: 227
+    g: 42
+    a: 51.241382
+    o: 22.509543
+o:
+  - SP8GPB
+page: https://mapy73.pl/repeater/SR8LN

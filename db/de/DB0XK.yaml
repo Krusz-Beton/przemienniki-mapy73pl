@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+      tx:
+        f: 145.7
+      h: "49327018042"
+      t: a
+      s: "5"
+      p: 6
+      u:
+        - https://www.speckmarschall.de/?page_id=259
+      d: ""
+h:
+  "49327018042":
+    x:
+      - 2m: 0
+    p: Kalmit
+    e: 700
+    g: 0
+    a: 49.319098
+    o: 8.08242
+o:
+  - DK5UC
+page: https://mapy73.pl/repeater/DB0XK

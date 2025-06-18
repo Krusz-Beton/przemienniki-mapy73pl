@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7
+        t:
+          - a: ""
+      tx:
+        f: 439.3
+      h: "51158040183"
+      t: ga
+      s: "5"
+      p: 5
+      u: []
+      d: "Przemiennik doświadczalny, antena balkonowa. Sprzęt: Yaesu DR-1XE + HRI-200.
+        Dostępny Własny pokój: POLAND-WROCLAW (87946)"
+h:
+  "51158040183":
+    x:
+      - 70cm: 0
+    p: Wrocław
+    e: 113
+    g: 0
+    a: 51.141371
+    o: 17.030831
+o:
+  - SP6MRU
+page: https://mapy73.pl/repeater/SR6MRU

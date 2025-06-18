@@ -1,0 +1,42 @@
+x:
+  70cm:
+    - rx:
+        f: 431.3
+        t:
+          - c: "79.7"
+      tx:
+        f: 438.9
+        t:
+          - c: "79.7"
+      h: "48657003564"
+      t: ga
+      s: "5"
+      p: 25
+      u: []
+      d: >-
+        Technical data
+
+        TRX: ​Yaesu DR-1XE
+
+        PWR: 25 W
+
+        ANT: 4-Bay Dipole Antenna, 9 dBd
+
+        Duplexer: Procom DPF70/6
+
+        WiRES-X ID: 79332
+
+
+        The Repeater is working in AMS mode, WiRES-X mode - Digital. All time is connected to the Room ID 89332
+h:
+  "48657003564":
+    x:
+      - 70cm: 0
+    p: Uzhhorod
+    e: 182
+    g: 40
+    a: 48.634745
+    o: 22.290637
+o:
+  - UR5DDA
+page: https://mapy73.pl/repeater/UR0DUM

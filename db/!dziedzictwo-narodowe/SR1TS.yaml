@@ -1,0 +1,30 @@
+x:
+  10m:
+    - rx:
+        f: 29.57
+        t:
+          - c: "82.5"
+      tx:
+        f: 29.67
+        t:
+          - c: "82.5"
+      h: "53473036203"
+      t: a
+      s: "6"
+      p: 10
+      u:
+        - http://www.sp1wsr.eu/?p=3415
+      d: 2 anteny pionowe 1/2 fali, Rx<-> Tx połączone linią telefoniczną. + 439.675
+        ctcss 82,5Hz
+h:
+  "53473036203":
+    x:
+      - 10m: 0
+    p: Szczecin
+    e: 57
+    g: 0
+    a: 53.458827
+    o: 14.535034
+o:
+  - SP1WSR
+page: https://mapy73.pl/repeater/SR1TS

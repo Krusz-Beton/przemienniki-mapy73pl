@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.1125
+      tx:
+        f: 145.7125
+      h: "58160082560"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk6qa.se
+      d: ""
+h:
+  "58160082560":
+    x:
+      - 2m: 0
+    p: Stenungsund
+    e: 180
+    g: 56
+    a: 58.149
+    o: 11.8256
+o:
+  - Henrik
+page: https://mapy73.pl/repeater/SM6XTV.R

@@ -1,0 +1,48 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "57755000700"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6lk.se
+      d: ""
+  70cm:
+    - rx:
+        f: 432.8
+      tx:
+        f: 434.8
+      h: "57755000500"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6lk.se
+      d: ""
+h:
+  "57755000700":
+    x:
+      - 2m: 0
+    p: Borås
+    e: 0
+    g: 0
+    a: 57.742
+    o: 13.007
+  "57755000500":
+    x:
+      - 70cm: 0
+    p: Borås
+    e: 0
+    g: 0
+    a: 57.742
+    o: 13.005
+o:
+  - SM6DHD
+  - Samuel
+page: https://mapy73.pl/repeater/SK6LK.R

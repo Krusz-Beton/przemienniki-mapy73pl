@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.375
+        t:
+          - c: "110.9"
+      tx:
+        f: 438.975
+        t:
+          - c: "110.9"
+      h: "51985003630"
+      t: da
+      s: "5"
+      p: 6
+      u:
+        - http://pl-pl.facebook.com/pages/Stowarzyszenie-Kr%C3%B3tkofalowc%C3%B3w-Ziemi-Jaroci%C5%84skiej/191331747606038
+      d: Motorole GM900, ant. Katherin, duplekser 6-komorowy, sterownik SQ3FYK.
+h:
+  "51985003630":
+    x:
+      - 70cm: 0
+    p: Jarocin, ul. Kościuszki 43
+    e: 143
+    g: 21
+    a: 51.967538
+    o: 17.498297
+o:
+  - SP3IAS
+page: https://mapy73.pl/repeater/SR3JA

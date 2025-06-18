@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.325
+        t:
+          - a: ""
+      tx:
+        f: 438.925
+      h: "46311013805"
+      t: a
+      s: "6"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46311013805":
+    x:
+      - 70cm: 0
+    p: Krvavec
+    e: 1491
+    g: 0
+    a: 46.296609
+    o: 14.52905
+o:
+  - S59BDE
+page: https://mapy73.pl/repeater/S55UKR

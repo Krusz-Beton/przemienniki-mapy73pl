@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.125
+        t:
+          - c: "94.8"
+      tx:
+        f: 438.725
+      h: "50881080343"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "50881080343":
+    x:
+      - 70cm: 0
+    p: Góra Ślęża EMITEL
+    e: 693
+    g: 0
+    a: 50.865094
+    o: 16.709427
+o:
+  - SQ6ILS
+page: https://mapy73.pl/repeater/SR6MA

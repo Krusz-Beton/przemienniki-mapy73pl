@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.725
+      tx:
+        f: 434.725
+      h: "59321008500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59321008500":
+    x:
+      - 70cm: 0
+    p: Stockholm / Söder
+    e: 0
+    g: 0
+    a: 59.303
+    o: 18.085
+o:
+  - Mats
+page: https://mapy73.pl/repeater/SM0YIX.R

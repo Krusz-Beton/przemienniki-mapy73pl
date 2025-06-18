@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.1625
+        t:
+          - b: ""
+      tx:
+        f: 145.7625
+      h: "57510068165"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.radioklubbencq.se/
+      d: ""
+h:
+  "57510068165":
+    x:
+      - 2m: 0
+    p: Hultsfred / Gåskullen
+    e: 0
+    g: 0
+    a: 57.49484
+    o: 15.841651
+o:
+  - SM7JIY
+page: https://mapy73.pl/repeater/SK7RMV

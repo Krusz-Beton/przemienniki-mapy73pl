@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.1375
+        t:
+          - a: ""
+      tx:
+        f: 145.7375
+      h: "49038045833"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "49038045833":
+    x:
+      - 2m: 0
+    p: Uherský Brod
+    e: 270
+    g: 0
+    a: 49.02083
+    o: 17.625
+o:
+  - OK2GG
+page: https://mapy73.pl/repeater/OK0AH

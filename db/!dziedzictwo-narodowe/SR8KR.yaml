@@ -1,0 +1,37 @@
+x:
+  70cm:
+    - rx:
+        f: 431.025
+        t:
+          - c: "103.5"
+      tx:
+        f: 438.625
+        t:
+          - c: "103.5"
+      h: "49777093494"
+      t: i
+      s: "5"
+      p: 15
+      u:
+        - http://fm-link.pl/
+        - http://otpzk05.pl/
+      d: >-
+        Połączony na stałe z przemiennikami sieci FM-LINK.
+
+        Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.
+
+        Otwarcie po 1 sekundzie nośnej z CTCSS.
+
+        Urządzenie: Motorola MTR 2000. Antena RX/TX MA-2000 wysokość zawieszenia 74,40m n.p.t., feeder 2; Zakres częstotliwości pracy anteny: 144-146 MHz / 430-440 MHz Zysk: UHF 7.35 dBd Długość: 255 cm Złącze: N antena posiada 3 przeciwwagi.
+h:
+  "49777093494":
+    x:
+      - 70cm: 0
+    p: RTCN Sucha Góra/Krosno EmiTel-Czarnorzeki 90
+    e: 585
+    g: 74
+    a: 49.756122
+    o: 21.812941
+o:
+  - SP8EFJ
+page: https://mapy73.pl/repeater/SR8KR

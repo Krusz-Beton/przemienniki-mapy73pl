@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145
+        t:
+          - b: ""
+      tx:
+        f: 145.6
+      h: "68577037500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "68577037500":
+    x:
+      - 2m: 0
+    p: Vesterålen / Hadseløya
+    e: 480
+    g: 0
+    a: 68.5625
+    o: 14.875
+o: []
+page: https://mapy73.pl/repeater/LA7VR

@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.55
+        t:
+          - b: ""
+      tx:
+        f: 439.15
+      h: "52755087656"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.bunker-wollenberg.eu/index.php/amateurfunkstation/amateurfunkrelais-432-mhz-xxxxxx
+      d: ""
+h:
+  "52755087656":
+    x:
+      - 70cm: 0
+    p: Wollenberg
+    e: 180
+    g: 30
+    a: 52.741913
+    o: 13.963556
+o:
+  - DG6IBT
+page: https://mapy73.pl/repeater/DB0WOL

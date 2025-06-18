@@ -1,0 +1,29 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - a: ""
+      tx:
+        f: 145.65
+        t:
+          - c: "123.0"
+      h: "45775073456"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "45775073456":
+    x:
+      - 2m: 0
+    p: Trdinov Vrh
+    e: 1178
+    g: 0
+    a: 45.760415
+    o: 15.319562
+o:
+  - S50ZRS
+page: https://mapy73.pl/repeater/S55VNM

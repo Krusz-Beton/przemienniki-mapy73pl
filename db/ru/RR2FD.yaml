@@ -1,0 +1,36 @@
+x:
+  2m:
+    - rx:
+        f: 145.0625
+        t:
+          - a: ""
+      tx:
+        f: 145.6625
+      h: "54695004173"
+      t: e
+      s: "5"
+      p: 50
+      u:
+        - http://uc2k.ru
+      d: >-
+        Users must have a valid callsign and shold be registered in a Brandmeister
+        network.
+
+
+        Slot 1 TG 2501 (Russian Conference)
+
+        Slot 2 TG 250777 (Local Kaliningrad Group)
+
+        DCC1
+h:
+  "54695004173":
+    x:
+      - 2m: 0
+    p: Kaliningrad
+    e: 75
+    g: 0
+    a: 54.67454
+    o: 20.50173
+o:
+  - RU2FAC
+page: https://mapy73.pl/repeater/RR2FD

@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.75
+      tx:
+        f: 434.75
+      h: "63205099510"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk3jr.se
+      d: ""
+h:
+  "63205099510":
+    x:
+      - 70cm: 0
+    p: Östersund
+    e: 0
+    g: 0
+    a: 63.1912
+    o: 14.7951
+o: []
+page: https://mapy73.pl/repeater/SK3RIA

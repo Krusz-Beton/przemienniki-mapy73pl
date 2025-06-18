@@ -1,0 +1,41 @@
+x:
+  70cm:
+    - rx:
+        f: 432.95
+        t:
+          - b: ""
+      tx:
+        f: 434.95
+      h: "56305012471"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk7rbk.sm0olb.se/
+      d: ""
+  2m:
+    - rx:
+        f: 145.1625
+        t:
+          - b: ""
+      tx:
+        f: 145.7625
+      h: "56305012471"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sk7rbk.sm0olb.se/
+      d: ""
+h:
+  "56305012471":
+    x:
+      - 70cm: 0
+      - 2m: 0
+    p: Hässleholm / Bjärnum
+    e: 159
+    g: 0
+    a: 56.291415
+    o: 13.709713
+o: []
+page: https://mapy73.pl/repeater/SK7RBK

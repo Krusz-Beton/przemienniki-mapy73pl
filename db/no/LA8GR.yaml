@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "61067062500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "61067062500":
+    x:
+      - 2m: 0
+    p: Bergen / Bråtsviksåta
+    e: 723
+    g: 0
+    a: 61.0625
+    o: 5.125
+o: []
+page: https://mapy73.pl/repeater/LA8GR

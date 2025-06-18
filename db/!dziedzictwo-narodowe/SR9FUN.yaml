@@ -1,0 +1,31 @@
+x:
+  10m:
+    - rx:
+        f: 29.56
+        t:
+          - c: "107.2"
+      tx:
+        f: 29.66
+        t:
+          - c: "107.2"
+      h: "49487012854"
+      t: a
+      s: "6"
+      p: 50
+      u: []
+      d: SR9FUN (29,660 MHz) – Pozwolenie radiowe do 5 XI 2023 r. Analogowy, foniczny
+        radioprzemiennik krótkofalowy FM. Projekt wygaszony / wyłączony ze
+        względu na budowę analogowego, fonicznego, wielozakresowego
+        radioprzemiennika SR9RT (29,660 MHz).
+h:
+  "49487012854":
+    x:
+      - 10m: 0
+    p: Szczawnica - Góra Przehyba (Teren schroniska)
+    e: 1175
+    g: 14
+    a: 49.466572
+    o: 20.556545
+o:
+  - SP9FUN
+page: https://mapy73.pl/repeater/SR9FUN

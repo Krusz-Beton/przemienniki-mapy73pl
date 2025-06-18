@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.725
+        t:
+          - b: ""
+      tx:
+        f: 434.725
+      h: "69747099170"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "69747099170":
+    x:
+      - 70cm: 0
+    p: Nordfjellet / Tromsø
+    e: 631
+    g: 0
+    a: 69.7292
+    o: 18.7917
+o: []
+page: https://mapy73.pl/repeater/LA9QR

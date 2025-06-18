@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.95
+      tx:
+        f: 434.95
+      h: "55575054170"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - https://brandmeister.network/?page=repeater&id=240799
+      d: ""
+h:
+  "55575054170":
+    x:
+      - 70cm: 0
+    p: Malmö
+    e: 0
+    g: 40
+    a: 55.5625
+    o: 13.0417
+o:
+  - Peter
+page: https://mapy73.pl/repeater/SM7YKX

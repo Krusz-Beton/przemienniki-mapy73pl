@@ -1,0 +1,30 @@
+h:
+  "50093013888":
+    a: 50.079639
+    o: 13.49988
+    p: Plavec Jesenice
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "50093013888"
+      u: []
+      d: ""
+      p: 10
+      t: e
+      s: "4"
+      tx:
+        f: 439.4875
+      rx:
+        f: 431.8875
+        t:
+          - f: "1"
+      e1:
+        - 230
+      e2:
+        - 230110
+o:
+  - OK7RB
+page: https://mapy73.pl/repeater/OK0DRB

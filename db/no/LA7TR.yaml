@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.675
+        t:
+          - b: ""
+      tx:
+        f: 434.675
+      h: "63531067500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "63531067500":
+    x:
+      - 70cm: 0
+    p: Forbordfjell / Stjørdal
+    e: 592
+    g: 0
+    a: 63.5208
+    o: 10.875
+o: []
+page: https://mapy73.pl/repeater/LA7TR

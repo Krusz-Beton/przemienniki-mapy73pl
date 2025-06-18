@@ -1,0 +1,37 @@
+x:
+  70cm:
+    - rx:
+        f: 431.175
+        t:
+          - c: "88.5"
+      tx:
+        f: 438.775
+        t:
+          - c: "88.5"
+      h: "53035075986"
+      t: aj
+      s: "4"
+      p: 10
+      u:
+        - http://sr2swr.noip.pl/
+        - http://fm-poland.pl
+      d: Antena 2x5/8
+      j0:
+        - 26020
+      j1:
+        - 112
+        - 260
+        - 26020
+        - 260201
+h:
+  "53035075986":
+    x:
+      - 70cm: 0
+    p: Toruń
+    e: 104
+    g: 50
+    a: 53.017158
+    o: 18.601855
+o:
+  - SQ2SNG
+page: https://mapy73.pl/repeater/SR2SWR

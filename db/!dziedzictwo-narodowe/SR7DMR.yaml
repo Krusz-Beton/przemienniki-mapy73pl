@@ -1,0 +1,37 @@
+x:
+  70cm:
+    - rx:
+        f: 430.675
+        t:
+          - f: "1"
+      tx:
+        f: 438.275
+      h: "51225008042"
+      t: e
+      s: "4"
+      p: 15
+      u: []
+      d: |-
+        Color Code: CC1
+        Podłączony do sieci Brandmeister
+        Przemiennik obsługuje Enhanced Channel Access.
+
+
+        Antena 5/8 RADMOR
+      e1:
+        - 260
+        - 2607
+      e2:
+        - 26071
+h:
+  "51225008042":
+    x:
+      - 70cm: 0
+    p: Góra Kamieńsk wieża EmiTel
+    e: 387
+    g: 75
+    a: 51.205645
+    o: 19.435416
+o:
+  - SQ7SCC
+page: https://mapy73.pl/repeater/SR7DMR

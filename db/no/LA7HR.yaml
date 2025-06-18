@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "68829004170"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "68829004170":
+    x:
+      - 2m: 0
+    p: Harstad / Samaåsen
+    e: 605
+    g: 0
+    a: 68.8125
+    o: 16.5417
+o: []
+page: https://mapy73.pl/repeater/LA7HR

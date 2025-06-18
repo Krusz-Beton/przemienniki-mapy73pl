@@ -1,0 +1,40 @@
+x:
+  70cm:
+    - rx:
+        f: 431.3375
+        t:
+          - c: "107.2"
+      tx:
+        f: 438.9375
+        t:
+          - c: "107.2"
+      h: "49487097735"
+      t: i
+      s: "5"
+      p: 15
+      u:
+        - http://fm-link.pl/
+      d: >-
+        Przemiennik pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.
+
+        Otwarcie po 1 sekundzie nośnej z CTCSS.
+
+        Urządzenia: Motorola, 2 radia GM-340.
+
+        Antena RX/TX X-200N wysokość zawieszenia 10,00 m n.p.t., Zakres częstotliwości pracy anteny: 144-146 MHz/430-440 MHz; Zysk: UHF 5.85 dBd; Długość anteny: 250 cm; antena posiada 3 przeciwwagi.
+
+        Obiekt: Budynek górnej stacji wyciągu towarowego na szczycie góry Prehyba/Przehyba szczyt górski w zachodniej części Pasma Radziejowej w Beskidzie Sądeckim.
+
+        Ukończenie budowy - 1936, Zniszczono - 1944, Odbudowano - 1958.
+h:
+  "49487097735":
+    x:
+      - 70cm: 0
+    p: Prehyba
+    e: 1173
+    g: 10
+    a: 49.467423
+    o: 20.554353
+o:
+  - SQ9OKT
+page: https://mapy73.pl/repeater/SR9NP

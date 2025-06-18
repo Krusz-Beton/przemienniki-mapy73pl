@@ -1,0 +1,31 @@
+x:
+  2m:
+    - rx:
+        f: 144.975
+        t:
+          - a: ""
+      tx:
+        f: 145.575
+      h: "50871024243"
+      t: b
+      s: "6"
+      p: 5
+      u:
+        - http://www.sr6a.qrz.pl
+      d: |-
+        nr pozowolenia
+        DC.WML.5101.1747.2019.2
+        2xGM360 + DVmega + PiStar 
+        RX ant.X300 / TX ant. X50
+h:
+  "50871024243":
+    x:
+      - 2m: 0
+    p: Brzeg
+    e: 145
+    g: 42
+    a: 50.853782
+    o: 17.460431
+o:
+  - SP6TK
+page: https://mapy73.pl/repeater/SR6A

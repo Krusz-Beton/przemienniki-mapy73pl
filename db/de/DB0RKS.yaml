@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 439.5
+        t:
+          - b: ""
+          - c: "250.3"
+      tx:
+        f: 431.9
+        t:
+          - c: "250.3"
+      h: "48189021350"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.darc.de/der-club/distrikte/c/ortsverbaende/15/dboerks-70cm-relais/
+      d: ""
+h:
+  "48189021350":
+    x:
+      - 70cm: 0
+    p: ""
+    e: 500
+    g: 0
+    a: 48.176482
+    o: 12.7315
+o: []
+page: https://mapy73.pl/repeater/DB0RKS

@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.1
+        t:
+          - b: ""
+      tx:
+        f: 438.7
+        t:
+          - c: "67.0"
+      h: "53406051556"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.df0hhh.de
+      d: ""
+h:
+  "53406051556":
+    x:
+      - 70cm: 0
+    p: Hamburg Rosengarten
+    e: 152
+    g: 0
+    a: 53.39665
+    o: 9.865561
+o: []
+page: https://mapy73.pl/repeater/DF0HHH

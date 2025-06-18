@@ -1,0 +1,23 @@
+x:
+  6m:
+    - rx:
+        f: 51.37
+      tx:
+        f: 51.97
+      h: "55109068640"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "55109068640":
+    x:
+      - 6m: 0
+    p: Svendborg
+    e: 139
+    g: 48
+    a: 55.09912
+    o: 10.5664
+o: []
+page: https://mapy73.pl/repeater/OZ8REY

@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 433.7
+        t:
+          - b: ""
+      tx:
+        f: 434.7
+      h: "61962070830"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "61962070830":
+    x:
+      - 70cm: 0
+    p: Jämsänkoski / Impivaara
+    e: 201
+    g: 30
+    a: 61.9375
+    o: 25.2083
+o:
+  - OH6MC
+page: https://mapy73.pl/repeater/OH6RUQ

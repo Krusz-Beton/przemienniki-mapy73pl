@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+        t:
+          - a: ""
+      tx:
+        f: 145.75
+      h: "49558047106"
+      t: a
+      s: "6"
+      p: 10
+      u: []
+      d: ""
+h:
+  "49558047106":
+    x:
+      - 2m: 0
+    p: Havlíčkův Brod - Květnov
+    e: 579
+    g: 0
+    a: 49.542878
+    o: 15.593058
+o:
+  - OK3MR
+page: https://mapy73.pl/repeater/OK0A

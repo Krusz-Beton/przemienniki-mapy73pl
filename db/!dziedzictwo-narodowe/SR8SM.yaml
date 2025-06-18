@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.05
+        t:
+          - c: "123.0"
+      tx:
+        f: 438.65
+        t:
+          - c: "123.0"
+      h: "50093098922"
+      t: a
+      s: "6"
+      p: 10
+      u: []
+      d: |-
+        4 x 5/8
+        pozwolenie ważne od 22-3-2012 do 21-3-2017r
+h:
+  "50093098922":
+    x:
+      - 70cm: 0
+    p: Dębica
+    e: 211
+    g: 0
+    a: 50.072277
+    o: 21.712224
+o:
+  - SQ8LEO
+page: https://mapy73.pl/repeater/SR8SM

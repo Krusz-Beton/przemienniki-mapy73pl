@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 431.3625
+        t:
+          - f: "1"
+      tx:
+        f: 438.9625
+      h: "51951003711"
+      t: e
+      s: "4"
+      p: 5
+      u:
+        - https://brandmeister.network/?page=repeater&id=260306
+      d: ""
+      e1:
+        - 2603
+      e2:
+        - 26034
+        - 260306
+        - 2603408
+h:
+  "51951003711":
+    x:
+      - 70cm: 0
+    p: Zielona Góra
+    e: 198
+    g: 30
+    a: 51.93551
+    o: 15.527107
+o:
+  - SP3DFR
+page: https://mapy73.pl/repeater/SR3DZG

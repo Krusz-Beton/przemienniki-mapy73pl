@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8375
+        t:
+          - a: ""
+      tx:
+        f: 439.4375
+      h: "52476006193"
+      t: e
+      s: "2"
+      p: 10
+      u: []
+      d: |-
+        TX - Motorola GM360
+        RX - Motorola GM340
+
+        antena wspólna z TX-SR3X Cushcraft ARX-270 12dBi @ 90m npt
+h:
+  "52476006193":
+    x:
+      - 70cm: 0
+    p: Poznań
+    e: 195
+    g: 90
+    a: 52.459156
+    o: 16.905933
+o:
+  - SP3VSS
+page: https://mapy73.pl/repeater/SR3UVP

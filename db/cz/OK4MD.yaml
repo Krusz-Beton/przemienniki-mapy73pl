@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 434.65
+      tx:
+        f: 434.65
+      h: "50909052646"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://ok0dns.ok4md.eu/peklo.html
+      d: ""
+h:
+  "50909052646":
+    x:
+      - 70cm: 0
+    p: Peklo - Jizerské hory
+    e: 490
+    g: 0
+    a: 50.894359
+    o: 15.167455
+o:
+  - OK4MD
+page: https://mapy73.pl/repeater/OK4MD

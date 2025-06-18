@@ -1,0 +1,48 @@
+x:
+  2m:
+    - rx:
+        f: 144.9875
+        t:
+          - a: ""
+      tx:
+        f: 145.5875
+      h: "61500032790"
+      t: "0"
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+  70cm:
+    - rx:
+        f: 432.55
+        t:
+          - a: ""
+      tx:
+        f: 434.55
+      h: "61500033020"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=SK3KH%20&mod=B
+      d: ""
+h:
+  "61500032790":
+    x:
+      - 2m: 0
+    p: Bollnäs
+    e: 400
+    g: 16
+    a: 61.48412
+    o: 16.2079
+  "61500033020":
+    x:
+      - 70cm: 0
+    p: Bollnäs
+    e: 430
+    g: 16
+    a: 61.48412
+    o: 16.2102
+o:
+  - sa3bdf
+page: https://mapy73.pl/repeater/SK3RET

@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 431.625
+        t:
+          - c: "127.3"
+      tx:
+        f: 439.225
+        t:
+          - c: "127.3"
+      h: "52123063741"
+      t: aj
+      s: "4"
+      p: 0
+      u:
+        - http://fm-poland.pl
+      d: ""
+      j0:
+        - 260509
+      j1:
+        - 112
+        - 260509
+h:
+  "52123063741":
+    x:
+      - 70cm: 0
+    p: Grodzisk Mazowiecki
+    e: 108
+    g: 35
+    a: 52.1030121
+    o: 20.6253119
+o: []
+page: https://mapy73.pl/repeater/SR5GM

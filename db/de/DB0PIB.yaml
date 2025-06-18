@@ -1,0 +1,43 @@
+x:
+  2m:
+    - rx:
+        f: 144.975
+        t:
+          - b: ""
+      tx:
+        f: 145.575
+      h: "51123011918"
+      t: da
+      s: "5"
+      p: 8
+      u:
+        - http://db0pib.de
+      d: ""
+  70cm:
+    - rx:
+        f: 431.6
+        t:
+          - a: ""
+          - f: "1"
+      tx:
+        f: 439.2
+      h: "51123011918"
+      t: ge
+      s: "6"
+      p: 0
+      u:
+        - http://db0pib.de
+      d: ""
+h:
+  "51123011918":
+    x:
+      - 2m: 0
+      - 70cm: 0
+    p: Großer Picho bei Wilthen
+    e: 512
+    g: 0
+    a: 51.108765
+    o: 14.354182
+o:
+  - DL1BZ
+page: https://mapy73.pl/repeater/DB0PIB

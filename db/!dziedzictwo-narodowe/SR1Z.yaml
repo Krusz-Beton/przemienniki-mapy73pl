@@ -1,0 +1,30 @@
+x:
+  2m:
+    - rx:
+        f: 145.0375
+        t:
+          - b: ""
+          - c: "82.5"
+      tx:
+        f: 145.6375
+        t:
+          - c: "82.5"
+      h: "53348078037"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.sp1wsr.eu/?p=19
+      d: NFM, X-300, max dev +-2.5kHz, z CTCSS podtrzymanie 1sek. a z 1750Hz 20sek.
+h:
+  "53348078037":
+    x:
+      - 2m: 0
+    p: Kołowo EMITEL
+    e: 205
+    g: 65
+    a: 53.334105
+    o: 14.67537
+o:
+  - SP1XNA
+page: https://mapy73.pl/repeater/SR1Z

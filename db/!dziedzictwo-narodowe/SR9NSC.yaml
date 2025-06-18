@@ -1,0 +1,39 @@
+x:
+  2m:
+    - rx:
+        f: 145.3375
+        t:
+          - a: "103.5"
+      tx:
+        f: 145.3375
+      h: "49633047853"
+      t: j
+      s: "4"
+      p: 15
+      u:
+        - http://radioteam.pl/sr9nsc
+      d: HotSpot publiczny w sieci FM Poland
+      j0:
+        - 260901
+      j1:
+        - 260
+        - 2600
+        - 2609
+        - 26081
+        - 26090
+        - 260900
+        - 260902
+        - 260903
+        - 260904
+h:
+  "49633047853":
+    x:
+      - 2m: 0
+    p: Nowy Sącz
+    e: 303
+    g: 18
+    a: 49.612762
+    o: 20.716533
+o:
+  - SP9FUN
+page: https://mapy73.pl/repeater/SR9NSC

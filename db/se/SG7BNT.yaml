@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.6
+      tx:
+        f: 434.6
+      h: "57658091125"
+      t: b
+      s: "5"
+      p: 0
+      u:
+        - https://brandmeister.network/?page=repeater&id=240706
+      d: ""
+h:
+  "57658091125":
+    x:
+      - 70cm: 0
+    p: Bruzaholm
+    e: 0
+    g: 0
+    a: 57.64364
+    o: 15.27125
+o: []
+page: https://mapy73.pl/repeater/SG7BNT

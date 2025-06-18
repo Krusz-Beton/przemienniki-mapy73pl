@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 438.425
+        t:
+          - a: ""
+      tx:
+        f: 439.025
+      h: "49339087700"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: ""
+h:
+  "49339087700":
+    x:
+      - 70cm: 0
+    p: Stará Ľubovňa
+    e: 720
+    g: 0
+    a: 49.319167
+    o: 20.71
+o:
+  - OM3ZCK
+page: https://mapy73.pl/repeater/OM0OUS

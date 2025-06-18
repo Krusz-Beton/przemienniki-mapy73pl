@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.65
+        t:
+          - c: "79.7"
+      tx:
+        f: 439.25
+        t:
+          - c: "79.7"
+      h: "51066020833"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://svxportal.on4akh.be/list_reciver.php
+      d: ""
+h:
+  "51066020833":
+    x:
+      - 70cm: 0
+    p: Gent
+    e: 0
+    g: 0
+    a: 51.0625
+    o: 3.70833
+o: []
+page: https://mapy73.pl/repeater/ON0GRC

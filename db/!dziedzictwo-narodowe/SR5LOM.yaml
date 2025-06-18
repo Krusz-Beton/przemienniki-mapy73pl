@@ -1,0 +1,26 @@
+x:
+  23cm:
+    - rx:
+        f: 1270.4
+        t:
+          - a: ""
+      tx:
+        f: 1298.4
+      h: "52361099430"
+      t: a
+      s: "2"
+      p: 15
+      u: []
+      d: ""
+h:
+  "52361099430":
+    x:
+      - 23cm: 0
+    p: Łomianki
+    e: 82
+    g: 40
+    a: 52.34111
+    o: 20.8843
+o:
+  - SP5UGX
+page: https://mapy73.pl/repeater/SR5LOM

@@ -1,0 +1,42 @@
+x:
+  70cm:
+    - rx:
+        f: 431.65
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.25
+        t:
+          - c: "67.0"
+      h: "50041006513"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - http://fm-poland.pl
+      d: |-
+        Przemiennik w sieci FM POLAND !!!
+        Domyślna grupa: 26081 Małopolska
+
+        Antena: Diamond X-300
+      j0:
+        - 26081
+      j1:
+        - 112
+        - 260
+        - 26081
+        - 260811
+        - 260891
+        - 260892
+h:
+  "50041006513":
+    x:
+      - 70cm: 0
+    p: Jarosław
+    e: 0
+    g: 0
+    a: 50.018381
+    o: 22.684125
+o:
+  - SQ8PDY
+page: https://mapy73.pl/repeater/SR8JR

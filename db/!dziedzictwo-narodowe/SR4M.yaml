@@ -1,0 +1,33 @@
+x:
+  2m:
+    - rx:
+        f: 145
+        t:
+          - c: "67.0"
+      tx:
+        f: 145.6
+        t:
+          - c: "67.0"
+      h: "53959057176"
+      t: da
+      s: "6"
+      p: 4
+      u:
+        - http://sp4.jestok.com/przemienniki/sr4m
+      d: >-
+        NIE DZIAŁA 22-23.07.2015
+
+
+        Anteny: X-300 @180m RX, RADMOR 3282 @50m TX, 230m LDF-5 7/8, przemiennik MOTOROLA MTR2000
+h:
+  "53959057176":
+    x:
+      - 2m: 0
+    p: Miłki k/Giżycka EMITEL
+    e: 245
+    g: 180
+    a: 53.937727
+    o: 21.844764
+o:
+  - SQ4LWO
+page: https://mapy73.pl/repeater/SR4M

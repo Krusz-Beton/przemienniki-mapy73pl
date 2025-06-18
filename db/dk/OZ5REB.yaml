@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.75
+        t:
+          - b: ""
+      tx:
+        f: 434.75
+      h: "56002029583"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oz5gi.dk/
+      d: ""
+h:
+  "56002029583":
+    x:
+      - 70cm: 0
+    p: Yding Skovhøj
+    e: 169
+    g: 52
+    a: 55.9925
+    o: 9.795833
+o: []
+page: https://mapy73.pl/repeater/OZ5REB

@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.575
+        t:
+          - a: ""
+      tx:
+        f: 439.175
+      h: "42587004925"
+      t: b
+      s: "5"
+      p: 23
+      u:
+        - http://www.repeaters.bg
+      d: ""
+h:
+  "42587004925":
+    x:
+      - 70cm: 0
+    p: София - връх Черни връх
+    e: 2267
+    g: 0
+    a: 42.563761
+    o: 23.288245
+o:
+  - LZ1JNG
+page: https://mapy73.pl/repeater/LZ0DSR

@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.425
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.025
+        t:
+          - c: "67.0"
+      h: "50080079167"
+      t: a
+      s: "6"
+      p: 10
+      u:
+        - http://www.skzd.pl
+      d: ""
+h:
+  "50080079167":
+    x:
+      - 70cm: 0
+    p: Pogrzebień
+    e: 320
+    g: 0
+    a: 50.0625
+    o: 18.29167
+o:
+  - SP9RTT
+page: https://mapy73.pl/repeater/SR9KW

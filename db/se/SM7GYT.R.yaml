@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.8125
+      tx:
+        f: 434.8125
+      h: "55868055934"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.kevlange.se/
+      d: ""
+h:
+  "55868055934":
+    x:
+      - 70cm: 0
+    p: Eslöv
+    e: 55
+    g: 40
+    a: 55.85527
+    o: 13.28934
+o:
+  - SM7GYT
+page: https://mapy73.pl/repeater/SM7GYT.R

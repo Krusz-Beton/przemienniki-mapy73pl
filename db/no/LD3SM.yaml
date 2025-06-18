@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.55
+        t:
+          - a: ""
+      tx:
+        f: 434.55
+      h: "59152001307"
+      t: b
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=LD3SM
+      d: CCS 97542
+h:
+  "59152001307":
+    x:
+      - 70cm: 0
+    p: Mokollen, Sandefjord
+    e: 99
+    g: 0
+    a: 59.1418
+    o: 10.21307
+o: []
+page: https://mapy73.pl/repeater/LD3SM

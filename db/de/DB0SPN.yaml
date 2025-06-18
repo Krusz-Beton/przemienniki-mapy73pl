@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 439.4875
+        t:
+          - f: "1"
+      tx:
+        f: 431.8875
+      h: "51734033159"
+      t: e
+      s: "6"
+      p: 0
+      u: []
+      d: |-
+        DMR PLUS
+        TS1=TG262=GERMANY
+        TS2=TG9=4044 BRANDENBURG
+h:
+  "51734033159":
+    x:
+      - 70cm: 0
+    p: Cottbus
+    e: 81
+    g: 137
+    a: 51.71999
+    o: 14.34159
+o: []
+page: https://mapy73.pl/repeater/DB0SPN

@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.55
+        t:
+          - c: "88.5"
+      tx:
+        f: 439.15
+        t:
+          - c: "88.5"
+      h: "48890060350"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: ""
+h:
+  "48890060350":
+    x:
+      - 70cm: 0
+    p: Znojmo, Cínová Hora
+    e: 336
+    g: 0
+    a: 48.8746
+    o: 16.0035
+o:
+  - OK2GTI
+page: https://mapy73.pl/repeater/OK0BZ

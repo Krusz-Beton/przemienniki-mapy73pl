@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 430.925
+        t:
+          - a: ""
+          - f: "1"
+      tx:
+        f: 438.525
+      h: "51278013612"
+      t: eb
+      s: "4"
+      p: 15
+      u: []
+      d: Antena Diamond X200. Przemiennik podłączony do sieci Brandmeister.
+      e1:
+        - 260
+        - 2607
+      e2:
+        - 26071
+        - 26077
+h:
+  "51278013612":
+    x:
+      - 70cm: 0
+    p: Czastary
+    e: 190
+    g: 15
+    a: 51.259814
+    o: 18.322125
+o:
+  - SO7BIT
+page: https://mapy73.pl/repeater/SR7UWI

@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 433.775
+        t:
+          - b: ""
+      tx:
+        f: 434.775
+      h: "60776008300"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60776008300":
+    x:
+      - 70cm: 0
+    p: Artjärvi
+    e: 91
+    g: 8
+    a: 60.75
+    o: 26.083
+o:
+  - OH5ZB
+page: https://mapy73.pl/repeater/OH2RAY

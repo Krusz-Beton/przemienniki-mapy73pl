@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.825
+        t:
+          - f: "9"
+      tx:
+        f: 439.425
+      h: "50164027430"
+      t: e
+      s: "6"
+      p: 15
+      u: []
+      d: ""
+h:
+  "50164027430":
+    x:
+      - 70cm: 0
+    p: Orzesze
+    e: 0
+    g: 0
+    a: 50.1455
+    o: 18.7743
+o:
+  - SP9CH
+  - SQ9GIN
+page: https://mapy73.pl/repeater/SR9DCH

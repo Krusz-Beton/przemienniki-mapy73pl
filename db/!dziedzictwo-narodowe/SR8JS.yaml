@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.2
+        t:
+          - b: ""
+      tx:
+        f: 438.8
+        t:
+          - c: "103.5"
+      h: "49834057097"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - https://sp8kjx.jaslo.org.pl/
+      d: >-
+        Antena X-200 5x5/8l, EchoLink 368278
+
+        Uruchomiony po konserwacji 6 czerwca 2020, prosimy o raporty słyszalności.
+h:
+  "49834057097":
+    x:
+      - 70cm: 0
+    p: Jasło - Góra Liwocz
+    e: 562
+    g: 35
+    a: 49.81322
+    o: 21.350967
+o:
+  - SP8GKB
+page: https://mapy73.pl/repeater/SR8JS

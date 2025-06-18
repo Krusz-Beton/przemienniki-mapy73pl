@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.45
+        t:
+          - b: ""
+      tx:
+        f: 439.05
+      h: "52534012500"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.darc.de/distrikte/d/05/db0sx/
+      d: ""
+h:
+  "52534012500":
+    x:
+      - 70cm: 0
+    p: Berlin-Charlottenburg
+    e: 85
+    g: 0
+    a: 52.52083
+    o: 13.29167
+o:
+  - DL7UH
+page: https://mapy73.pl/repeater/DB0SX

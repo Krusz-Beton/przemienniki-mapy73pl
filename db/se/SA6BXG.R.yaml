@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.7375
+      tx:
+        f: 434.7375
+      h: "57993049622"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "57993049622":
+    x:
+      - 70cm: 0
+    p: Kungälv / Romelanda
+    e: 0
+    g: 0
+    a: 57.98145
+    o: 12.04622
+o:
+  - G\u00f6ran
+page: https://mapy73.pl/repeater/SA6BXG.R

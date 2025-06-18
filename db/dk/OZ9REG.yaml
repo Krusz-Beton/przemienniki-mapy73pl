@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - b: ""
+      tx:
+        f: 145.675
+      h: "55989007500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "55989007500":
+    x:
+      - 2m: 0
+    p: Yding / Skovhøj
+    e: 169
+    g: 52
+    a: 55.9792
+    o: 9.875
+o: []
+page: https://mapy73.pl/repeater/OZ9REG

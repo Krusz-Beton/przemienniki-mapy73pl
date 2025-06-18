@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+      tx:
+        f: 145.625
+      h: "56239043934"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oz8h.dk/repeater.htm
+      d: ""
+h:
+  "56239043934":
+    x:
+      - 2m: 0
+    p: Herning
+    e: 69
+    g: 38
+    a: 56.230276
+    o: 9.163336
+o: []
+page: https://mapy73.pl/repeater/OZ3REE

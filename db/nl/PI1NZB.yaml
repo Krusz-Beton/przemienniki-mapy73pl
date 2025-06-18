@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 144.9
+        t:
+          - a: ""
+      tx:
+        f: 144.9
+      h: "51566020833"
+      t: b
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "51566020833":
+    x:
+      - 2m: 0
+    p: Kamperland
+    e: 0
+    g: 0
+    a: 51.5625
+    o: 3.70833
+o: []
+page: https://mapy73.pl/repeater/PI1NZB

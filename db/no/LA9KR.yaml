@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "70711020830"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "70711020830":
+    x:
+      - 2m: 0
+    p: Norkapp / Hammerfest
+    e: 130
+    g: 0
+    a: 70.6875
+    o: 23.7083
+o: []
+page: https://mapy73.pl/repeater/LA9KR

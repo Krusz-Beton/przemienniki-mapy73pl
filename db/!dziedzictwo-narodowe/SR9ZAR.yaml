@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.9375
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.5375
+        t:
+          - c: "67.0"
+      h: "49806045677"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://sp9kmq.sp-radio.eu
+      d: FM CTCSS 67Hz
+h:
+  "49806045677":
+    x:
+      - 70cm: 0
+    p: Góra Żar
+    e: 748
+    g: 10
+    a: 49.787232
+    o: 19.22477
+o:
+  - SP9AMG
+page: https://mapy73.pl/repeater/SR9ZAR

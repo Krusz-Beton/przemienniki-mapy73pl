@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 430.975
+        t:
+          - a: ""
+      tx:
+        f: 438.575
+      h: "52325079167"
+      t: ab
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "52325079167":
+    x:
+      - 70cm: 0
+    p: Ludwigsfelde
+    e: 0
+    g: 0
+    a: 52.3125
+    o: 13.29167
+o: []
+page: https://mapy73.pl/repeater/DB0LUD

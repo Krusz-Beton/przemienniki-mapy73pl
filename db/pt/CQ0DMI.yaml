@@ -1,0 +1,25 @@
+h:
+  "41541048267":
+    a: 41.549171
+    o: -7.68833
+    p: Serra Minheu
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "41541048267"
+      u: []
+      d: ""
+      p: 10
+      t: e
+      s: "4"
+      tx:
+        f: 438.475
+      rx:
+        f: 430.875
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/CQ0DMI

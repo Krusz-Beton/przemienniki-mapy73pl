@@ -1,0 +1,25 @@
+h:
+  "37093075136":
+    a: 37.101582
+    o: -7.830638
+    p: Sao Miguel. Olhao
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "37093075136"
+      u: []
+      d: ""
+      p: 20
+      t: e
+      s: "4"
+      tx:
+        f: 438.85
+      rx:
+        f: 431.25
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/CQ0UML

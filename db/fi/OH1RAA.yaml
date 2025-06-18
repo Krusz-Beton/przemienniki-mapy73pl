@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "60413037600"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60413037600":
+    x:
+      - 2m: 0
+    p: Kaarina / Kuusisto
+    e: 252
+    g: 210
+    a: 60.391
+    o: 22.376
+o:
+  - OH1CO
+page: https://mapy73.pl/repeater/OH1RAA

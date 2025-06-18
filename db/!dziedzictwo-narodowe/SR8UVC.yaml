@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.95
+        t:
+          - a: ""
+          - f: "1"
+      tx:
+        f: 439.55
+      h: "52071095165"
+      t: geb
+      s: "6"
+      p: 15
+      u: []
+      d: ""
+h:
+  "52071095165":
+    x:
+      - 70cm: 0
+    p: Biała Podlaska
+    e: 147
+    g: 25
+    a: 52.048835
+    o: 23.116651
+o:
+  - SP8QEO
+page: https://mapy73.pl/repeater/SR8UVC

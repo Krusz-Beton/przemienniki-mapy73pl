@@ -1,0 +1,45 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+      tx:
+        f: 145.675
+      h: "57818091721"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sm6uxw.n.nu
+      d: ""
+  70cm:
+    - rx:
+        f: 432.675
+      tx:
+        f: 434.675
+      h: "57805074366"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://sm6uxw.n.nu
+      d: ""
+h:
+  "57818091721":
+    x:
+      - 2m: 0
+    p: Ulricehamn
+    e: 0
+    g: 0
+    a: 57.80541
+    o: 13.50721
+  "57805074366":
+    x:
+      - 70cm: 0
+    p: Ulricehamn
+    e: 0
+    g: 0
+    a: 57.79232
+    o: 13.42366
+o:
+  - SM6UXW
+page: https://mapy73.pl/repeater/SM6UXW.R

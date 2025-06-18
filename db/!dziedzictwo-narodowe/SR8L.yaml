@@ -1,0 +1,30 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - c: "67.0"
+      tx:
+        f: 145.675
+        t:
+          - c: "67.0"
+      h: "51027046351"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://krotkofalowcy-lublin.pl/sr8l/
+      d: "Antena: Radmor 3284/3, o zysku energetycznym względem dipola λ/2 8 dBd
+        (10,15 dBi)."
+h:
+  "51027046351":
+    x:
+      - 2m: 0
+    p: RTCN Lublin / Boży Dar (Emitel)
+    e: 458
+    g: 140
+    a: 51.00481
+    o: 22.65351
+o:
+  - SQ8MFR
+page: https://mapy73.pl/repeater/SR8L

@@ -1,0 +1,80 @@
+x:
+  70cm:
+    - rx:
+        f: 432.6
+        t:
+          - c: "71.9"
+      tx:
+        f: 432.6
+        t:
+          - c: "71.9"
+      h: "49962014085"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - https://radioteam.pl/sr8mbr/
+        - http://fm-poland.pl
+      d: |-
+        Antena Diamond V-2000 3 x 5/8 λ
+        Yaesu VX-2000
+
+        Przemiennik w sieci FM POLAND
+        Domyślna grupa: 26090 Małopolska
+      j0:
+        - 26090
+      j1:
+        - 112
+        - 2600
+        - 26081
+        - 26090
+        - 260811
+        - 260812
+  2m:
+    - rx:
+        f: 145.2375
+        t:
+          - c: "71.9"
+      tx:
+        f: 145.2375
+        t:
+          - c: "71.9"
+      h: "49962014085"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: |-
+        Antena Diamond V-2000 7/8 λ
+        Motorola GM-360
+  6m:
+    - rx:
+        f: 50.54
+        t:
+          - c: "71.9"
+      tx:
+        f: 50.54
+        t:
+          - c: "71.9"
+      h: "49962014085"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: |-
+        Antena Diamond V-2000 1/2 λ
+        Yaesu FTL-1011         
+h:
+  "49962014085":
+    x:
+      - 70cm: 0
+      - 2m: 0
+      - 6m: 0
+    p: Tyczyn, Lasek
+    e: 321
+    g: 0
+    a: 49.940092
+    o: 22.048855
+o:
+  - SQ8PDY
+page: https://mapy73.pl/repeater/SR8MBR

@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 430.625
+        t:
+          - a: ""
+      tx:
+        f: 438.225
+      h: "45517011266"
+      t: ab
+      s: "5"
+      p: 10
+      u:
+        - http://rpt.hamradio.si/
+      d: ""
+h:
+  "45517011266":
+    x:
+      - 70cm: 0
+    p: Mailja/Izola
+    e: 271
+    g: 10
+    a: 45.503469
+    o: 13.64366
+o: []
+page: https://mapy73.pl/repeater/S55DPI

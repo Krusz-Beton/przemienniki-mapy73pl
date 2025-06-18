@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "47477012536"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oe7.oevsv.at/anlagen/
+      d: ""
+h:
+  "47477012536":
+    x:
+      - 2m: 0
+    p: Hohe Salve
+    e: 1808
+    g: 0
+    a: 47.464921
+    o: 12.20436
+o: []
+page: https://mapy73.pl/repeater/OE7XKI

@@ -1,0 +1,27 @@
+x:
+  6m:
+    - rx:
+        f: 51.35
+        t:
+          - b: ""
+          - e: "3"
+      tx:
+        f: 51.95
+      h: "65878071708"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk2hg.se
+      d: ""
+h:
+  "65878071708":
+    x:
+      - 6m: 0
+    p: Kalix
+    e: 0
+    g: 0
+    a: 65.85563
+    o: 23.08708
+o: []
+page: https://mapy73.pl/repeater/SK2HG.R

@@ -1,0 +1,33 @@
+h:
+  "48753008527":
+    a: 48.738361
+    o: 14.724275
+    p: Ceske Budejovice
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "48753008527"
+      u: []
+      d: ""
+      p: 20
+      t: e
+      s: "4"
+      tx:
+        f: 438.925
+      rx:
+        f: 431.325
+        t:
+          - f: "1"
+      e1:
+        - 230
+      e2:
+        - 2300
+        - 230201
+        - 230803
+o:
+  - OK1ZJV
+  - OK1MDD
+page: https://mapy73.pl/repeater/OK0BDV

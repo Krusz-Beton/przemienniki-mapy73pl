@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.55
+      tx:
+        f: 434.55
+      h: "60141089800"
+      t: "0"
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60141089800":
+    x:
+      - 70cm: 0
+    p: Jomala
+    e: 0
+    g: 0
+    a: 60.12197
+    o: 19.928
+o:
+  - Mikael
+page: https://mapy73.pl/repeater/OH0RUB

@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.125
+        t:
+          - c: "123.0"
+      tx:
+        f: 438.725
+      h: "45929094828"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "45929094828":
+    x:
+      - 70cm: 0
+    p: Brežice
+    e: 162
+    g: 0
+    a: 45.914348
+    o: 15.600281
+o:
+  - S56CT
+page: https://mapy73.pl/repeater/S55UBR

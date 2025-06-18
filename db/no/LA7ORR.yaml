@@ -1,0 +1,24 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+      tx:
+        f: 145.725
+      h: "62572020833"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://la2t.nrrl.no/wp/
+      d: ""
+h:
+  "62572020833":
+    x:
+      - 2m: 0
+    p: Oppdal / Allmannberget
+    e: 1340
+    g: 0
+    a: 62.5625
+    o: 9.70833
+o: []
+page: https://mapy73.pl/repeater/LA7ORR

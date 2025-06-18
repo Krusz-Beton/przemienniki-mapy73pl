@@ -1,0 +1,25 @@
+h:
+  "41575064663":
+    a: 41.552377
+    o: 23.269632
+    p: Sandanski
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "41575064663"
+      u: []
+      d: ""
+      p: 25
+      t: e
+      s: "4"
+      tx:
+        f: 433.5
+      rx:
+        f: 433.5
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/LZ0SAN

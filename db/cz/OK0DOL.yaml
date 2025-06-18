@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.925
+      tx:
+        f: 439.525
+      h: "49639059367"
+      t: a
+      s: "5"
+      p: 25
+      u:
+        - http://www.prevadece.cz/dmr/sit
+      d: ""
+h:
+  "49639059367":
+    x:
+      - 70cm: 0
+    p: Olomouc – Lošov
+    e: 0
+    g: 0
+    a: 49.622222
+    o: 17.371667
+o:
+  - OK2PUD
+page: https://mapy73.pl/repeater/OK0DOL

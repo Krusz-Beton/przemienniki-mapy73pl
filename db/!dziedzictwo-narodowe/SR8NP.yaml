@@ -1,0 +1,31 @@
+x:
+  2m:
+    - rx:
+        f: 145.1625
+        t:
+          - a: ""
+      tx:
+        f: 145.7625
+        t:
+          - c: "186.2"
+      h: "49789090593"
+      t: da
+      s: "5"
+      p: 10
+      u:
+        - https://picasaweb.google.com/117793890001724128916/PrzemiennikPrzemyskiSR8NP#
+        - http://www.youtube.com/watch?v=zTWA1tHbM9g
+      d: przestrojone anteny radmorowskie jedna nad druga.Zasilanie dwa fidery 40m
+        RG213.
+h:
+  "49789090593":
+    x:
+      - 2m: 0
+    p: Przemyśl
+    e: 332
+    g: 5
+    a: 49.76715
+    o: 22.755932
+o:
+  - SQ8IPV
+page: https://mapy73.pl/repeater/SR8NP

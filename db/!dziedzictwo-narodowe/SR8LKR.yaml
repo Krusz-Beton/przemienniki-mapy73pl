@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 430.95
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.55
+        t:
+          - c: "67.0"
+      h: "50983004717"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: Diamond X-300
+h:
+  "50983004717":
+    x:
+      - 70cm: 0
+    p: Kraśnik
+    e: 217
+    g: 22
+    a: 50.96089
+    o: 22.157174
+o:
+  - SQ8SET
+page: https://mapy73.pl/repeater/SR8LKR

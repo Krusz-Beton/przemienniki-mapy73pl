@@ -1,0 +1,45 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+      tx:
+        f: 145.65
+      h: "56064081472"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk7dd.se/wp/?page_id=104
+      d: ""
+  70cm:
+    - rx:
+        f: 432.65
+      tx:
+        f: 434.65
+      h: "56064081272"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk7dd.se/wp/?page_id=104
+      d: ""
+h:
+  "56064081472":
+    x:
+      - 2m: 0
+    p: Helsingborg / Söderåsen
+    e: 220
+    g: 20
+    a: 56.05171
+    o: 13.10472
+  "56064081272":
+    x:
+      - 70cm: 0
+    p: Helsingborg / Söderåsen
+    e: 220
+    g: 20
+    a: 56.05171
+    o: 13.10272
+o:
+  - SM7VEV
+page: https://mapy73.pl/repeater/SK7REE

@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.325
+        t:
+          - b: ""
+          - e: "*"
+      tx:
+        f: 438.925
+      h: "51261099934"
+      t: da
+      s: "5"
+      p: 12
+      u: []
+      d: ""
+h:
+  "51261099934":
+    x:
+      - 70cm: 0
+    p: Deditz, 04685 Nerchau, Niemcy
+    e: 225
+    g: 25
+    a: 51.249192
+    o: 12.807344
+o:
+  - DL8WQQ
+page: https://mapy73.pl/repeater/DB0LBH

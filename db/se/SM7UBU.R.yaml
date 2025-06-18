@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.775
+      tx:
+        f: 434.775
+      h: "58092046509"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "58092046509":
+    x:
+      - 70cm: 0
+    p: Tranås
+    e: 160
+    g: 15
+    a: 58.07747
+    o: 14.99509
+o:
+  - Peter
+page: https://mapy73.pl/repeater/SM7UBU.R

@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.6
+        t:
+          - b: ""
+      tx:
+        f: 434.6
+      h: "64107055000"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "64107055000":
+    x:
+      - 70cm: 0
+    p: Ylivieska
+    e: 112
+    g: 42
+    a: 64.083
+    o: 24.55
+o:
+  - OH8JEP
+page: https://mapy73.pl/repeater/OH8RUU

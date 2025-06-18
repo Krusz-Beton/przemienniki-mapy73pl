@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.9
+        t:
+          - b: ""
+      tx:
+        f: 434.9
+      h: "60310005000"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60310005000":
+    x:
+      - 70cm: 0
+    p: Vantaa
+    e: 90
+    g: 30
+    a: 60.285
+    o: 25.05
+o:
+  - OH2HPN/OH2GTC
+page: https://mapy73.pl/repeater/OH2RUF

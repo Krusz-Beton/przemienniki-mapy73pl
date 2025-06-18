@@ -1,0 +1,31 @@
+x:
+  2m:
+    - rx:
+        f: 145.1375
+        t:
+          - c: "67.0"
+      tx:
+        f: 145.7375
+        t:
+          - c: "67.0"
+      h: "51469061042"
+      t: a
+      s: "5"
+      p: 9
+      u:
+        - https://www.relaisgruppe-ruhr.de/index.php/db0do-fm-relais/
+        - https://db0tt.radioreference.de/index.html
+        - https://de.wikipedia.org/wiki/Fernmeldeturm_Schwerte
+      d: TV Tower
+h:
+  "51469061042":
+    x:
+      - 2m: 0
+    p: Dortmund
+    e: 210
+    g: 130
+    a: 51.462067
+    o: 7.543422
+o:
+  - DF1VB
+page: https://mapy73.pl/repeater/DB0DO

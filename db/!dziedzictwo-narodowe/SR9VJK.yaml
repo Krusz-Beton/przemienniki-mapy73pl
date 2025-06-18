@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 430.7125
+        t:
+          - f: "9"
+      tx:
+        f: 438.3125
+      h: "49438022325"
+      t: e
+      s: "4"
+      p: 10
+      u: []
+      d: Docelowa lokalizacja - Jaworzyna Krynicka
+      e1:
+        - 260
+        - 2609
+      e2:
+        - 26095
+h:
+  "49438022325":
+    x:
+      - 70cm: 0
+    p: Jaworzyna Krynicka
+    e: 1102
+    g: 15
+    a: 49.417328
+    o: 20.895254
+o:
+  - SP9SVH
+page: https://mapy73.pl/repeater/SR9VJK

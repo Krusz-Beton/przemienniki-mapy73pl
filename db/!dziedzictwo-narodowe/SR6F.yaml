@@ -1,0 +1,34 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+        t:
+          - c: "71.9"
+      tx:
+        f: 145.75
+        t:
+          - c: "71.9"
+      h: "50483043244"
+      t: a
+      s: "6"
+      p: 10
+      u: []
+      d: |-
+        Motorola GM300,
+        Yaesu FTL2011, 
+        2x X-50N, 
+        1/2 LDF
+
+        zmiana pozwolenia
+h:
+  "50483043244":
+    x:
+      - 2m: 0
+    p: Wysoka k. Góry św. Anny EMITEL
+    e: 417
+    g: 35
+    a: 50.465278
+    o: 18.154444
+o:
+  - SP6LUV
+page: https://mapy73.pl/repeater/SR6F

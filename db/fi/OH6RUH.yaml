@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.6
+      tx:
+        f: 434.6
+      h: "62783090240"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - https://www.facebook.com/pages/Ala-Keiteleen-Radiokerho-ry-OH6AK/710553882313070
+      d: ""
+h:
+  "62783090240":
+    x:
+      - 70cm: 0
+    p: Saarijärvi / Hirvaanmäki
+    e: 242
+    g: 38
+    a: 62.7583
+    o: 25.6024
+o:
+  - OH6X
+page: https://mapy73.pl/repeater/OH6RUH

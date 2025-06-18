@@ -1,0 +1,48 @@
+x:
+  70cm:
+    - rx:
+        f: 431.45
+        t:
+          - c: "94.8"
+      tx:
+        f: 439.05
+        t:
+          - c: "94.8"
+      h: "54208040919"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - https://www.qrz.com/db/SR4EL
+        - https://fm-poland.pl
+      d: >-
+        Radio: Motorola CM140(TX)/CM340(RX)
+
+        Antena: Diamond X200
+
+        Kabel: 4m H1000
+
+        Podłączony do FM POLAND, domyślna(pod PTT) lokalna grupa 260496
+
+
+        Dziękuję firmie ATMEL z Elbląga za udostępnienie miejsca na maszcie i połączenia z siecią.
+      j0:
+        - 260496
+      j1:
+        - 112
+        - 260
+        - 2602
+        - 2604
+        - 260496
+h:
+  "54208040919":
+    x:
+      - 70cm: 0
+    p: Elbląg
+    e: 16
+    g: 35
+    a: 54.189015
+    o: 19.394187
+o:
+  - SP2WLF
+page: https://mapy73.pl/repeater/SR4EL

@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "66141039890"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oh9ar.fi/
+      d: ""
+h:
+  "66141039890":
+    x:
+      - 2m: 0
+    p: Tervola
+    e: 314
+    g: 180
+    a: 66.1167
+    o: 24.6989
+o:
+  - OH9VC
+page: https://mapy73.pl/repeater/OH9RAR

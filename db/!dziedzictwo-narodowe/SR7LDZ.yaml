@@ -1,0 +1,45 @@
+x:
+  70cm:
+    - rx:
+        f: 430.75
+        t:
+          - c: "77.0"
+      tx:
+        f: 438.35
+        t:
+          - c: "77.0"
+      h: "51793054291"
+      t: i
+      s: "5"
+      p: 10
+      u: []
+      d: |-
+        Przemiennik działa w sieci FM-LINK. 
+        Radio: MTR2000 
+        Antena: RADMOR 
+        UWAGA: FM-Narrow
+    - tx:
+        f: 438.35
+      rx:
+        f: 430.75
+        t:
+          - f: "1"
+      h: "51793054291"
+      u: []
+      d: ""
+      p: 10
+      t: e
+      s: "4"
+h:
+  "51793054291":
+    x:
+      - 70cm: 0
+      - 70cm: 1
+    p: Łódź
+    e: 327
+    g: 77
+    a: 51.774038
+    o: 19.504914
+o:
+  - SQ7SCC
+page: https://mapy73.pl/repeater/SR7LDZ

@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 432.575
+        t:
+          - a: ""
+      tx:
+        f: 432.575
+      h: "53168095833"
+      t: g
+      s: "4"
+      p: 5
+      u: []
+      d: |-
+        Node zlinkowany na stałe z Room Poland.
+        Antena X200.
+        Zasięg - pokrycie miasta.
+h:
+  "53168095833":
+    x:
+      - 70cm: 0
+    p: Białystok
+    e: 0
+    g: 0
+    a: 53.14583
+    o: 23.125
+o:
+  - SP4UBW
+page: https://mapy73.pl/repeater/SR4C4FM

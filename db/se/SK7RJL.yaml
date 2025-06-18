@@ -1,0 +1,44 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5875
+      tx:
+        f: 434.5875
+      h: "55748003089"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://www.swedmr.se
+      d: ""
+    - rx:
+        f: 432.6
+      tx:
+        f: 434.6
+      h: "56048099407"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - https://brandmeister.network/?page=repeater&id=240711
+      d: ""
+h:
+  "55748003089":
+    x:
+      - 70cm: 0
+    p: Lund
+    e: 0
+    g: 42
+    a: 55.7348
+    o: 13.23089
+  "56048099407":
+    x:
+      - 70cm: 1
+    p: Helsingborg
+    e: 0
+    g: 60
+    a: 56.03629
+    o: 12.70407
+o:
+  - sm7ski
+page: https://mapy73.pl/repeater/SK7RJL

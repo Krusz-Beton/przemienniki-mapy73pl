@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.575
+        t:
+          - a: ""
+      tx:
+        f: 434.575
+      h: "59999036830"
+      t: b
+      s: "5"
+      p: 0
+      u: []
+      d: CCS 99412
+h:
+  "59999036830":
+    x:
+      - 70cm: 0
+    p: Tryvann, Oslo
+    e: 535
+    g: 0
+    a: 59.9887
+    o: 10.6683
+o: []
+page: https://mapy73.pl/repeater/LD1OT

@@ -1,0 +1,29 @@
+x:
+  2m:
+    - rx:
+        f: 144.9875
+        t:
+          - c: "74.4"
+      tx:
+        f: 145.5875
+        t:
+          - c: "74.4"
+      h: "52937056952"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - https://www.facebook.com/Sp2gg-PRZEMIENNIKI-112640863853586
+      d: ""
+h:
+  "52937056952":
+    x:
+      - 2m: 0
+    p: Szubin - Jabłowo Pałuckie / wieża p.poż
+    e: 202
+    g: 40
+    a: 52.919733
+    o: 17.836519
+o:
+  - SP2GG
+page: https://mapy73.pl/repeater/SR2J

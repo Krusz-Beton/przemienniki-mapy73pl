@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.825
+        t:
+          - a: ""
+          - c: "88.5"
+      tx:
+        f: 439.425
+        t:
+          - c: "88.5"
+      h: "50136047506"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.ok0bka.cz
+      d: ""
+h:
+  "50136047506":
+    x:
+      - 70cm: 0
+    p: Kněževes Praha - západ
+    e: 365
+    g: 0
+    a: 50.122222
+    o: 14.253056
+o:
+  - OK1FMF
+page: https://mapy73.pl/repeater/OK0BKA

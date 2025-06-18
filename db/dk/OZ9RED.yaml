@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5875
+        t:
+          - a: ""
+      tx:
+        f: 434.5875
+      h: "55865073967"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://www.d-star4all.dk/
+      d: ""
+h:
+  "55865073967":
+    x:
+      - 70cm: 0
+    p: Vig
+    e: 0
+    g: 0
+    a: 55.854198
+    o: 11.541668
+o: []
+page: https://mapy73.pl/repeater/OZ9RED

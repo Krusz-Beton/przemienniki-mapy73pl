@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - b: ""
+      tx:
+        f: 145.675
+      h: "63771053281"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "63771053281":
+    x:
+      - 2m: 0
+    p: Örnsköldsvik / Bågaliden
+    e: 530
+    g: 0
+    a: 63.753198
+    o: 18.334808
+o:
+  - \u00d6rjan
+page: https://mapy73.pl/repeater/SK3RLO

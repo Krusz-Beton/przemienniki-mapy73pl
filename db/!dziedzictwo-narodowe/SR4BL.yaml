@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.6
+        t:
+          - c: "67.0"
+      h: "53194065216"
+      t: a
+      s: "1"
+      p: 15
+      u: []
+      d: |-
+        - Diamond X-300N (2×5/8) 6.5 dB
+        - 2x Motorola GM 360
+h:
+  "53194065216":
+    x:
+      - 70cm: 0
+    p: Łomża
+    e: 109
+    g: 35
+    a: 53.172613
+    o: 22.039165
+o:
+  - SP4BL
+page: https://mapy73.pl/repeater/SR4BL

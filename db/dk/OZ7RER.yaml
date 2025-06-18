@@ -1,0 +1,23 @@
+x:
+  2m:
+    - rx:
+        f: 145
+      tx:
+        f: 145.6
+      h: "56092076776"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "56092076776":
+    x:
+      - 2m: 0
+    p: Vestjylland (Ølstrup)
+    e: 43
+    g: 50
+    a: 56.08437
+    o: 8.39776
+o: []
+page: https://mapy73.pl/repeater/OZ7RER

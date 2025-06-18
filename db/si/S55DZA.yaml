@@ -1,0 +1,34 @@
+x:
+  70cm:
+    - rx:
+        f: 430.7
+        t:
+          - b: ""
+          - f: "1"
+      tx:
+        f: 438.3
+      h: "46202072323"
+      t: geab
+      s: "4"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+      e1:
+        - 293
+        - 293112
+      e2:
+        - 2933
+        - 29313
+h:
+  "46202072323":
+    x:
+      - 70cm: 0
+    p: Mrzlica
+    e: 1122
+    g: 0
+    a: 46.187619
+    o: 15.104229
+o:
+  - S50ZRS
+page: https://mapy73.pl/repeater/S55DZA

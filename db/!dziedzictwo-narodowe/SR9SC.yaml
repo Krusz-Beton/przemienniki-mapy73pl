@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.3625
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.9625
+        t:
+          - c: "67.0"
+      h: "49755013598"
+      t: ea
+      s: "6"
+      p: 15
+      u: []
+      d: Kathrein 720-880
+h:
+  "49755013598":
+    x:
+      - 70cm: 0
+    p: Cieszyn
+    e: 348
+    g: 14
+    a: 49.736501
+    o: 18.634977
+o:
+  - SQ9NOO
+page: https://mapy73.pl/repeater/SR9SC

@@ -1,0 +1,25 @@
+h:
+  "41365065243":
+    a: 41.344083
+    o: 21.569428
+    p: Prilep Severna Makedonia
+    e: 0
+    g: 0
+    x:
+      - 2m: 0
+x:
+  2m:
+    - h: "41365065243"
+      u: []
+      d: ""
+      p: 1
+      t: e
+      s: "4"
+      tx:
+        f: 144.45
+      rx:
+        f: 144.45
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/Z36AMB

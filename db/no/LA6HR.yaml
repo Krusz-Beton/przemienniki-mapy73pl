@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.65
+        t:
+          - b: ""
+      tx:
+        f: 434.65
+      h: "59406017500"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.la1t.no/main/la1t/166-la9nr-og-la6hr-over-pa-ny-hardware-fra-26nov/
+      d: ""
+h:
+  "59406017500":
+    x:
+      - 70cm: 0
+    p: Skottås / Horten
+    e: 158
+    g: 0
+    a: 59.3958
+    o: 10.375
+o: []
+page: https://mapy73.pl/repeater/LA6HR

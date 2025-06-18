@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "59849058574"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk4av.se/
+      d: ""
+h:
+  "59849058574":
+    x:
+      - 2m: 0
+    p: Sunne / Blåbärskullen
+    e: 425
+    g: 50
+    a: 59.83672
+    o: 12.86574
+o:
+  - SM4HBG
+page: https://mapy73.pl/repeater/SK4RJJ

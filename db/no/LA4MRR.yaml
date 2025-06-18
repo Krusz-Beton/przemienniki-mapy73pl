@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.9
+        t:
+          - b: ""
+      tx:
+        f: 434.9
+      h: "58111065833"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "58111065833":
+    x:
+      - 70cm: 0
+    p: Varmestø / Mandal
+    e: 290
+    g: 0
+    a: 58.1042
+    o: 7.45833
+o: []
+page: https://mapy73.pl/repeater/LA4MRR

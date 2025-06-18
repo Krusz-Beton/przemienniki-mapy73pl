@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.525
+        t:
+          - a: ""
+      tx:
+        f: 434.525
+      h: "58177017170"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk6dw.se/?page_id=29
+      d: ""
+h:
+  "58177017170":
+    x:
+      - 70cm: 0
+    p: Trollhättan
+    e: 70
+    g: 25
+    a: 58.165
+    o: 12.1717
+o:
+  - Fredrik
+page: https://mapy73.pl/repeater/SK6DW

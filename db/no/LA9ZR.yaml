@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "69122074170"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "69122074170":
+    x:
+      - 2m: 0
+    p: Midt-Troms / Andsfjell
+    e: 652
+    g: 0
+    a: 69.1042
+    o: 18.5417
+o: []
+page: https://mapy73.pl/repeater/LA9ZR

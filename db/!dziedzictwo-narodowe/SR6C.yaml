@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.65
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.25
+        t:
+          - c: "67.0"
+      h: "51278055384"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - http://fm-poland.pl
+      d: 2 x GM360 ant.3x5/8 przemiennik pracuje w sieci FM POLAND
+      j1:
+        - 260694
+h:
+  "51278055384":
+    x:
+      - 70cm: 0
+    p: Bolesławiec
+    e: 191
+    g: 0
+    a: 51.262989
+    o: 15.564836
+o:
+  - SQ6IYY
+page: https://mapy73.pl/repeater/SR6C

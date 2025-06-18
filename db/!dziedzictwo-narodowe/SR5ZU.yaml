@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.1
+        t:
+          - c: "88.5"
+      tx:
+        f: 438.7
+        t:
+          - c: "88.5"
+      h: "53084026614"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: Motorola MTR2000, ant. Comet GP1
+h:
+  "53084026614":
+    x:
+      - 70cm: 0
+    p: Żuromin
+    e: 142
+    g: 58
+    a: 53.064381
+    o: 19.885142
+o:
+  - SQ5BPD
+page: https://mapy73.pl/repeater/SR5ZU

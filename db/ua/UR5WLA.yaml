@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.2
+        t:
+          - d: "074"
+      tx:
+        f: 438.8
+      h: "49836054167"
+      t: a
+      s: "5"
+      p: 5
+      u: []
+      d: DCS - D074N
+h:
+  "49836054167":
+    x:
+      - 70cm: 0
+    p: LVIV
+    e: 0
+    g: 0
+    a: 49.8125
+    o: 24.04167
+o: []
+page: https://mapy73.pl/repeater/UR5WLA

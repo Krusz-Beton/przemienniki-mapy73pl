@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.0625
+        t:
+          - b: ""
+      tx:
+        f: 145.6625
+      h: "59378022295"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.la5m.net/
+      d: ""
+h:
+  "59378022295":
+    x:
+      - 2m: 0
+    p: Moss / Grimstadtoppen
+    e: 80
+    g: 0
+    a: 59.36741
+    o: 10.81295
+o:
+  - LA4FU
+page: https://mapy73.pl/repeater/LA7PR

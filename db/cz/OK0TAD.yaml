@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 430.8
+      tx:
+        f: 438.4
+      h: "50285091000"
+      t: a
+      s: "5"
+      p: 23
+      u:
+        - http://www.prevadece.cz/clanky/spusten-prevadec-ok0tad
+      d: ""
+h:
+  "50285091000":
+    x:
+      - 70cm: 0
+    p: Milovice
+    e: 0
+    g: 0
+    a: 50.27
+    o: 15.91
+o:
+  - OK1JOR
+page: https://mapy73.pl/repeater/OK0TAD

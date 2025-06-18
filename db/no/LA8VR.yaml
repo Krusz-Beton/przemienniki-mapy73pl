@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+      tx:
+        f: 145.7
+      h: "65909009170"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "65909009170":
+    x:
+      - 2m: 0
+    p: Mosjøen / Vardefjell
+    e: 653
+    g: 0
+    a: 65.8958
+    o: 13.2917
+o: []
+page: https://mapy73.pl/repeater/LA8VR

@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+      tx:
+        f: 145.625
+      h: "68413025830"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "68413025830":
+    x:
+      - 2m: 0
+    p: Narvik / Ankenes
+    e: 740
+    g: 0
+    a: 68.3958
+    o: 17.4583
+o: []
+page: https://mapy73.pl/repeater/LA8NRR

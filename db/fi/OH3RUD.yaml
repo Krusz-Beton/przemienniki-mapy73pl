@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.8
+        t:
+          - b: ""
+      tx:
+        f: 434.8
+      h: "61379024170"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://r.net.rats.fi/wp/
+      d: ""
+h:
+  "61379024170":
+    x:
+      - 70cm: 0
+    p: Vesijako
+    e: 241
+    g: 98
+    a: 61.3542
+    o: 25.0417
+o:
+  - OH2AUE
+page: https://mapy73.pl/repeater/OH3RUD

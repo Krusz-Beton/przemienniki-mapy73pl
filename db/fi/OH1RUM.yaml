@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.925
+        t:
+          - b: ""
+      tx:
+        f: 434.925
+      h: "60721093320"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oh1rum.qrm.fi/
+      d: ""
+h:
+  "60721093320":
+    x:
+      - 70cm: 0
+    p: Koski
+    e: 147
+    g: 22
+    a: 60.6989
+    o: 23.0332
+o:
+  - OH10AS
+page: https://mapy73.pl/repeater/OH1RUM

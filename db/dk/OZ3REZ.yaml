@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.875
+      tx:
+        f: 434.875
+      h: "55653060485"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.info-f.dk/lfr/uhf.htm
+      d: ""
+h:
+  "55653060485":
+    x:
+      - 70cm: 0
+    p: Roskilde / Kara
+    e: 47
+    g: 138
+    a: 55.641484
+    o: 12.12085
+o: []
+page: https://mapy73.pl/repeater/OZ3REZ

@@ -1,0 +1,39 @@
+x:
+  70cm:
+    - rx:
+        f: 431.5625
+        t:
+          - f: "1"
+      tx:
+        f: 439.1625
+      h: "50959082376"
+      t: e
+      s: "5"
+      p: 15
+      u: []
+      d: |-
+        CC.1 
+        RX/TX: MOTOROLA MTR2000
+        Duplexer: PROCOM DPF70/6-150
+        Fider: 7m, H-1000 BELDEN
+        Antena: KATHREIN K 7516211, 7dBi
+        Raspberry Pi 3b+
+        MMDVM repeater kit
+        Wraz z przemiennikiem zainstalowany został przekaznik APRS - SR6AJG
+      e1:
+        - 260
+      e2:
+        - 26067
+        - 26068
+h:
+  "50959082376":
+    x:
+      - 70cm: 0
+    p: Jeżów Sudecki
+    e: 553
+    g: 6
+    a: 50.944061
+    o: 15.762764
+o:
+  - SP6TKP
+page: https://mapy73.pl/repeater/SR6DJG

@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8
+        t:
+          - b: ""
+      tx:
+        f: 439.4
+      h: "53699014263"
+      t: da
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "53699014263":
+    x:
+      - 70cm: 0
+    p: Ratzeburg
+    e: 58
+    g: 0
+    a: 53.688335
+    o: 10.807629
+o:
+  - DL5HAQ
+page: https://mapy73.pl/repeater/DB0HZL

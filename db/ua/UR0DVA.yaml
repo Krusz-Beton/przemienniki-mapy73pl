@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - c: "173.8"
+      tx:
+        f: 145.675
+      h: "48638063109"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: 173,8 CTCSS for WIRES-X Activation dual mode analog + Fusion
+h:
+  "48638063109":
+    x:
+      - 2m: 0
+    p: Uzhhorod
+    e: 0
+    g: 0
+    a: 48.616287
+    o: 22.344089
+o: []
+page: https://mapy73.pl/repeater/UR0DVA

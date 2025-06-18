@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.75
+      tx:
+        f: 434.75
+      h: "56700037500"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.qrz.com/db/SL6BH
+      d: ""
+h:
+  "56700037500":
+    x:
+      - 70cm: 0
+    p: Halmstad
+    e: 0
+    g: 0
+    a: 56.6875
+    o: 12.875
+o:
+  - SM6URQ
+page: https://mapy73.pl/repeater/SL6BH.R

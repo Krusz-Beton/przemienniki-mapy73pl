@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.025
+        t:
+          - b: ""
+      tx:
+        f: 438.625
+      h: "48190020296"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.darc.de/der-club/distrikte/c/ortsverbaende/15/dmoebgh-70cm-relais/
+      d: ""
+h:
+  "48190020296":
+    x:
+      - 70cm: 0
+    p: ""
+    e: 420
+    g: 0
+    a: 48.177365
+    o: 12.837962
+o: []
+page: https://mapy73.pl/repeater/DM0BGH

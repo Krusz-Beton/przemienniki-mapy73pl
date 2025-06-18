@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.025
+        t:
+          - c: "88.5"
+      tx:
+        f: 438.625
+        t:
+          - c: "88.5"
+      h: "49924016888"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://www.ok0bnh.cz
+      d: ""
+h:
+  "49924016888":
+    x:
+      - 70cm: 0
+    p: Černolice
+    e: 550
+    g: 0
+    a: 49.909883
+    o: 14.285879
+o:
+  - OK1IFE
+page: https://mapy73.pl/repeater/OK0BNH

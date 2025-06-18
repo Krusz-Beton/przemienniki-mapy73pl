@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.825
+      tx:
+        f: 434.825
+      h: "56203034730"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "56203034730":
+    x:
+      - 70cm: 0
+    p: Mörrum
+    e: 0
+    g: 0
+    a: 56.1886
+    o: 14.7473
+o:
+  - Olle
+page: https://mapy73.pl/repeater/SM7LNT.R

@@ -1,0 +1,57 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7375
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.3375
+      h: "51272040259"
+      t: aj
+      s: "4"
+      p: 5
+      u:
+        - http://fm-poland.pl
+      d: |-
+        Pozwolenie DC.WML.5101.4070.2023.2
+        Przemiennik podłączony do sieci FM-Poland z domyślą grupą 26061 Legnica
+      j0:
+        - 26061
+      j1:
+        - 2606
+        - 26061
+        - 26069
+        - 260612
+        - 260691
+        - 260695
+    - tx:
+        f: 438.15
+      rx:
+        f: 430.55
+        t:
+          - f: "1"
+      h: "51272040259"
+      u: []
+      d: ""
+      p: 5
+      t: e
+      s: "4"
+      e1:
+        - 26066
+      e2:
+        - 26067
+        - 26068
+h:
+  "51272040259":
+    x:
+      - 70cm: 0
+      - 70cm: 1
+    p: Miłkowice
+    e: 126
+    g: 20
+    a: 51.256347
+    o: 16.055585
+o:
+  - SP6ONA
+  - SP6AW
+page: https://mapy73.pl/repeater/SR6MI

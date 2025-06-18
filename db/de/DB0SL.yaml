@@ -1,0 +1,46 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+          - c: "71.9"
+      tx:
+        f: 145.7
+        t:
+          - c: "71.9"
+      h: "48867024170"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.darc.de/distrikte/u/07/relais-db0sl/
+      d: ""
+  70cm:
+    - rx:
+        f: 431.45
+        t:
+          - b: ""
+      tx:
+        f: 439.05
+        t:
+          - c: "71.9"
+      h: "48867024170"
+      t: da
+      s: "5"
+      p: 6
+      u:
+        - https://www.darc.de/distrikte/u/07/relais-db0sl/
+      d: ""
+h:
+  "48867024170":
+    x:
+      - 2m: 0
+      - 70cm: 0
+    p: Greising
+    e: 0
+    g: 0
+    a: 48.8542
+    o: 13.0417
+o: []
+page: https://mapy73.pl/repeater/DB0SL

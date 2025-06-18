@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.75
+        t:
+          - b: ""
+      tx:
+        f: 434.75
+      h: "65917039200"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "65917039200":
+    x:
+      - 70cm: 0
+    p: Kalix / Raggdynan
+    e: 0
+    g: 0
+    a: 65.89464
+    o: 22.752
+o: []
+page: https://mapy73.pl/repeater/SK2RJH

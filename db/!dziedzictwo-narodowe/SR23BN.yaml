@@ -1,0 +1,29 @@
+x:
+  23cm:
+    - rx:
+        f: 1270.175
+        t:
+          - a: ""
+      tx:
+        f: 1298.175
+        t:
+          - c: "71.9"
+      h: "50326060894"
+      t: ab
+      s: "5"
+      p: 10
+      u:
+        - http://radioamatorzy.pl
+      d: Tryb pracy mix FM / DStar (w początkowej fazie bez podłączenia do sieci)
+h:
+  "50326060894":
+    x:
+      - 23cm: 0
+    p: Będzin
+    e: 400
+    g: 100
+    a: 50.307487
+    o: 19.12194
+o:
+  - SP9QLU
+page: https://mapy73.pl/repeater/SR23BN

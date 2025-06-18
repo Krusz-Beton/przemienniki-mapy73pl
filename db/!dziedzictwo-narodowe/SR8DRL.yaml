@@ -1,0 +1,37 @@
+x:
+  70cm:
+    - rx:
+        f: 430.675
+        t:
+          - f: "1"
+      tx:
+        f: 438.275
+      h: "51257048293"
+      t: e
+      s: "4"
+      p: 15
+      u:
+        - http://krotkofalowcy-lublin.pl/dvsr8drl/
+      d: >-
+        Antena: Radmor 3284/3, o zysku energetycznym względem dipola λ/2 8 dBd (10,15
+        dBi).
+
+        Tor odbiorczo – nadawczy: 2 x Motorola GM350.
+      e1:
+        - 260
+        - 2608
+      e2:
+        - 26081
+        - 260015
+h:
+  "51257048293":
+    x:
+      - 70cm: 0
+    p: Lublin
+    e: 185
+    g: 46
+    a: 51.234937
+    o: 22.545933
+o:
+  - SQ8MFR
+page: https://mapy73.pl/repeater/SR8DRL

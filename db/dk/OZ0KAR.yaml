@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.625
+      tx:
+        f: 434.625
+      h: "55744000388"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - https://brandmeister.network/?page=repeater&id=238420
+      d: ""
+h:
+  "55744000388":
+    x:
+      - 70cm: 0
+    p: Herlev
+    e: 0
+    g: 0
+    a: 55.73156
+    o: 12.44388
+o:
+  - OZ2GRE
+page: https://mapy73.pl/repeater/OZ0KAR

@@ -1,0 +1,36 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7625
+        t:
+          - c: "94.8"
+      tx:
+        f: 439.3625
+      h: "50838099775"
+      t: aj
+      s: "4"
+      p: 10
+      u:
+        - http://fm-poland.pl
+      d: Antena Diamond X-30 40 m n.p.g.
+      j0:
+        - 260693
+      j1:
+        - 260
+        - 2600
+        - 2606
+        - 260693
+        - 260694
+h:
+  "50838099775":
+    x:
+      - 70cm: 0
+    p: Wałbrzych
+    e: 0
+    g: 0
+    a: 50.822722
+    o: 16.275748
+o:
+  - SP6FIG
+  - SP6VXP
+page: https://mapy73.pl/repeater/SR6WB

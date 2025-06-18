@@ -1,0 +1,38 @@
+x:
+  70cm:
+    - rx:
+        f: 430.6
+        t:
+          - f: "1"
+      tx:
+        f: 438.2
+      h: "49912064262"
+      t: e
+      s: "4"
+      p: 10
+      u: []
+      d: |-
+        Antena Diamond BC-205
+        Kabel Andrew LDF-4-50A - 50mb
+        Kathrein 8-Komorowy + Multicoupler + Combiner
+        Hytera RD625 ID 260901 CC1 sieć BM
+        TS1 TG260 
+        TS2 TG2 9 oraz 26092
+        Internet dostarcza Firma INFO-NET s.c. http://www.in.net.pl/
+      e1:
+        - 260
+      e2:
+        - 26092
+        - 260015
+h:
+  "49912064262":
+    x:
+      - 70cm: 0
+    p: Lichwin
+    e: 476
+    g: 40
+    a: 49.891714
+    o: 20.928624
+o:
+  - SQ9MUR
+page: https://mapy73.pl/repeater/SR9VDM

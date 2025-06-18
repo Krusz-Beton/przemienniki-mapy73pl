@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 431.9
+      tx:
+        f: 439.5
+      h: "49752025400"
+      t: a
+      s: "5"
+      p: 12
+      u:
+        - http://ok0dpl.ponik.net
+      d: ""
+h:
+  "49752025400":
+    x:
+      - 70cm: 0
+    p: Plzeň - město
+    e: 0
+    g: 0
+    a: 49.738889
+    o: 13.365
+o:
+  - OK1JRA
+page: https://mapy73.pl/repeater/OK0DPL

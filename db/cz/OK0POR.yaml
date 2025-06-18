@@ -1,0 +1,39 @@
+x:
+  2m:
+    - rx:
+        f: 144.9875
+      tx:
+        f: 145.5875
+      h: "49953000856"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: |
+        
+        Antena: bila hul
+        Sprzęt: DVMEGA GMSK Modem, 2x Motorola
+  70cm:
+    - rx:
+        f: 431.8875
+      tx:
+        f: 439.4875
+      h: "49953000856"
+      t: a
+      s: "5"
+      p: 20
+      u: []
+      d: ""
+h:
+  "49953000856":
+    x:
+      - 2m: 0
+      - 70cm: 0
+    p: Vidovice
+    e: 0
+    g: 0
+    a: 49.938333
+    o: 14.675556
+o:
+  - OK1POR
+page: https://mapy73.pl/repeater/OK0POR

@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.2
+        t:
+          - c: "127.3"
+      tx:
+        f: 438.8
+        t:
+          - c: "127.3"
+      h: "51886020837"
+      t: a
+      s: "6"
+      p: 15
+      u: []
+      d: Uruchomienie w lokalizacji docelowej planowane na kwiecień 2017. Do tego
+        czasu działanie testowe z QTH SQ5NWO.
+h:
+  "51886020837":
+    x:
+      - 70cm: 0
+    p: GRÓJEC, ul. PIŁSUDSKIEGO 6
+    e: 154
+    g: 20
+    a: 51.865339
+    o: 20.869367
+o:
+  - SQ5NWO
+page: https://mapy73.pl/repeater/SR5GR

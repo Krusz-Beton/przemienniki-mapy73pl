@@ -1,0 +1,27 @@
+h:
+  "37250008202":
+    a: 37.252495
+    o: -2.412982
+    p: TETICA DE BACARES
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "37250008202"
+      u: []
+      d: ""
+      p: 20
+      t: e
+      s: "4"
+      tx:
+        f: 438.275
+      rx:
+        f: 430.675
+        t:
+          - f: "1"
+      e1:
+        - 214712
+o: []
+page: https://mapy73.pl/repeater/ED7ZAN

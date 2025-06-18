@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.925
+      tx:
+        f: 434.925
+      h: "59631059480"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59631059480":
+    x:
+      - 70cm: 0
+    p: Kil
+    e: 0
+    g: 0
+    a: 59.61844
+    o: 13.1548
+o:
+  - SA4JPK
+page: https://mapy73.pl/repeater/SG4AVE

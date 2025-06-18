@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.4
+        t:
+          - c: "77.0"
+      tx:
+        f: 439
+      h: "51124013075"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: antena GP-6
+h:
+  "51124013075":
+    x:
+      - 70cm: 0
+    p: Działoszyn
+    e: 210
+    g: 95
+    a: 51.105189
+    o: 18.941747
+o:
+  - SP7BIX
+page: https://mapy73.pl/repeater/SR7WI

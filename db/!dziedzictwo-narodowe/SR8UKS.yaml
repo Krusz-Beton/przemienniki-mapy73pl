@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.5125
+        t:
+          - a: ""
+      tx:
+        f: 439.1125
+      h: "49777093494"
+      t: b
+      s: "1"
+      p: 10
+      u:
+        - http://otpzk05.pl/
+      d: "Antena RX/TX MA-2000 wysokość zawieszenia 74,40m n.p.t., feeder 2; Zakres
+        częstotliwości pracy anteny: 144-146 MHz / 430-440 MHz Zysk: UHF 7.35
+        dBd Długość: 255 cm Złącze: N antena posiada 3 przeciwwagi."
+h:
+  "49777093494":
+    x:
+      - 70cm: 0
+    p: RTCN Sucha Góra/Krosno EmiTel-Czarnorzeki 90
+    e: 585
+    g: 74
+    a: 49.756122
+    o: 21.812941
+o:
+  - SP8EFJ
+page: https://mapy73.pl/repeater/SR8UKS

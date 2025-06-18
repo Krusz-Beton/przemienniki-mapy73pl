@@ -1,0 +1,23 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5125
+      tx:
+        f: 434.5125
+      h: "59996062500"
+      t: b
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59996062500":
+    x:
+      - 70cm: 0
+    p: Uppsala / Fjuckby
+    e: 0
+    g: 0
+    a: 59.979
+    o: 17.625
+o: []
+page: https://mapy73.pl/repeater/SA5BJM

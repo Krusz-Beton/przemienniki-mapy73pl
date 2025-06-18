@@ -1,0 +1,43 @@
+x:
+  70cm:
+    - rx:
+        f: 431.75
+        t:
+          - a: ""
+          - c: "94.8"
+      tx:
+        f: 439.35
+        t:
+          - c: "94.8"
+      h: "53766026618"
+      t: aj
+      s: "4"
+      p: 15
+      u:
+        - https://minilink.pl/wp/
+        - https://fm-poland.pl
+      d: >-
+        Przemiennik SR2GDA FM-Echolink w Smętowo Graniczne Rx: 439,350 Tx: 431,750
+        CTCSS: 94,8Hz
+
+
+        Trx: Motorola GM340
+
+        Antena: Diamond X300
+
+        Pwr: 15W
+
+
+        Połączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C - SR2GA - SR4WA
+h:
+  "53766026618":
+    x:
+      - 70cm: 0
+    p: Smętowo Graniczne
+    e: 150
+    g: 10
+    a: 53.747576
+    o: 18.690181
+o:
+  - SP4OX
+page: https://mapy73.pl/repeater/SR2GDA

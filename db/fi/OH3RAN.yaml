@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "60842062100"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60842062100":
+    x:
+      - 2m: 0
+    p: Forssa
+    e: 151
+    g: 52
+    a: 60.819
+    o: 23.621
+o:
+  - OH3MPB
+page: https://mapy73.pl/repeater/OH3RAN

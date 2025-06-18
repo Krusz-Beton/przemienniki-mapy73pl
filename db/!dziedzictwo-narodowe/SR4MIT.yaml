@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 430.925
+        t:
+          - a: ""
+      tx:
+        f: 438.525
+      h: "53959057176"
+      t: g
+      s: "5"
+      p: 15
+      u:
+        - https://sp4.jestok.com
+      d: >-
+        Przemiennik Fusion C4FM 
+
+        Anteny: X-300 @180m RX, GP-98 @ 210m TX, 230m LDF-5 7/8, przemiennik YAESU DR-1XE + HRI-200 - Przemiennik działa w systemie WIRES-X
+h:
+  "53959057176":
+    x:
+      - 70cm: 0
+    p: Miłki k/Giżycka EMITEL
+    e: 244
+    g: 180
+    a: 53.937727
+    o: 21.844764
+o:
+  - SQ4LWO
+page: https://mapy73.pl/repeater/SR4MIT

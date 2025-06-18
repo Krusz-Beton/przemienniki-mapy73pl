@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - a: ""
+      tx:
+        f: 145.775
+      h: "52215026011"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: ""
+h:
+  "52215026011":
+    x:
+      - 2m: 0
+    p: Warszawa Ursus
+    e: 107
+    g: 0
+    a: 52.194374
+    o: 20.886109
+o:
+  - SP5RDD
+page: https://mapy73.pl/repeater/SR5U

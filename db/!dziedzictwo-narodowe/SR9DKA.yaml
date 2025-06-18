@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 430.9
+        t:
+          - f: "1"
+      tx:
+        f: 438.5
+      h: "50317020803"
+      t: e
+      s: "6"
+      p: 15
+      u: []
+      d: CC1
+h:
+  "50317020803":
+    x:
+      - 70cm: 0
+    p: Siemianowice Śląskie
+    e: 314
+    g: 35
+    a: 50.298203
+    o: 19.005029
+o:
+  - SQ9GIN
+page: https://mapy73.pl/repeater/SR9DKA

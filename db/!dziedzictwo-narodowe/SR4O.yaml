@@ -1,0 +1,33 @@
+x:
+  2m:
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+        t:
+          - c: "67.0"
+      h: "53793063132"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - https://sp4.jestok.com/przemienniki/sr4o
+      d: |-
+        Antena: DIAMOND X-200, przemiennik: TAIT, duplexer 6-rurowy.
+        Wysokość n.p.g. 80m
+        Wysokość n.p.m. 220m
+        Lokalizacja - Olsztyn / Michelin
+h:
+  "53793063132":
+    x:
+      - 2m: 0
+    p: Olsztyn
+    e: 167
+    g: 35
+    a: 53.773118
+    o: 20.51332
+o:
+  - SP4XQS
+page: https://mapy73.pl/repeater/SR4O

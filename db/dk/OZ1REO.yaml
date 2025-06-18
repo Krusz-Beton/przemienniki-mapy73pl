@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.575
+        t:
+          - a: ""
+      tx:
+        f: 434.575
+      h: "55739066390"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=OZ1REO&mod=B
+      d: ""
+h:
+  "55739066390":
+    x:
+      - 70cm: 0
+    p: Copenhagen / Mørkhøj
+    e: 22
+    g: 6
+    a: 55.7272
+    o: 12.4639
+o: []
+page: https://mapy73.pl/repeater/OZ1REO

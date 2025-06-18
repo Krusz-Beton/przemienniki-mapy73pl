@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "57622065830"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "57622065830":
+    x:
+      - 2m: 0
+    p: Endre
+    e: 0
+    g: 0
+    a: 57.6042
+    o: 18.4583
+o:
+  - Anders
+page: https://mapy73.pl/repeater/SK1BL.R

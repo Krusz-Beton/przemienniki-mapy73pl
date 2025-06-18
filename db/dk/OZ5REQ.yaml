@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.825
+        t:
+          - b: ""
+      tx:
+        f: 434.825
+      h: "54786093599"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oz2ld.dk/52709325/
+      d: ""
+h:
+  "54786093599":
+    x:
+      - 70cm: 0
+    p: Maribo
+    e: 10
+    g: 0
+    a: 54.775451
+    o: 11.484993
+o: []
+page: https://mapy73.pl/repeater/OZ5REQ

@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.025
+        t:
+          - a: ""
+      tx:
+        f: 438.625
+      h: "49989090109"
+      t: g
+      s: "5"
+      p: 0
+      u:
+        - http://www.wiresx.pl
+      d: Przemiennik obsługuje Wires-X, FM nie jest połączony z tą siecią.
+h:
+  "49989090109":
+    x:
+      - 70cm: 0
+    p: Kraków
+    e: 255
+    g: 0
+    a: 49.969967
+    o: 19.934092
+o:
+  - SP9ACQ
+page: https://mapy73.pl/repeater/SR9UVC

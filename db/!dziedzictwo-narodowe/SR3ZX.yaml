@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.75
+        t:
+          - a: ""
+      tx:
+        f: 439.35
+      h: "51951003811"
+      t: gb
+      s: "5"
+      p: 10
+      u: []
+      d: |-
+        9x 5/8
+        Eksperymentalnie 2 systemowy
+        C4FM/Fusion i DSTAR/DV
+h:
+  "51951003811":
+    x:
+      - 70cm: 0
+    p: Zielona Góra
+    e: 237
+    g: 30
+    a: 51.935511
+    o: 15.527107
+o:
+  - SP3DFR
+page: https://mapy73.pl/repeater/SR3ZX

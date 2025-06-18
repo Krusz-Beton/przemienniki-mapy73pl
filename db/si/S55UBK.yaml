@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431
+        t:
+          - a: ""
+      tx:
+        f: 438.6
+      h: "45644076320"
+      t: a
+      s: "2"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "45644076320":
+    x:
+      - 70cm: 0
+    p: Mirna Gora
+    e: 1014
+    g: 0
+    a: 45.62966
+    o: 15.103199
+o:
+  - S59DJR
+page: https://mapy73.pl/repeater/S55UBK

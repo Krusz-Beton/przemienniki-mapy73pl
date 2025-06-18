@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.7
+        t:
+          - b: ""
+      tx:
+        f: 434.7
+      h: "55949055986"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.hamphone.dk/
+      d: ""
+h:
+  "55949055986":
+    x:
+      - 70cm: 0
+    p: Sonder Felding
+    e: 12
+    g: 6
+    a: 55.940778
+    o: 8.781865
+o: []
+page: https://mapy73.pl/repeater/OZ2ERP

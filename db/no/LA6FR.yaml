@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+      tx:
+        f: 145.625
+      h: "58319012500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "58319012500":
+    x:
+      - 2m: 0
+    p: Flekkefjord / Storestø
+    e: 306
+    g: 0
+    a: 58.3125
+    o: 6.625
+o: []
+page: https://mapy73.pl/repeater/LA6FR

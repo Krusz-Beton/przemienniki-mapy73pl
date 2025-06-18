@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+      tx:
+        f: 145.75
+      h: "64998005846"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.marsfjallet.se
+      d: ""
+h:
+  "64998005846":
+    x:
+      - 2m: 0
+    p: Saxnäs / Marsfjället
+    e: 1590
+    g: 0
+    a: 64.982766
+    o: 15.292464
+o:
+  - SM\u00d8DQX
+page: https://mapy73.pl/repeater/SK2RUQ

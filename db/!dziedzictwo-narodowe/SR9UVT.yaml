@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6375
+        t:
+          - f: "9"
+      tx:
+        f: 439.2375
+      h: "49773008220"
+      t: e
+      s: "4"
+      p: 15
+      u:
+        - http://www.kpgk.pl
+      d: "DMR ID: 260911 CC9 MMDVM"
+      e1:
+        - 260
+        - 2609
+      e2:
+        - 26093
+        - 260911
+h:
+  "49773008220":
+    x:
+      - 70cm: 0
+    p: Góra Koskowa POLKOMTEL
+    e: 874
+    g: 10
+    a: 49.7533
+    o: 19.7822
+o:
+  - SP9XWY
+page: https://mapy73.pl/repeater/SR9UVT

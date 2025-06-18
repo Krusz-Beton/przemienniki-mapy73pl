@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.175
+        t:
+          - b: ""
+      tx:
+        f: 438.775
+      h: "52326054167"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.db0bel.de/db0los.html
+        - http://qrzcq.com/call/DB0LOS
+      d: ""
+h:
+  "52326054167":
+    x:
+      - 70cm: 0
+    p: Rauener Berge
+    e: 237
+    g: 90
+    a: 52.3125
+    o: 14.04167
+o: []
+page: https://mapy73.pl/repeater/DB0LOS

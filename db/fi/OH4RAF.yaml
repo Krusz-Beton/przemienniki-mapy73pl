@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.025
+        t:
+          - b: ""
+      tx:
+        f: 145.625
+      h: "61883004167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "61883004167":
+    x:
+      - 2m: 0
+    p: Savonlinna
+    e: 210
+    g: 55
+    a: 61.85417
+    o: 28.875
+o:
+  - OH4NRS
+page: https://mapy73.pl/repeater/OH4RAF

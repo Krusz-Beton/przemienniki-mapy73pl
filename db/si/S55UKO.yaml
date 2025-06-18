@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.55
+        t:
+          - c: "123.0"
+      tx:
+        f: 439.15
+      h: "46528093485"
+      t: ga
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46528093485":
+    x:
+      - 70cm: 0
+    p: Mala Kopa
+    e: 1522
+    g: 0
+    a: 46.513746
+    o: 15.18885
+o:
+  - S50VZZ
+page: https://mapy73.pl/repeater/S55UKO

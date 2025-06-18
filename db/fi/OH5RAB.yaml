@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "61122008080"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oh5ab.org/
+      d: ""
+h:
+  "61122008080":
+    x:
+      - 2m: 0
+    p: Joutseno
+    e: 102
+    g: 30
+    a: 61.0937
+    o: 28.3808
+o:
+  - OH5WP
+page: https://mapy73.pl/repeater/OH5RAB

@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 433.825
+        t:
+          - b: ""
+      tx:
+        f: 434.825
+      h: "60822041100"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60822041100":
+    x:
+      - 70cm: 0
+    p: Uusikaupunki
+    e: 54
+    g: 34
+    a: 60.801
+    o: 21.411
+o:
+  - OH1LVL
+page: https://mapy73.pl/repeater/OH1RUN

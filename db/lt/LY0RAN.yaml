@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - a: ""
+      tx:
+        f: 145.65
+      h: "55545095833"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://www.lrmd.lt/retransliatoriai_en.htm
+      d: ""
+h:
+  "55545095833":
+    x:
+      - 2m: 0
+    p: Anykščiai
+    e: 100
+    g: 50
+    a: 55.52083
+    o: 25.125
+o:
+  - LY3F
+page: https://mapy73.pl/repeater/LY0RAN

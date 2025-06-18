@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.325
+        t:
+          - b: ""
+      tx:
+        f: 438.925
+      h: "50289045833"
+      t: a
+      s: "2"
+      p: 10
+      u:
+        - https://amator.uke.gov.pl/pl/club_devices/102
+      d: |-
+        Uwaga!!!
+        Konserwacja Przemiennika - Wyłączony
+
+        Zmiana Lokalizacji - W Trakcie
+h:
+  "50289045833":
+    x:
+      - 70cm: 0
+    p: Gliwice
+    e: 254
+    g: 34
+    a: 50.27083
+    o: 18.625
+o:
+  - SP9DFH
+page: https://mapy73.pl/repeater/SR9GC

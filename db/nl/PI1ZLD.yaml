@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 430.8
+        t:
+          - a: ""
+      tx:
+        f: 438.4
+      h: "51649079167"
+      t: e
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "51649079167":
+    x:
+      - 70cm: 0
+    p: Zierikzee
+    e: 0
+    g: 0
+    a: 51.64583
+    o: 3.95833
+o: []
+page: https://mapy73.pl/repeater/PI1ZLD

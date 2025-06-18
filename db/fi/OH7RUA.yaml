@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 433.1
+      tx:
+        f: 434.7
+      h: "62927068300"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "62927068300":
+    x:
+      - 70cm: 0
+    p: Kuopio
+    e: 228
+    g: 30
+    a: 62.9
+    o: 27.683
+o:
+  - OH7UE
+page: https://mapy73.pl/repeater/OH7RUA

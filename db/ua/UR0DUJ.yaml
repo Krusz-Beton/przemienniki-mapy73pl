@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.275
+        t:
+          - f: "1"
+      tx:
+        f: 438.875
+      h: "48822040248"
+      t: e
+      s: "5"
+      p: 10
+      u:
+        - https://ur7d.org/novosti/19-runa-online
+      d: Hytera RD625
+h:
+  "48822040248":
+    x:
+      - 70cm: 0
+    p: Polonyna Runa
+    e: 1482
+    g: 0
+    a: 48.799591
+    o: 22.811476
+o:
+  - UR7D
+page: https://mapy73.pl/repeater/UR0DUJ

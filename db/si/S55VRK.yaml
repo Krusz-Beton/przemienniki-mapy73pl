@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - a: ""
+      tx:
+        f: 145.675
+      h: "46500027391"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46500027391":
+    x:
+      - 2m: 0
+    p: Uršlja gora
+    e: 1700
+    g: 0
+    a: 46.485313
+    o: 14.960908
+o:
+  - S59EHI
+page: https://mapy73.pl/repeater/S55VRK

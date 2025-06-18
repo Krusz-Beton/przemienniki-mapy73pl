@@ -1,0 +1,34 @@
+x:
+  2m:
+    - rx:
+        f: 145.37
+        t:
+          - c: "107.2"
+      tx:
+        f: 144.77
+      h: "41830071564"
+      t: j
+      s: "4"
+      p: 0
+      u:
+        - http://paaros.com
+        - https://fm-poland.pl/aktualne-grupy/
+      d: ""
+      j0:
+        - 3109312
+      j1:
+        - 310991
+        - 3109312
+        - 31093123
+h:
+  "41830071564":
+    x:
+      - 2m: 0
+    p: Addison, IL
+    e: 0
+    g: 0
+    a: 41.918735
+    o: -88.01936
+o:
+  - K9RCZ
+page: https://mapy73.pl/repeater/K9RCZ.R

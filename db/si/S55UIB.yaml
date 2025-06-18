@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.1
+        t:
+          - c: "123.0"
+      tx:
+        f: 438.7
+      h: "45542039396"
+      t: da
+      s: "6"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "45542039396":
+    x:
+      - 70cm: 0
+    p: Grmada
+    e: 780
+    g: 0
+    a: 45.528245
+    o: 14.14896
+o:
+  - S59DGO
+page: https://mapy73.pl/repeater/S55UIB

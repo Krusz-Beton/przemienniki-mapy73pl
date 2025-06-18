@@ -1,0 +1,29 @@
+x:
+  23cm:
+    - rx:
+        f: 1293.2
+        t:
+          - a: ""
+      tx:
+        f: 1258.2
+        t:
+          - c: "88.5"
+      h: "50035029167"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://ok0krc.netstranky.cz
+      d: ""
+h:
+  "50035029167":
+    x:
+      - 23cm: 0
+    p: Praha
+    e: 0
+    g: 0
+    a: 50.02083
+    o: 14.45833
+o:
+  - OK1AVK
+page: https://mapy73.pl/repeater/OK0KRC

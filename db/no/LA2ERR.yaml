@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.85
+        t:
+          - b: ""
+      tx:
+        f: 434.85
+      h: "60188014915"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60188014915":
+    x:
+      - 70cm: 0
+    p: Gardermoen
+    e: 0
+    g: 0
+    a: 60.177009
+    o: 11.140148
+o: []
+page: https://mapy73.pl/repeater/LA2ERR

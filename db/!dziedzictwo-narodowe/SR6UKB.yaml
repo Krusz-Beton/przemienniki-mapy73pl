@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6625
+        t:
+          - a: ""
+          - c: "94.8"
+      tx:
+        f: 439.2625
+        t:
+          - c: "94.8"
+      h: "50274043389"
+      t: ab
+      s: "5"
+      p: 10
+      u: []
+      d: >-
+        Przemiennik umożliwiający pracę w dwóch trybach.
+
+        Zbudowany na bazie urządzeń Motorola GM600/950,duplekser PROCOM DPF 70/6-150,jako kontroler zastosowany DVRPTR.
+h:
+  "50274043389":
+    x:
+      - 70cm: 0
+    p: Kopa Biskupia
+    e: 889
+    g: 20
+    a: 50.257005
+    o: 17.428894
+o:
+  - SQ6DXP
+page: https://mapy73.pl/repeater/SR6UKB

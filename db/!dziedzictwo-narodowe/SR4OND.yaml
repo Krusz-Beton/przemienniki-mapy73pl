@@ -1,0 +1,36 @@
+x:
+  70cm:
+    - rx:
+        f: 430.9
+        t:
+          - f: "1"
+      tx:
+        f: 438.5
+      h: "53791008213"
+      t: e
+      s: "4"
+      p: 10
+      u:
+        - https://sp4.jestok.com
+      d: >-
+        przemiennik DMR MOTOTRBO MTR3000 połączony z siecią BrandMeister -
+        zsieciowane oba sloty.
+
+        COLOR CODE 1 (CC1)
+      e1:
+        - 260
+        - 2604
+      e2:
+        - 26041
+h:
+  "53791008213":
+    x:
+      - 70cm: 0
+    p: Olsztyn
+    e: 180
+    g: 70
+    a: 53.770592
+    o: 20.490134
+o:
+  - SQ4BJA
+page: https://mapy73.pl/repeater/SR4OND

@@ -1,0 +1,24 @@
+x:
+  2m:
+    - rx:
+        f: 145.1875
+      tx:
+        f: 145.7875
+      h: "62471093444"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "62471093444":
+    x:
+      - 2m: 0
+    p: Torpshammar
+    e: 0
+    g: 0
+    a: 62.45555
+    o: 16.38444
+o:
+  - Micael
+page: https://mapy73.pl/repeater/SM3XOH.R

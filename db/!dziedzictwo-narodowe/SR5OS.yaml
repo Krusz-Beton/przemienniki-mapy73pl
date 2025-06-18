@@ -1,0 +1,40 @@
+x:
+  70cm:
+    - rx:
+        f: 431.45
+        t:
+          - c: "67.0"
+      tx:
+        f: 439.05
+        t:
+          - c: "67.0"
+      h: "53101071818"
+      t: aj
+      s: "4"
+      p: 10
+      u:
+        - http://sp5kvw.com/sr5os/
+        - http://fm-poland.pl
+      d: |-
+        Antena Diamond X-510N
+        Urządzenie Motorola MTR2000
+        Sterownik Raspberry Pi + SVXLink
+        Narrow FM
+      j1:
+        - 112
+        - 260
+        - 2605
+        - 26051
+        - 260511
+h:
+  "53101071818":
+    x:
+      - 70cm: 0
+    p: Ostrołęka
+    e: 138
+    g: 42
+    a: 53.080149
+    o: 21.56918
+o:
+  - SP5NZH
+page: https://mapy73.pl/repeater/SR5OS

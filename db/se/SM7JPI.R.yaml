@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.925
+      tx:
+        f: 434.925
+      h: "56243021727"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "56243021727":
+    x:
+      - 70cm: 0
+    p: Asarum
+    e: 51
+    g: 15
+    a: 56.2284
+    o: 14.81727
+o:
+  - SM7JPI
+page: https://mapy73.pl/repeater/SM7JPI.R

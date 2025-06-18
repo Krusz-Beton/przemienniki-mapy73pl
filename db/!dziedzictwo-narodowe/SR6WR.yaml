@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.25
+        t:
+          - c: "103.5"
+      tx:
+        f: 438.85
+        t:
+          - c: "103.5"
+      h: "51131042022"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: antena x-300, 212 mnpt, 330 mnpm, sterownik NHRC-2 by SP6AN, 2 * Motorola
+        Maxtrac po niewielkim modsie, duplexer K&L, zasilacz? :) X-BOX, całość w
+        obudowie RACK 3U
+h:
+  "51131042022":
+    x:
+      - 70cm: 0
+    p: Wrocław
+    e: 120
+    g: 60
+    a: 51.114462
+    o: 16.958219
+o:
+  - SQ6NCZ
+page: https://mapy73.pl/repeater/SR6WR

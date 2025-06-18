@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8125
+        t:
+          - f: "1"
+      tx:
+        f: 439.4125
+      h: "50530089304"
+      t: e
+      s: "4"
+      p: 0
+      u: []
+      d: ""
+      e1:
+        - 260
+        - 2606
+      e2:
+        - 26063
+h:
+  "50530089304":
+    x:
+      - 70cm: 0
+    p: STRZELCE OPOLSKIE
+    e: 233
+    g: 0
+    a: 50.5126
+    o: 18.293043
+o:
+  - SP6PDZ
+page: https://mapy73.pl/repeater/SR6SO

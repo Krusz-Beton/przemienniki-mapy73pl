@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6
+        t:
+          - c: "71.9"
+      tx:
+        f: 439.2
+      h: "50338001291"
+      t: ga
+      s: "6"
+      p: 10
+      u:
+        - http://www.sr9se.smsnet.pl/
+      d: ""
+h:
+  "50338001291":
+    x:
+      - 70cm: 0
+    p: Będzin
+    e: 370
+    g: 40
+    a: 50.318897
+    o: 19.115915
+o:
+  - SQ9SBE
+page: https://mapy73.pl/repeater/SR9SE

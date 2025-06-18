@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.425
+        t:
+          - a: ""
+      tx:
+        f: 439.025
+      h: "53923087794"
+      t: b
+      s: "5"
+      p: 10
+      u: []
+      d: ""
+h:
+  "53923087794":
+    x:
+      - 70cm: 0
+    p: Świnoujście
+    e: 3
+    g: 40
+    a: 53.909623
+    o: 14.254937
+o:
+  - SP1WSX
+page: https://mapy73.pl/repeater/SR1UVH

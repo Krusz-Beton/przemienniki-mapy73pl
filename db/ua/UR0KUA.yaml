@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7
+        t:
+          - f: "1"
+      tx:
+        f: 439.3
+      h: "50663009982"
+      t: e
+      s: "5"
+      p: 10
+      u:
+        - http://ur5nbc.qrz.ru/?K
+        - https://www.youtube.com/watch?v=rthBZkDJLPU
+      d: ""
+h:
+  "50663009982":
+    x:
+      - 70cm: 0
+    p: Rivne
+    e: 0
+    g: 0
+    a: 50.636818
+    o: 26.281818
+o:
+  - UR5KSH
+page: https://mapy73.pl/repeater/UR0KUA

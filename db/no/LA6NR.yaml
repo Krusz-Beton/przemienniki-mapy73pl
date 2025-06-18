@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "60529084167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60529084167":
+    x:
+      - 2m: 0
+    p: Hallingdal / Syningen
+    e: 1124
+    g: 0
+    a: 60.5208
+    o: 9.04167
+o: []
+page: https://mapy73.pl/repeater/LA6NR

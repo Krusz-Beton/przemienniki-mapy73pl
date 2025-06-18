@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.1625
+        t:
+          - a: ""
+      tx:
+        f: 145.7625
+      h: "51236012500"
+      t: b
+      s: "5"
+      p: 10
+      u:
+        - http://www.do0erk.de
+      d: ""
+h:
+  "51236012500":
+    x:
+      - 2m: 0
+    p: Erkrath
+    e: 150
+    g: 20
+    a: 51.22917
+    o: 6.95833
+o:
+  - DO2TW
+page: https://mapy73.pl/repeater/DO0ERK

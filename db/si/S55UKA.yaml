@@ -1,0 +1,35 @@
+x:
+  70cm:
+    - rx:
+        f: 431.325
+        t:
+          - c: "123.0"
+          - f: "1"
+      tx:
+        f: 438.925
+      h: "46315016791"
+      t: e
+      s: "4"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+      e1:
+        - 293
+        - 293112
+      e2:
+        - 2931
+        - 2934
+        - 29320
+h:
+  "46315016791":
+    x:
+      - 70cm: 0
+    p: Velika planina (Gradišče)
+    e: 1666
+    g: 0
+    a: 46.300523
+    o: 14.644913
+o:
+  - S50ZRS
+page: https://mapy73.pl/repeater/S55UKA

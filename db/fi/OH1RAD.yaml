@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+      tx:
+        f: 145.7
+      h: "60406013300"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60406013300":
+    x:
+      - 2m: 0
+    p: Salo
+    e: 93
+    g: 30
+    a: 60.383
+    o: 23.133
+o:
+  - OH1VT
+page: https://mapy73.pl/repeater/OH1RAD

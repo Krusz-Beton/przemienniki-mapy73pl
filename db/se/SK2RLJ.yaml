@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "63861041997"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.fura.se/index.php?option=com_content&view=article&id=2162&Itemid=228
+      d: ""
+h:
+  "63861041997":
+    x:
+      - 2m: 0
+    p: Umeå / Rödberget
+    e: 48
+    g: 40
+    a: 63.84121
+    o: 20.20997
+o: []
+page: https://mapy73.pl/repeater/SK2RLJ

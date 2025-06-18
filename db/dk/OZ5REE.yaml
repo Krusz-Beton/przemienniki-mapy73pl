@@ -1,0 +1,23 @@
+x:
+  23cm:
+    - rx:
+        f: 1291
+      tx:
+        f: 1297
+      h: "55735098608"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "55735098608":
+    x:
+      - 23cm: 0
+    p: Ballerup
+    e: 30
+    g: 0
+    a: 55.72363
+    o: 12.35608
+o: []
+page: https://mapy73.pl/repeater/OZ5REE

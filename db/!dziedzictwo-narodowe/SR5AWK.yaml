@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6125
+        t:
+          - a: ""
+      tx:
+        f: 431.6125
+      h: "52152022590"
+      t: h
+      s: "6"
+      p: 10
+      u:
+        - https://www.qrz.com/db/SR5AWK
+      d: |-
+        TETRA DMO: MCC 260, MNC 2605, TG 260
+        Przemiennik uruchomiony w sieci FM-Poland
+        Antena X-300, Motorola Cleartone CM-5000
+h:
+  "52152022590":
+    x:
+      - 70cm: 0
+    p: Warszawa
+    e: 107
+    g: 35
+    a: 52.13117
+    o: 21.055902
+o:
+  - SP5AWK
+page: https://mapy73.pl/repeater/SR5AWK

@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.05
+        t:
+          - a: ""
+      tx:
+        f: 438.65
+        t:
+          - c: "118.8"
+      h: "51034007707"
+      t: gda
+      s: "5"
+      p: 15
+      u: []
+      d: Yaesu Fusion C4FM
+h:
+  "51034007707":
+    x:
+      - 70cm: 0
+    p: Bałtów
+    e: 230
+    g: 10
+    a: 51.012532
+    o: 21.545069
+o:
+  - SQ7OWN
+page: https://mapy73.pl/repeater/SR7PB

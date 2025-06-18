@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.625
+        t:
+          - a: ""
+      tx:
+        f: 439.225
+      h: "46048045105"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46048045105":
+    x:
+      - 70cm: 0
+    p: Vojsko
+    e: 1129
+    g: 0
+    a: 46.03454
+    o: 13.911049
+o:
+  - S59EYE
+page: https://mapy73.pl/repeater/S55UID

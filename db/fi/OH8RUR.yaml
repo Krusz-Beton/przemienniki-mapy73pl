@@ -1,0 +1,23 @@
+x:
+  70cm:
+    - rx:
+        f: 432.925
+      tx:
+        f: 434.925
+      h: "64709036920"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "64709036920":
+    x:
+      - 70cm: 0
+    p: Pattijoki
+    e: 57
+    g: 43
+    a: 64.6848
+    o: 24.5692
+o: []
+page: https://mapy73.pl/repeater/OH8RUR

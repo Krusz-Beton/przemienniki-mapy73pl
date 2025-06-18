@@ -1,0 +1,38 @@
+x:
+  70cm:
+    - rx:
+        f: 431.475
+        t:
+          - c: "203.5"
+      tx:
+        f: 439.075
+        t:
+          - c: "203.5"
+      h: "51942046804"
+      t: a
+      s: "5"
+      p: 5
+      u:
+        - http://otpzk32.vgh.pl/readarticle.php?article_id=161
+      d: |-
+        Przemiennik crossband wyłączono
+        w nowej wersji:
+        radiotelefony: Yaesu VX-2100
+        sterownik przemiennika: firma SatCom
+        zasilacz buforowy: Megan Well AD155
+        duplekser: PROCOM
+        antena: Diamond X300
+        wysokość gruntu 187mnpm(geoportal)
+        wysokość anteny n/g 36m
+h:
+  "51942046804":
+    x:
+      - 70cm: 0
+    p: Zielona Góra
+    e: 225
+    g: 0
+    a: 51.92698
+    o: 15.488042
+o:
+  - SP3PJE
+page: https://mapy73.pl/repeater/SR3ZG

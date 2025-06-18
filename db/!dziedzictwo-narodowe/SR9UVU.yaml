@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.5625
+        t:
+          - a: ""
+      tx:
+        f: 439.1625
+      h: "49704050422"
+      t: b
+      s: "6"
+      p: 10
+      u: []
+      d: ""
+h:
+  "49704050422":
+    x:
+      - 70cm: 0
+    p: Skrzyczne
+    e: 1239
+    g: 10
+    a: 49.685473
+    o: 19.031218
+o:
+  - SQ6ODL
+page: https://mapy73.pl/repeater/SR9UVU

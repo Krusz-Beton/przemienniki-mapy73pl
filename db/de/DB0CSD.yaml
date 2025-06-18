@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.7
+        t:
+          - b: ""
+      tx:
+        f: 438.7
+      h: "50742012500"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.dm2kl.de/relais.html
+      d: ""
+h:
+  "50742012500":
+    x:
+      - 70cm: 0
+    p: Chemnitz
+    e: 0
+    g: 0
+    a: 50.72917
+    o: 12.95833
+o:
+  - DG1CPA
+page: https://mapy73.pl/repeater/DB0CSD

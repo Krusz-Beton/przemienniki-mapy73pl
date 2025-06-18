@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 430.8625
+        t:
+          - c: "127.3"
+      tx:
+        f: 438.4625
+        t:
+          - c: "127.3"
+      h: "52383026465"
+      t: a
+      s: "3"
+      p: 9
+      u:
+        - https://sp5wwl.pl/
+        - https://skzw.pl/
+      d: SR5WWL , 438.462500 MHz. Jeszcze działa w fazie testów.
+h:
+  "52383026465":
+    x:
+      - 70cm: 0
+    p: Marki
+    e: 90
+    g: 12
+    a: 52.362126
+    o: 21.138649
+o:
+  - SP5WWL
+page: https://mapy73.pl/repeater/SR5WWL

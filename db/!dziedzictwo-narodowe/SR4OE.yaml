@@ -1,0 +1,52 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8
+        t:
+          - a: ""
+          - f: "1"
+      tx:
+        f: 439.4
+      h: "54057099811"
+      t: ge
+      s: "6"
+      p: 15
+      u:
+        - http://dmrplus.pl
+        - http://c4fm.pl
+      d: >-
+        Przemiennik DMR+ / Fusion II
+
+
+        Przemiennik sieci DMRplus 
+
+        Color Code 4
+
+
+        Przemiennik Fusion II (YCS)
+
+        połączenia wyłącznie za pomocą grup DG-ID
+
+        domyślna grupa DG-ID 60
+
+        pozostałe grupy DG-ID dostępne dynamicznie
+
+
+        Przemiennik na stałe zalogowany do reflektora YSF: 26001 PL-C4FM-Poland (YCS260)
+
+
+        Nie używać funkcji Wires-X (przycisk X)
+
+        Przemiennik pracuje wyłącznie w sieci Fusion II (YCS)
+h:
+  "54057099811":
+    x:
+      - 70cm: 0
+    p: Olecko
+    e: 220
+    g: 42
+    a: 54.035498
+    o: 22.500114
+o:
+  - SP4SKD
+page: https://mapy73.pl/repeater/SR4OE

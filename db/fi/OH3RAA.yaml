@@ -1,0 +1,58 @@
+x:
+  70cm:
+    - rx:
+        f: 432.625
+        t:
+          - b: ""
+      tx:
+        f: 434.625
+      h: "60974068450"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://koti.aina.net/~ham/toistimet.html
+      d: ""
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - b: ""
+      tx:
+        f: 145.675
+      h: "60974068450"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://koti.aina.net/~ham/toistimet.html
+      d: ""
+  23cm:
+    - rx:
+        f: 1291.05
+        t:
+          - b: ""
+      tx:
+        f: 1297.05
+      h: "60974068450"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://koti.aina.net/~ham/toistimet.html
+      d: ""
+h:
+  "60974068450":
+    x:
+      - 70cm: 0
+      - 2m: 0
+      - 23cm: 0
+    p: Hämeenlinna
+    e: 185
+    g: 45
+    a: 60.9502
+    o: 24.4845
+o:
+  - OH3UW/OH3XA
+  - OH3UW
+page: https://mapy73.pl/repeater/OH3RAA

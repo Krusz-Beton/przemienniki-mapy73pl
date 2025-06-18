@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.75
+        t:
+          - b: ""
+          - e: "5"
+      tx:
+        f: 434.75
+      h: "59781059170"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.la3f.no/
+      d: ""
+h:
+  "59781059170":
+    x:
+      - 70cm: 0
+    p: Follo / Stangåsen
+    e: 228
+    g: 0
+    a: 59.7708
+    o: 10.7917
+o: []
+page: https://mapy73.pl/repeater/LA2YRR

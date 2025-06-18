@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 435.65
+        t:
+          - b: ""
+          - e: "1"
+      tx:
+        f: 434.65
+      h: "60533019447"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60533019447":
+    x:
+      - 70cm: 0
+    p: Årsunda
+    e: 0
+    g: 0
+    a: 60.51646
+    o: 16.73447
+o:
+  - SM3LEI
+page: https://mapy73.pl/repeater/SM3LEI.R

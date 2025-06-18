@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.125
+        t:
+          - f: "1"
+      tx:
+        f: 438.725
+      h: "46118046769"
+      t: e
+      s: "4"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+      e1:
+        - 293
+        - 293112
+      e2:
+        - 2934
+h:
+  "46118046769":
+    x:
+      - 70cm: 0
+    p: Ermanovec (Gorenja vas)
+    e: 1026
+    g: 0
+    a: 46.104405
+    o: 14.062695
+o:
+  - S53DGM
+page: https://mapy73.pl/repeater/S55DGV

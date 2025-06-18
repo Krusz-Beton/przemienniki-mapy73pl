@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.8
+      tx:
+        f: 434.8
+      h: "60416088800"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60416088800":
+    x:
+      - 70cm: 0
+    p: Borlänge
+    e: 308
+    g: 14
+    a: 60.40142
+    o: 15.468
+o:
+  - sk4bw
+page: https://mapy73.pl/repeater/SK4RVN

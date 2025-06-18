@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 432.675
+        t:
+          - b: ""
+      tx:
+        f: 434.675
+      h: "60781030010"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://r.net.rats.fi/wp/
+      d: ""
+h:
+  "60781030010":
+    x:
+      - 70cm: 0
+    p: Riihimäki
+    e: 135
+    g: 25
+    a: 60.7565
+    o: 24.8001
+o:
+  - OH3FP/OH3HY
+page: https://mapy73.pl/repeater/OH3RUR

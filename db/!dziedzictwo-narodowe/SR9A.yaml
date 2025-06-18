@@ -1,0 +1,29 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "49905026747"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://sr9a.qrz.pl/
+      d: |-
+        3x5/8 Radmor 3282
+        Planowane uruchomienie dekodera CTCSS 103.5Hz
+h:
+  "49905026747":
+    x:
+      - 2m: 0
+    p: Góra Wał - Tarnów
+    e: 526
+    g: 50
+    a: 49.884356
+    o: 20.911473
+o:
+  - SQ9CAV
+page: https://mapy73.pl/repeater/SR9A

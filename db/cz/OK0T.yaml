@@ -1,0 +1,51 @@
+x:
+  2m:
+    - rx:
+        f: 145.1875
+        t:
+          - c: "88.5"
+      tx:
+        f: 145.7875
+      h: "50652019300"
+      t: a
+      s: "5"
+      p: 25
+      u:
+        - http://ok0t.ddns.net
+      d: ""
+  70cm:
+    - rx:
+        f: 431.2
+        t:
+          - c: "88.5"
+      tx:
+        f: 438.8
+        t:
+          - c: "88.5"
+      h: "50652047128"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: ""
+h:
+  "50652019300":
+    x:
+      - 2m: 0
+    p: Teplice - Doubravka
+    e: 0
+    g: 0
+    a: 50.638333
+    o: 13.86
+  "50652047128":
+    x:
+      - 70cm: 0
+    p: Teplice - Doubravka
+    e: 400
+    g: 0
+    a: 50.638611
+    o: 13.860278
+o:
+  - OK1VM
+  - OK5DM
+page: https://mapy73.pl/repeater/OK0T

@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 433.025
+      tx:
+        f: 434.625
+      h: "62382007500"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "62382007500":
+    x:
+      - 70cm: 0
+    p: Varkaus
+    e: 145
+    g: 24
+    a: 62.3542
+    o: 27.875
+o:
+  - OH7KNN
+page: https://mapy73.pl/repeater/OH7RUN

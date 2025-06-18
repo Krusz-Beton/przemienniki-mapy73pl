@@ -1,0 +1,34 @@
+x:
+  70cm:
+    - rx:
+        f: 430.6
+        t:
+          - f: "1"
+      tx:
+        f: 438.2
+      h: "50696080667"
+      t: e
+      s: "4"
+      p: 15
+      u: []
+      d: |-
+        CC 1
+        subskrypcja grup statycznych:
+        slot 1: 260, 2606
+        slot 2: brak subskrypcji
+      e1:
+        - 2606
+      e2:
+        - 26066
+h:
+  "50696080667":
+    x:
+      - 70cm: 0
+    p: Wielka Sowa
+    e: 1015
+    g: 25
+    a: 50.680321
+    o: 16.485667
+o:
+  - SQ6POG
+page: https://mapy73.pl/repeater/SR6RWS

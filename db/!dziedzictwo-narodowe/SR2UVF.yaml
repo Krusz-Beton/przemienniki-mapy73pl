@@ -1,0 +1,35 @@
+x:
+  70cm:
+    - rx:
+        f: 431.3375
+        t:
+          - a: ""
+          - f: "1"
+      tx:
+        f: 438.9375
+      h: "53160046774"
+      t: geb
+      s: "4"
+      p: 15
+      u:
+        - http://sr2uvf.ampr.org
+      d: ""
+      e1:
+        - 260
+        - 2602
+        - 260015
+      e2:
+        - 26077
+        - 260260
+h:
+  "53160046774":
+    x:
+      - 70cm: 0
+    p: Bydgoszcz
+    e: 85
+    g: 40
+    a: 53.142333
+    o: 18.134742
+o:
+  - SQ2FRB
+page: https://mapy73.pl/repeater/SR2UVF

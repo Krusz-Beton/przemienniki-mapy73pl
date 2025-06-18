@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 430.7
+        t:
+          - a: ""
+      tx:
+        f: 438.3
+      h: "52166088929"
+      t: gb
+      s: "6"
+      p: 15
+      u: []
+      d: MMDVM
+h:
+  "52166088929":
+    x:
+      - 70cm: 0
+    p: Komorów
+    e: 108
+    g: 20
+    a: 52.146074
+    o: 20.815292
+o:
+  - SP5IUZ
+page: https://mapy73.pl/repeater/SR5YM

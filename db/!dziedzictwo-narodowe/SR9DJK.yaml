@@ -1,0 +1,34 @@
+x:
+  70cm:
+    - rx:
+        f: 430.775
+        t:
+          - f: "1"
+      tx:
+        f: 438.375
+      h: "50598095552"
+      t: e
+      s: "4"
+      p: 12
+      u: []
+      d: |-
+        Wysokość n.p.m.: 	410 m
+        Wysokość nad poziomem gruntu: 	20 m 
+        Lokalizacja: 	50,5 N, 19,4 E
+        kolor code 1
+      e1:
+        - 260
+      e2:
+        - 260950
+h:
+  "50598095552":
+    x:
+      - 70cm: 0
+    p: Włodowice - Jura
+    e: 410
+    g: 18
+    a: 50.579506
+    o: 19.449523
+o:
+  - SQ9GIN
+page: https://mapy73.pl/repeater/SR9DJK

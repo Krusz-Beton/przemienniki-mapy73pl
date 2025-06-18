@@ -1,0 +1,24 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+      tx:
+        f: 145.75
+      h: "60225053880"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60225053880":
+    x:
+      - 2m: 0
+    p: Helsinki
+    e: 62
+    g: 38
+    a: 60.2006
+    o: 24.9388
+o:
+  - OH2AA
+page: https://mapy73.pl/repeater/OH2RAA

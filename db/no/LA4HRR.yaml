@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.15
+        t:
+          - b: ""
+      tx:
+        f: 145.75
+      h: "58319054167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "58319054167":
+    x:
+      - 2m: 0
+    p: Kvinesheia
+    e: 560
+    g: 0
+    a: 58.3125
+    o: 7.04167
+o: []
+page: https://mapy73.pl/repeater/LA4HRR

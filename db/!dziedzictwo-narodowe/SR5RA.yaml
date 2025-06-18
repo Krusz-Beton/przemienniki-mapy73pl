@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.325
+        t:
+          - c: "118.8"
+      tx:
+        f: 438.925
+        t:
+          - c: "118.8"
+      h: "51376018680"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - http://sr5ra.tomul.net
+      d: |-
+        TX: COMET GP9N 8x5/8λ [11,9 dBi]
+        RX: DIAMOND F-718 18x1/2λ [11,5 dBi]
+h:
+  "51376018680":
+    x:
+      - 70cm: 0
+    p: Radom
+    e: 230
+    g: 30
+    a: 51.355087
+    o: 21.099805
+o:
+  - SQ7BCZ
+page: https://mapy73.pl/repeater/SR5RA

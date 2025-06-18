@@ -1,0 +1,28 @@
+x:
+  70cm:
+    - rx:
+        f: 431.425
+        t:
+          - b: ""
+          - c: "67.0"
+      tx:
+        f: 439.025
+      h: "51821045833"
+      t: a
+      s: "5"
+      p: 15
+      u:
+        - http://www.db0ug.de
+      d: ""
+h:
+  "51821045833":
+    x:
+      - 70cm: 0
+    p: Paderborn-Eggegebirge
+    e: 0
+    g: 0
+    a: 51.8125
+    o: 8.95833
+o:
+  - DK9QF
+page: https://mapy73.pl/repeater/DB0UG

@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 430.8875
+        t:
+          - f: "4"
+      tx:
+        f: 438.4875
+      h: "53419037500"
+      t: e
+      s: "6"
+      p: 15
+      u: []
+      d: |-
+        Przemiennik MMDVM.
+        Color Code 4.
+        Przemiennik pracuje w sieci DMR+
+h:
+  "53419037500":
+    x:
+      - 70cm: 0
+    p: Sokólka
+    e: 0
+    g: 0
+    a: 53.39583
+    o: 23.54167
+o:
+  - SQ4RSU
+page: https://mapy73.pl/repeater/SR4BSK

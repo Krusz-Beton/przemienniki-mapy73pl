@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.525
+        t:
+          - a: ""
+      tx:
+        f: 439.125
+      h: "50881037057"
+      t: b
+      s: "5"
+      p: 10
+      u:
+        - https://www.sr7uvk.qrz.pl/
+      d: ""
+h:
+  "50881037057":
+    x:
+      - 70cm: 0
+    p: Łysa Góra/Nowa Słupia - RTCN Święty Krzyż EmiTel
+    e: 595
+    g: 120
+    a: 50.860322
+    o: 21.048573
+o:
+  - SP7UDB
+page: https://mapy73.pl/repeater/SR7UVK

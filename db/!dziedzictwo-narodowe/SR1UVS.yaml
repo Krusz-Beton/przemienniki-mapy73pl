@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8125
+        t:
+          - a: ""
+      tx:
+        f: 439.4125
+      h: "53449098058"
+      t: b
+      s: "5"
+      p: 15
+      u:
+        - https://sr1uvs.hamradio.szczecin.pl
+      d: przemiennik DSTAR, antena X-7000, moduł B, radiowa część MTR-2000
+h:
+  "53449098058":
+    x:
+      - 70cm: 0
+    p: Szczecin
+    e: 32
+    g: 70
+    a: 53.435441
+    o: 14.539579
+o:
+  - SP1XNA
+page: https://mapy73.pl/repeater/SR1UVS

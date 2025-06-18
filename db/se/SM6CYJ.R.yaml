@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 432.95
+        t:
+          - a: ""
+      tx:
+        f: 434.95
+      h: "58615010810"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "58615010810":
+    x:
+      - 70cm: 0
+    p: Kinnekulle
+    e: 0
+    g: 0
+    a: 58.6017
+    o: 13.4081
+o: []
+page: https://mapy73.pl/repeater/SM6CYJ.R

@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.625
+        t:
+          - f: "9"
+      tx:
+        f: 439.225
+      h: "50338013766"
+      t: e
+      s: "4"
+      p: 10
+      u: []
+      d: Color Code 9
+      e1:
+        - 260
+      e2:
+        - 260908
+h:
+  "50338013766":
+    x:
+      - 70cm: 0
+    p: Bedzin
+    e: 339
+    g: 43
+    a: 50.319022
+    o: 19.115659
+o:
+  - SP9XLM
+page: https://mapy73.pl/repeater/SR9BN

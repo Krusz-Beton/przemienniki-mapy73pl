@@ -1,0 +1,29 @@
+x:
+  2m:
+    - rx:
+        f: 145.1625
+        t:
+          - b: ""
+          - c: "77.0"
+      tx:
+        f: 145.7625
+        t:
+          - c: "77.0"
+      h: "51286075142"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: 2x X-510, nośna 2,5sekundy/ctcss/1750 Hz
+h:
+  "51286075142":
+    x:
+      - 2m: 0
+    p: Bełchatów
+    e: 205
+    g: 120
+    a: 51.267423
+    o: 19.328424
+o:
+  - SQ7IQA
+page: https://mapy73.pl/repeater/SR7E

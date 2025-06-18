@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.675
+        t:
+          - c: "123.0"
+      tx:
+        f: 439.275
+      h: "46202053532"
+      t: da
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46202053532":
+    x:
+      - 70cm: 0
+    p: Mrzlica
+    e: 1122
+    g: 0
+    a: 46.187428
+    o: 15.107322
+o:
+  - S56CT
+page: https://mapy73.pl/repeater/S55UZA

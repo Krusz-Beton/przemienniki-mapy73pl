@@ -1,0 +1,37 @@
+x:
+  70cm:
+    - rx:
+        f: 430.65
+        t:
+          - f: "1"
+      tx:
+        f: 438.25
+      h: "53569031545"
+      t: e
+      s: "4"
+      p: 15
+      u:
+        - http://sp4.jestok.com
+      d: >-
+        Przemiennik MOTOROLA DR3000, antena COMET GP-9 na szczycie 40-metrowej wieży.
+        Moc 10 W. Przemiennik włączony do sieci BRANDMEISTER.
+
+
+        AKTYWACJA CC1
+      e1:
+        - 260
+        - 2604
+      e2:
+        - 26041
+h:
+  "53569031545":
+    x:
+      - 70cm: 0
+    p: Góra Dylewska EMITEL
+    e: 312
+    g: 45
+    a: 53.549375
+    o: 19.940454
+o:
+  - SQ4FXY
+page: https://mapy73.pl/repeater/SR4DGD

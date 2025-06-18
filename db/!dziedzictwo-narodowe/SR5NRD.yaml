@@ -1,0 +1,48 @@
+r:
+  - - 70cm: 0
+    - 2m: 0
+x:
+  70cm:
+    - rx:
+        f: 431.375
+        t:
+          - c: "74.4"
+      h: "52500007484"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: crossband sprzęga przemienniki SR5NRD z Przemienikiem SR7ZG
+    - rx:
+        f: 431.375
+        t:
+          - c: "127.3"
+      tx:
+        f: 438.975
+      h: "52500007484"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: Motorola GM 1280
+  2m:
+    - tx:
+        f: 144.5625
+      h: "52500007484"
+      t: a
+      s: "5"
+      p: 15
+      u: []
+      d: ""
+h:
+  "52500007484":
+    x:
+      - 70cm: 1
+    p: Cybulin
+    e: 119
+    g: 20
+    a: 52.480013
+    o: 20.061837
+o:
+  - SP5MP
+page: https://mapy73.pl/repeater/SR5NRD

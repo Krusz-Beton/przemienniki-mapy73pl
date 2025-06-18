@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.35
+        t:
+          - c: "123.0"
+      tx:
+        f: 438.95
+      h: "46247098622"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46247098622":
+    x:
+      - 70cm: 0
+    p: Celje
+    e: 238
+    g: 0
+    a: 46.23272
+    o: 15.266223
+o:
+  - S56KZ
+page: https://mapy73.pl/repeater/S55UCE

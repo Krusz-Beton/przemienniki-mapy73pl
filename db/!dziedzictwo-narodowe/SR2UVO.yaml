@@ -1,0 +1,35 @@
+x:
+  70cm:
+    - rx:
+        f: 431.3625
+        t:
+          - a: ""
+          - f: "1"
+      tx:
+        f: 438.9625
+      h: "52661016158"
+      t: geb
+      s: "4"
+      p: 10
+      u: []
+      d: |-
+        Antena Diamond X-510
+        DMR Color Code 1
+      e1:
+        - 260
+        - 2602
+      e2:
+        - 26077
+        - 260206
+h:
+  "52661016158":
+    x:
+      - 70cm: 0
+    p: Włocławek
+    e: 59
+    g: 35
+    a: 52.64211
+    o: 19.05158
+o:
+  - SP2OFF
+page: https://mapy73.pl/repeater/SR2UVO

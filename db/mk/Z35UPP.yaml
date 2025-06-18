@@ -1,0 +1,30 @@
+h:
+  "41382057723":
+    a: 41.360956
+    o: 21.621228
+    p: Prilep Severna Makedonia
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "41382057723"
+      u: []
+      d: ""
+      p: 1
+      t: e
+      s: "4"
+      tx:
+        f: 438.65
+      rx:
+        f: 431.05
+        t:
+          - f: "1"
+      e1:
+        - 294
+      e2:
+        - 220
+        - 2948
+o: []
+page: https://mapy73.pl/repeater/Z35UPP

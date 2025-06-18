@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - b: ""
+      tx:
+        f: 145.675
+      h: "61859024167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "61859024167":
+    x:
+      - 2m: 0
+    p: Firda / Steinfjellet
+    e: 638
+    g: 0
+    a: 61.8542
+    o: 5.04167
+o: []
+page: https://mapy73.pl/repeater/LA9BR

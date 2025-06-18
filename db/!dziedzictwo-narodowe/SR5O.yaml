@@ -1,0 +1,51 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - a: ""
+          - c: "127.3"
+      tx:
+        f: 145.675
+        t:
+          - c: "127.3"
+      h: "53101071818"
+      t: ga
+      s: "5"
+      p: 15
+      u:
+        - http://sp5kvw.com/sr5o/
+      d: |-
+        Antena X510N, Radia Motorola 2x GM340,
+        Duplexer DP6-6.5 firmy Elektrit. 
+
+        Przemiennik pracuje w trybie:
+        Analog - Wide FM
+        Digital - C4FM
+    - tx:
+        f: 145.675
+      rx:
+        f: 145.075
+        t:
+          - f: "5"
+      h: "53101071818"
+      u: []
+      d: ""
+      p: 15
+      t: e
+      s: "4"
+      e2:
+        - 260525
+h:
+  "53101071818":
+    x:
+      - 2m: 0
+      - 2m: 1
+    p: Ostrołęka
+    e: 138
+    g: 42
+    a: 53.080149
+    o: 21.56918
+o:
+  - SP5NAF
+page: https://mapy73.pl/repeater/SR5O

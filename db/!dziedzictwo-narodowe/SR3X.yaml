@@ -1,0 +1,32 @@
+x:
+  2m:
+    - rx:
+        f: 145.1625
+        t:
+          - c: "110.9"
+      tx:
+        f: 145.7625
+        t:
+          - c: "110.9"
+      h: "52476006193"
+      t: a
+      s: "5"
+      p: 10
+      u: []
+      d: |-
+        RX Motorola GM900 - 15m 1/2 - antena Comet GP93N 5/8l 4.5dBi @ 128m npt
+        TX Motorola GM900 - 15m H1000 - antena Cushcraft ARX-270 9dBi @ 90m npt
+
+        pracuje bez filtrów, separacja między antenami 40m w pionie
+h:
+  "52476006193":
+    x:
+      - 2m: 0
+    p: Poznań
+    e: 230
+    g: 0
+    a: 52.459156
+    o: 16.905933
+o:
+  - SP3VSS
+page: https://mapy73.pl/repeater/SR3X

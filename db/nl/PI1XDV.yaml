@@ -1,0 +1,25 @@
+x:
+  70cm:
+    - rx:
+        f: 430.975
+        t:
+          - a: ""
+      tx:
+        f: 430.975
+      h: "52151020833"
+      t: b
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "52151020833":
+    x:
+      - 70cm: 0
+    p: Amersfoort
+    e: 0
+    g: 0
+    a: 52.14583
+    o: 5.375
+o: []
+page: https://mapy73.pl/repeater/PI1XDV

@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.1625
+        t:
+          - b: ""
+          - e: "5"
+      tx:
+        f: 145.7625
+      h: "59948054170"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.la9l.com/content/home/default4.asp
+      d: ""
+h:
+  "59948054170":
+    x:
+      - 2m: 0
+    p: Romerike / Bjørnåsen
+    e: 396
+    g: 0
+    a: 59.9375
+    o: 11.0417
+o: []
+page: https://mapy73.pl/repeater/LA8CR

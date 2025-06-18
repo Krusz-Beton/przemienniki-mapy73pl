@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 431.825
+        t:
+          - a: ""
+          - f: "1"
+      tx:
+        f: 439.425
+      h: "53156002530"
+      t: eb
+      s: "6"
+      p: 10
+      u:
+        - http://dmrplus.pl
+      d: >-
+        MOTOROLA MTR-2000 + PROCOM DPF 70/6 + CNT-400 16m + RADMOR 3284, sterownik
+        MMDVM by SP4XKB.
+
+        Pracuje w sieci IPSC2/DMR+.
+h:
+  "53156002530":
+    x:
+      - 70cm: 0
+    p: Białystok
+    e: 145
+    g: 35
+    a: 53.132887
+    o: 23.138298
+o:
+  - SP4XKB
+page: https://mapy73.pl/repeater/SR4UBI

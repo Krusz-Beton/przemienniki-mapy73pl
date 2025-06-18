@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 430.95
+        t:
+          - c: "94.8"
+      tx:
+        f: 438.55
+        t:
+          - c: "94.8"
+      h: "54471018895"
+      t: a
+      s: "5"
+      p: 10
+      u:
+        - https://www.lewczuk.pl/sr2gs-70cm-gdynia
+      d: |-
+        Radiolatarnia - znamiennik nadawany co 15 minut.
+        Antena Radmor 3284/3
+        Emitel RTCN Chwaszczyno
+h:
+  "54471018895":
+    x:
+      - 70cm: 0
+    p: Chwaszczyno
+    e: 344
+    g: 161
+    a: 54.452753
+    o: 18.435949
+o:
+  - SP2XDM
+page: https://mapy73.pl/repeater/SR2GS

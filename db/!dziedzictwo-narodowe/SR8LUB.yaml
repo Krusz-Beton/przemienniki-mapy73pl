@@ -1,0 +1,35 @@
+x:
+  70cm:
+    - rx:
+        f: 431.8
+        t:
+          - c: "77.0"
+      tx:
+        f: 439.4
+        t:
+          - c: "77.0"
+      h: "51257027913"
+      t: a
+      s: "3"
+      p: 15
+      u: []
+      d: >-
+        -2 x Motorola GM350
+
+        -sterownik konstrukcji własnej, opartej o oprogramowanie SVXLINK, z możliwością przyszłego podłączenia do sieci FMPOLAND.
+
+        -duplekser fabryczny 6 wnękowy SGQ450D
+
+        -antena Diamond X50
+h:
+  "51257027913":
+    x:
+      - 70cm: 0
+    p: Lublin
+    e: 209
+    g: 35
+    a: 51.234756
+    o: 22.523127
+o:
+  - SQ8MXP
+page: https://mapy73.pl/repeater/SR8LUB

@@ -1,0 +1,25 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+      tx:
+        f: 145.7
+      h: "59697004167"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "59697004167":
+    x:
+      - 2m: 0
+    p: Kongsberg / Jonsknuten
+    e: 904
+    g: 0
+    a: 59.6875
+    o: 9.54167
+o: []
+page: https://mapy73.pl/repeater/LA8KR

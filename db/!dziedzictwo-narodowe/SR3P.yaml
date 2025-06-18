@@ -1,0 +1,34 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+          - c: "110.9"
+      tx:
+        f: 145.65
+        t:
+          - c: "110.9"
+      h: "52388023005"
+      t: a
+      s: "5"
+      p: 7
+      u:
+        - http://sp3inj.republika.pl/sr3p/index.html
+      d: |-
+        2x Motorola GM950
+        2x ant Radmor 3282
+        CTCSS 110.9Hz
+        Anteny 25m odsunięte od siebie + filtry
+h:
+  "52388023005":
+    x:
+      - 2m: 0
+    p: Poznań - Dębiec
+    e: 74
+    g: 40
+    a: 52.371322
+    o: 16.908054
+o:
+  - SP3NNZ
+page: https://mapy73.pl/repeater/SR3P

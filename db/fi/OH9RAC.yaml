@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "66734054750"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oh9ab.com/toistimet/
+      d: ""
+h:
+  "66734054750":
+    x:
+      - 2m: 0
+    p: Kemijärvi
+    e: 282
+    g: 44
+    a: 66.7071
+    o: 27.4475
+o:
+  - OH9TM
+page: https://mapy73.pl/repeater/OH9RAC

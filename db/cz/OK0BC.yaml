@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.1
+        t:
+          - c: "136.5"
+      tx:
+        f: 438.7
+      h: "50769041349"
+      t: a
+      s: "5"
+      p: 25
+      u: []
+      d: ""
+h:
+  "50769041349":
+    x:
+      - 70cm: 0
+    p: Lysá hora - Krkonoše
+    e: 1315
+    g: 0
+    a: 50.753907
+    o: 15.506493
+o:
+  - OK1FWG
+page: https://mapy73.pl/repeater/OK0BC

@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.175
+        t:
+          - b: ""
+      tx:
+        f: 145.775
+      h: "60689001750"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk4sq.net/
+      d: ""
+h:
+  "60689001750":
+    x:
+      - 2m: 0
+    p: Leksand
+    e: 470
+    g: 40
+    a: 60.674
+    o: 15.0175
+o:
+  - SM4OTI
+page: https://mapy73.pl/repeater/SK4RUV

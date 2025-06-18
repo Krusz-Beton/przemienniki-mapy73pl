@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 430.6
+        t:
+          - a: ""
+          - f: "1"
+      tx:
+        f: 438.2
+      h: "45943037375"
+      t: geb
+      s: "4"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+      e1:
+        - 293
+        - 293112
+      e2:
+        - 2931
+h:
+  "45943037375":
+    x:
+      - 70cm: 0
+    p: Krim
+    e: 1108
+    g: 0
+    a: 45.928904
+    o: 14.469749
+o:
+  - S56CT
+page: https://mapy73.pl/repeater/S55DLJ

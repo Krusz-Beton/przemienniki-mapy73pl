@@ -1,0 +1,31 @@
+x:
+  70cm:
+    - rx:
+        f: 431.9125
+        t:
+          - c: "77.0"
+      tx:
+        f: 439.5125
+        t:
+          - c: "77.0"
+      h: "51937060989"
+      t: a
+      s: "1"
+      p: 15
+      u: []
+      d: |-
+        x300
+        motorola gm 300x2
+        15W
+h:
+  "51937060989":
+    x:
+      - 70cm: 0
+    p: Wola Rębkowska
+    e: 138
+    g: 12
+    a: 51.916059
+    o: 21.550892
+o:
+  - SP0DZ
+page: https://mapy73.pl/repeater/SR0DN

@@ -1,0 +1,57 @@
+x:
+  70cm:
+    - rx:
+        f: 431.6625
+        t:
+          - a: ""
+          - f: "5"
+      tx:
+        f: 439.2625
+      h: "53256014663"
+      t: ebd
+      s: "4"
+      p: 15
+      u:
+        - https://brandmeister.network/?page=repeater&id=260525
+        - http://dmrplus.pl/serwery
+        - http://kurpie.hblink.network:8088/
+        - http://echolink.org/links.jsp
+      d: |-
+        Antena 3x5/8 Big Star, urządzenie Motorola MTR2000 + Modem MMDVM
+
+        Brandmeister
+        Color Code 5
+        TG statyczne TS1: 2605
+        TG statyczne TS2: 26059
+        Do łączności lokalnych TG9 TS2
+
+        DMR+
+        Color Code 5
+        TG statyczna TS1: 260 (uruchamiana grupą 1260)
+        Do łączności lokalnych TG9 TS2 (uruchamiana grupą 90)
+
+        DMR Serwer
+        Color Code 5
+        TG statyczna TS1: 260 (uruchamiana grupą 2260)
+        Do łączności lokalnych TG7 TS2 (uruchamiana grupą 3)
+
+        EchoLink 55578
+        Lokalnie odbierany na DMR TG10 TS2
+      e1:
+        - 2605
+        - 260525
+      e2:
+        - 26041
+        - 26059
+h:
+  "53256014663":
+    x:
+      - 70cm: 0
+    p: Kadzidło
+    e: 118
+    g: 15
+    a: 53.23469
+    o: 21.45663
+o:
+  - SP5NAF
+page: https://mapy73.pl/repeater/SR5OK

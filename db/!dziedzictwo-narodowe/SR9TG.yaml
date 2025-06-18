@@ -1,0 +1,29 @@
+x:
+  2m:
+    - rx:
+        f: 145.0125
+        t:
+          - c: "71.9"
+      tx:
+        f: 145.6125
+        t:
+          - c: "71.9"
+      h: "50456037500"
+      t: da
+      s: "6"
+      p: 15
+      u: []
+      d: |
+        Echolink : NODE SR9TG-R	213918 
+h:
+  "50456037500":
+    x:
+      - 2m: 0
+    p: Tarnowskie Góry
+    e: 0
+    g: 0
+    a: 50.4375
+    o: 18.875
+o:
+  - SP9QQ
+page: https://mapy73.pl/repeater/SR9TG

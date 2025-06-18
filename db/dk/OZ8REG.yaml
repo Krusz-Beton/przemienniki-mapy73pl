@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.8
+      tx:
+        f: 434.8
+      h: "55032071144"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.oz2hns.dk/oz8sma
+      d: ""
+h:
+  "55032071144":
+    x:
+      - 70cm: 0
+    p: Vordingborg
+    e: 0
+    g: 0
+    a: 55.020837
+    o: 11.874437
+o: []
+page: https://mapy73.pl/repeater/OZ8REG

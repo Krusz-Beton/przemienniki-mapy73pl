@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.3
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.9
+      h: "54121026871"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: Diamond X510
+h:
+  "54121026871":
+    x:
+      - 70cm: 0
+    p: Suwałki, ul. Mickiewicza 15
+    e: 167
+    g: 25
+    a: 54.098344
+    o: 22.924715
+o:
+  - SP4GJ
+page: https://mapy73.pl/repeater/SR4SUU

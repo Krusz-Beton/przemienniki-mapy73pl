@@ -1,0 +1,29 @@
+x:
+  70cm:
+    - rx:
+        f: 431.75
+        t:
+          - c: "88.5"
+      tx:
+        f: 439.35
+        t:
+          - c: "88.5"
+      h: "50100000883"
+      t: a
+      s: "5"
+      p: 20
+      u:
+        - http://www.prevadece.cz/dmr/sit
+      d: ""
+h:
+  "50100000883":
+    x:
+      - 70cm: 0
+    p: Praděd
+    e: 1555
+    g: 0
+    a: 50.082778
+    o: 17.230833
+o:
+  - OK2JIB
+page: https://mapy73.pl/repeater/OK0X

@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 430.625
+        t:
+          - f: "1"
+      tx:
+        f: 438.225
+      h: "46319027422"
+      t: e
+      s: "4"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+      e1:
+        - 293
+        - 293112
+      e2:
+        - 2933
+h:
+  "46319027422":
+    x:
+      - 70cm: 0
+    p: Stare Slemene
+    e: 630
+    g: 0
+    a: 46.303903
+    o: 15.371223
+o:
+  - S57RD
+page: https://mapy73.pl/repeater/S55DSC

@@ -1,0 +1,28 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - c: "67.0"
+      tx:
+        f: 145.65
+        t:
+          - c: "67.0"
+      h: "52830079167"
+      t: a
+      s: "6"
+      p: 15
+      u: []
+      d: Planowane uruchomienie jesień 2017
+h:
+  "52830079167":
+    x:
+      - 2m: 0
+    p: Inowrocław
+    e: 0
+    g: 0
+    a: 52.8125
+    o: 18.29167
+o:
+  - SP2SGX
+page: https://mapy73.pl/repeater/SR2R

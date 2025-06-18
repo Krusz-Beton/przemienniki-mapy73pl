@@ -1,0 +1,27 @@
+x:
+  2m:
+    - rx:
+        f: 145.1375
+        t:
+          - a: ""
+      tx:
+        f: 145.7375
+      h: "51834037531"
+      t: g
+      s: "6"
+      p: 15
+      u:
+        - https://www.qrz.com/db/SQ7IQO
+      d: 15W X510 FTM300 MX-72, 233/243m.a.s.l. - C4FM
+h:
+  "51834037531":
+    x:
+      - 2m: 0
+    p: Plichtow
+    e: 233
+    g: 241
+    a: 51.814756
+    o: 19.619306
+o:
+  - SQ7IQO
+page: https://mapy73.pl/repeater/SR7LDY

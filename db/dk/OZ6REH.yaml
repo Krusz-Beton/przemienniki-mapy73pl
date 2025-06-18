@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 432.875
+        t:
+          - b: ""
+      tx:
+        f: 434.875
+      h: "55109076717"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://echolink.org/logins.jsp
+      d: ""
+h:
+  "55109076717":
+    x:
+      - 70cm: 0
+    p: Svendborg / Egebjerg
+    e: 87
+    g: 48
+    a: 55.0992
+    o: 10.56717
+o: []
+page: https://mapy73.pl/repeater/OZ6REH

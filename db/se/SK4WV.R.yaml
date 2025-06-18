@@ -1,0 +1,49 @@
+x:
+  2m:
+    - rx:
+        f: 145.05
+        t:
+          - b: ""
+      tx:
+        f: 145.65
+      h: "60517030160"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk4wv.se/
+      d: ""
+  70cm:
+    - rx:
+        f: 433.65
+        t:
+          - b: ""
+      tx:
+        f: 434.65
+      h: "60519030160"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://www.sk4wv.se/
+      d: ""
+h:
+  "60517030160":
+    x:
+      - 2m: 0
+    p: Vansbro
+    e: 500
+    g: 0
+    a: 60.50327
+    o: 14.0316
+  "60519030160":
+    x:
+      - 70cm: 0
+    p: Vansbro
+    e: 500
+    g: 0
+    a: 60.50527
+    o: 14.0316
+o:
+  - Johan
+page: https://mapy73.pl/repeater/SK4WV.R

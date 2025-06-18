@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.1
+        t:
+          - b: ""
+      tx:
+        f: 145.7
+      h: "62258073300"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "62258073300":
+    x:
+      - 2m: 0
+    p: Jyväskylä
+    e: 302
+    g: 102
+    a: 62.233
+    o: 25.733
+o:
+  - OH6NXB
+page: https://mapy73.pl/repeater/OH6RAD

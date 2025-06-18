@@ -1,0 +1,26 @@
+x:
+  2m:
+    - rx:
+        f: 145.075
+        t:
+          - b: ""
+      tx:
+        f: 145.675
+      h: "60036032023"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "60036032023":
+    x:
+      - 2m: 0
+    p: Hagfors / Värmullsåsen
+    e: 0
+    g: 0
+    a: 60.02256
+    o: 13.76023
+o:
+  - SM4FPD
+page: https://mapy73.pl/repeater/SK4HV.R

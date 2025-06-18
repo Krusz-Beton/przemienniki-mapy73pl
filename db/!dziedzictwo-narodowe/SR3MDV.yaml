@@ -1,0 +1,33 @@
+x:
+  70cm:
+    - rx:
+        f: 431.975
+        t:
+          - f: "3"
+      tx:
+        f: 439.575
+      h: "51861002503"
+      t: e
+      s: "4"
+      p: 10
+      u:
+        - https://brandmeister.network/
+      d: Sirio SO 437N
+      e1:
+        - 260
+        - 2602
+        - 2603
+      e2:
+        - 26031
+h:
+  "51861002503":
+    x:
+      - 70cm: 0
+    p: ""
+    e: 93
+    g: 129
+    a: 51.844431
+    o: 16.594033
+o:
+  - SP3AK
+page: https://mapy73.pl/repeater/SR3MDV

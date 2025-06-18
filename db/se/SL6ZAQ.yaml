@@ -1,0 +1,48 @@
+x:
+  70cm:
+    - rx:
+        f: 432.5625
+        t:
+          - a: ""
+      tx:
+        f: 434.5625
+      h: "58340062258"
+      t: "0"
+      s: "5"
+      p: 0
+      u:
+        - http://status.ircddb.net/qam.php?call=SL6ZAQ&mod=B
+      d: ""
+  2m:
+    - rx:
+        f: 145.0375
+      tx:
+        f: 145.6375
+      h: "58308028847"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - https://brandmeister.network/?page=repeater&id=240601
+      d: ""
+h:
+  "58340062258":
+    x:
+      - 70cm: 0
+    p: Uddevalla
+    e: 170
+    g: 40
+    a: 58.32878
+    o: 11.84258
+  "58308028847":
+    x:
+      - 2m: 0
+    p: Uddevalla
+    e: 170
+    g: 40
+    a: 58.29643
+    o: 11.85847
+o:
+  - johan.b.gustafsson
+  - Johan
+page: https://mapy73.pl/repeater/SL6ZAQ

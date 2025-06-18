@@ -1,0 +1,48 @@
+x:
+  70cm:
+    - rx:
+        f: 431.25
+        t:
+          - c: "118.8"
+      tx:
+        f: 438.85
+        t:
+          - c: "118.8"
+      h: "51347046457"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: >-
+        Urządzenie TX/RX: Motorola MTR-2000
+
+        Antena: VHF/UHF Vertical Folded Dipole Array
+
+        Linia zasilająca: 100 m przewodu LDF6-50 (1 1/4)
+
+        Separacja TX/RX: filtr dupleksowy 12-to komorowy Huber+Suhner typ: 2900.17.0002
+
+        W torze odbiorczym Multicoupler Procom PRO-AR4G-N
+
+        W torze nadawczym Combiner Celwave
+
+        Awaryjne podtrzymanie zasilania
+
+
+        Miejsce zainstalowania:
+
+        Kazimierz Dolny, ul. Góry 46 - obiekt SLR Emitel
+
+        http://emi.emitel.pl/EMITEL/ObjectImages/DODR_E2E.jpg
+h:
+  "51347046457":
+    x:
+      - 70cm: 0
+    p: Kazimierz Dolny
+    e: 213
+    g: 91
+    a: 51.325496
+    o: 21.968573
+o:
+  - SP8RSU
+page: https://mapy73.pl/repeater/SR8PU

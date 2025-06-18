@@ -1,0 +1,27 @@
+x:
+  70cm:
+    - rx:
+        f: 431.625
+        t:
+          - a: ""
+      tx:
+        f: 439.225
+      h: "46527028865"
+      t: a
+      s: "5"
+      p: 0
+      u:
+        - http://rpt.hamradio.si
+      d: ""
+h:
+  "46527028865":
+    x:
+      - 70cm: 0
+    p: Pohorje (Razgledni stolp)
+    e: 1147
+    g: 0
+    a: 46.511723
+    o: 15.565648
+o:
+  - S59DXX
+page: https://mapy73.pl/repeater/S55UMB

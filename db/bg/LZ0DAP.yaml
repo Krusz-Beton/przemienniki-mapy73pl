@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 430.9
+        t:
+          - a: ""
+      tx:
+        f: 438.5
+      h: "42021051925"
+      t: b
+      s: "5"
+      p: 0
+      u:
+        - http://www.dstar.bg/
+        - http://www.repeaters.bg/
+      d: |-
+        Dstar Icom repeater ID-RP4000V - 23 W, antenna Kathrein.
+        LZ0DAP-13 is WS on APRS.fi
+h:
+  "42021051925":
+    x:
+      - 70cm: 0
+    p: НУРТС - Пловдив /Здравец/
+    e: 1343
+    g: 50
+    a: 41.996799
+    o: 24.720252
+o:
+  - LZ1AA
+page: https://mapy73.pl/repeater/LZ0DAP

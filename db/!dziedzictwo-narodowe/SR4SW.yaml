@@ -1,0 +1,26 @@
+x:
+  70cm:
+    - rx:
+        f: 431.725
+        t:
+          - a: ""
+      tx:
+        f: 439.325
+      h: "53584071306"
+      t: ca
+      s: "6"
+      p: 10
+      u: []
+      d: FM + C4FM
+h:
+  "53584071306":
+    x:
+      - 70cm: 0
+    p: Świętajno
+    e: 142
+    g: 20
+    a: 53.563494
+    o: 21.219062
+o:
+  - SP4WK
+page: https://mapy73.pl/repeater/SR4SW

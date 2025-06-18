@@ -1,0 +1,24 @@
+x:
+  70cm:
+    - rx:
+        f: 432.85
+      tx:
+        f: 434.85
+      h: "55587011354"
+      t: a
+      s: "5"
+      p: 0
+      u: []
+      d: ""
+h:
+  "55587011354":
+    x:
+      - 70cm: 0
+    p: Blentarp / Romeleåsen
+    e: 0
+    g: 0
+    a: 55.57359
+    o: 13.52354
+o:
+  - Christian
+page: https://mapy73.pl/repeater/SK7EM.R

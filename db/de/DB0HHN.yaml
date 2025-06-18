@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 430.775
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.375
+        t:
+          - c: "67.0"
+      h: "53780087500"
+      t: ga
+      s: "5"
+      p: 10
+      u:
+        - http://www.amateurfunk-norderstedt.de/?file=relais-db0hhn-relaiskarte
+        - https://repeatermap.de
+      d: ""
+h:
+  "53780087500":
+    x:
+      - 70cm: 0
+    p: Goetzberg
+    e: 0
+    g: 0
+    a: 53.77083
+    o: 10.04167
+o:
+  - DK9LJ
+page: https://mapy73.pl/repeater/DB0HHN
