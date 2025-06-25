@@ -15,6 +15,7 @@ x:
         wysokość anteny 41m
         antena 5dbi
       e1:
+        - 260
         - 2602
       e2:
         - 26021
