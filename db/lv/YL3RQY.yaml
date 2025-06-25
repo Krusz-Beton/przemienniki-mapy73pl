@@ -1,0 +1,29 @@
+h:
+  "57274088000":
+    a: 57.25
+    o: 24.88
+    p: Inciems  Siguldas Novads
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "57274088000"
+      u: []
+      d: ""
+      p: 20
+      t: e
+      s: "4"
+      tx:
+        f: 438.45
+      rx:
+        f: 430.85
+        t:
+          - f: "1"
+      e1:
+        - 2470
+        - 24701
+        - 24706
+o: []
+page: https://mapy73.pl/repeater/YL3RQY
