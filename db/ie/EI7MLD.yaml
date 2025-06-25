@@ -16,14 +16,15 @@ x:
       t: e
       s: "4"
       tx:
-        f: 430.3
+        f: 439.5
       rx:
-        f: 439.3
+        f: 430.5
         t:
           - f: "1"
       e1:
-        - 2724
+        - 2723
       e2:
+        - 2358
         - 2722
 o: []
 page: https://mapy73.pl/repeater/EI7MLD
