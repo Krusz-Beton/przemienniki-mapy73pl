@@ -1,27 +1,27 @@
 h:
-  "36862044610":
-    a: 36.864891
-    o: -2.4449
-    p: ALMERIA
+  "36602026557":
+    a: 36.606861
+    o: -4.59543
+    p: Malaga
     e: 0
     g: 0
     x:
       - 70cm: 0
 x:
   70cm:
-    - h: "36862044610"
+    - h: "36602026557"
       u: []
       d: ""
       p: 10
       t: e
       s: "4"
       tx:
-        f: 438.425
+        f: 438.45
       rx:
-        f: 430.825
+        f: 430.85
         t:
           - f: "1"
       e2:
-        - 21404
+        - 21429
 o: []
-page: https://mapy73.pl/repeater/ED7ZAH
+page: https://mapy73.pl/repeater/ED7ZAC

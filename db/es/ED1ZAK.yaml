@@ -39,5 +39,9 @@ x:
         f: 144.9875
         t:
           - f: "1"
+      e1:
+        - 214
+      e2:
+        - 21409
 o: []
 page: https://mapy73.pl/repeater/ED1ZAK
