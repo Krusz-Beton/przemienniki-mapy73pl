@@ -21,15 +21,9 @@ x:
 
         Przemiennik w sieci FM POLAND
         Domyślna grupa: 26090 Małopolska
-      j0:
-        - 26090
       j1:
-        - 112
-        - 2600
+        - 26050
         - 26081
-        - 26090
-        - 260811
-        - 260812
   2m:
     - rx:
         f: 145.2375
