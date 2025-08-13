@@ -9,8 +9,8 @@ x:
         t:
           - c: "71.9"
       h: "49962014085"
-      t: aj
-      s: "4"
+      t: a
+      s: "6"
       p: 15
       u:
         - https://radioteam.pl/sr8mbr/
@@ -34,13 +34,16 @@ x:
         t:
           - c: "71.9"
       h: "49962014085"
-      t: a
-      s: "5"
+      t: aj
+      s: "4"
       p: 15
       u: []
       d: |-
         Antena Diamond V-2000 7/8 λ
         Motorola GM-360
+      j1:
+        - 26081
+        - 260812
   6m:
     - rx:
         f: 50.54
