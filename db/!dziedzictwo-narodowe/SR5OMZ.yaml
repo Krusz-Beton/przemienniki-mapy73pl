@@ -13,12 +13,12 @@ x:
       u: []
       d: Antena Diamond x510n wysokość 20m n.p.g,118 n.p.m MMDVM 2 X Motorola GM340
       e1:
-        - 2605
         - 26053
         - 26054
         - 260503
         - 260504
         - 260506
+        - 2605
       e2:
         - 72735
 h:

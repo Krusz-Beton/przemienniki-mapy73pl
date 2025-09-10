@@ -14,8 +14,8 @@ x:
         - http://www.kpgk.pl
       d: "DMR ID: 260911 CC9 MMDVM"
       e1:
-        - 260
         - 2609
+        - 260
       e2:
         - 26093
         - 260911

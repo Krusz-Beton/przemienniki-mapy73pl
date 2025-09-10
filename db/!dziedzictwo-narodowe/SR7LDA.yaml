@@ -14,8 +14,8 @@ x:
         - https://brandmeister.network/?page=repeater&id=260001
       d: "Warstwa radiowa: MTR200, Duplekser: PROCOM, Antena: RADMOR, Logika: MMDVM"
       e1:
-        - 260
         - 2607
+        - 260
       e2:
         - 26071
 h:

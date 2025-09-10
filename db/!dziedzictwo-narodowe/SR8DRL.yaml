@@ -18,8 +18,8 @@ x:
 
         Tor odbiorczo – nadawczy: 2 x Motorola GM350.
       e1:
-        - 260
         - 2608
+        - 260
       e2:
         - 26081
         - 260015

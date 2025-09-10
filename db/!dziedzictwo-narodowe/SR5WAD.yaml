@@ -61,11 +61,11 @@ x:
 
         Repeat Request Priority: First Come First Send
       e1:
-        - 2605
         - 260015
+        - 2605
       e2:
-        - 26055
         - 26057
+        - 26055
 h:
   "52289038269":
     x:

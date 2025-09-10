@@ -14,9 +14,9 @@ x:
         - https://brandmeister.network/
       d: Sirio SO 437N
       e1:
-        - 260
-        - 2602
         - 2603
+        - 2602
+        - 260
       e2:
         - 26031
 h:
