@@ -1,0 +1,32 @@
+x:
+  70cm:
+    - rx:
+        f: 440.025
+        t:
+          - c: "114.8"
+      tx:
+        f: 440.025
+      h: "41964063523"
+      t: j
+      s: "4"
+      p: 0
+      u:
+        - http://paaros.com
+        - https://fm-poland.pl/aktualne-grupy/
+      d: ""
+      j0:
+        - 3109312
+      j1:
+        - 3109312
+h:
+  "41964063523":
+    x:
+      - 70cm: 0
+    p: Des Plaines, IL
+    e: 0
+    g: 0
+    a: 42.05252567
+    o: -87.89043823
+o:
+  - W9GIL
+page: https://mapy73.pl/repeater/KE9CPD.R
