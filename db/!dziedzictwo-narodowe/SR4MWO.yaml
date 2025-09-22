@@ -50,11 +50,10 @@ x:
         YCS Fusion II- PL C4FM Poland (YCS260): DGID 60, 84 
 
         Analog FM- ctcss 67Hz
-      e1:
-        - 2604
       e2:
         - 26042
-        - 26041
+        - 26013
+        - 26077
 h:
   "53887061891":
     x:
