@@ -1,0 +1,34 @@
+x:
+  70cm:
+    - rx:
+        f: 438.3625
+        t:
+          - c: "67"
+      tx:
+        f: 430.7625
+      h: "53427095029"
+      t: j
+      s: "4"
+      p: 15
+      u:
+        - https://fm-poland.pl/aktualne-grupy/
+      d: ""
+      j0:
+        - 3109312
+      j1:
+        - 260
+        - 2604
+        - 260493
+        - 3109312
+h:
+  "53427095029":
+    x:
+      - 70cm: 0
+    p: Mońki
+    e: 0
+    g: 0
+    a: 53.40515
+    o: 22.80029
+o:
+  - SQ4RD
+page: https://mapy73.pl/repeater/SR4ROBI
