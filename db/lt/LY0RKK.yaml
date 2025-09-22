@@ -20,9 +20,8 @@ x:
       rx:
         f: 431.75
         t:
-          - f: "1"
+          - f: "2"
       e2:
         - 24601
-        - 246
 o: []
 page: https://mapy73.pl/repeater/LY0RKK
