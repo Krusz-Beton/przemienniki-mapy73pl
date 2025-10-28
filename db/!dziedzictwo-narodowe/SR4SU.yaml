@@ -12,7 +12,8 @@ x:
       t: i
       s: "5"
       p: 15
-      u: []
+      u:
+        - https://fm-link.pl/sr4su-suwalki/
       d: |-
         Połączony na stałe z przemiennikami sieci FM-LINK.
         Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.
