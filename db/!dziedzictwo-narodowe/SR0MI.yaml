@@ -15,8 +15,8 @@ x:
       u:
         - https://minilink.pl/
       d: >-
-        Przemiennik SR4OS FM-Echolink w Miłomłynie Rx: 438,3125 Tx: 430,7125 CTCSS:
-        67Hz
+        Przemiennik SR4OS FM-Echolink w Miłomłynie Rx: 438,3125 Tx: 430,7125
+        CTCSS: 67Hz
 
 
         Trx: Motorola GM-350
@@ -26,7 +26,8 @@ x:
         Pwr: 15W
 
 
-        Połączone na stałe do sieci Mini Link SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR4DM
+        Połączone na stałe do sieci Mini Link SR2PA - SR2GDA - SR2EL - SR4OS -
+        SR4MO - SR4DM
 h:
   "53790062500":
     x:

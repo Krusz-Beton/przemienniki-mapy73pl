@@ -24,7 +24,8 @@ x:
         przemienniku.
 
 
-        >>>>Miło jeśli zaraportujesz na stronie siłę z jaką odbierasz przemiennik<<<<
+        >>>>Miło jeśli zaraportujesz na stronie siłę z jaką odbierasz
+        przemiennik<<<<
 
 
         Przemiennik SR8LLB
@@ -50,9 +51,13 @@ x:
         Kody DTMF: http://fm-poland.pl:888/dtmf.php
 
 
-        Domyślna grupa rozmowna 26080 (Lubelszczyzna). Otwarcie przemiennika standardowo aktywuje grupę przemienników zlinkowanych w grupie Lubelszczyzna. Przemiennik monitoruje grupy: 26050 (Mazowsze), 26080 (Lubelszczyzna), 260806 (SR8LLB), 260 (Ogólnopolska).
+        Domyślna grupa rozmowna 26080 (Lubelszczyzna). Otwarcie przemiennika
+        standardowo aktywuje grupę przemienników zlinkowanych w grupie
+        Lubelszczyzna. Przemiennik monitoruje grupy: 26050 (Mazowsze), 26080
+        (Lubelszczyzna), 260806 (SR8LLB), 260 (Ogólnopolska).
 
-        Po aktywności na jednej z monitorowanych grup przez 30 sek. można korzystać z możliwości rozmowy na ostatniej aktywnej grupie.
+        Po aktywności na jednej z monitorowanych grup przez 30 sek. można
+        korzystać z możliwości rozmowy na ostatniej aktywnej grupie.
 
         Rozłączenie grupy przez DTMF: 910
 
@@ -63,7 +68,10 @@ x:
         Papuga: 919990
 
 
-        W FM Poland działa też Echolink. Ważna informacja. Podczas próby podłączenia kogoś z zewnątrz system nie wpuści w trakcie aktywności jakiejś grupy rozmownej. Trzeba czekać do wygaśnięcia. Łącząc się przez Echolink słychać tylko aktywność z tego przemiennika a nie całej sieci.
+        W FM Poland działa też Echolink. Ważna informacja. Podczas próby
+        podłączenia kogoś z zewnątrz system nie wpuści w trakcie aktywności
+        jakiejś grupy rozmownej. Trzeba czekać do wygaśnięcia. Łącząc się przez
+        Echolink słychać tylko aktywność z tego przemiennika a nie całej sieci.
 
 
         Dodatkowo w tej lokalizacji pracuję 

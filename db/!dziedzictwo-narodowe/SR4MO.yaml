@@ -17,7 +17,8 @@ x:
         - https://minilink.pl/wp/
         - https://fm-poland.pl
       d: >-
-        Przemiennik SR4MO FM-Echolink w Moragu Rx: 438,450 Tx: 430,850 CTCSS: 67Hz
+        Przemiennik SR4MO FM-Echolink w Moragu Rx: 438,450 Tx: 430,850 CTCSS:
+        67Hz
 
 
         Trx: Motorola GM340
@@ -27,7 +28,8 @@ x:
         Pwr: 15W
 
 
-        Połączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C - SR2GA - SR4WA
+        Połączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS -
+        SR4MO - SR2GD-C - SR2GA - SR4WA
 h:
   "53933043790":
     x:

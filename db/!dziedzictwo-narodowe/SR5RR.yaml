@@ -18,7 +18,8 @@ x:
         Przemiennik już czynny !!! 
 
 
-        Działa łącznie z nodem FM-Poland. 26.05.2024 burza zmiotła nam antenę i przypaliła kabel antenowy oraz nadwątliła sprzęt. 
+        Działa łącznie z nodem FM-Poland. 26.05.2024 burza zmiotła nam antenę i
+        przypaliła kabel antenowy oraz nadwątliła sprzęt. 
 
 
         Przemiennik Motorola MTR2000 UHF
@@ -28,7 +29,8 @@ x:
 
         Na przemienniku działają usługi: 
 
-        - Głosowa Automatyczna Stacja Pogodowa SR0WX Nadaje ona o godz. 7:00, 10:00, 13:00, 16:00, 19:00. Stacja SR0WX nadaje bez Subtonu.
+        - Głosowa Automatyczna Stacja Pogodowa SR0WX Nadaje ona o godz. 7:00,
+        10:00, 13:00, 16:00, 19:00. Stacja SR0WX nadaje bez Subtonu.
 
 
         >>>NIE KLIKAJ NA ŚLEPO DTMF<<<
@@ -47,9 +49,13 @@ x:
         Mapa RPT/Hostpotów w sieci: http://fm-poland.pl:888/map.php
 
 
-        Domyślna grupa rozmowna 26050 (Mazowsze). Otwarcie przemiennika standardowo aktywuje grupę przemienników połączonych/zgrupowanych (tzw. zlinkowanych) w grupie Mazowsze. Przemiennik monitoruje grupy: 26050 (Mazowsze), 26080 (Lubelszczyzna), 260504 (SR5RR), 260 (Ogólnopolska).
+        Domyślna grupa rozmowna 26050 (Mazowsze). Otwarcie przemiennika
+        standardowo aktywuje grupę przemienników połączonych/zgrupowanych (tzw.
+        zlinkowanych) w grupie Mazowsze. Przemiennik monitoruje grupy: 26050
+        (Mazowsze), 26080 (Lubelszczyzna), 260504 (SR5RR), 260 (Ogólnopolska).
 
-        Po aktywności na jednej z monitorowanych grup przez 30 sek. można korzystać z możliwości rozmowy na ostatniej aktywnej grupie.
+        Po aktywności na jednej z monitorowanych grup przez 30 sek. można
+        korzystać z możliwości rozmowy na ostatniej aktywnej grupie.
       j0:
         - 26083
       j1:

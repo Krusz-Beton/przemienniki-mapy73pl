@@ -19,11 +19,13 @@ x:
 
         TX: Motorola GM1280
 
-        sterownik RPTC, antena Radmor 10dBi, duplekser SGQ-450d, filtr pasmowy odbiorczy LBQ-450D, LNA, czułość RX 0.13uV
+        sterownik RPTC, antena Radmor 10dBi, duplekser SGQ-450d, filtr pasmowy
+        odbiorczy LBQ-450D, LNA, czułość RX 0.13uV
 
         105m npm + 91m npt = 196m npm
 
-        znamiennik przemiennika - głosu użyczył legendarny polski lektor śp. dr inż. Tomasz Knapik
+        znamiennik przemiennika - głosu użyczył legendarny polski lektor śp. dr
+        inż. Tomasz Knapik
   23cm:
     - rx:
         f: 1270.4
@@ -40,7 +42,8 @@ x:
       d: >-
         By uruchomić przemiennik należy przytrzymać 2 sekundy PTT.
 
-        TX TR-50, RX FT-911, PA 10W, 2 filtry RX + LNA, 1 filtr TX, cyrkulator, sterownik, triplexer, Comet GP93n 10dBi 6x5/8l
+        TX TR-50, RX FT-911, PA 10W, 2 filtry RX + LNA, 1 filtr TX, cyrkulator,
+        sterownik, triplexer, Comet GP93n 10dBi 6x5/8l
 
         zbudował i zestroił Andrzej SP8XXN
 h:

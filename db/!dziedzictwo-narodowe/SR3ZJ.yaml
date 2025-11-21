@@ -16,13 +16,15 @@ x:
       u:
         - http://sr3zj.qrz.pl/
       d: >-
-        Antena RX/TX X-300N wysokość zawieszenia 185,00 m n.p.t., feeder 7/8@200m;
-        Zakres częstotliwości pracy anteny: 144-146 MHz VHF 6.5 dB / 430-440 MHz
-        Zysk: UHF 9.0 dB Długość: 3,10 cm Złącze: N antena posiada 3
+        Antena RX/TX X-300N wysokość zawieszenia 185,00 m n.p.t., feeder
+        7/8@200m; Zakres częstotliwości pracy anteny: 144-146 MHz VHF 6.5 dB /
+        430-440 MHz Zysk: UHF 9.0 dB Długość: 3,10 cm Złącze: N antena posiada 3
         przeciwwagi. Charakterystyka: 2 x 5/8 fali dla 144MHz, 5 x 5/8 fali dla
         430MHz.
 
-        Obiekt: RTCN Jemiołów – Radiowo-Telewizyjne Centrum Nadawcze w Jemiołowie gmina Łagów 66-220 Łagów, maszt o wysokości 316 metrów. Centrum zbudowano w latach 1960-1962
+        Obiekt: RTCN Jemiołów – Radiowo-Telewizyjne Centrum Nadawcze w
+        Jemiołowie gmina Łagów 66-220 Łagów, maszt o wysokości 316 metrów.
+        Centrum zbudowano w latach 1960-1962
 h:
   "52362007127":
     x:

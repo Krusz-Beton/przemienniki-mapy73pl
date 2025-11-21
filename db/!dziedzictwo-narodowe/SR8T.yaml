@@ -16,15 +16,18 @@ x:
       u:
         - http://otpzk05.pl/index.php?option=com_content&task=view&id=111&Itemid=80
       d: >-
-        Antena RX MA-2000 wysokość zawieszenia 74,40 m n.p.t., feeder 2@90m Zakres
-        częstotliwości pracy anteny: 144-146 MHz; Zysk: VHF 4.35 dBd; Długość
-        anteny: 255 cm; antena posiada 3 przeciwwagi.
+        Antena RX MA-2000 wysokość zawieszenia 74,40 m n.p.t., feeder 2@90m
+        Zakres częstotliwości pracy anteny: 144-146 MHz; Zysk: VHF 4.35 dBd;
+        Długość anteny: 255 cm; antena posiada 3 przeciwwagi.
 
 
-        TX KAD-140; wysokość zawieszenia 40,79 m n.p.t., TX feeder 7/8 @75m; Zysk: VHF 3.5 dBd; Długość anteny: 270 cm
+        TX KAD-140; wysokość zawieszenia 40,79 m n.p.t., TX feeder 7/8 @75m;
+        Zysk: VHF 3.5 dBd; Długość anteny: 270 cm
 
 
-        Przemiennik został wyłączony i zdemontowany na czas remontu/przebudowy wieży EmiTel-a RTCN Krosno/Sucha Góra do wiosny 2021. Po tym okresie będzie ponownie włączony.
+        Przemiennik został wyłączony i zdemontowany na czas remontu/przebudowy
+        wieży EmiTel-a RTCN Krosno/Sucha Góra do wiosny 2021. Po tym okresie
+        będzie ponownie włączony.
 h:
   "49777093494":
     x:

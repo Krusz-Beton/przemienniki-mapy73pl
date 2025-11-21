@@ -18,7 +18,8 @@ x:
 
         Linia zasilająca: 100 m przewodu LDF6-50 (1 1/4)
 
-        Separacja TX/RX: filtr dupleksowy 12-to komorowy Huber+Suhner typ: 2900.17.0002
+        Separacja TX/RX: filtr dupleksowy 12-to komorowy Huber+Suhner typ:
+        2900.17.0002
 
         W torze odbiorczym Multicoupler Procom PRO-AR4G-N
 
@@ -27,7 +28,8 @@ x:
         Awaryjne podtrzymanie zasilania
 
 
-        Miejsce zainstalowania: Kazimierz Dolny - SLR Emitel http://emi.emitel.pl/EMITEL/ObjectImages/DODR_E2E.jpg
+        Miejsce zainstalowania: Kazimierz Dolny - SLR Emitel
+        http://emi.emitel.pl/EMITEL/ObjectImages/DODR_E2E.jpg
       e1:
         - 260
         - 2605

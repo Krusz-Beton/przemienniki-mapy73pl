@@ -39,13 +39,16 @@ x:
         TG 26004Grupa Dynamiczna Okręgowa SP4 do połączeń HBLink Polska
 
 
-        TG 4 Grupa do rozmów na reflektorze XLX132-D D-Star/DMR/YSF Dynamiczna (aktywacja PTT 10 min)
+        TG 4 Grupa do rozmów na reflektorze XLX132-D D-Star/DMR/YSF Dynamiczna
+        (aktywacja PTT 10 min)
 
 
-        TG 5 Grupa do rozmów lokalnych Białystok na XLX260-E Dynamiczna (aktywacja PTT 10 min)
+        TG 5 Grupa do rozmów lokalnych Białystok na XLX260-E Dynamiczna
+        (aktywacja PTT 10 min)
 
 
-        TG 6 Grupa do rozmów na reflektorze XLX260-A Dynamiczna (aktywacja PTT 10 min)
+        TG 6 Grupa do rozmów na reflektorze XLX260-A Dynamiczna (aktywacja PTT
+        10 min)
 
 
         TG 11 EmCom Polska (BM-HBLink)
@@ -84,7 +87,8 @@ x:
         TG 9 Grupa statyczna oraz linkowanie się do reflektorów
 
 
-        TG 20 Grupa Dynamiczna (aktywacja PTT 10 min) do rozmów na przemienniku SR4X Analog ..:::.. HBLink - Białystok
+        TG 20 Grupa Dynamiczna (aktywacja PTT 10 min) do rozmów na przemienniku
+        SR4X Analog ..:::.. HBLink - Białystok
 
 
         TG 40 Echolink NODE:ID 438584 SR4BI-R HBLink - Białystok

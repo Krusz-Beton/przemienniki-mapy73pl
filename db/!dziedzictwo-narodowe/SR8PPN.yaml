@@ -25,16 +25,19 @@ x:
 
         Na przemienniku działają usługi: 
 
-        - Głosowa Automatyczna Stacja Pogodowa SR0WX (nadaje o godz. 7:00, 10:00, 13:00, 16:00, 19:00). Stacja nadaje bez Subtonu).
+        - Głosowa Automatyczna Stacja Pogodowa SR0WX (nadaje o godz. 7:00,
+        10:00, 13:00, 16:00, 19:00). Stacja nadaje bez Subtonu).
 
 
         - Siec FM Poland (fm-poland.pl:888)
 
-        Domyślna grupa rozmowna na której pracuje przemiennik to 26080 (Lubelszczyzna). 
+        Domyślna grupa rozmowna na której pracuje przemiennik to 26080
+        (Lubelszczyzna). 
 
         Przemiennik monitoruje grupy 26050, 26080, 260
 
-        Po aktywności na jednej z monitorowanych grup przez 3 min można korzystać z możliwości rozmowy na ostatniej aktywnej grupie.
+        Po aktywności na jednej z monitorowanych grup przez 3 min można
+        korzystać z możliwości rozmowy na ostatniej aktywnej grupie.
 
         Rozłączenie grupy przez DTMF: 910
 
@@ -42,7 +45,9 @@ x:
 
         Papuga: 9990 
 
-        W FM Poland działa też Echolink. Ważna informacja. Podczas próbny podłączenia kogoś z zewnątrz system nie wpuści w trakcie aktywności jakiejś grupy rozmownej.
+        W FM Poland działa też Echolink. Ważna informacja. Podczas próbny
+        podłączenia kogoś z zewnątrz system nie wpuści w trakcie aktywności
+        jakiejś grupy rozmownej.
 
 
         W tej samej lokalizacji pracuje Digi VHF SR8OSP

@@ -16,7 +16,8 @@ x:
       d: >-
         Dostęp do modułu echolink wyłącznie z RPT,
 
-        Na przemienniku nadawane są komunikaty Śląskiego Oddziału Terenowego PZK w Siemianowicach Śląskich. w każdy poniedziałek o godzinie 21:00.
+        Na przemienniku nadawane są komunikaty Śląskiego Oddziału Terenowego PZK
+        w Siemianowicach Śląskich. w każdy poniedziałek o godzinie 21:00.
 h:
   "50317020803":
     x:

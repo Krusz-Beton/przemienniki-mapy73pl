@@ -16,8 +16,8 @@ x:
         - http://www.lewczuk.pl/index.php/pl/sr2ga
         - https://fm-poland.pl
       d: >-
-        Przemiennik SR2GA FM-Echolink w Władysławowie Rx: 438,975 Tx: 431,375 CTCSS:
-        94,8Hz
+        Przemiennik SR2GA FM-Echolink w Władysławowie Rx: 438,975 Tx: 431,375
+        CTCSS: 94,8Hz
 
 
         Trx: Motorola GM-600, GM-340
@@ -27,7 +27,8 @@ x:
         Pwr: 10W
 
 
-        Połączone na stałe do sieci Mini Link SR2GA - SR2PA - SR2GDA - SR2GD - SR2EL - SR4OS - SR4MO - SR4WA
+        Połączone na stałe do sieci Mini Link SR2GA - SR2PA - SR2GDA - SR2GD -
+        SR2EL - SR4OS - SR4MO - SR4WA
 h:
   "54796008613":
     x:

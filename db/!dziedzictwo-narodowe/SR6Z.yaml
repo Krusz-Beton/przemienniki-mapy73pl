@@ -27,11 +27,13 @@ x:
 
         -podawanie aktualnej godziny - 
 
-        wpisać 1D na klawiaturze DTMF z sekundową przerwą pomiędzy wpisywaniem znaków;
+        wpisać 1D na klawiaturze DTMF z sekundową przerwą pomiędzy wpisywaniem
+        znaków;
 
         -podawanie informacji o przemienniku - 
 
-        wpisać ** (dwa razy gwiazdka) na klawiaturze DTMF z sekundową przerwą pomiędzy wpisywaniem znaków.
+        wpisać ** (dwa razy gwiazdka) na klawiaturze DTMF z sekundową przerwą
+        pomiędzy wpisywaniem znaków.
 h:
   "50899037989":
     x:

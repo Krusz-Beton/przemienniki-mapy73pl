@@ -17,7 +17,8 @@ x:
         - https://minilink.pl/wp/
         - https://fm-poland.pl
       d: >-
-        Przemiennik SR4OS FM-Echolink w Ostródzie Rx: 438,400 Tx: 430,800 CTCSS: 67Hz
+        Przemiennik SR4OS FM-Echolink w Ostródzie Rx: 438,400 Tx: 430,800 CTCSS:
+        67Hz
 
 
         Trx: Motorola MTR-2000
@@ -27,7 +28,8 @@ x:
         Pwr: 15W
 
 
-        Połączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C - SR2GA - SR4WA
+        Połączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS -
+        SR4MO - SR2GD-C - SR2GA - SR4WA
 h:
   "53711056397":
     x:

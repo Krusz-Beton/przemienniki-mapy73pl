@@ -13,8 +13,8 @@ x:
       u:
         - http://sp5.jestok.com
       d: >-
-        Antena: Sigma Wireless SA-410 4x dipol 1/2 fali - zysk 5 dBd - polaryzacja
-        pionowa.
+        Antena: Sigma Wireless SA-410 4x dipol 1/2 fali - zysk 5 dBd -
+        polaryzacja pionowa.
 
         Urządzenie: Hytera RD985 UHF.
 
@@ -27,7 +27,9 @@ x:
         Slot 2 TG26041, 26057
 
 
-        Obiekt: komin Elektrociepłowni Pruszków II o wysokości 256 m n.p.t. – zlokalizowany w miejscowości Moszna-Wieś koło Pruszkowa, w gminie Brwinów w województwie mazowieckim.
+        Obiekt: komin Elektrociepłowni Pruszków II o wysokości 256 m n.p.t. –
+        zlokalizowany w miejscowości Moszna-Wieś koło Pruszkowa, w gminie
+        Brwinów w województwie mazowieckim.
       e1:
         - 2605
       e2:

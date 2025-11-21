@@ -24,10 +24,12 @@ x:
         Color Code: 5
 
 
-        Timeslot 1 preferowany do połączeń lokalnych, grup dynamicznych, reflektorów, danych GPS, wywołań indywidualnych.
+        Timeslot 1 preferowany do połączeń lokalnych, grup dynamicznych,
+        reflektorów, danych GPS, wywołań indywidualnych.
 
 
-        Bieżący stan aktywnych linków: https://brandmeister.network/?page=repeater&id=260512
+        Bieżący stan aktywnych linków:
+        https://brandmeister.network/?page=repeater&id=260512
       e1:
         - 260512
       e2:

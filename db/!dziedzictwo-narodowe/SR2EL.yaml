@@ -16,7 +16,8 @@ x:
       u:
         - https://minilink.pl/wp/
       d: >-
-        Przemiennik SR2EL FM-Echolink w Elblągu Rx: 439,550 Tx: 431,950 CTCSS: 94,8Hz
+        Przemiennik SR2EL FM-Echolink w Elblągu Rx: 439,550 Tx: 431,950 CTCSS:
+        94,8Hz
 
 
         Trx: Motorola MTR-2000
@@ -26,7 +27,8 @@ x:
         Pwr: 15W
 
 
-        Połączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C - SR2GA - SR4WA
+        Połączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS -
+        SR4MO - SR2GD-C - SR2GA - SR4WA
 h:
   "54157047807":
     x:

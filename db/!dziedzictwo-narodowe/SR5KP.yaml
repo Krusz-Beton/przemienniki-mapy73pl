@@ -15,14 +15,17 @@ x:
       u:
         - https://sp5.jestok.com/sr5kp/
       d: >-
-        Nadajnik zainstalowany na kominie Elektrociepłowni Pruszków II o wysokości
-        256 m – zlokalizowany w miejscowości Moszna-Wieś koło Pruszkowa, w
-        gminie Brwinów w województwie mazowieckim. Odbiorniki znajdują się w
-        koło Warszawy (Płońsk, Warszawa Puszcza Kampinoska,)
+        Nadajnik zainstalowany na kominie Elektrociepłowni Pruszków II o
+        wysokości 256 m – zlokalizowany w miejscowości Moszna-Wieś koło
+        Pruszkowa, w gminie Brwinów w województwie mazowieckim. Odbiorniki
+        znajdują się w koło Warszawy (Płońsk, Warszawa Puszcza Kampinoska,)
 
         Anteny 10m 1/2 fali oraz YAGI. 
 
-        Przemiennik jest połączony z przemiennikiem SR5KPN 70cm 438.200 ctcss 127,3 Hz jak i posiada odbiorcze bramki 70.290,51.850 ctcss 127,3 Hz bramki są zamontowane na wieży przemiennika SR5KPN oraz Echolink nr noda 878384 SR5KP
+        Przemiennik jest połączony z przemiennikiem SR5KPN 70cm 438.200 ctcss
+        127,3 Hz jak i posiada odbiorcze bramki 70.290,51.850 ctcss 127,3 Hz
+        bramki są zamontowane na wieży przemiennika SR5KPN oraz Echolink nr noda
+        878384 SR5KP
 
         ECHOLINK 10m/70cm rx z 70.290,51.850 ctcss 127,3 Hz
 h:

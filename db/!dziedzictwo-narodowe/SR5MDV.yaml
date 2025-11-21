@@ -24,7 +24,8 @@ x:
 
         NXDN- RAN1 i praca w grupie 26000 (Polska)
 
-        UWAGA: 15 min. po ostatniej wykrytej aktywności na odbiorniku przemiennik przechodzi w tryb mieszany
+        UWAGA: 15 min. po ostatniej wykrytej aktywności na odbiorniku
+        przemiennik przechodzi w tryb mieszany
       e1:
         - 260
       e2:

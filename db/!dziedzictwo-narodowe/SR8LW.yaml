@@ -16,15 +16,16 @@ x:
         - http://hamspirit.pl/?p=2101
         - http://fm-poland.pl
       d: >-
-        Ma ustawiony TOT (czas nadawania) na 15min. po czym potrzebuje przerwy by
-        wystygnąć na 3min. Z racji na pracę w podwyższonej temperaturze możliwe
-        przerwy w działaniu przemiennika. Przemiennik posiada ograniczenie
-        termiczne które po osiągnięciu pewnej temperatury rozłącza sterownik
-        przemiennika. Przemiennik może w trakcie pracy samodzielnie zmieniać moc
-        nadawania (5W-10W) zależnie od temperatury na przemienniku.
+        Ma ustawiony TOT (czas nadawania) na 15min. po czym potrzebuje przerwy
+        by wystygnąć na 3min. Z racji na pracę w podwyższonej temperaturze
+        możliwe przerwy w działaniu przemiennika. Przemiennik posiada
+        ograniczenie termiczne które po osiągnięciu pewnej temperatury rozłącza
+        sterownik przemiennika. Przemiennik może w trakcie pracy samodzielnie
+        zmieniać moc nadawania (5W-10W) zależnie od temperatury na przemienniku.
 
 
-        >>>>Miło jeśli zaraportujesz na stronie siłę z jaką odbierasz przemiennik<<<<
+        >>>>Miło jeśli zaraportujesz na stronie siłę z jaką odbierasz
+        przemiennik<<<<
 
 
         Przemiennik SR8LW
@@ -50,9 +51,13 @@ x:
         Kody DTMF: http://fm-poland.pl:888/dtmf.php
 
 
-        Domyślna grupa rozmowna 26050 (Mazowsze). Otwarcie przemiennika standardowo aktywuje grupę przemienników zlinkowanych w grupie Mazowsze. Przemiennik monitoruje grupy: 26050 (Mazowsze), 26080 (Lubelszczyzna), 260805 (SR8LW), 260 (Ogólnopolska).
+        Domyślna grupa rozmowna 26050 (Mazowsze). Otwarcie przemiennika
+        standardowo aktywuje grupę przemienników zlinkowanych w grupie Mazowsze.
+        Przemiennik monitoruje grupy: 26050 (Mazowsze), 26080 (Lubelszczyzna),
+        260805 (SR8LW), 260 (Ogólnopolska).
 
-        Po aktywności na jednej z monitorowanych grup przez 30 sek. można korzystać z możliwości rozmowy na ostatniej aktywnej grupie.
+        Po aktywności na jednej z monitorowanych grup przez 30 sek. można
+        korzystać z możliwości rozmowy na ostatniej aktywnej grupie.
 
         Rozłączenie grupy przez DTMF: 910
 
@@ -63,10 +68,16 @@ x:
         Papuga: 919990
 
 
-        W FM Poland działa też Echolink. Ważna informacja. Podczas próby podłączenia kogoś z zewnątrz system nie wpuści w trakcie aktywności jakiejś grupy rozmownej. Trzeba czekać do wygaśnięcia. Łącząc się przez Echolink słychać tylko aktywność z tego przemiennika a nie całej sieci.
+        W FM Poland działa też Echolink. Ważna informacja. Podczas próby
+        podłączenia kogoś z zewnątrz system nie wpuści w trakcie aktywności
+        jakiejś grupy rozmownej. Trzeba czekać do wygaśnięcia. Łącząc się przez
+        Echolink słychać tylko aktywność z tego przemiennika a nie całej sieci.
 
 
-        Projekt osiągnięty dzięki zaangażowaniu okolicznych krótkofalowców. Dziękuję za wsparcie w projekcie. Aby przemiennik mógł stale pracować musimy mieć środki potrzebne na utrzymanie miejsca instalacji. Więcej informacji u opiekunów przemiennika.
+        Projekt osiągnięty dzięki zaangażowaniu okolicznych krótkofalowców.
+        Dziękuję za wsparcie w projekcie. Aby przemiennik mógł stale pracować
+        musimy mieć środki potrzebne na utrzymanie miejsca instalacji. Więcej
+        informacji u opiekunów przemiennika.
 
 
         Dodatkowo w tej lokalizacji pracuję 

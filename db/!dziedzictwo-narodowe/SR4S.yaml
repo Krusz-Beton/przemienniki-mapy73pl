@@ -23,12 +23,14 @@ x:
         Sterownik: RPTC Microsat
 
 
-        Pracuje bez duplexera, separacja pozioma nadajnika od odbiornika - 2 lokalizacje
+        Pracuje bez duplexera, separacja pozioma nadajnika od odbiornika - 2
+        lokalizacje
 
 
         UWAGA
 
-        Przemiennik emituje CTCSS tylko podczas pracy korespondenta. Na podtrzymaniu brak tonu CTCSS.
+        Przemiennik emituje CTCSS tylko podczas pracy korespondenta. Na
+        podtrzymaniu brak tonu CTCSS.
 h:
   "53432062155":
     x:

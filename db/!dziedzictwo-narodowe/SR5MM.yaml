@@ -24,7 +24,8 @@ x:
 
         Na przemienniku działają usługi: 
 
-        - Głosowa Automatyczna Stacja Pogodowa SR0WX (nadaje o godz. 7:00, 10:00, 13:00, 16:00, 19:00). Stacja nadaje bez Subtonu).
+        - Głosowa Automatyczna Stacja Pogodowa SR0WX (nadaje o godz. 7:00,
+        10:00, 13:00, 16:00, 19:00). Stacja nadaje bez Subtonu).
 
 
         >>>NIE KLIKAJ NA ŚLEPO DTMF<<<
@@ -37,9 +38,13 @@ x:
         Mapa RPT/Hostpotów w sieci: http://fm-poland.pl:888/map.php
 
 
-        Domyślna grupa rozmowna 26050 (Mazowsze). Otwarcie przemiennika standardowo aktywuje grupę przemienników zlinkowanych w grupie Mazowsze. Przemiennik monitoruje grupy: 26050 (Mazowsze), 26080 (Lubelszczyzna), 260503 (SR5MM), 260 (Ogólnopolska).
+        Domyślna grupa rozmowna 26050 (Mazowsze). Otwarcie przemiennika
+        standardowo aktywuje grupę przemienników zlinkowanych w grupie Mazowsze.
+        Przemiennik monitoruje grupy: 26050 (Mazowsze), 26080 (Lubelszczyzna),
+        260503 (SR5MM), 260 (Ogólnopolska).
 
-        Po aktywności na jednej z monitorowanych grup przez 30 sek. można korzystać z możliwości rozmowy na ostatniej aktywnej grupie.
+        Po aktywności na jednej z monitorowanych grup przez 30 sek. można
+        korzystać z możliwości rozmowy na ostatniej aktywnej grupie.
 
 
         W tej samej lokalizacji pracuje Crossband Digi APRS VHF-UHF SR5ZBL.

@@ -14,7 +14,8 @@ x:
       p: 15
       u: []
       d: >-
-        Przemiennik SR4SK FM-Echolink w Ostródzie Rx: 438,125 Tx: 430,525 CTCSS: 67Hz
+        Przemiennik SR4SK FM-Echolink w Ostródzie Rx: 438,125 Tx: 430,525 CTCSS:
+        67Hz
 
 
         Trx: 2 x Motorola GM-340
@@ -24,7 +25,8 @@ x:
         Pwr: 15W
 
 
-        Połączone na stałe do sieci Mini Link SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C
+        Połączone na stałe do sieci Mini Link SR2PA - SR2GDA - SR2EL - SR4OS -
+        SR4MO - SR2GD-C
 h:
   "53790045833":
     x:
