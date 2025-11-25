@@ -22,7 +22,9 @@ x:
         t:
           - f: "1"
       e2:
-        - 2802
         - 2806
+        - 2802
+        - 2805
+        - 280
 o: []
 page: https://mapy73.pl/repeater/5B4CY
