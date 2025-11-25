@@ -23,10 +23,9 @@ x:
           - f: "4"
       e1:
         - 204
-        - 9112
       e2:
-        - 20431
         - 20492
         - 91665
+        - 20431
 o: []
 page: https://mapy73.pl/repeater/PI1KRD
