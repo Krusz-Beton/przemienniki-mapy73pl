@@ -21,5 +21,7 @@ x:
         f: 434.3
         t:
           - f: "1"
+      e1:
+        - 5303
 o: []
 page: https://mapy73.pl/repeater/ZL1BW
