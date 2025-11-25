@@ -8,7 +8,7 @@ x:
         f: 434.5875
       h: "55034075923"
       t: "0"
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://status.ircddb.net/qam.php?call=OZ0REC&mod=B
@@ -20,7 +20,7 @@ x:
         f: 145.7125
       h: "55040071044"
       t: a
-      s: "5"
+      s: "4"
       p: 0
       u: []
       d: ""

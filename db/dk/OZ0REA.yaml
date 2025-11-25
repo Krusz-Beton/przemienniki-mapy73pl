@@ -8,7 +8,7 @@ x:
         f: 434.5625
       h: "55234076352"
       t: "0"
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://status.ircddb.net/qam.php?call=OZ0REA&mod=B
@@ -20,7 +20,7 @@ x:
         f: 51.87
       h: "55240079200"
       t: a
-      s: "5"
+      s: "4"
       p: 0
       u: []
       d: ""
