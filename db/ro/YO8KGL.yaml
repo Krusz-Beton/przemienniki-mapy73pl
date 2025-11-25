@@ -1,0 +1,27 @@
+h:
+  "47782075287":
+    a: 47.756083
+    o: 26.669875
+    p: Mun  Botosani Jud Botosani
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "47782075287"
+      u: []
+      d: ""
+      p: 10
+      t: e
+      s: "4"
+      tx:
+        f: 439.025
+      rx:
+        f: 431.425
+        t:
+          - f: "1"
+      e1:
+        - 226
+o: []
+page: https://mapy73.pl/repeater/YO8KGL
