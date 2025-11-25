@@ -8,7 +8,7 @@ x:
         f: 434.575
       h: "61502090830"
       t: "0"
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://oh3ne.ham.fi/wiki/index.php/OH3NE_ENGLISH#OH3RNE_Repeaters
@@ -19,7 +19,7 @@ x:
         f: 434.525
       h: "61531032070"
       t: "0"
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://www.dmr-marc.net/
@@ -30,7 +30,7 @@ x:
         f: 434.85
       h: "61528074330"
       t: a
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://oh3ne.ham.fi/wiki/index.php/OH3NE_ENGLISH#OH3RNE_Repeaters
@@ -42,7 +42,7 @@ x:
         f: 145.75
       h: "61528074330"
       t: a
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://oh3ne.ham.fi/wiki/index.php/OH3NE_ENGLISH#OH3RNE_Repeaters=
@@ -56,7 +56,7 @@ x:
         f: 1297
       h: "61528074330"
       t: a
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://oh3ne.ham.fi/wiki/index.php/OH3NE_ENGLISH#OH3RNE_Repeaters
