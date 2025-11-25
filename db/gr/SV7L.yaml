@@ -21,5 +21,7 @@ x:
         f: 431
         t:
           - f: "1"
+      e1:
+        - 202
 o: []
 page: https://mapy73.pl/repeater/SV7L
