@@ -11,7 +11,7 @@ x:
           - c: "71.9"
       h: "48867024170"
       t: a
-      s: "5"
+      s: "4"
       p: 10
       u:
         - http://www.darc.de/distrikte/u/07/relais-db0sl/
@@ -27,7 +27,7 @@ x:
           - c: "71.9"
       h: "48867024170"
       t: da
-      s: "5"
+      s: "4"
       p: 6
       u:
         - https://www.darc.de/distrikte/u/07/relais-db0sl/

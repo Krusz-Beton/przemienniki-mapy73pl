@@ -10,7 +10,7 @@ x:
           - c: "141.3"
       h: "52450062500"
       t: da
-      s: "5"
+      s: "4"
       p: 2
       u:
         - http://www.mydarc.de/db0sp/technik.html
@@ -26,7 +26,7 @@ x:
           - c: "141.3"
       h: "52450062500"
       t: a
-      s: "5"
+      s: "4"
       p: 3.5
       u:
         - http://www.mydarc.de/db0sp/technik.html
