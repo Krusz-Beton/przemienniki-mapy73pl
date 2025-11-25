@@ -8,7 +8,7 @@ x:
         f: 145.725
       h: "62413025830"
       t: a
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://echolink.org/logins.jsp
@@ -21,7 +21,7 @@ x:
         f: 145.5875
       h: "62395077144"
       t: "0"
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://status.ircddb.net/qam.php?call=SK3RFG&mod=C
@@ -33,7 +33,7 @@ x:
         f: 434.8
       h: "62395077344"
       t: b
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://status.ircddb.net/qam.php?call=SK3RFG&mod=B

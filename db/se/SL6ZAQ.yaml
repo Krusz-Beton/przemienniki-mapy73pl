@@ -8,7 +8,7 @@ x:
         f: 434.5625
       h: "58340062258"
       t: "0"
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://status.ircddb.net/qam.php?call=SL6ZAQ&mod=B
@@ -20,7 +20,7 @@ x:
         f: 145.6375
       h: "58308028847"
       t: a
-      s: "5"
+      s: "4"
       p: 0
       u:
         - https://brandmeister.network/?page=repeater&id=240601

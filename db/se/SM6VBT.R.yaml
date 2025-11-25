@@ -6,7 +6,7 @@ x:
         f: 145.7
       h: "57662001667"
       t: a
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://status.irlp.net/?PSTART=5&country=225
@@ -18,7 +18,7 @@ x:
         f: 434.7
       h: "57662001667"
       t: a
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://status.irlp.net/?PSTART=5&country=225
@@ -30,7 +30,7 @@ x:
         f: 29.69
       h: "57662001667"
       t: a
-      s: "5"
+      s: "4"
       p: 0
       u: []
       d: ""

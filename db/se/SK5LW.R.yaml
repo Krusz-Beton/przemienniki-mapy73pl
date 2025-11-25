@@ -6,7 +6,7 @@ x:
         f: 51.85
       h: "59287059170"
       t: a
-      s: "5"
+      s: "4"
       p: 0
       u: []
       d: ""
@@ -17,7 +17,7 @@ x:
         f: 29.64
       h: "59300032098"
       t: a
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://www.sk5lw.com/esa/
@@ -32,7 +32,7 @@ x:
         f: 145.6125
       h: "59245062500"
       t: a
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://www.sk5lw.com/esa/index.php/repeater
@@ -45,7 +45,7 @@ x:
         f: 145.575
       h: "59409090465"
       t: "0"
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://www.sk5lw.com/esa/index.php/repeater
@@ -57,7 +57,7 @@ x:
         f: 434.85
       h: "59409090165"
       t: a
-      s: "5"
+      s: "4"
       p: 0
       u:
         - http://www.sk5lw.com/esa/index.php/repeater
