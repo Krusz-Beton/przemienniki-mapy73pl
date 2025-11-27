@@ -5,11 +5,24 @@ x:
         t:
           - a: ""
           - c: "67.0"
+      tx:
+        f: 438.875
+      h: "53585068416"
+      t: gab
+      s: "4"
+      p: 15
+      u:
+        - http://kurpie.hblink.network/
+        - https://sp4.jestok.com
+      d: Antena Diamond, urządzenie Motorola 2x GM340 + Modem MMDVM
+    - rx:
+        f: 431.275
+        t:
           - f: "4"
       tx:
         f: 438.875
       h: "53585068416"
-      t: geab
+      t: e
       s: "5"
       p: 15
       u:
@@ -44,6 +57,7 @@ h:
   "53585068416":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Szczytno
     e: 142
     g: 0

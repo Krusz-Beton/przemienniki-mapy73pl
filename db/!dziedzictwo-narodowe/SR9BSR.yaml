@@ -4,16 +4,26 @@ x:
         f: 430.65
         t:
           - c: "74.4"
-          - f: "1"
       tx:
         f: 438.25
       h: "49779005433"
-      t: ea
+      t: a
+      s: "4"
+      p: 15
+      u:
+        - http://sp9kmq.sp-radio.eu/
+      d: FM
+    - rx:
+        f: 430.65
+      tx:
+        f: 438.25
+      h: "49779005433"
+      t: e
       s: "6"
       p: 15
       u:
         - http://sp9kmq.sp-radio.eu/
-      d: DMR/FM
+      d: DMR
       e1:
         - 260
         - 2609
@@ -23,6 +33,7 @@ h:
   "49779005433":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Góra Szyndzielnia
     e: 1026
     g: 0

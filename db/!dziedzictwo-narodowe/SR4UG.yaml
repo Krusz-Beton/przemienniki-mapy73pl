@@ -4,19 +4,31 @@ x:
         f: 431.175
         t:
           - a: ""
+      tx:
+        f: 438.775
+      h: "54044020833"
+      t: gb
+      s: "4"
+      p: 15
+      u: []
+      d: D-Star, Fusion II YCS260
+    - rx:
+        f: 431.175
+        t:
           - f: "1"
       tx:
         f: 438.775
       h: "54044020833"
-      t: geb
+      t: e
       s: "6"
       p: 15
       u: []
-      d: D-Star, DMR+, Fusion II YCS260
+      d: DMR+
 h:
   "54044020833":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Giby
     e: 0
     g: 0

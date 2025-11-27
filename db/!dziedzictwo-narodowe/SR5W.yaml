@@ -4,14 +4,13 @@ x:
         f: 145.15
         t:
           - c: "127.3"
-          - f: "5"
       tx:
         f: 145.75
         t:
           - c: "127.3"
       h: "52289038269"
-      t: ea
-      s: "6"
+      t: a
+      s: "4"
       p: 15
       u:
         - https://sp5kab.pl/przemienniki
