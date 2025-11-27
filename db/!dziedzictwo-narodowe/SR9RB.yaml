@@ -1,0 +1,24 @@
+h:
+  "50129012219":
+    a: 50.110569
+    o: 18.553187
+    p: Rybnik
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "50129012219"
+      u:
+        - http://www.sp-dmr.pl/sr9rb-w-sieci-dmr/
+      d: ""
+      p: 15
+      t: e
+      s: "2"
+      tx:
+        f: 438.9875
+      rx:
+        f: 431.3875
+o: []
+page: https://mapy73.pl/repeater/SR9RB

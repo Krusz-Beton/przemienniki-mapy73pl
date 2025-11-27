@@ -1,0 +1,26 @@
+h:
+  "51243016286":
+    a: 51.220463
+    o: 22.699864
+    p: Świdnik
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "51243016286"
+      u:
+        - https://www.youtube.com/watch?v=PxF0dPpiRKo
+        - https://tetra-poland.pl/
+        - https://map.tetra-poland.pl/
+      d: ""
+      p: 15
+      t: "0"
+      s: "4"
+      tx:
+        f: 438.375
+      rx:
+        f: 430.375
+o: []
+page: https://mapy73.pl/repeater/SR8LST

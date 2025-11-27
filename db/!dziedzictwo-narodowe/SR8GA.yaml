@@ -1,0 +1,25 @@
+h:
+  "51422091303":
+    a: 51.400576
+    o: 22.337032
+    p: Wola Przybysławska
+    e: 0
+    g: 0
+    x:
+      - 2m: 0
+x:
+  2m:
+    - h: "51422091303"
+      u: []
+      d: ""
+      p: 15
+      t: a
+      s: "4"
+      tx:
+        f: 145.725
+      rx:
+        f: 145.125
+        t:
+          - c: "77.0"
+o: []
+page: https://mapy73.pl/repeater/SR8GA

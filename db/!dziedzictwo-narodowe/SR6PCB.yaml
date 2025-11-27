@@ -1,0 +1,24 @@
+h:
+  "50886099444":
+    a: 50.869476
+    o: 17.518442
+    p: Kościerzyce
+    e: 0
+    g: 0
+    x:
+      - 2m: 0
+x:
+  2m:
+    - h: "50886099444"
+      u:
+        - https://www.facebook.com/SP6PCB/?locale=pl_PL
+      d: ""
+      p: 15
+      t: "0"
+      s: "2"
+      tx:
+        f: 145.575
+      rx:
+        f: 144.975
+o: []
+page: https://mapy73.pl/repeater/SR6PCB

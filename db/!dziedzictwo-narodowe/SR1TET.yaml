@@ -1,0 +1,25 @@
+h:
+  "53353002905":
+    a: 53.337994
+    o: 15.035049
+    p: Stargard
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "53353002905"
+      u:
+        - https://tetra-poland.pl/
+        - https://map.tetra-poland.pl/
+      d: ""
+      p: 15
+      t: "0"
+      s: "4"
+      tx:
+        f: 431.625
+      rx:
+        f: 430.025
+o: []
+page: https://mapy73.pl/repeater/SR1TET

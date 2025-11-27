@@ -1,0 +1,23 @@
+h:
+  "52524055515":
+    a: 52.503531
+    o: 21.024148
+    p: Karolino
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "52524055515"
+      u: []
+      d: ""
+      p: 15
+      t: e
+      s: "2"
+      tx:
+        f: 439.1
+      rx:
+        f: 431.5
+o: []
+page: https://mapy73.pl/repeater/SR5GSM

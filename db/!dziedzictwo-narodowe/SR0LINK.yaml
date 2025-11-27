@@ -1,0 +1,37 @@
+h:
+  "49750011365":
+    a: 49.728578
+    o: 21.535653
+    p: Czeluśnica
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+      - 6m: 0
+x:
+  70cm:
+    - h: "49750011365"
+      u:
+        - https://www.qrz.com/db/SR0LINK
+      d: ""
+      p: 15
+      t: "0"
+      s: "2"
+      tx:
+        f: 438.1
+      rx:
+        f: 430.5
+  6m:
+    - h: "49750011365"
+      u:
+        - https://www.qrz.com/db/SR0LINK
+      d: ""
+      p: 15
+      t: "0"
+      s: "2"
+      tx:
+        f: 51.15
+      rx:
+        f: 50.75
+o: []
+page: https://mapy73.pl/repeater/SR0LINK

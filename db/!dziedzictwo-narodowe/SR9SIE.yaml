@@ -1,0 +1,23 @@
+h:
+  "50331015374":
+    a: 50.312136
+    o: 19.017744
+    p: Siemianowice Śląskie
+    e: 0
+    g: 0
+    x:
+      - 4m: 0
+x:
+  4m:
+    - h: "50331015374"
+      u: []
+      d: ""
+      p: 15
+      t: "0"
+      s: "2"
+      tx:
+        f: 70.27
+      rx:
+        f: 70.27
+o: []
+page: https://mapy73.pl/repeater/SR9SIE
