@@ -10,7 +10,7 @@ x:
           - c: "67.0"
       h: "50035012627"
       t: a
-      s: "4"
+      s: "6"
       p: 15
       u:
         - http://sp9kmq.sp-radio.eu
@@ -26,7 +26,7 @@ x:
           - c: "67.0"
       h: "50035067625"
       t: ga
-      s: "4"
+      s: "6"
       p: 15
       u:
         - http://www.sp9kmq.sp-radio.eu

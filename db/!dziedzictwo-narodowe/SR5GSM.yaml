@@ -14,10 +14,12 @@ x:
       d: ""
       p: 15
       t: e
-      s: "2"
+      s: "6"
       tx:
         f: 439.1
       rx:
         f: 431.5
+        t:
+          - f: "5"
 o: []
 page: https://mapy73.pl/repeater/SR5GSM

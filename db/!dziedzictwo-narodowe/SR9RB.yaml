@@ -10,12 +10,11 @@ h:
 x:
   70cm:
     - h: "50129012219"
-      u:
-        - http://www.sp-dmr.pl/sr9rb-w-sieci-dmr/
+      u: ""
       d: ""
       p: 15
-      t: e
-      s: "2"
+      t: b
+      s: "4"
       tx:
         f: 438.9875
       rx:
