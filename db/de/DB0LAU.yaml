@@ -9,16 +9,27 @@ x:
         t:
           - c: "123.0"
       h: "50863084153"
-      t: dca
+      t: da
       s: "4"
       p: 0
       u:
         - https://www.darc.de/distrikte/s/24/lausche-relais-db0lau/
       d: ""
+    - rx:
+        f: 431.5
+      tx:
+        f: 439.1
+      h: "50863084153"
+      t: c
+      s: "4"
+      p: 0
+      u: []
+      d: ""
 h:
   "50863084153":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Lausche/Waltersdorf
     e: 800
     g: 7
