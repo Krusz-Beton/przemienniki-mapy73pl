@@ -22,11 +22,8 @@ x:
         t:
           - f: "1"
       e1:
-        - 259
         - 226
       e2:
-        - 2599
-        - 226
-        - 9800
+        - 2267
 o: []
 page: https://mapy73.pl/repeater/ER1VOX
