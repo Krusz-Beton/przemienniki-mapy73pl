@@ -4,13 +4,31 @@ x:
         f: 430.8625
         t:
           - c: "67.0"
-          - f: "4"
       tx:
         f: 438.4625
         t:
           - c: "67.0"
       h: "53038067722"
-      t: ea
+      t: a
+      s: "4"
+      p: 15
+      u:
+        - https://sr4bi.pl
+      d: |-
+        MOTOROLA MTR-2000 
+
+        CTCSS odbiornika:67.0Hz
+        CTCSS nadajnika:67.0 Hz
+        Szerokość : WIDE
+        Antena Radmor 3284/3
+    - rx:
+        f: 430.8625
+        t:
+          - f: "4"
+      tx:
+        f: 438.4625
+      h: "53038067722"
+      t: e
       s: "4"
       p: 15
       u:
@@ -20,10 +38,7 @@ x:
         Color Code 4.
         Przemiennik pracuje w sieci Brandmeister 
         ----------------------------------------------------------------------------
-        oraz Analogowo FM
 
-        CTCSS odbiornika:67.0Hz
-        CTCSS nadajnika:67.0 Hz
         Szerokość : WIDE
         Antena Radmor 3284/3
 
@@ -61,6 +76,7 @@ h:
   "53038067722":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Juchnowiec
     e: 152
     g: 35

@@ -9,7 +9,18 @@ x:
         t:
           - c: "77.0"
       h: "51155033221"
-      t: da
+      t: a
+      s: "6"
+      p: 10
+      u:
+        - http://www.sp8prl.pl/forum/viewthread.php?thread_id=57
+      d: MC2100, GM350
+    - rx:
+        f: 431.075
+      tx:
+        f: 438.675
+      h: "51155033221"
+      t: d
       s: "6"
       p: 10
       u:
@@ -19,6 +30,7 @@ h:
   "51155033221":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Chełm
     e: 199
     g: 12

@@ -2,23 +2,29 @@ x:
   70cm:
     - rx:
         f: 431.75
-        t:
-          - a: ""
       tx:
         f: 439.35
       h: "51951003811"
-      t: gb
+      t: g
       s: "4"
       p: 10
       u: []
-      d: |-
-        9x 5/8
-        Eksperymentalnie 2 systemowy
-        C4FM/Fusion i DSTAR/DV
+      d: 9x 5/8
+    - rx:
+        f: 431.75
+      tx:
+        f: 439.35
+      h: "51951003811"
+      t: b
+      s: "4"
+      p: 10
+      u: []
+      d: "9x 5/8        "
 h:
   "51951003811":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Zielona Góra
     e: 237
     g: 30

@@ -2,22 +2,31 @@ x:
   70cm:
     - rx:
         f: 430.5375
-        t:
-          - a: ""
       tx:
         f: 430.5375
       h: "52166088929"
-      t: gdb
+      t: ad
       s: "6"
       p: 10
       u: []
       d: |-
         EchoLink - stały link do przemiennika SR5PR.
         C4FM/Fusion na QRG 144.8375
+    - rx:
+        f: 430.5375
+      tx:
+        f: 430.5375
+      h: "52166088929"
+      t: b
+      s: "6"
+      p: 10
+      u: []
+      d: ""
 h:
   "52166088929":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Komorów
     e: 108
     g: 20

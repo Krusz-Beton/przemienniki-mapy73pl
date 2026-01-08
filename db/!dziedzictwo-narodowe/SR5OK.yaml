@@ -4,18 +4,41 @@ x:
         f: 431.6625
         t:
           - a: ""
+      tx:
+        f: 439.2625
+      h: "53256014663"
+      t: ad
+      s: "4"
+      p: 15
+      u:
+        - http://echolink.org/links.jsp
+      d: |-
+        Antena 3x5/8 Big Star, urządzenie Motorola MTR2000 + Modem MMDVM
+
+        EchoLink 55578
+    - rx:
+        f: 431.6625
+      tx:
+        f: 439.2625
+      h: "53256014663"
+      t: b
+      s: "4"
+      p: 15
+      u: []
+      d: Antena 3x5/8 Big Star, urządzenie Motorola MTR2000 + Modem MMDVM
+    - rx:
+        f: 431.6625
+        t:
           - f: "5"
       tx:
         f: 439.2625
       h: "53256014663"
-      t: ebd
+      t: e
       s: "4"
       p: 15
       u:
-        - https://brandmeister.network/?page=repeater&id=260525
         - http://dmrplus.pl/serwery
-        - http://kurpie.hblink.network:8088/
-        - http://echolink.org/links.jsp
+        - https://brandmeister.network/?page=repeater&id=260525
       d: |-
         Antena 3x5/8 Big Star, urządzenie Motorola MTR2000 + Modem MMDVM
 
@@ -34,9 +57,6 @@ x:
         Color Code 5
         TG statyczna TS1: 260 (uruchamiana grupą 2260)
         Do łączności lokalnych TG7 TS2 (uruchamiana grupą 3)
-
-        EchoLink 55578
-        Lokalnie odbierany na DMR TG10 TS2
       e1:
         - 2605
         - 260525
@@ -46,6 +66,8 @@ h:
   "53256014663":
     x:
       - 70cm: 0
+      - 70cm: 1
+      - 70cm: 2
     p: Kadzidło
     e: 118
     g: 15

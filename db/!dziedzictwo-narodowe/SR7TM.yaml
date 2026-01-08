@@ -9,7 +9,7 @@ x:
         t:
           - c: "118.8"
       h: "51568021896"
-      t: ga
+      t: a
       s: "4"
       p: 5
       u: []
@@ -18,10 +18,21 @@ x:
         Moc nadawcza: 5W
         Antena: SIRIO SA 705 N
         Wysokość instalacji 100m n.p.t
+    - rx:
+        f: 431.075
+      tx:
+        f: 438.675
+      h: "51568021896"
+      t: g
+      s: "4"
+      p: 5
+      u: []
+      d: ""
 h:
   "51568021896":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Tomaszów Mazowiecki
     e: 310
     g: 150

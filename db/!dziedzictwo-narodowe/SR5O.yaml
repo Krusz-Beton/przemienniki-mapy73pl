@@ -3,14 +3,13 @@ x:
     - rx:
         f: 145.075
         t:
-          - a: ""
           - c: "127.3"
       tx:
         f: 145.675
         t:
           - c: "127.3"
       h: "53101071818"
-      t: ga
+      t: a
       s: "4"
       p: 15
       u:
@@ -21,7 +20,22 @@ x:
 
         Przemiennik pracuje w trybie:
         Analog - Wide FM
-        Digital - C4FM
+    - rx:
+        f: 145.075
+      tx:
+        f: 145.675
+      h: "53101071818"
+      t: g
+      s: "4"
+      p: 15
+      u:
+        - http://sp5kvw.com/sr5o/
+      d: |-
+        Antena X510N, Radia Motorola 2x GM340,
+        Duplexer DP6-6.5 firmy Elektrit. 
+
+        Przemiennik pracuje w trybie:
+        Digital - C4FM          
     - tx:
         f: 145.675
       rx:
@@ -41,6 +55,7 @@ h:
     x:
       - 2m: 0
       - 2m: 1
+      - 2m: 2
     p: Ostrołęka
     e: 138
     g: 42

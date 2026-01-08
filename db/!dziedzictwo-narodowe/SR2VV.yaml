@@ -17,20 +17,26 @@ x:
   2m:
     - rx:
         f: 145.15
-        t:
-          - a: ""
       tx:
         f: 145.75
         t:
           - c: "74.4"
       h: "53033081666"
-      t: abd
+      t: ad
       s: "6"
       p: 10
       u: []
-      d: |-
-        Kujawsko-Pomorska Sieć Radiowa
-        Przemiennik D-Star+DMR+FM
+      d: Kujawsko-Pomorska Sieć Radiowa
+    - rx:
+        f: 145.15
+      tx:
+        f: 145.75
+      h: "53033081666"
+      t: b
+      s: "6"
+      p: 10
+      u: []
+      d: ""
     - rx:
         f: 145.15
         t:
@@ -51,6 +57,7 @@ h:
       - 70cm: 0
       - 2m: 0
       - 2m: 1
+      - 2m: 2
     p: Szubin
     e: 120
     g: 20

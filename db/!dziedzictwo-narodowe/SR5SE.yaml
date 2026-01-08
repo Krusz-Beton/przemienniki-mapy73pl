@@ -3,22 +3,32 @@ x:
     - rx:
         f: 431.15
         t:
-          - a: ""
           - c: "127.3"
       tx:
         f: 438.75
         t:
           - c: "127.3"
       h: "52201008918"
-      t: ga
+      t: a
       s: "4"
       p: 5
       u: []
-      d: W trakcie testów. Prosimy o zgłaszanie wszelkich uwag!
+      d: ""
+    - rx:
+        f: 431.15
+      tx:
+        f: 438.75
+      h: "52201008918"
+      t: g
+      s: "4"
+      p: 5
+      u: []
+      d: ""
 h:
   "52201008918":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Siedlce
     e: 174
     g: 30

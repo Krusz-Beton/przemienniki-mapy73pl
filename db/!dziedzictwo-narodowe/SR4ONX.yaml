@@ -2,22 +2,40 @@ x:
   70cm:
     - rx:
         f: 431.35
-        t:
-          - a: ""
       tx:
         f: 438.95
       h: "53793063132"
-      t: gab
+      t: a
       s: "2"
       p: 15
       u: []
-      d: |-
-        Multimode
-        FM, DSTAR, Fusion, eksperymenty
+      d: ""
+    - rx:
+        f: 431.35
+      tx:
+        f: 438.95
+      h: "53793063132"
+      t: b
+      s: "2"
+      p: 15
+      u: []
+      d: ""
+    - rx:
+        f: 431.35
+      tx:
+        f: 438.95
+      h: "53793063132"
+      t: g
+      s: "2"
+      p: 15
+      u: []
+      d: ""
 h:
   "53793063132":
     x:
       - 70cm: 0
+      - 70cm: 1
+      - 70cm: 2
     p: Olsztyn
     e: 167
     g: 35

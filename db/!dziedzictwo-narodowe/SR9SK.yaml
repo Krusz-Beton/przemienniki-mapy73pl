@@ -3,24 +3,34 @@ x:
     - rx:
         f: 431.775
         t:
-          - a: ""
           - c: "67.0"
       tx:
         f: 439.375
         t:
           - c: "67.0"
       h: "49704025284"
-      t: ga
+      t: a
+      s: "4"
+      p: 15
+      u:
+        - http://radioamatorzy.pl
+      d: FM
+    - rx:
+        f: 431.775
+      tx:
+        f: 439.375
+      h: "49704025284"
+      t: g
       s: "4"
       p: 15
       u:
         - http://www.skzd.pl
-        - http://radioamatorzy.pl
-      d: C4FM &FM
+      d: C4FM
 h:
   "49704025284":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Skrzyczne
     e: 1249
     g: 40

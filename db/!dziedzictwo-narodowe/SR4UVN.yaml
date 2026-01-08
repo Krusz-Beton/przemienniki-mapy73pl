@@ -2,12 +2,10 @@ x:
   70cm:
     - rx:
         f: 431.8625
-        t:
-          - a: ""
       tx:
         f: 439.4625
       h: "53791008213"
-      t: gb
+      t: b
       s: "4"
       p: 10
       u:
@@ -16,10 +14,24 @@ x:
         MOTOROLA MTR2000, Ant: COMET GP-6
 
         MMDVM - moduł MTR2000 wg Czarka SP4XKB
+    - rx:
+        f: 431.8625
+      tx:
+        f: 439.4625
+      h: "53791008213"
+      t: g
+      s: "4"
+      p: 10
+      u: []
+      d: |-
+        MOTOROLA MTR2000, Ant: COMET GP-6
+
+        MMDVM - moduł MTR2000 wg Czarka SP4XKB          
 h:
   "53791008213":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Olsztyn
     e: 180
     g: 70

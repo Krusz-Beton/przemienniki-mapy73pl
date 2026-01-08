@@ -9,17 +9,29 @@ x:
         t:
           - c: "118.8"
       h: "51379015921"
-      t: ab
+      t: a
       s: "6"
       p: 15
       u:
         - https://sq5dcp.tomul.net/sr5rk/
-      d: Comet GH70 , kable 7/8 i 1&5/8, Motorola MTR2000, D-STAR i FM, DVRPTR +
+      d: Comet GH70 , kable 7/8 i 1&5/8, Motorola MTR2000
+    - rx:
+        f: 431.15
+      tx:
+        f: 438.75
+      h: "51379015921"
+      t: b
+      s: "6"
+      p: 15
+      u:
+        - https://sq5dcp.tomul.net/sr5rk/
+      d: Comet GH70 , kable 7/8 i 1&5/8, Motorola MTR2000, D-STAR, DVRPTR +
         oprogramowanie KI4LKF, Sterownik SQ5DCP
 h:
   "51379015921":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Kozłowiec - Przysucha RTCN
     e: 430
     g: 120

@@ -9,7 +9,18 @@ x:
         t:
           - c: "71.9"
       h: "49907060542"
-      t: ga
+      t: a
+      s: "4"
+      p: 10
+      u:
+        - http://www.pzk.rzeszow.pl/?page_id=485
+      d: Antena Comet GP9n 3x5/8λ (144MHz), 8x5/8λ (430MHz)
+    - rx:
+        f: 145
+      tx:
+        f: 145.6
+      h: "49907060542"
+      t: g
       s: "4"
       p: 10
       u:
@@ -18,11 +29,12 @@ x:
         Przemiennik Yaesu DR1X C4FM DTMF Node 17164 pracuje w trybie cyfrowo-
         analogowym, podłączony do modemu HRI-200 z łączem do internetu 
 
-        Antena Comet GP9n 3x5/8λ (144MHz), 8x5/8λ (430MHz)
+        Antena Comet GP9n 3x5/8λ (144MHz), 8x5/8λ (430MHz)          
 h:
   "49907060542":
     x:
       - 2m: 0
+      - 2m: 1
     p: Drohobyczka-Dubiecko
     e: 432
     g: 0

@@ -9,7 +9,18 @@ x:
         t:
           - c: "110.9"
       h: "51985003630"
-      t: da
+      t: a
+      s: "4"
+      p: 6
+      u:
+        - http://pl-pl.facebook.com/pages/Stowarzyszenie-Kr%C3%B3tkofalowc%C3%B3w-Ziemi-Jaroci%C5%84skiej/191331747606038
+      d: Motorole GM900, ant. Katherin, duplekser 6-komorowy, sterownik SQ3FYK.
+    - rx:
+        f: 431.375
+      tx:
+        f: 438.975
+      h: "51985003630"
+      t: d
       s: "4"
       p: 6
       u:
@@ -19,6 +30,7 @@ h:
   "51985003630":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Jarocin, ul. Kościuszki 43
     e: 143
     g: 21

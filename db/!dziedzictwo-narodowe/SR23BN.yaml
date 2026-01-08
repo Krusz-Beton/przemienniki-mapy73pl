@@ -9,16 +9,28 @@ x:
         t:
           - c: "71.9"
       h: "50326060894"
-      t: ab
+      t: a
       s: "4"
       p: 10
       u:
         - http://radioamatorzy.pl
-      d: Tryb pracy mix FM / DStar (w początkowej fazie bez podłączenia do sieci)
+      d: Tryb pracy  FM
+    - rx:
+        f: 1270.175
+      tx:
+        f: 1298.175
+      h: "50326060894"
+      t: b
+      s: "4"
+      p: 10
+      u:
+        - http://radioamatorzy.pl
+      d: Tryb pracy DStar (w początkowej fazie bez podłączenia do sieci)
 h:
   "50326060894":
     x:
       - 23cm: 0
+      - 23cm: 1
     p: Będzin
     e: 400
     g: 100

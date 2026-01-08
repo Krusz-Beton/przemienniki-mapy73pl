@@ -3,61 +3,96 @@ x:
     - rx:
         f: 430.55
         t:
-          - a: ""
           - c: "67.0"
-          - f: "4"
       tx:
         f: 438.15
         t:
           - c: "67.0"
       h: "53887061891"
-      t: geab
+      t: a
       s: "4"
       p: 5
-      u:
-        - http://dmrplus.pl/
-        - http://c4fm-pl.manifo.com/
-        - http://91.245.87.196/ipsc/
-        - http://fcs260.xreflector.net/ycs/#
-        - http://195.26.76.59/status/list.htm
-      d: >-
-        Przemiennik w systemie DMRplus, DMRBM, D-STAR, Fusion YSF, Fusion II
-        YCS. FM analog ctcss 67Hz. 
-
-
-        DMRplus: ColorCode 4
-
-        TG statyczna TS1: TG260 
-
-        TG statyczna TS2: TG2600, TG8004, TG8042 
-
-        TG9 TS2 do łaczności lokalnych 
-
-
-        DMRBrandmeister: ColorCode 4 
-
-        TG statyczna TS1: TG2604-->12604-9 
-
-        TG statyczna TS2: TG26041-->126041, TG26042-->126042, TG260460 
-
-        TG9 TS2 do łączności lokalnych 
-
-
-        D-Star- nie linkowany 
-
-        YSF Fusion- nie linkowany 
-
-        YCS Fusion II- PL C4FM Poland (YCS260): DGID 60, 84 
-
+      u: []
+      d: |-
+        Przemiennik w systemie FM analog ctcss 67Hz. 
         Analog FM- ctcss 67Hz
       e1:
         - 2604
       e2:
         - 26042
+    - rx:
+        f: 430.55
+      tx:
+        f: 438.15
+      h: "53887061891"
+      t: b
+      s: "4"
+      p: 5
+      u:
+        - http://91.245.87.196/ipsc/
+        - http://fcs260.xreflector.net/ycs/#
+        - http://195.26.76.59/status/list.htm
+      d: |-
+        Przemiennik w systemie D-STAR
+        D-Star- nie linkowany 
+    - rx:
+        f: 430.55
+        t:
+          - f: "4"
+      tx:
+        f: 438.15
+      h: "53887061891"
+      t: e
+      s: "4"
+      p: 5
+      u:
+        - http://dmrplus.pl/
+      d: |-
+        Przemiennik w systemie DMRplus, DMRBM
+
+        DMRplus: ColorCode 4
+        TG statyczna TS1: TG260 
+        TG statyczna TS2: TG2600, TG8004, TG8042 
+        TG9 TS2 do łaczności lokalnych 
+
+        DMRBrandmeister: ColorCode 4 
+        TG statyczna TS1: TG2604-->12604-9 
+        TG statyczna TS2: TG26041-->126041, TG26042-->126042, TG260460 
+        TG9 TS2 do łączności lokalnych 
+      e1:
+        - 2604
+      e2:
+        - 26042
+    - rx:
+        f: 430.55
+      tx:
+        f: 438.15
+      h: "53887061891"
+      t: g
+      s: "4"
+      p: 5
+      u:
+        - http://c4fm-pl.manifo.com/
+        - http://91.245.87.196/ipsc/
+        - http://fcs260.xreflector.net/ycs/#
+        - http://195.26.76.59/status/list.htm
+      d: "Przemiennik w systemie Fusion YSF, Fusion II
+
+
+        YSF Fusion- nie linkowany\ 
+
+        YCS Fusion II- PL C4FM Poland (YCS260): DGID 60, 84\ 
+
+
+
+        \                  "
 h:
   "53887061891":
     x:
       - 70cm: 0
+      - 70cm: 1
+      - 70cm: 2
+      - 70cm: 3
     p: Mrągowo
     e: 162
     g: 0

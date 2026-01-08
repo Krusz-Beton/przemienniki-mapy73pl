@@ -7,8 +7,21 @@ x:
         Antena: RADMOR 5/8
         Duplekser: PROKOM
       p: 10
-      t: eb
+      t: b
       s: "6"
+      tx:
+        f: 438.65
+      rx:
+        f: 431.05
+    - h: "51800048454"
+      u: []
+      d: |-
+        Radio: 2x Motorola GM340
+        Antena: RADMOR 5/8
+        Duplekser: PROKOM
+      p: 10
+      t: e
+      s: "5"
       tx:
         f: 438.65
       rx:
@@ -24,6 +37,7 @@ h:
   "51800048454":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Łódź
     e: 305
     g: 25

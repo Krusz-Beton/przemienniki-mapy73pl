@@ -10,24 +10,33 @@ x:
       p: 0
       u:
         - http://wiresx.pl
-      d: Na razie node sieci WIRES-X, możliwość linkowania do np. DMR TG260 lub salonu
-        POLAND
+      d: ""
     - rx:
         f: 431.025
-        t:
-          - a: ""
       tx:
         f: 438.625
       h: "49999012500"
-      t: ab
+      t: a
       s: "6"
       p: 15
       u: []
-      d: FM+DV+C4FM
+      d: ""
+    - rx:
+        f: 431.025
+      tx:
+        f: 438.625
+      h: "49999012500"
+      t: b
+      s: "6"
+      p: 15
+      u: []
+      d: ""
 h:
   "50047025051":
     x:
       - 70cm: 0
+      - 70cm: 1
+      - 70cm: 2
     p: Kraków
     e: 209
     g: 0

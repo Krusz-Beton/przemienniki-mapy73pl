@@ -9,16 +9,28 @@ x:
         t:
           - c: "71.9"
       h: "50326077405"
-      t: ga
+      t: a
       s: "4"
       p: 10
       u:
         - http://www.skzd.pl
-      d: Przemiennik FM/C4FM
+      d: Przemiennik FM
+    - rx:
+        f: 145.075
+      tx:
+        f: 145.675
+      h: "50326077405"
+      t: g
+      s: "4"
+      p: 10
+      u:
+        - http://www.skzd.pl
+      d: Przemiennik C4FM
 h:
   "50326077405":
     x:
       - 2m: 0
+      - 2m: 1
     p: Będzin
     e: 299
     g: 50

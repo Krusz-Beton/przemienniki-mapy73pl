@@ -3,14 +3,13 @@ x:
     - rx:
         f: 145.125
         t:
-          - b: ""
           - c: "103.5"
       tx:
         f: 145.725
         t:
           - c: "103.5"
       h: "49777093494"
-      t: da
+      t: a
       s: "6"
       p: 10
       u:
@@ -28,10 +27,24 @@ x:
         Przemiennik został wyłączony i zdemontowany na czas remontu/przebudowy
         wieży EmiTel-a RTCN Krosno/Sucha Góra do wiosny 2021. Po tym okresie
         będzie ponownie włączony.
+    - rx:
+        f: 145.125
+        t:
+          - b: ""
+      tx:
+        f: 145.725
+      h: "49777093494"
+      t: d
+      s: "6"
+      p: 10
+      u:
+        - http://otpzk05.pl/index.php?option=com_content&task=view&id=111&Itemid=80
+      d: ""
 h:
   "49777093494":
     x:
       - 2m: 0
+      - 2m: 1
     p: RTCN Sucha Góra/Krosno EmiTel-Czarnorzeki 90
     e: 585
     g: 58

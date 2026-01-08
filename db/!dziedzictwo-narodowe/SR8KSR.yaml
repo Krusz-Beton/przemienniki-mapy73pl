@@ -3,14 +3,13 @@ x:
     - rx:
         f: 431.325
         t:
-          - a: ""
           - c: "103.5"
       tx:
         f: 438.925
         t:
           - c: "103.5"
       h: "49719012543"
-      t: ga
+      t: a
       s: "5"
       p: 10
       u:
@@ -23,10 +22,25 @@ x:
         Duplekser współosiowy 6-komorowy
         2x Motorola GM360
         Raspberry Pi + MMDVM
+    - rx:
+        f: 431.325
+      tx:
+        f: 438.925
+      h: "49719012543"
+      t: g
+      s: "5"
+      p: 10
+      u: []
+      d: |-
+        Antena Diamond X-30
+        Duplekser współosiowy 6-komorowy
+        2x Motorola GM360
+        Raspberry Pi + MMDVM          
 h:
   "49719012543":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Krosno
     e: 274
     g: 40

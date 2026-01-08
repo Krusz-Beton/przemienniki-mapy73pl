@@ -4,35 +4,38 @@ x:
         f: 430.7375
         t:
           - c: "127.3"
-          - f: "5"
       tx:
         f: 438.3375
         t:
           - c: "127.3"
       h: "52289038269"
-      t: ea
+      t: a
+      s: "4"
+      p: 15
+      u:
+        - https://sp5kab.pl/przemienniki/
+        - https://brandmeister.network/?page=repeater&id=260552
+      d: |-
+        Antena Radmor 8x5/8 urządzenie tymczasowo Hytera RD985S 
+        32m 1/2 andrew 
+
+        Analog:
+        CTCSS: odbiór i nadawanie - 127.3 Hz
+    - rx:
+        f: 430.7375
+        t:
+          - f: "5"
+      tx:
+        f: 438.3375
+      h: "52289038269"
+      t: e
       s: "4"
       p: 15
       u:
         - https://sp5kab.pl/przemienniki/
         - https://brandmeister.network/?page=repeater&id=260552
       d: >-
-        NIE DZIAŁA (AWARIA – przemiennik został uszkodzony podczas burzy) – w
-        zastępstwie, ale wyłącznie jako DMR, pracuje przemiennik SR5WW
-
-
-        Przemiennik pracuje na zastępczej antenie typu CAD oraz w dwóch
-        systemach: analogowym i DMR
-
-
-        Antena Radmor 8x5/8 urządzenie tymczasowo Hytera RD985S 
-
-        32m 1/2 andrew 
-
-
-        Analog:
-
-        CTCSS: odbiór i nadawanie - 127.3 Hz
+        Antena Radmor 8x5/8 urządzenie tymczasowo Hytera RD985S  32m 1/2 andrew 
 
 
         DMR:
@@ -65,6 +68,7 @@ x:
       e1:
         - 260015
         - 2605
+        - 260
       e2:
         - 26057
         - 26055
@@ -72,6 +76,7 @@ h:
   "52289038269":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Warszawa - komin EC Kawęczyn
     e: 400
     g: 305

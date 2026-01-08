@@ -4,18 +4,30 @@ x:
         f: 430.7
         t:
           - c: "74.4"
-          - f: "1"
       tx:
         f: 438.3
         t:
           - c: "74.4"
       h: "49806045677"
-      t: ea
+      t: a
       s: "5"
       p: 15
       u:
         - http://sp9kmq.sp-radio.eu
-      d: DMR / FM
+      d: FM
+    - rx:
+        f: 430.7
+        t:
+          - f: "1"
+      tx:
+        f: 438.3
+      h: "49806045677"
+      t: e
+      s: "6"
+      p: 15
+      u:
+        - http://sp9kmq.sp-radio.eu
+      d: DMR
       e1:
         - 260
         - 2609
@@ -26,6 +38,7 @@ h:
   "49806045677":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Góra Żar
     e: 748
     g: 10

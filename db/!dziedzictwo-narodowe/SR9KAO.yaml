@@ -5,11 +5,11 @@ x:
       tx:
         f: 439.2125
       h: "50054013813"
-      t: "14372"
+      t: g
       s: "1"
       p: 10
       u: []
-      d: Przemiennik Yaesu DR-1X ,mmdvm, pistar , UVS-300
+      d: Przemiennik Yaesu DR-1X
 h:
   "50054013813":
     x:

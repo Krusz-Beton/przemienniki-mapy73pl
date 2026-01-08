@@ -3,24 +3,34 @@ x:
     - rx:
         f: 144.975
         t:
-          - a: ""
           - c: "71.9"
       tx:
         f: 145.575
         t:
           - c: "71.9"
       h: "50373004167"
-      t: ga
+      t: a
       s: "6"
       p: 15
       u:
         - http://www.dx.katowice.pl
-      d: Przemiennik uruchomiony w systemie cyfrowo-analogowym FM - C4FM ( yaesu -
-        fusion).
+      d: ""
+    - rx:
+        f: 144.975
+      tx:
+        f: 145.575
+      h: "50373004167"
+      t: g
+      s: "6"
+      p: 15
+      u:
+        - http://www.dx.katowice.pl
+      d: ""
 h:
   "50373004167":
     x:
       - 2m: 0
+      - 2m: 1
     p: Bytom
     e: 0
     g: 0

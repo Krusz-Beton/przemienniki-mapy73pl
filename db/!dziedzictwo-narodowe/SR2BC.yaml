@@ -3,12 +3,26 @@ x:
     - rx:
         f: 431.6875
         t:
-          - a: ""
           - f: "1"
       tx:
         f: 439.2875
       h: "53148004378"
-      t: ge
+      t: e
+      s: "6"
+      p: 15
+      u:
+        - http://sp2fkb.ddns.net:3800/
+      d: |-
+        Warstwa radiowa 2x Motorola GM 340
+        DMR Hblink Bydgoszcz-Poland HBlink Network
+        Brandmeister 2602 Poland TG260 Statyczna TS1 CC2
+        DMR Plus Polska IPSC2-Poland
+    - rx:
+        f: 431.6875
+      tx:
+        f: 439.2875
+      h: "53148004378"
+      t: g
       s: "6"
       p: 15
       u:
@@ -16,13 +30,11 @@ x:
       d: |-
         Warstwa radiowa 2x Motorola GM 340
         YSF Room Poland ID29114
-        DMR Hblink Bydgoszcz-Poland HBlink Network
-        Brandmeister 2602 Poland TG260 Statyczna TS1 CC2
-        DMR Plus Polska IPSC2-Poland
 h:
   "53148004378":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Bydgoszcz
     e: 58
     g: 0

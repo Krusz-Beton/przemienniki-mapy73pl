@@ -2,26 +2,47 @@ x:
   70cm:
     - rx:
         f: 430.9125
+      tx:
+        f: 438.5125
+      h: "51581063171"
+      t: b
+      s: "4"
+      p: 10
+      u: []
+      d: ""
+    - rx:
+        f: 430.9125
         t:
-          - a: ""
           - f: "1"
       tx:
         f: 438.5125
       h: "51581063171"
-      t: geb
+      t: e
       s: "4"
       p: 10
       u: []
-      d: C4FM - pracuje w sieci YSF. Reflektor PL SR8UWD
+      d: ""
       e1:
         - 2608
       e2:
         - 26081
         - 26093
+    - rx:
+        f: 430.9125
+      tx:
+        f: 438.5125
+      h: "51581063171"
+      t: g
+      s: "4"
+      p: 10
+      u: []
+      d: C4FM - pracuje w sieci YSF. Reflektor PL SR8UWD
 h:
   "51581063171":
     x:
       - 70cm: 0
+      - 70cm: 1
+      - 70cm: 2
     p: Włodawa
     e: 173
     g: 38

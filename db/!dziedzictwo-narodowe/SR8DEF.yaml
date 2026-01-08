@@ -7,18 +7,30 @@ x:
       tx:
         f: 438.425
       h: "50080075584"
-      t: ga
+      t: a
       s: "6"
       p: 15
       u: []
       d: |-
         Yeasu DR1XE 15W ant. Diamond X-300 
         Więcej info na Facebook - krotkofalowcy.org
-        Wiosną antena idzie wyżej.
+    - rx:
+        f: 430.825
+      tx:
+        f: 438.425
+      h: "50080075584"
+      t: g
+      s: "6"
+      p: 15
+      u: []
+      d: |-
+        Yeasu DR1XE 15W ant. Diamond X-300 
+        Więcej info na Facebook - krotkofalowcy.org          
 h:
   "50080075584":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Dębica
     e: 190
     g: 22

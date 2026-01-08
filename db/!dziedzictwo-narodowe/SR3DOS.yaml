@@ -2,42 +2,38 @@ x:
   70cm:
     - rx:
         f: 430.6875
+      tx:
+        f: 438.2875
+      h: "51677053578"
+      t: b
+      s: "4"
+      p: 9
+      u:
+        - http://185.22.9.7:81/
+      d: |-
+        Budowa:
+        TX: Motorola GM950
+        RX: Motorola GM950
+        Duplexer: K&L 6CU-00066
+        Ant: Diamond X300N
+    - rx:
+        f: 430.6875
         t:
-          - a: ""
           - f: "1"
       tx:
         f: 438.2875
       h: "51677053578"
-      t: geb
+      t: e
       s: "4"
       p: 9
       u:
         - https://brandmeister.network/?page=repeater&id=260003
-        - http://185.22.9.7:81/
-      d: >-
+      d: |-
         Budowa:
-
         TX: Motorola GM950
-
         RX: Motorola GM950
-
         Duplexer: K&L 6CU-00066
-
         Ant: Diamond X300N
-
-        Przemiennik TRIO-MODE DMR+C4FM+D-STAR
-
-
-        DASHBOARD:
-
-        http://185.22.9.7:81/
-
-
-        C4FM (YSF PL POLAND) - Możliwość zmiany room-ów poprzez zastosowanie
-        WIRES-X
-
-
-
         DMR: Color-Code(CC):1
          TS1: 260, 2600, 2603
          TS2: TG26037, TG260080, TG26038 , TG26034 , TG26036, TG26066
@@ -53,10 +49,35 @@ x:
         - 26037
         - 260003
         - 2600920
+    - rx:
+        f: 430.6875
+      tx:
+        f: 438.2875
+      h: "51677053578"
+      t: g
+      s: "4"
+      p: 9
+      u:
+        - http://185.22.9.7:81/
+      d: >-
+        Budowa:
+
+        TX: Motorola GM950
+
+        RX: Motorola GM950
+
+        Duplexer: K&L 6CU-00066
+
+        Ant: Diamond X300N
+
+        C4FM (YSF PL POLAND) - Możliwość zmiany room-ów poprzez zastosowanie
+        WIRES-X      
 h:
   "51677053578":
     x:
       - 70cm: 0
+      - 70cm: 1
+      - 70cm: 2
     p: Ostrów Wielkopolski
     e: 133
     g: 15

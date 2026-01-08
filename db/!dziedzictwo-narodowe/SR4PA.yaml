@@ -9,13 +9,25 @@ x:
         t:
           - c: "94.8"
       h: "54076051698"
-      t: ab
+      t: a
       s: "4"
       p: 15
       u: []
       d: |-
         Motorola MTR2000
         Antena-Diamond SE-300
+    - rx:
+        f: 431.4
+      tx:
+        f: 439
+      h: "54076051698"
+      t: b
+      s: "4"
+      p: 15
+      u: []
+      d: |-
+        Motorola MTR2000
+        Antena-Diamond SE-300          
   2m:
     - rx:
         f: 145.175
@@ -35,6 +47,7 @@ h:
   "54076051698":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Pasłęk, pow. elbląski
     e: 55
     g: 20

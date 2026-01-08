@@ -3,31 +3,66 @@ x:
     - rx:
         f: 430.9375
         t:
-          - a: ""
           - c: "162.2"
-          - f: "9"
       tx:
         f: 438.5375
         t:
           - c: "162.2"
       h: "49685091439"
-      t: geab
+      t: a
       s: "4"
       p: 15
       u:
         - https://www.facebook.com/sp9kgr
-      d: |-
-        Przemiennik multisystemowy
-        FM - TX/RX CTCSS 162.2Hz
-        DMR - TG 260999 CC9 TS2
-        Fusion/C4FM: YSF:PL-GORLICE (76263) 
-        DSTAR - XLX333A
+      d: FM - TX/RX CTCSS 162.2Hz
       e2:
         - 260999
+    - rx:
+        f: 430.9375
+      tx:
+        f: 438.5375
+      h: "49685091439"
+      t: b
+      s: "4"
+      p: 15
+      u:
+        - https://www.facebook.com/sp9kgr
+      d: DSTAR - XLX333A
+      e2:
+        - 260999
+    - rx:
+        f: 430.9375
+        t:
+          - f: "9"
+      tx:
+        f: 438.5375
+      h: "49685091439"
+      t: e
+      s: "4"
+      p: 15
+      u:
+        - https://www.facebook.com/sp9kgr
+      d: DMR - TG 260999 CC9 TS2
+      e2:
+        - 260999
+    - rx:
+        f: 430.9375
+      tx:
+        f: 438.5375
+      h: "49685091439"
+      t: g
+      s: "4"
+      p: 15
+      u:
+        - https://www.facebook.com/sp9kgr
+      d: "Fusion/C4FM: YSF:PL-GORLICE (76263)                              "
 h:
   "49685091439":
     x:
       - 70cm: 0
+      - 70cm: 1
+      - 70cm: 2
+      - 70cm: 3
     p: Gorlice, maszt Emitel na Górze Cmentarnej
     e: 350
     g: 35

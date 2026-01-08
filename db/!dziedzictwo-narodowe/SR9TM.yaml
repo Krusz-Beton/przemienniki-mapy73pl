@@ -3,25 +3,38 @@ x:
     - rx:
         f: 430.9125
         t:
-          - a: ""
           - c: "103.5"
       tx:
         f: 438.5125
         t:
           - c: "103.5"
       h: "49802032883"
-      t: ab
+      t: a
       s: "4"
       p: 15
       u:
         - http://naszepodroze-pcim.pl/przemiennik-sr9tm.html
       d: "Sprzęt obsługujący przemiennik: Radia: MOTOROLA GM-340, Zasilacz
         HP-DPS-600PB B, Duplexer: SGQ-450D, Antena: FALKOS UH-2000, Sterownik
-        D-STAR: GS68 MMDVM, Sterownik FM:ID-O-Matic IV."
+        FM:ID-O-Matic IV."
+    - rx:
+        f: 430.9125
+      tx:
+        f: 438.5125
+      h: "49802032883"
+      t: b
+      s: "4"
+      p: 15
+      u:
+        - http://naszepodroze-pcim.pl/przemiennik-sr9tm.html
+      d: "Sprzęt obsługujący przemiennik: Radia: MOTOROLA GM-340, Zasilacz
+        HP-DPS-600PB B, Duplexer: SGQ-450D, Antena: FALKOS UH-2000, Sterownik
+        D-STAR: GS68 MMDVM"
 h:
   "49802032883":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Pcim - Kudłacze
     e: 730
     g: 8

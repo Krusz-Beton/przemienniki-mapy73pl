@@ -9,7 +9,7 @@ x:
         t:
           - c: "107.2"
       h: "49739079485"
-      t: gda
+      t: da
       s: "6"
       p: 15
       u: []
@@ -25,10 +25,21 @@ x:
         wygaszany / wyłączony ze względu na budowę analogowego, fonicznego,
         wielozakresowego radioprzemiennika SR9RT (145,6375 MHz) w tej samej
         lokalizacji.
+    - rx:
+        f: 145.2375
+      tx:
+        f: 145.2375
+      h: "49739079485"
+      t: g
+      s: "6"
+      p: 15
+      u: []
+      d: ""
 h:
   "49739079485":
     x:
       - 2m: 0
+      - 2m: 1
     p: (zmiana lokalizacji)
     e: 781
     g: 14
