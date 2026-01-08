@@ -9,7 +9,17 @@ x:
         t:
           - c: "79.7"
       h: "48657003564"
-      t: ga
+      t: a
+      s: "4"
+      p: 25
+      u: []
+      d: ""
+    - rx:
+        f: 431.3
+      tx:
+        f: 438.9
+      h: "48657003564"
+      t: g
       s: "4"
       p: 25
       u: []
@@ -28,11 +38,12 @@ x:
 
 
         The Repeater is working in AMS mode, WiRES-X mode - Digital. All time is
-        connected to the Room ID 89332
+        connected to the Room ID 89332          
 h:
   "48657003564":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Uzhhorod
     e: 182
     g: 40
