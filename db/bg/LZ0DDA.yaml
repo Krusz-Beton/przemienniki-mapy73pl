@@ -2,22 +2,32 @@ x:
   70cm:
     - rx:
         f: 430.85
-        t:
-          - a: ""
       tx:
         f: 438.45
       h: "43156047373"
-      t: gb
+      t: b
       s: "4"
       p: 10
       u:
         - http://www.dstar.bg/
         - http://www.repeaters.bg/
       d: ""
+    - rx:
+        f: 430.85
+      tx:
+        f: 438.45
+      h: "43156047373"
+      t: g
+      s: "4"
+      p: 10
+      u:
+        - http://www.repeaters.bg/
+      d: ""
 h:
   "43156047373":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Петрохан
     e: 1638
     g: 57

@@ -14,7 +14,7 @@ x:
       d: ""
       p: 5
       t: e
-      s: "6"
+      s: "4"
       tx:
         f: 438.525
       rx:
@@ -25,5 +25,7 @@ x:
         - 284
       e2:
         - 284030
+        - 2840222
+        - 91
 o: []
 page: https://mapy73.pl/repeater/LZ0TUG
