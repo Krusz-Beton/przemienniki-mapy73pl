@@ -7,7 +7,19 @@ x:
       tx:
         f: 430.1
       h: "51459017814"
-      t: ga
+      t: a
+      s: "4"
+      p: 0
+      u:
+        - http://hhertz.org/technische-gegevens/pi2ehv_en/
+        - https://aprs.fi/#!mt=roadmap&z=18&call=a%2FPI2EHV&timerange=3600&tail=3600
+      d: "Antenna: Kathrein K7516221, polaryzacja pionowa, dookólna"
+    - rx:
+        f: 431.7
+      tx:
+        f: 430.1
+      h: "51459017814"
+      t: g
       s: "4"
       p: 0
       u:
@@ -18,6 +30,7 @@ h:
   "51459017814":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Eindhoven
     e: 69
     g: 47
